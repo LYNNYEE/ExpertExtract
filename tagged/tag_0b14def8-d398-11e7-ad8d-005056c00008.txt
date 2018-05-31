@@ -1,0 +1,78 @@
+欢迎登录 
+主页 
+登录 
+CAS   登录 
+西安交通大学 教师个人主页   郑   芳 
+Welcome 
+Publi cation s 
+Information 
+基本信息 
+name_label 
+副教授 ， 硕士研究生导师 
+学历 ： 博士研究生 
+学位 ：  生物工程 理学博士 
+最高学位 授 院校 ： 比利时 布鲁塞尔 自由 大学 
+所学专业 ： 细胞 与 分子 免疫学 
+参加工作 时间 ： timelabel 
+来校 工作 时间 ：  timelabel 
+政治面貌 ： 细胞 与 生物化学 党支部   青年委员 
+技术 职位 ： 副教授 ， 硕士研究生导师 
+单位 ： 西安交通大学   医学部   基础医学院    生物化学 与 分子生物学系 
+Zheng   Fan g 
+A sso ciate   profe sso r 
+Promotor   of   postgraduate 
+Degree :  Ph . D . 
+Doctor   of   science   degree :  biological   science   engineering 
+Highest   degree   granted   ins titutions :  Free   university   of   Brussels ,  Belgium 
+Major :  cellular   and   mol ecu lar   immunology 
+Depertment :  Xi  ' an   Jjiaotong   university ,  S cho ol   of   Medicine ,  Basic   Medicine ,  Department   of   Bioche mist ry   and   Mol ecu lar   Biology 
+联系方式 
+地址 ： 陕西省西安市 place_label 76 号 
+Email ： maillabel 
+站点计数器 
+我 的 新闻 
+筹办 place_label 健康 国际会议 暨 第六届 place_label - 澳大利亚 生物医学 研究 大会 
+timelabel - 30 
+西安交大 在 “ 超级 细菌 ” 的 多重 耐药 调控机制研究 方面 取得 重要进展 
+timelabel - 19 
+团队成员 timelabel 年陕西省科技 工作者 创新创业大赛 获得 铜奖 
+timelabel - 09 
+应邀参加 place_label 生物化学 与 分子生物学 年会 并 获得最佳 壁报 奖 
+timelabel - 20 
+应邀参加 Would   Mol ecu lar   Imaging   Con gress 
+timelabel - 18 
+研究 领域 
+Research   Interests : 
+Nano body / complement   receptor / can cer   immunology / in   vivo   imaging :  Dr .  Zheng   have   been   working   with   Nano body   in   Vrije   Universiteit   Brussel   and   Vlaams   Instituut   voor   Biotechnologic  ( Belgium )  during   PhD   sinc e   the   great   potential   of   the   smallest   antibody   in   precli nic al   and   cli nic al   research .  Dr .  Zheng   previ ous   research   was   focus ed   on   the   in   vivo   monitoring   of   arthritic   and   hepatitis   m ous e   models   using   complement   receptor   targeting   nano body   as   SPECT / CT   prober .  Her   present   research   topics   inc lude   can cer   a sso ciated   macrophage   in   vivo   imaging ,  generating   nano body   targeting   immune   check   point   mol ecu lar   used   for   immunotherapy .  In   addition   to   can cer   immunology ,  She   have   also   worked   on   collaborative   project   in   st ruc ture   and   func tion   stu dies   of   Nano body   recognition   mol ecu lar   mechanism .  Recently ,  Dr .  Zheng   have   added   a   new   aspect   to   work   on   bio - specific   nano body   for   the   complement   path way   in hib ition   and   complement   opo son ization   regulation   in   bacterial   infection . 
+Dr .  Zheng   has   pub lished   widely   inc luding   pub li cation s   in   top   journals   such   as   Nucleic   A cid s   Research ,  Nature   commu nic ations ,  Scientific   Reports   and   Journal   of   Nuclear   Medicine ,  etc . 
+发表论文 
+Yurong   Wen ,  Zhenlin   Ouyang ,  Yue   Yu ,  Xia orong   Zhou ,  Yin gmei   Pei ,  Bart   Devreese ,  Paul   G .  Higg ins ,  Fan g   Zheng *.  Mechanistic   ins ight   into   how   mul tid rug   re sis tan t   Acinetobacter   baumannii   response   regulator   AdeR   recognizes   an   inter cist ro nic   regio .  Nucleic   a cid s   researc .  17   July   timelabel . DOI :  https :// doi . org / 10.1093 / nar / gkx624 . （ IF ： 10.16 ） 
+Wen   Y #,  Ouyang   Z #,  Devreese   B ,  He   W ,  Shao   Y ,  Lu   W ,  Zheng   F *. Cry sta l   st ruc ture   of   master   biofilm   regulator   CsgD   regulatory   domain   reveal s   an   atypical   receiver   domain .  Protein   Sci .  timelabel   Jul   30 . （ IF ： 3 ） 
+Zheng   F ,  Perlman   H ,  Mat thy s   P ,  Wen   Y ,  Lahoutte   T ,  Muyldermans   S ,  Lu   S ,  De   Baetselier   P ,  S cho onooghe   S ,  Devoogdt   N ,  Raes   G .  Specificity   E val uation   and   Disease   Monitoring   in   Arthritis   Imaging   with   Complement   Receptor   of   the   Ig   superfamily   targeting   Nano bodies .  Scientific   Reports .  timelabel   Oct   25 ; 6 : 35966 .  doi :  10.1038 / srep35966 . ( IF = 5.2 ) 
+Fan g   Zheng ,  Amanda   Sparkes ,  Patrick   De   Baetselier ,  Steve   S cho onooghe ,  B eno it   Stijlemans ,  Serge   Muyldermans , V é ronique   Flamand ,  Jo   A   Van   Ginderachter ,  Nick   Devoogdt ,  Geert   Raes ,  Alain   Beschin .  Mol ecu lar   Imaging   with   Kupffer   Cell - Targeting   Nano bodies   for   Diagno sis   and   Progno sis   in   M ous e   Models   of   Liver   Pathogene sis .  Mol   Imaging   Biol  ( timelabel ).  DOI :  10.1007 / s11307 - 016 - 0976 - 3   ( IF = 3 ) 
+·  Charlotte   L .  Scott ,  Fan g   Zheng ,  Patrick   De   Baetselier ,  Liesbet   Martens ,  Yvan   Saeys ,  Sofie   De   Prijck ,  Sa ski a   Lippens ,  Chlo é  Abels ,  Steve   S cho onooghe ,  Geert   Raes ,  Nick   Devoogdt ,  Bart   N .  Lambrecht ,  Alain   Beschin *  and   Martin   Guilliams *.  Bone   marrow   de riv ed   mo noc ytes   give   rise   to   self - re new ing   and   fully   differentiated   Kupffer   cells .  Nature   commu nic ations .  timelabel   Jan .  doi : 10.1038 / ncomms10321 . ( IF = 10.2 ) 
+Zheng   F ,  Put   S ,  Bouwens   L ,  Lahoutte   T ,  Mat thy s   P ,  Muyldermans   S ,  De   Baetselier   P ,  Devoogdt   N ,  Raes   G ,  S cho onooghe   S *.  Mol ecu lar   imaging   with   macrophage   CRIg - targeting   Nano bodies   for   early   and   precli nic al   diagno sis   in   a   m ous e   model   of   rheumatoid   arthritis .  Journal   of   Nuclear   Medicine .   timelabel   May ; 55 ( 5 ): 824 - 9 . ( IF = 6.2 ) 
+Zheng   F ,  Devoogdt   N ,  Amanda   Sparkes ,  Chlot thy s   P ,  Muyldermans   S ,  De   Baetselier   P ,  Devoogdt   N ,  S cho onooghe   S ,  Raes   G *.  Monitoring   resident   liver   macrophages   using   Nano bodies   targeting   Vsig4  :  Con can a val in   A   induced   a cut e   hepatitis   as   paradigm .  Immu nob iology ,  timelabel   Feb ; 220 ( 2 ): 200 - 9 .  ( IF = 3 ) 
+Meng   L ,  Zhu   W ,  Jian g   C ,  He   X ,  Hou   W ,  Zheng   F ,  Holmdahl   R ,  Lu   S *.  Toll - like   receptor   3   upregulation   in   macrophages   participates   in   the   initiation   and   maintenance   of   pri sta ne - induced   arthritis   in   rats .  Arthritis   Res   Ther .  timelabel ): R103 . 
+Liu   SZ ,  Tian   LF ,  Xu   P ，  Zhuang   GH ,  Zheng   F ,  Tian   J ,  Ning   QL ,  Zhu   BF ,  Lu   SM ,  Yan   H *.  Analy sis   of   correlation   between   blood   biochemical   indicators   and   bone   mine ral   density   of   post - m eno pausal   women .  Mol   Biol   Rep .  timelabel   Feb ; 38 ( 2 ): 939 - 48 . 
+name_label ， name_label 雨 等 ， 西安交通大学 学报医学版 ， timelabel ， 1 
+name_label ， name_label 雨 等 ， 现代 生物学 进展 ， timelabel 
+获得 专利 
+1 .  De   Baetselier   P ,  Raes   G ,  Zheng   F ,  S cho onooghe   S ,  Lahoutte   T   and   Devoogdt   N . “ Immunoglobulin   single   variable   doma ins   targeting   Vsig4   and   uses   thereof .  Patent   appli cation   num ber :  EP   13183753.6 [ 5 ] 
+2 .  Yurong   Wen ,  Zheng   F .  A   Clec4F   nano body   and   uses   thereof .  Chinese   patent   appli cation   num ber :  timelabel 11047459.2  ( und er   re vision ) 
+3 .  Zheng   F ,  Yurong   Wen .  A   method   for   antigen   and   nano body   epitope   detection  .  Chinese   patent   appli cation   num ber :  timelabel 10601325.4  ( und er   re vision ) 
+国际会议 
+International   Con gress   of   Immunology  ( ICI )， timelabel ， Melbourne ,  AUSTRALIA 
+World   Mol ecu lar   Imaging   Con gress  ( WMIC )  timelabel ,  Seoul , South   Korea 
+“ Mol ecu lar   imaging   with   macrophage   Vsig4 - targeting   Nano bodies   for   early   and   precli nic al   diagno sis   in   a   m ous e   model   of   rheumatoid   arthritis .”  BIT ' s   4th   A nnu al   World   Gene   Con vention - timelabel  ( WGC )  con ference ,  timelabel ,  Haikou ,  China 
+A nnu al   Con ference   of   the   European   Macrophage   and   D end ritic   Cell   Society  ( EMDS ),  timelabel ,  Erlangen ,  Germany . 
+VIB   se min ar ,  timelabel ,  Blankenberge ,  Belgium . 
+The   Belgian   Immunological   Society   meeting  ( BIS ),  timelabel ,  Li è ge ,  Belgium 
+World   Mol ecu lar   Imaging   Con gress  ( WMIC )  timelabel ,  Dublin ,  Ireland 
+5th   ESF / Aff ino mics   Workshop :  Affinity   Proteomics ,  timelabel ,  Alpbach ,  Austria 
+版权所有 ： 西安交通大学   站点设计 ： 网络信息中心   陕 ICP 备 05001571 号 
+IPhone版本下载 
+Android版本下载 
+欢迎您访问 我们 的 网站 ， 您 是 第 
+位 访客 
+推荐分辨率 1024 * 768 以上     推荐浏览器IE 7   Fi fef ox   以上 

@@ -1,0 +1,27 @@
+name_label 
+一 、 
+基本情况 
+name_label ， 女 ， 副教授 ， 博士生导师 。 timelabel 北京工业大学 应用 数理 学院 博士研究生毕业 ， 获理学博士学位 。 博士学位论文 获得 北京工业大学 优秀博士学位论文 。 毕业后留校 从 事教学科研工作 。 timelabel 至 timelabel ， 受 国家留学基金委资助 在 place_label 帝国 理工大学 访学 。 迄今 已发表论文 50 余篇 ， 主要 研究 结果 发表 在 Optics   Express 、 Applied   Optics 等期刊上 。 申请国家 发明专利 6 项 ， 获授权 3 项 。 曾 获 北京工业大学优秀 青年 主讲教师 、 青年教师教学基本功 比赛 一等奖 和 教育教学成果 一等奖 。 入选 北京工业大学 “ 青年百人 ” 计划 、 青年 导师 国际化 能力 发展计划 、 北京市教委 中青年骨干教师 计划 和 北京市组织部优秀人才 。 
+二 、 研究方向 
+全息 与 光信息处理 ； 数字全息 显微 成像 ； 自 适应 光学 技术 及其 应用 。 
+三 、 主要科研项目 
+在 研 主持国家 自然科学基金面上项目 1 项 、 北京市教委科研计划 面上 项目 1 项 。 
+主持 完成 国家自然科学基金青年 项目 1 项 ， 北京市委组织部优秀 人才项目 一项 。 在 研 参加国家 自然科学基金面上项目 2 项 ， 北京市教委科研计划 重点项目 1 项 。 
+四 、 代表性论文 
+1 .  Tian long   Man ,  Yuhong   Wan ,  Fan   Wu ,  and   Dayong   Wang ,  Self - interference   compressive   digital   holography   with   improved   axial   resolution   and   signal - to - noise   ratio ,  Appl .  Opt .  56 ( 13 ),  F91 - F96  ( timelabel ). 
+2 .  Yuhong   Wan ,  Fan   Wu ,  Dayong   Wang   and   M . K .  Kim ,  Parallel   phase - shifting   self - interference   digital   holography   with   fai thf ul   re con st ruc tion   using   compressive   sensing ,  Optics   and   Lasers   in   Engineering ,  86 : 38 - 43  ( timelabel ) . 
+3 .  Tian long   Man , Yuhong   Wan ,  Dayong   Wang ,  Phase   shift   steps   extraction   and   phase   shift   error   correction   in   partially   coherent   illu min ated   phase   shifting   digital   holography , Apl . Opt . 54 ( 9 ): ( timelabel ) . 
+4 .  Yuhong   Wan ,  Fan   Wu ,  Jin ghuan   Yan g ,  Tian long   Man  “ Multiple - image   encryption   based   on   compressive   holography   using   amultiple - bea min terferometer ”  Opt . commun . 342   95 ~ 101  ( timelabel ) 
+5 .  Tian long   Man , Yuhong   Wan ,  Fan   Wu ,  Dayong   Wang ,  Four - dimensional   tracking   of   spatially   inc oherent   illu min ated   samples   using   self - interference   digital   holography .  Optics   Commu nic ations ,  342 : 109 - 113 ( timelabel ). 
+6 .  Yuhong   Wan ,  Tian long   Man ,  Dayong   Wang ,  Incoherent   off - axis   Fourier   triangular   color   holography ,  Opt .  Express ,  22 ( 7 ),  8565 ~ 8573 ( timelabel ) 
+7 .  Yuhong   Wan ,  Tian long   Man ,  Hao   Chen ,  Zhu qin g   Jian g ,  Dayong   Wang ,  Effect   of   Wavefront   Properties   on   Numerical   Aperture   of   Fresnel   Hologram   in   Incoherent   Holographic   Microscopy ,  Chin .  Phys .  Lett .,  31 ( 4 ),  044203 - 1 ~ 044203 - 4 ( timelabel ). 
+8 .  Tian long   Man , Yuhong   Wan ,  Zhu qin g   Jian g ,  Dayong   Wang , Shi qua n   Tao ,  Spatial   coherence   of   ext end ed   light   source   me asu red   using   twin   beams - interference   method ,  Acta   Phys .  Sin .,  62 ( 21 ),  timelabel ~ timelabel ( timelabel ). 
+五 、 联系方式 
+地址 ： place_label place_label place_label 100 号北京工业大学 应用 数理 学院 
+邮编 ： 100124 
+电话 ： phonelabel 
+E - mail :  maillabel 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

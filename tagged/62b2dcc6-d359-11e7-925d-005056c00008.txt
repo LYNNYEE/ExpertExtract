@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=54" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="GN6vazPh1eYwahGVw3Kukd+4ew7M0zwM7o36BH0tJCY+B4fwYSdU1FkDRTRXKXqrGCwRe5LvCfCiA8iKS18ZuM7b0Lwwg1GypuKFpsW7eQ1BEbVnOWPQjuPdIkguFCKhJJW2K6SVsvAJqYY+gh6RKMyLuL13E9ra3vh8SojmGftdnv01PlKPgvBLD4421URe+ZuSCHPQ9SAqLozeTUxfa+mKrCowzyaw8X4RoK7+XdmHc21Kkt1kgYMmLr+jQrYI2yrtW1zuohjAqFiZEWptlO+xIL9SNyyZRultKmZtScb6Pf0VZdgVTJv1pjqVKGne5xMYgFL+4f5N8ecu71wmFOYIyz7/I+Dd8gHKaX39GkfAMaAMqGUGSApvcvr1CLWMQgKWM1Jl0ADE5EDX3kVbGIoY8VvIMo3DUEWPxuzTKXhqnUy/jOUJr/f+rSBYkO58JDL4gw==" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;孟祥武</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/孟祥武.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;中国计算机学会高级会员</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;博导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;计算机应用技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=18" target="_blank">操作系统</a>   <a href="showcourse.aspx?id=80" target="_blank">高级操作系统</a>   <a href="showcourse.aspx?id=81" target="_blank">Java技术</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;网络服务</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;博士，教授，博士生导师。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;主持和参与开发过电信计费系统，电信CRM系统，电子政务支付系统等。完成过国家发改委“通用业务平台”、国家“十一五”科技支撑计划课题等。目前正在主持国家自然科学基金项目及与企业合作的相关项目。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">已发表学术论文30余篇，出版教材3部，获国家发明专利5项。</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;010-81611802</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学教3楼9层</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;mengxw@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

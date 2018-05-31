@@ -1,0 +1,125 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=57" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="tUpMNEaMcechbtBHQQlXmjVgi9yM8zEt2SGEuT/L0L6vb7bz+aeLxfMDtiriQGCX3eFfR7WhCbeGKogxY6DffXCn+sQPlljdRGE5ClrZRS+va9lTPRbbkeJ45bO4gtBhJ/+r7ljoCsYek06yRvdJzWLW9HxbtKsYgi9oSpumZ5RIVDWEmCUE/ji2FbEqsUOX9iltE0mKkEZ96SRHdY/Ky8vU3vnfiMeeEQK1TfGtXXFVKRluSDBq5MVy4gDDVxSJEFeWskAjohllG0XG/RpHf/AxepxTSIoIQogHejdsKBjAk9nLmNwckMQSjwv3gTCji8gKk5gHDsQ3VrtdRL9IQpHbOgmkJ80xDfToiTSd10CYbenqTMs1V4o0BVe9MkZEBoSKcg==" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;刘晓鸿</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/刘晓鸿.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;教学科研</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;计算机应用技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=58" target="_blank">算法设计与分析</a>   <a href="showcourse.aspx?id=75" target="_blank">算法分析与设计</a>   <a href="showcourse.aspx?id=106" target="_blank">可计算性理论</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;嵌入式系统，无线通信</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;1994年04月，毕业于中国科学院自动化研究所模式识别与智能控制专业，获博士学位
+1995年10月起至今，工作于北京邮电大学计算机学院</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;目前的研究方向主要集中在下述四个方面：（1）嵌入式实时系统，除VxWorks及QNX等商用系统外，还有自由软件嵌入式LINUX系统的开发和应用；（2）智能交通系统，包括车载系统的导航和监控指挥中心的软件开发；（3）模式识别和图像处理方面的工作；（4）应用集群系统进行并行处理的工作，及蜂窝无线通信中系统中的协议栈的实现。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px"></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;13910396374</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教3楼918</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;xiahliu@263.net</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

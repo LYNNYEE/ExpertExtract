@@ -1,0 +1,132 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta content="text/html; charset=gbk" http-equiv="Content-Type">
+	<meta content="西南交通大学教师个人主页" name="title">
+	<meta content="西南交通大学教师个人主页是为教职员工提供展示其教学和科研信息的平台" name="description">
+	<meta content="交大，西南交通大学，西南交大，导师信息，教师，个人主页" name="keywords">
+	<meta content="no-cache" http-equiv="Pragma">
+	<meta content="no-cache" http-equiv="Cache-Control">
+	<meta content="0" http-equiv="Expires">
+	<title>西南交通大学教师个人主页</title>
+	<link href="CSS/default.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="toplink"><span><a href="http://homepage.swjtu.edu.cn/UserWeb/Login.aspx" target="_blank">登录</a></span> <span><a href="http://homepage.swjtu.edu.cn/Home/list.aspx?type=help" target="_blank">帮助</a></span> <span><a href="http://homepage.swjtu.edu.cn" target="_blank">返回首页</a></span> <span><a href="http://www.swjtu.edu.cn" title="西南交通大学" target="_blank">交大主页</a></span>
+<div style="clear:both">&nbsp;</div>
+</div>
+
+<div id="container"><!--top-->
+<div id="top">
+<div style="float:right; text-align:right;">&nbsp;</div>
+
+<div id="logo">&nbsp;</div>
+<!--navigate-->
+
+<div id="lead">
+<ul id="navigate">
+	<li><a href="index.htm" target="_blank">我的主页:</a></li>
+	<li><a href="index.htm" target="_blank">个人信息</a></li>
+	<li><a href="research.htm" target="_blank">科学研究</a></li>
+	<li><a href="paper.htm" target="_blank">论文成果</a></li>
+	<li><a href="award.htm" target="_blank">荣誉奖励</a></li>
+	<li><a href="english.htm" target="_blank">English</a></li>
+</ul>
+</div>
+</div>
+<!--middle-->
+
+<div id="middle">
+<div id="milddle_left">
+<div class="module" style="LEFT: 131px; WIDTH: auto; TOP: 118px; HEIGHT: auto">
+<div class="subject"><span id="t0">基本信息</span></div>
+
+<div class="detail" id="n0">
+<p><img alt="" src="images/111.jpg" style="width: 220px; height: 191px;"></p>
+
+<p>王嵩 博士 讲师 硕士生导师 副系主任</p>
+
+<p>博士学科：电气系统控制及信息技术</p>
+
+<p>工作单位：电气工程学院电力电子及电力传动系</p>
+</div>
+</div>
+
+<div class="module" style="LEFT: 99px; WIDTH: auto; TOP: 597px; HEIGHT: auto">
+<div class="subject"><span id="t3">联系方式</span></div>
+
+<div class="detail" id="n3">
+<p>通信地址：成都市二环路北一段111号西南交通大学电气工程学院1-24信箱</p>
+
+<p>电子邮箱：<small><big>songwang @ swjtu.edu.cn</big></small></p>
+
+<p>办公电话：028-87601013</p>
+
+<p>办公地点：西南交通大学电气馆3233</p>
+</div>
+</div>
+</div>
+
+<div id="middle_right">
+<div class="module" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+<div class="subject"><span>个人简介</span></div>
+
+<div class="detail" id="n2">
+<p>王嵩，山西太原人，2013年获取西南交通大学电气系统控制及信息技术博士学位，2009年-2011年加拿大Alberta大学访问学者。任职于电气工程学院电力电子与电力传动系，主要从事多采样率控制、机车粘着控制、机车制动等相关领域的科研、教学工作，在国内外期刊发表论文二十余篇，发表专利及软件著作权4项。主持国家自然科学基金1项、四川省科技支撑计划项目1项，主持城轨列车黏着控制装置研发项目，主研重载机车黏着控制系统横向项目。</p>
+</div>
+</div>
+
+<div id="middle_right">
+<div class="module" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+<div class="subject">研究方向</div>
+
+<div class="detail" id="n2">
+<p>(1) 机车粘着控制。</p>
+
+<p>(2) 多采样率控制。</p>
+
+<p>(3) 接触网悬挂故障检测</p>
+</div>
+</div>
+
+<div id="middle_right">
+<div id="middle_right">
+<div class="module" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+<div class="subject"><span>科研团队</span></div>
+
+<div class="detail" id="n2">
+<p>电气控制、检测与故障诊断 研究团队</p>
+
+<p><a href="http://userweb.swjtu.edu.cn/Userweb/jxiao/team.htm" target="_blank">http://userweb.swjtu.edu.cn/Userweb/jxiao/team.htm</a></p>
+</div>
+</div>
+
+<div id="middle_right">
+<div class="module" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+<div class="subject"><span>课程教学</span></div>
+
+<div class="detail">
+<p>电机学(本科)，最优控制理论（研究生），Digital Electronics and Microcontrollers（利兹）课程教学</p>
+</div>
+</div>
+
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+<div class="subject"><span>招生信息</span></div>
+
+<div class="detail">
+<p>(1) 机车粘着控制、制动控制方向、电机控制方向</p>
+
+<p>(2) 机车牵引及故障诊断</p>
+</div>
+<!--ckendn1--></div>
+</div>
+</div>
+<!--bottom-->
+
+<div id="bottom">Copyright © 2011 http://inc.swjtu.edu.cn 西南交通大学信息网络中心</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</body></html>

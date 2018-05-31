@@ -1,0 +1,23 @@
+name_label 
+一 、 
+基本情况 : 
+name_label , 男 , timelabel 生 ， 博士 ， 教授 ， 博士生导师 。 
+timelabel 至今 在 北京工业大学 应用 数理 学院任教 ； 
+timelabel 于 北京师范大学数学系 获理学博士学位 , 
+timelabel 至 timelabel 在 中科院 数学研究所 做 
+博士后 ， 分别 于 timelabel 年 和 timelabel 两次 去 加拿大 学 
+习 和 访问 。 
+二 、 主要研究方向 ： 
+从事 数学课程 的 教学 与 数学 学科 的 代数学 方面 研究工作 。 研究内容 涉及 代数表示论 ， 同调代数 ， 序 代数 ， 矩阵 论 等 。 
+三 、 科研成果 ： 
+在 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 等 国内外 数学 期刊上发表 学术论文 40 余篇 ， 大部分 文章 被 SCI 、 EI 、 ISTP 、 booklabel 收录 。 获 教育部 首批 高校 骨干 教师资助计划 资助 。 
+在 研课题 ： 国家自然科学基金项目 ， 北京市自然科学基金项目 与 北京市教委 科技 基金项目等 。 
+四 、 联系方式 ： 
+通讯地址 : place_label place_label place_label 100 号 
+北京工业大学 应用 数理 学院 ,  邮编 :  100124 . 
+电话 ： phonelabel 转 203 . 
+E - mail :  maillabel 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

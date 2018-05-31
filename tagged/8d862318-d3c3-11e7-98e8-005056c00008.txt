@@ -1,0 +1,128 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<meta name="title" content="西南交通大学教师个人主页"> 
+<meta name="description" content="西南交通大学教师个人主页是为教职员工提供展示其教学和科研信息的平台"> 
+<meta name="keywords" content="交大，西南交通大学，西南交大，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>西南交通大学教师个人主页</title>
+
+				<link href="CSS/default.css" rel="stylesheet" type="text/css">
+                <style type="text/css">
+<!--
+.STYLE1 {font-family: Georgia, "Times New Roman", Times, serif}
+.STYLE2 {font-family: "Times New Roman", Times, serif}
+-->
+                </style>
+</head>
+<body>
+		<div class="toplink">		
+        <span><a href="http://homepage.swjtu.edu.cn/UserWeb/Login.aspx" target="_blank">登录</a></span>
+		<span><a href="http://homepage.swjtu.edu.cn/Home/list.aspx?type=help" target="_blank">帮助</a></span>
+        <span><a href="http://homepage.swjtu.edu.cn" target="_blank">返回首页</a></span>
+      	<span><a href="http://www.swjtu.edu.cn" title="西南交通大学" target="_blank">交大主页</a></span>
+		<div style="clear:both"></div>
+       </div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+   <div id="logo"></div>
+<!--导航-->
+</div>
+    <div id="lead">
+        <ul id="navigate">
+            <li><a href="index.htm" target="_blank">我的主页:</a></li><li><a href="index.htm" target="_blank">个人信息</a></li><li><a href="research.htm" target="_blank">科学研究</a></li><li><a href="paper.htm" target="_blank">论文成果</a></li><li><a href="award.htm" target="_blank">荣誉奖励</a></li><li><a href="team.htm" target="_blank">科研团队</a></li><li><a href="teach.htm" target="_blank">课程教学</a></li><li><a href="zhaosheng.htm" target="_blank">招生信息</a></li><li><a href="english.htm" target="_blank">English</a></li>
+        </ul>
+    </div>
+
+<!--中间-->
+<div id="middle">
+            <div id="middle_left" style="margin:1px 0 0 0; float:left; width:230px; display:inline;"> 
+			<div class="module" style="LEFT: 131px; WIDTH: auto; TOP: 118px; HEIGHT: auto">
+
+<div class="subject"><span id="t0">基本信息</span></div>
+<div class="detail">
+<p align="center"> <img src="images/hxq.jpg" width="150" height="200"></p>
+<p align="center"><strong> 何晓琼</strong>  </p>
+<p>工学博士</p>
+<p>副教授、硕士生导师</p>
+<p>国家轨道交通电气化与自动化工程技术研究中心 副主任</p>
+<p>学科：电气工程、控制工程</p>
+<p>西南交通大学电气工程学院</p>
+</div></div>
+<div class="module" style="LEFT: 99px; WIDTH: auto; TOP: 597px; HEIGHT: auto">
+<div class="subject"><span id="t3">联系方式</span></div>
+<div class="detail" id="n3">
+<p>地 址：成都市二环路北一段111号</p>
+<p>邮 箱：<span class="STYLE1">hexq@home.swjtu.edu.cn</span></p>
+<p>办公电话：<span class="STYLE2">+86-28-87634940<br>
+</span></p>
+<p>办公地点：国家轨道交通电气化与自动化工程技术研究中心<span class="STYLE2">(NEEC 407)</span></p>
+</div></div></div>
+
+			<div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;">
+			<div class="module" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+
+<div class="subject"><span id="t2">个人简介</span></div><!--ckstartn2-->
+<div class="detail" id="n2">
+<p>何晓琼，女，副教授，工学博士，硕士生导师；</p>
+<p>国家轨道交通电气化与自动化工程技术研究中心 副主任；</p>
+<p>四川省电力电子协会常务理事；成都市电力电子协会理事；</p>
+</div>
+<!--ckendn2--></div>
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+<div class="subject">
+  <p><span>教育背景</span></p>
+  </div>
+<!--ckstartn2-->
+<div class="detail" id="n2">
+<p>·<span class="STYLE2">2004.09-2013.12</span> 西南交通大学 电力电子与电力传动 工学博士</p>
+<p>·<span class="STYLE2">1999.09-2003.12</span> 西南交通大学 电力电子与电力传动 工学硕士</p>
+<p>·<span class="STYLE2">1994.09-1998.06</span> 西南交通大学 电力牵引与传动控制 工学学士</p>
+</div>
+
+<div class="subject">
+  <p><span>工作经历</span></p>
+  </div>
+<!--ckstartn2-->
+<div class="detail" id="n2">
+<p>·<span class="STYLE2"> 2016.06 - 至 今  西南交通大学 国家轨道交通电气化与自动化工程技术研究中心 副主任</span></p>
+<p>·<span class="STYLE2"> 2013.03 - 至 今  西南交通大学电气学院教工党总支书记</span></p>
+<p>·<span class="STYLE2">2015.01-2016.06  西南交通大学电气学院纪委书记</span></p>
+<p>·<span class="STYLE2">2013.07-2015.12  西南交通大学电气学院电力电子与电力传动系系主任（兼）</span></p>
+<p>·<span class="STYLE2">2005.01-2016.06  西南交通大学电气学院党委副书记</span></p>
+<p>·<span class="STYLE2">2003.05-2016.06  西南交通大学电气学院学生工作组组长</span></p>
+<p>·<span class="STYLE2">2002.03-2004.05  西南交通大学电气学院团委书记</span></p>
+</div>
+<div class="subject">
+  <p><span><strong>主要研究方向</strong></span></p>
+</div>
+<!--ckstartn1-->
+<div class="detail">
+  <p>现主要研究方向：</p>
+  <p>·<span class="STYLE2">电力电子技术及其应用</span></p>
+  <p>·轨道交通电气化与自动化</p>
+  <p>·<span class="STYLE2">新型牵引变电系统；电力电子变换器装置；新型SiC、GaN半导体电力电子器件研究</span><span class="STYLE2"><br>
+  </span></p>
+</div>
+</div>
+<!--ckendn2--></div>
+<div class="subject">
+  <p>&nbsp;</p>
+  </div>
+<div class="detail"></div>
+<!--ckendn1--></div></div>
+			
+
+<!--底部-->
+<div id="bottom">
+Copyright © 2011   http://inc.swjtu.edu.cn   西南交通大学信息网络中心 
+<br>
+</div>
+
+
+
+</body></html>

@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=19" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="9rTEm4qqinJSN3ccJ0F8PJejqg7n40XCEY58RAYYXgpoIpC3QRW6r2j/4kvmOLIArin3uNjVV942CrOe1xTXr/RsX7QAPqgmjb0qZStQNhc+da6iClelLWTXTrF+M8Mj7rLNK99JqPNj5edPBwuFnH8alpHfBulCMyLphBkrC/qx0mL1kFci3kDebEv2IXzPbhzoGDdthvgfrW1voNhNal3ez2Pd5z6OuXpm+N90/2+0qYjnKbdeMlE80Oy+Ort6u5r3WjRF4jrMfAM4TM66/dZjp1/S9scrgcEHyCaEyY5JZYDOcN+I/g+mmtGRA/yG2SNTrw==" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;张雷</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/副院长 张雷教授.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;北邮感知技术与产业研究院 副院长</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;无</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;博导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;通信软件工程中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=23" target="_blank">计算机导论与程序设计</a>   <a href="showcourse.aspx?id=79" target="_blank">形式语言与自动机 </a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;软件与服务、智能信息处理</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;张雷，男，1962&nbsp;年12月出生，1984年毕业于北京邮电学院计算机与通信专业、1988年北京邮电学院计算机应用专业硕士研究生毕业。现任北京邮电大学感知技术与产业副院长，北京邮电大学计算机科学与技术学院教授、北京市“智能通信软件与多媒体重点实验室”副主任。主要专业方向为计算机与通信软件。1988年毕业于北京邮电大学参加过国家、省部级及横向合作的科研项目20余项，获信产部科技进步三等奖两次，发表学术论文30余篇，著作一部。目前主要从事通信软件体系结构、分布计算、数据仓库与数据挖掘技术的研究。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;1.基于元数据的XX信息分发机制研究&nbsp;（2006-2008）<br>2.XX综合信息模型之元数据开发及知识管理应用研究&nbsp;（2005-2007）<br>3.基于社群网络的可视化分析和挖掘系统&nbsp;（2007-2009）<br>4.MCE高速、低时延全向接入系统网络管理&nbsp;（2007-2008）<br>5.基于业务流程和元数据管理的业务数据稽核平台&nbsp;（2005-2007）<br>6.中国网通ERP系统规范及统一认证规范&nbsp;（2007-2007）<br>7.中小企业信息化平台解决方案&nbsp;（2006-2006）<br>8.江西联通收入保障中的数据稽核&nbsp;（2005-2006）<br>9.中国联通综合电信业务支撑系统系列技术规范编制（2000-2004）</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;2004年12月，信产部中国通信学会科学技术进步三等奖“电信运营支撑系统的软件体系结构模式系统的研究”。<br>2006年12月，信产部中国通信学会科学技术进步三等奖&nbsp;“中国联通综合电信业务支撑系统系列标准”。<br>2009年，荣获北京市“首都教育先锋科技创新个人”称号。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px"></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;手机：13301328822</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北邮教三楼616室</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;zlei@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

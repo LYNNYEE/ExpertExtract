@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=235" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="XiZ3b5oDT+GTC7Rw2bQmaUPRy7vO+zIyEBI05CHQZjaH/psMtw6Bp6lP/9zBM0OM09a53vSbazDX62ju7sHu5Dv+q5SwXBHOYTHhUcRD9rf2pj36pEg6DjjZ95fzAlz25+QFiAQ3IZ0cMmwP+o3+o/1dpUPFg4xRSD9YKSWWl9uVc+CMHmfNFs592F28obYQSRxZyodbEqyiMTC21bFboFP/sxWhK6KHVRHXPdcDwFY30xN9a2SO7/EeSRkD1YHXSMMfni617eCLvRSgPKFyoR1iJJsg9VvsKioDIPTMiiTNVowkbKtVS7rWH0cGbxpfs4oq/cgraicy5Ki89Eeq3mVONesYQuXcgOac4GBy1LwaEIVDQK2pKMRbGZlO9vWOIS4HWndkj8rcvbSq5+COGrApHAyGKKq1yhBkXGXvQpKU2MewAPdfRMlqbCOMSMdJstLjOQYjo+RxabFMHmux+teRi8CliGPQtt0iqN1uIM4DSmYQ" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;王晓茹</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/王晓茹.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;女</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;中国人工智能学会智能服务专业委员会副秘书长</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;计算机应用技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        数据仓库与数据挖掘、计算机算法设计与分析、计算机网络等</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;人工智能、计算机视觉、图像理解、精准搜索与大数据数据挖掘</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;博士，任教于北京邮电大学计算机学院，副教授、硕士生导师。曾在美国PSU（波特兰州立大学）和美国MIT（麻省理工学院）访问学习。现任中国人工智能学会智能服务专业委员会副秘书长。先后作为主研人参加了多项国家和省部级科研项目，包括&nbsp;973&nbsp;项目子课题、863&nbsp;计划“新一代高可信网络”重大项目、国家自然科学基金重大研究计划项目、国家自然科学基金面上项目、北京市自然基金重点项目等；作为负责人承担了Intel等多个企业的深度学习、数据挖掘研究项目。已获得3项国家发明专利，在国际重要刊物和国内外著名学术会议上发表论文&nbsp;23&nbsp;篇，被&nbsp;SCI、EI&nbsp;等收录&nbsp;20&nbsp;余篇。编写学术著作6&nbsp;部。博士论文《基于语义分析与融合的图像分类与标注研究》获得北京邮电大学优秀博士论文奖。参加制订了全国旅游电子商务网站建设与服务技术规范国家标准&nbsp;1&nbsp;项。2005年作为网络专家负责了国家“南水北调-中线工程”的网络方案的评审工作。研究领域包括人工智能、计算机视觉、图像理解、精准搜索与大数据数据挖掘。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;承担了教育部青年创新人才项目“多模态深度数据挖掘与个性化推荐系统研究”、“跨媒体数据挖掘与个性化检索系统研究”项目；承担了Intel等多个企业的深度学习、数据挖掘研究项目等。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;已获得3项国家发明专利；制定了1项国家标准；获得北京邮电大学优秀博士论文奖；获得北邮第十届教学观摩赛优秀奖；2015指导的学生获得了“美国2015年跨学科国际建模竞赛一等奖”；2016年指导的学生获得“大学生创新计划”一等奖；“大学生创新创业训练计划”优秀指导教师。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">在国际重要刊物和国内外著名学术会议上发表论文&nbsp;23&nbsp;篇，被&nbsp;SCI、EI&nbsp;等收录&nbsp;20&nbsp;余篇。出版学术著作6&nbsp;部，译著2部。</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;13801265830</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教3-918</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;wxr@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

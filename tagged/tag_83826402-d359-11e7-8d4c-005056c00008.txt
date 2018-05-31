@@ -1,0 +1,51 @@
+教师个人信息 
+姓名 
+name_label 
+性别 
+男 
+职务 
+学术兼职 
+IEEE / ACM / CCF 会员 
+老师类型 
+硕导 
+所属中心 
+物 联网 技术 中心 
+职称 
+副教授 
+承担课程 
+多媒体技术 
+研究方向 
+视频大数据 、 机器学习 与 模式识别 、 多媒体系统 
+个人介绍 
+name_label ， 男 ， 博士 ， 北京邮电大学 计算机学院副教授 。 timelabel 在 北京邮电大学 获博士学位 。 主要研究方向 为 视频大数据 、 机器学习 与 模式识别 、 多媒体系统 等 。 主持 和 参与 多 项国家自然科学基金 、 国家 973 项目 、 国家 863 项目 和 企业研发项目 。 近年来 在 视觉计算 与 多媒体系统 等 领域 取得 一 系列创新性成果 ， 在 国际 权威 会议 ACM   Multimedia 、 IEEE   ICME 、 IEEE   ICASSP 、 IEEE   ICIP 、 IEEE   ICPR 、 ACM / IEEE   I CDS C 等 ， 以及 国际 国内 重要 刊物 Neurocomputing 、 Multimedia   Tools   and   Appli cation s 、 Pervasive   and   Mobile   Computing 、 Mobile   Information   Systems 、 计算机学报 等 发表 SCI 或 EI检索论文 20 余篇 。 曾 担任 多个 国际学术会议 和 刊物 的 论文评阅人 。 已获 4 项 软件著作权 ， 并 已 申请 20 余项 国家 发明专利 及 2 项 国际 发明专利 。 
+承担课题 
+自 timelabel 以来 ， 作为 项目负责人 或主 研人 成功 完成 了 多项国家级 、 省部级项目 ， 以及 多项 企业合作项目 。 如 国家 973 计划项目 “ 物联网体系结构 基础研究 ”、 国家 863 计划项目 “ 机动车辆 行为 过程 快速 获取 与 建模 技术 ”、 国家自然科学基金 杰出青年项目 “ 网络 环境 中 多媒体计算 ”、 国家 物 联网 专项项目 “ 基于 物 联网 技术 的 智慧 监狱 系统 ” 等 。 与 华为技术有限公司 、 中兴通讯股份 有限公司 、 浙江 大华 技术 股份 有限公司 、 亿阳信通 股份 有限公司 、 中国电信 上海 研究院 、 中国电子 集团 第六 研究所 等 单位 广泛开展 产学研 合作 。 目前 主持 的 在 研项目 包括 ： 国家 自然科学基金重点项目 （ 合作 ）“ 面向 智慧城市 的 大规模 信息处理 与 智能计算 理论 与 技术 ”、 国家自然科学基金项目 “ 基于 视频大数据 分析 的 全天候 监测 场景 理解 技术 研究 ”、 北邮 青年科研创新 计划 专项 “ 敏感 监控 区域 暴力事件 实时 高精度 检测 技术 研究 ” 等 。 
+获奖 和 成果 
+北京邮电大学 优秀 本科毕业设计 论文指导教师 奖 （ timelabel ）； 
+北京邮电大学计算机 学院 科研 贡献奖 （ timelabel ）； 
+第 17 届 IEEE 国际 多媒体 年会 （ IEEE   ICME ） 最佳 学生 论文奖 （ timelabel ）； 
+第 8 届 ACM / IEEE 国际 分布式 智能 摄像 会议 （ ACM / IEEE   I CDS C ） 最佳论文奖 亚军 （ timelabel ）。 
+发表论文 
+近 5 年 发表 部分 代表性论文 ： 
+[ 1 ]  Huiyuan   Fu ,  Hua dong   Ma ,  Yin xin   Liu ,  and   Dawei   Lu ,“ A   Vehicle   Classifi cation   System   Based   on   Hierarchical   Multi - SVMs   in   Crowded   Tr aff ic   Scenes ,”  Neurocomputing ,  vol .  211 ,  pp :  182 - 190 ,  timelabel . 
+[ 2 ]  Huiyuan   Fu ,  Hua dong   Ma ,  and   Hongtian   Xia o ,“ Scene - adaptive   Ac cur ate   and   Fast   Vertical   Crowd   Counting   via   Joint   Using   Depth   and   Color   Information ,”  Multimedia   Tools   and   Appli cation s  ( MTAP ),  vol .  73 ,  no .  1 ,  pp :  273 - 289 ,  timelabel . 
+[ 3 ]  Huiyuan   Fu ,  Hua dong   Ma ,  and   Liang   Liu , “ Specific - scene   Oriented   Pedestrian   Detection   in   Visual   Sensor   Network ,”  China   Commu nic ations ,  vol .  9 ,  no .  6 ,  pp :  91 - 99 ,  timelabel . 
+[ 4 ]  Huiyuan   Fu ,  Hua dong   Ma ,  and   Hongtian   Xia o , “ Crowd   Counting   via   Head   Detection   and   Motion   Flow   Estimation ”,  ACM   Multimedia  ( ACM   MM ),  pp .  877 - 880 ,  Nov .  timelabel . 
+[ 5 ]  Huiyuan   Fu   and   Hua dong   Ma , “ Real - time   Crowd   Detection   Based   on   Gradient   Magnitude   Entropy   Model ”,  ACM   Multimedia  ( ACM   MM ),  pp .  885 - 888 ,  Nov .  timelabel . 
+[ 6 ]  Huiyuan   Fu   and   Hua dong   Ma , “ From   Video   to   Text :  Semantic   D riv ing   Scene   Under sta nding   Using   a   Coarse - to - fine   Method ,”  IEEE   International   Con ference   on   Ac ous tics   Speech   and   Signal   Processing  ( ICASSP ),  pp .  1393 - 1396 ,  Mar .  timelabel . 
+[ 7 ]  Huiyuan   Fu ,  Hua dong   Ma ,  and   Hongtian   Xia o , “ Real - time   Ac cur ate   Crowd   Counting   Based   on   RGB - D   Information ,”  IEEE   International   Con ference   on   Image   Processing  ( ICIP ),  pp .  2685 - 2688 ,  Oct .  timelabel . 
+[ 8 ]  Huiyuan   Fu ,  Hua dong   Ma ,  and   Shi xin   Wu , “ Night   Remo val   by   Color   Estimation   and   Sparse   Representation ,”  International   Con ference   on   Pattern   Recognition  ( ICPR ),  pp .  3656 - 3659 ,  Nov .  timelabel . 
+[ 9 ]  Huiyuan   Fu ,  Hua dong   Ma ,  and   Anlong   Ming , “ EGMM :  An   Enhanced   Gaussian   Mi xtu re   Model   for   Detecting   Moving   Objects   with   Intermittent   Stops ,”  IEEE   International   Con ference   on   Multimedia   and   Expo  ( ICME ),  pp .  1 - 6 ,  Jul .  timelabel . 
+[ 10 ]  Zheng   Zhang ,  Hua dong   Ma ,  Huiyuan   Fu ,  and   Cheng   Zhang , “ Scene - free   Multi - class   Weather   Classifi cation   on   Sin gle   Images ,”  Neurocomputing ,  vol .  207 ,  pp :  365 - 373 ,  timelabel . 
+[ 11 ]  Peiyan   Yuan ,  Hua dong   Ma ,  and   Huiyuan   Fu , “ Hotspot - Entropy   Based   Data   Forwarding   in   Opportunistic   Social   Networks ”,  Pervasive   and   Mobile   Computing  ( PMC ),  vol .  16 ,  pp .  136 - 154 ,  timelabel . 
+[ 12 ]  Zheng   Zhang ,  Hua dong   Ma ,  Huiyuan   Fu ,  Liang   Liu ,  and   Cheng   Zhang , “ Outdoor   Air   Quality   Level   Inference   via   Surveillance   Cameras ,”  Mobile   Information   Systems ,  pp :  1 - 10 ,  timelabel . 
+[ 13 ]  Xin chen   Liu ,  Wu   Liu ,  Hua dong   Ma ,  and   Huiyuan   Fu , “ Large - scale   vehicle   re - identifi cation   in   urban   surveillance   videos ,”  IEEE   International   Con ference   on   Multimedia   and   Expo  ( ICME ),  pp .  1 - 6 ,  Jul .  timelabel . 
+[ 14 ]  Dawei   Lu ,  Hua dong   Ma ,  Zeyu   Wang ,  Liang   Liu ,  and   Huiyuan   Fu , “ Automatically   Stereoscopic   Camera   Con trol   for   3D   A nim ation   Production ,”  ACM   Multimedia  ( ACM   MM ),  pp .  939 - 942 ,  Nov .  timelabel . 
+[ 15 ]  Zheng   Zhang ,  Hua dong   Ma ,  Huiyuan   Fu ,  and   Hao   Hua ng , “ Distributed   Human   Action   Recognition   via   2D   Con ditional   Ran dom   Field ,”  IEEE / ACM   International   Con ference   on   Distributed   Smart   cameras  ( IEEE / ACM   I CDS C ),  pp .  1 - 6 ,  Nov .  timelabel . 
+联系电话 
+phonelabel 
+工作地点 
+北京邮电大学 教三楼 632 
+email 
+maillabel 
+备注 

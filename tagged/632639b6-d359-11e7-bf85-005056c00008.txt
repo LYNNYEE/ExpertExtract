@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=56" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="eo/7LEE//g8wTnS2Bs+Qub+KdMTJsRih4KxmBnVbtP4RXNtyBorZtkaEUQMIleDmsqxobhcf+XIFURdyPGZ2J5nUAFZXKTPZL8J5jgKNvNMKD2vrgKrLcmVXubH5sVZep9p5QGVYeS2gKYjUr8sYm61wWeBTMEqF3gmXZ+kEQRGOGohynh00/ER25VAuHNIy4+eMEFeNXOy+aovx0hGlmtmWam1uVski4S/6Xx7cTQDgg2yQbhB4Yog0ZM5BkDHH9D4g0wGX2yN0mzLD0Bg1QLMDfGMR4o41JVYGF5RDqSHpl3VZpG0v55N9gS7qatJIRyu0jvXu3d+mh/p9KyvDDIve0LTb/+TKjfVRuZY6OsUv17rTSoRjLm0riSln1mRay+So+w==" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;潘维民</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/潘维民.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;教师</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;计算机应用技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=74" target="_blank">高级数理逻辑</a>   <a href="showcourse.aspx?id=90" target="_blank">数据仓库与数据挖掘</a>   <a href="showcourse.aspx?id=131" target="_blank">操作系统基础 </a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;数理逻辑，计算金融学，数据分析，金融风险管理，行业应用软件</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;1992年本科毕业于吉林大学数学系，1995年硕士毕业于辽宁师范大学数学系，1998年博士毕业于中国科学院计算技术研究所。1998年至今任教于北京邮电大学计算机系。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;1.中国电信总公司运维信息管理平台：为中国电信运维部提供生产调度管理系统，同时基于网管数据，为运维部提供决策支持平台。<br><br>2.电信市场营销系统：基于电信行业竞争特点，研究面向中国电信行业的市场分析与管理系统。利用数据仓库技术和数据挖掘技术，为中国电信行业经营人员提供一套完整的分析管理系统。<br><br>3.银行审计系统：基于数据集市监测银行不合规操作和风险性案件。主要实施过交通银行、民生银行、浦发银行等十多家银行。<br><br>4.反洗钱系统：基于数据集市监测客户的洗钱行为。主要实施过兴业、浦发等30家左右的银行。<br><br>5.操作风险管理：基于数据分析，发现银行内部的犯罪行为。主要实施了浦发银行等近10家银行。<br><br>6.企业风险管理：基于交易系统理论、资产负债管理理论，研究针对国有大型企业全面风险管理系统建设。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px"></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;18600047888</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;bigpan@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

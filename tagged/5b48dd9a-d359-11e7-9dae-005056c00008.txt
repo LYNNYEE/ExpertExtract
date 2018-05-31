@@ -1,0 +1,128 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=52" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="++5Onz3sNj7jIykdFIPSNilHNGXhLewsVdfhN+kavAmpeOKmFAUsnIFe0qhU1J6I7rDXGyRSOSn9wqdt3ci+ufU/u7/Ri7+TmVbxNRyacvyHTL1+xK/D4CMSHCmayeUqg/DMUmLbrYX0kZbQwbkNTY7DU3S+1LE3QMQk2hEMBz6x7ahovDgg5+lwX89FkI8mO0CGxsBp4m/QPN9cUXEgLmjGnEfR4N4iZh7dadDbHzcikRCtOkBP61aQ3iNuh2sfOezcdFmBecXN22aPHiLV0hpaiVmGhO5QuedM+HycRQS6pEzwUyQrPucl7IHIEevjrDTXDVFf+fcoT2jYP9aPSJlZqV9M6DNmSe1mgJSJwTtbAagNlTTuIicnAs0llzlVdQ16runnDSjdgzg593tIt5lpmdIYr6Ro2ma/2uIPEM4VrsBV7UpJmVlHV3/S912FVkpCQg==" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;邓芳</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/邓芳.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;女</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;计算机应用技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=45" target="_blank">人工智能原理 </a>   <a href="showcourse.aspx?id=55" target="_blank">数据库系统原理</a>   <a href="showcourse.aspx?id=127" target="_blank">知识工程</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;智能信息处理，知识系统，数据库，</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;1993年毕业于北京邮电大学计算机计算机系，获计算机应用专业学士学位；
+1998年硕博连读毕业于北京邮电大学，获信号与信息处理专业博士学位；
+1998年６月留校工作至今，承担多门课程的教学，从事智能信息处理、数据挖掘、数据仓库和数据库的研究及其应用，参加并负责了多项科研项目，在核心学术刊物上发表了多篇论文。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;在研课题及项目有互联网设备在线监视及分析系统、无线网络优化及智能决策支持系统等。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;１．2000年获北京市青年教师基本功比赛二等奖，北京邮电大学青年教师基本功比赛二等奖，
+２　参与完成的《教学质量监控与保障体系的研究与实践》获得2004年教学成果一等奖，
+３　参与完成的教改项目《建立适合计算机学科研究生培养质量保障体系研究》获得2006年北京邮电大学教学成果二等奖。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">近年来发表论文１０余篇，参与编写标准规范１部</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;13701265057</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;dengfang@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

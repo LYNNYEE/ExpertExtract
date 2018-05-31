@@ -1,0 +1,38 @@
+登录   帮助    返回首页   交大 主页 
+我 的 主页 : 
+个人信息 
+科学研究 
+论文成果 
+荣誉奖励 
+科研团队 
+课程教学 
+招生信息 
+English 
+基本信息 
+name_label ， 博士 ， 副教授 , 博士生导师 
+学科 ： 电力电子 与 电力传动 
+工作单位 ： 电气工程学院 
+通信地址 ： place_label 成都市 高新 西区 西部 园区 西南交通大学 （ 犀浦 校区 ） 电气工程学院 
+电子邮箱 ： 
+maillabel 
+办公电话 ： phonelabel 
+办公地点 ： 电气馆 10219 
+个人简介 
+name_label ， timelabel 年生 ， 工学博士 ， 副教授 ， 博士生导师 ， 院长助理 ， 西南交通大学 首届 “ 雏鹰学者 ” 计划 入选者 。 分别 于 timelabel 、 timelabel 获得 西南交通大学 电子信息 工程专业学士学位 、 电力电子 与 电力传动专业 博士学位 。 先后 于 timelabel - timelabel 、 timelabel 在 美国加州大学 欧文 分校 、 加拿大 阿尔伯 塔 大学 访问学习 。 现为 西南交通大学电气 工程学院 -- 列车 控制 与 牵引 传动 研究室 教师 。 
+近年来 ， 主持国家自然 科学 （ 面上 ） 基金 1 项 、 国家 重点研发计划项目 任务 1 项 、 企业 技术开发 项目 3 项 ； 主持 完成 国家自然科学 （ 青年 ） 基金 1 项 （ 优秀 结题 ）、 中央高校基本科研 业务费 科技创新项目 1 项 、 企业 技术开发 项目 5 项 ； 主研国家 自然科学 重点基金 2 项 、 国家 重点研发计划项目 任务 1 项 、 四川省 青年 科技创新团队 建设项目 1 项 ； 主研 完成 国家 科技支撑计划子课题 3 项 、 国家自然科学 （ 面上 ） 基金 1 项 、 企业合作 技术开发 项目 4 项 。 
+出版 booklabel 专著 1 部 ； 申请 发明专利 16 项 ( 已 授权 6 项 )； 以 第一 作者 或 通讯作者 在 booklabel 、 booklabel 、 booklabel 、 booklabel 等 国内外 期刊 上发表SCI / EI收录论文 50 余篇 ， 其中 IEEE    Transactions 系列 期刊 （ SCI - 1 区 ） 论文 10 余篇 。 
+现 担任 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 等期刊审稿人 。 
+教育 与 工作经历 
+timelabel - timelabel ， 西南交通大学 ， 电气工程学院 电子信息工程专业 ， 工学学士 ； 
+timelabel - timelabel ， 西南交通大学 ， 电气工程学院电力电子 与 电力传动专业 ， 工学博士 ； 
+timelabel - timelabel ， 美国加州大学 Irvine 分校 ， 国家公派联合培养 博士生 ； 
+timelabel - timelabel ， 西南交通大学电气 工程学院 ，  讲师 ； 
+timelabel - timelabel ， 加拿大 Alberta 大学 ， 短期 英语教学 培训 ； 
+timelabel -  至今 ， 西南交通大学电气 工程学院 ， 院长助理 ； 
+timelabel -  至今 ， 西南交通大学电气 工程学院 ， 副教授 ； 
+研究方向 
+( 1 ) 电力电子 技术 ； 
+( 2 ) 电力牵引 交流 传动控制 
+Copyright  ©  timelabel   http :// inc . swjtu . edu . cn   西南交通大学信息 网络中心 
+您 是 本站 第 
+位 访客 ! 

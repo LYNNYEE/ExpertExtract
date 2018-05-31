@@ -1,0 +1,227 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title></title>
+<link href="images/marx.css" rel="stylesheet" type="text/css">
+<link href="http://marx.bnu.edu.cn/images/marx.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.wuxian {	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.biaoti {
+	font-size: 16px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #993300;
+	text-decoration: none;
+	text-align: center;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-top-color: #0066CC;
+	border-right-color: #0066CC;
+	border-bottom-color: #0066CC;
+	border-left-color: #0066CC;
+}
+-->
+</style>
+</head><body topmargin="0" text="#000000" leftmargin="0"><div style="width:1010px; margin:0px auto;">
+ <table width="1010" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td valign="top" height="100">
+      <table width="1030" cellspacing="0" cellpadding="0" bordercolor="#999999" border="0" bgcolor="#FFFFFF" align="center">
+        <tbody><tr>
+          <td width="1010" height="81">
+
+<title>北京师范大学马克思主义学院</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="http://marx.bnu.edu.cn/images/marx.css" rel="stylesheet" type="text/css"><link href="pic/style.css" type="text/css" rel="stylesheet">
+<meta content="MSHTML 6.00.6000.17063" name="GENERATOR">
+<style type="text/css">
+<!--
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #333333;
+}
+a:active {
+	text-decoration: none;
+}
+.white {font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+body {
+	background-color: #ecdfd7;
+}
+-->
+</style>
+
+<div style="width:1010px; margin:0px auto;">
+<table width="1010" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td><table width="1010" cellspacing="0" cellpadding="0" border="0" align="center">
+      <tbody><tr>
+        <td valign="top" height="106" background="http://marx.bnu.edu.cn/pic/ding.jpg"><table width="1010" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td rowspan="4" width="927">&nbsp;</td>
+              <td width="83" height="35">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="24">[ <a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.politics.bnu.edu.cn');">设为首页</a> ] </td>
+            </tr>
+            <tr>
+              <td height="24">[ <a href="http://marx.bnu.edu.cn/lxwm/69774.html" target="_blank">联系我们 </a> ]</td>
+            </tr>
+            <tr>
+              <td height="24">&nbsp;</td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><table class="white12" width="1010" cellspacing="0" cellpadding="0" border="0" bgcolor="#BA2602" align="center">
+      <tbody>
+        <tr>
+          <td><table class="white12" width="1010" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center">
+              <tbody>
+                <tr>
+                  <td width="72" height="45" bgcolor="#BA2602"><div align="center"><b class="white12"><a href="http://marx.bnu.edu.cn" target="_blank" class="white12">首　页</a></b></div></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="72" height="45" bgcolor="#BA2602" align="center"><div align="center"><b><a href="http://marx.bnu.edu.cn/xygk/xyjj/63599.html" target="_blank" class="white12">学院概况</a></b></div></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="72" height="45" bgcolor="#BA2602" align="center"><div align="center"><b><a href="http://marx.bnu.edu.cn/szdw.html" target="_blank" class="white12">师资队伍</a></b></div></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="72" height="45" bgcolor="#BA2602" align="center"><div align="center"><b><a href="http://marx.bnu.edu.cn/xkjsykxyj/" target="_blank" class="white12">学科建设</a></b></div></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="72" height="45" bgcolor="#BA2602" align="center"><div align="center"><b class="white12"><a href="http://marx.bnu.edu.cn/kxyj/" target="_blank" class="white12">科学研究</a></b></div></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="72" height="45" bgcolor="#BA2602" align="center"><div align="center"><b class="white12"><a href="http://marx.bnu.edu.cn/rcpy/" target="_blank" class="white12">人才培养</a></b></div></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="134" height="45" bgcolor="#BA2602" align="center"><b class="white12"><a href="http://marx.bnu.edu.cn/sxzzllkjx/" target="_blank" class="white12">思想政治理论课教学</a></b></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="72" bgcolor="#BA2602" align="center"><div align="center"><b> <a href="http://marx.bnu.edu.cn/jxjy" target="_blank" class="white12">继续教育</a></b></div></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="72" bgcolor="#BA2602" align="center"><div align="center"><b><a href="http://marx.bnu.edu.cn/djgz" target="_blank" class="white12">党群工作</a></b></div></td>
+                  <td width="12" bgcolor="#BA2602"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="75" bgcolor="#BA2602" align="center"><b><a href="http://marx.bnu.edu.cn/xstd" target="_blank" class="white12">学生天地</a></b></td>
+                  <td width="12" bgcolor="#BA2602" align="center"><img src="http://marx.bnu.edu.cn/pic/top_line01.gif" width="12" height="45"></td>
+                  <td width="122" bgcolor="#BA2602" align="center"><div align="center"><b><a href="http://marx.bnu.edu.cn/yzsjxx1/63717.html" target="_blank" class="white12">院长书记信箱</a></b></div></td>
+                </tr>
+              </tbody>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="2"><img src="pic/top_line02.jpg" width="1010" height="1"></td>
+        </tr>
+      </tbody>
+    </table></td>
+  </tr>
+</tbody></table>
+<table width="1000" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tbody>
+    <tr>
+      <td height="2"></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</td>
+        </tr>
+        <tr>
+          <td height="82"><table width="1010" cellspacing="0" cellpadding="0" border="0" align="center">
+            <tbody><tr>
+              <td></td>
+            </tr>
+            <tr>
+              <td valign="top" bgcolor="#FFFFFF"><table width="1001" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td rowspan="3" width="23" height="331">&nbsp;</td>
+                    <td width="560" height="42" align="left">&nbsp;&nbsp;
+                        <h1>当前位置： <a href="../../index.html" target="_blank">首页</a> » 
+                           <a href="../index.html" target="_blank">师资队伍</a> » 
+                            教授 </h1>
+                      <div align="center"></div></td>
+                    <td rowspan="3" width="16">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td class="biaoti" valign="top"><p><br>
+                      杨世文 </p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><div align="center"><span class="aa">发布时间： 2013-11-20&nbsp;&nbsp;</span> </div>
+                        <div class="zhengwen">
+                          <div align="left"><div style="text-align: center"><img alt="" src="../../images/content/2013-11/20131120173859894918.jpg" width="600" height="526" border="2"><br>
+&nbsp;</div>
+<div style="text-align: left">
+<p class="MsoNormal" style="line-height: 150%; text-indent: 30pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.5"><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">杨世文，吉林省梨树县人，汉族，中共党员，法学博士，北京师范大学马克思主义学院教授、博士生导师。曾任北京师范大学政治学与国际关系学院分党委书记、院长，中国中共党史学会常务理事、北京市中共党史学会副会长、北京文化发展研究院精神文明研究所所长。在《北京师范大学学报（社会科学版）》、《新视野》、《当代世界与社会主义》、《历史教学》、《毛泽东思想研究》、《中国高等教育》、《教学与研究》等刊物发表论文</span><span style="line-height: 150%; font-size: 12pt" lang="EN-US"><font face="Times New Roman">50</font></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">多篇。先后主持《构建和谐干群关系研究》、《现代企业人力资源绩效评估与人才管理系统研究》、《公益性事业单位领导力与执行力研究》、《小微企业领导力与竞争力研究》等课题。曾获得北京市教育教学成果一等奖，北京师范大学教育教学成果一等奖。近年来，为中央司局级干部自主选学培训班和地方党政机关、企事业单位、高校作讲座</span><span style="line-height: 150%; font-size: 12pt" lang="EN-US"><font face="Times New Roman">100</font></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">多场。研究方向：领导科学与艺术、毛泽东的治国理政智慧、当代中国社会发展理论</span><span style="line-height: 150%; font-size: 12pt"><font face="Times New Roman"> </font></span><span style="line-height: 150%; font-family: 宋体; font-size: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">。</span><span style="line-height: 150%; font-size: 12pt" lang="EN-US"><o:p></o:p></span></p>
+</div> <br>
+                                 &nbsp;</div></div></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table></td>
+        </tr>
+        <tr>
+          <td height="31"><div align="center">
+          
+
+<title>北京师范大学马克思主义学院</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="http://marx.bnu.edu.cn/images/marx.css" rel="stylesheet" type="text/css"><link href="http://marx.bnu.edu.cn/pic/style.css" type="text/css" rel="stylesheet">
+<meta content="MSHTML 6.00.6000.17063" name="GENERATOR">
+<style type="text/css">
+<!--
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #333333;
+}
+a:active {
+	text-decoration: none;
+}
+.white {font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+body {
+	background-color: #ecdfd7;
+}
+-->
+</style>
+
+
+<table width="1010" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tbody><tr>
+    <td class="white12" height="95" background="http://marx.bnu.edu.cn/pic/xx521_02.gif"><div align="center">地址：北京市新街口外大街19号 主楼B区411A<br>
+        电话：010-58800206&nbsp;&nbsp;&nbsp;010-58808292&nbsp;&nbsp;&nbsp;电子邮箱：makesixueyuan@126.com<br>
+    版权所有：北京师范大学马克思主义学院&nbsp;&nbsp;&nbsp;Copyright @ 2006-2013, All Rights Reserved </div></td>
+  </tr>
+</tbody></table>
+</div></td>
+        </tr>
+      </tbody></table></td></tr>
+</tbody></table>
+</div>
+</body></html>

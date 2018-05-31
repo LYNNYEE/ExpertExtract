@@ -1,0 +1,418 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>北京电影学院研究生院</title>
+<link rel="stylesheet" type="text/css" href="../../1500.files/style.css">
+
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(1500.files/bg_ti.jpg);
+	background-repeat: repeat-x;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #002B5E;
+}
+a:link {
+	color: #002B5E;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #002B5E;
+}
+a:hover {
+	text-decoration: none;
+	color: #BD1A1D;
+}
+a:active {
+	text-decoration: none;
+	color: #BD1A1D;
+}
+a.a1:link {
+	color: #666666;
+	text-decoration: none;
+}
+a.a1:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a.a1:hover {
+	text-decoration: none;
+	color: #999999;
+}
+a.a1:active {
+	text-decoration: none;
+	color: #999999;
+}
+UL {
+	LIST-STYLE-TYPE: none;
+	padding:0px;
+	margin:0px;
+}
+LI {
+	FONT-SIZE: 12px; 
+	COLOR: #fff; 
+	LINE-HEIGHT: 1.5em; 
+	FONT-FAMILY: "宋体", Arial, Verdana;
+}
+.hide {
+	DISPLAY: none
+}
+#header{
+	width:985px;
+	height:235px;
+	margin:auto;
+	background-image:url(../../1500.files/top_bg2.jpg);
+	background-repeat:no-repeat;
+}
+#mainmenu_top UL LI .menuhover {
+	BACKGROUND: url(../../1500.files/mainmenu_h.gif) no-repeat; 
+	COLOR: #fff;
+}
+#mainmenu_top UL LI A {
+	MARGIN-TOP: 0px;
+	CURSOR: pointer;
+	PADDING-TOP: 8px;
+	HEIGHT: 50px;
+	text-decoration: none;
+}
+#mainmenu_body { 
+	width:985px;
+	HEIGHT: 80px; 
+	display:block;
+	overflow:hidden;
+}
+#mainmenu_top { 
+	width:985px;
+	HEIGHT: 50px; 
+	display:block;
+	overflow:hidden;
+	BACKGROUND: url(../../1500.files/mainmenu_bg.jpg) no-repeat; 
+}
+#mainmenu_top UL LI {FLOAT: left}
+#mainmenu_top UL LI A {
+ 	WIDTH: 104px;
+	height:50px;
+	DISPLAY: block;
+	COLOR: #fff; 
+	TEXT-ALIGN: left; 
+    PADDING: 14px 0px 0px 5px;
+	font-size:14px;
+	font-weight:bold;
+}
+#mainmenu_bottom {
+	width:100%;
+	height:30px;
+	line-height:30px;
+	display:block;
+	overflow:hidden;
+}
+#mainmenu_bottom .mainmenu_rbg {
+	HEIGHT: 30px;
+	COLOR: #fff;
+	MARGIN-LEFT: 0px; 
+	PADDING: 0px 0px 0px 5px;
+}
+#mainmenu_bottom UL {}
+#mainmenu_bottom UL LI {
+	PADDING-LEFT: 8px; 
+	FLOAT: left; 
+	MARGIN-LEFT: 7px; 
+	HEIGHT: 32px;
+}
+#mainmenu_bottom UL LI.se {
+	FLOAT: left; 
+	MARGIN-LEFT: 7px; 
+	HEIGHT: 32px;
+	PADDING-LEFT: 8px; 
+}
+#mainmenu_bottom UL LI A {
+	COLOR: #333; 
+	LINE-HEIGHT: 32px;
+	PADDING-RIGHT: 10px; 
+	DISPLAY: block;
+	text-decoration: none;
+	background-color:#FFF;
+}
+#mainmenu_bottom UL LI A:hover {
+	color: #BD1A1D;
+}
+#mainmenu_bottom UL LI A.se {
+	COLOR: #333; 
+	LINE-HEIGHT: 32px;
+	PADDING-RIGHT: 10px; 
+	DISPLAY: block; 
+}
+.STYLE2 {color: #666666}
+.STYLE3 {
+	color: #990000;
+	font-weight: bold;
+	font-size: 14px;
+}
+.STYLE5 {font-size: 12px}
+.style1 {	font-size: 14;
+	font-family: "宋体";
+}
+</style>
+<script type="text/javascript">              
+var waitting = 1;              
+var secondLeft = waitting;              
+var timer;                              
+var sourceObj;              
+var number;           
+function getObject(objectId)//获取id的函数               
+    {              
+        if(document.getElementById && document.getElementById(objectId)) {              
+        // W3C DOM              
+        return document.getElementById(objectId);              
+        } else if (document.all && document.all(objectId)) {              
+        // MSIE 4 DOM              
+        return document.all(objectId);              
+        } else if (document.layers && document.layers[objectId]) {              
+        // NN 4 DOM.. note: this won't find nested layers              
+        return document.layers[objectId];              
+        } else {              
+        return false;              
+        }              
+    }              
+function SetTimer()//主导航时间延迟的函数              
+    {              
+        for(j=1; j <10; j++){              
+            if (j == number){              
+                if(getObject("mm"+j)!=false){              
+                    getObject("mm"+ number).className = "menuhover";              
+                    getObject("mb"+ number).className = "";              
+                }              
+            }              
+            else{              
+                 if(getObject("mm"+j)!=false){               
+                    getObject("mm"+ j).className = "";              
+                    getObject("mb"+ j).className = "hide";               
+                }              
+            }              
+        }              
+    }              
+function CheckTime()//设置时间延迟后              
+    {              
+        secondLeft--;              
+        if ( secondLeft == 0 )              
+        {              
+        clearInterval(timer);                                      
+        SetTimer();                      
+        }              
+    }              
+function showM(thisobj,Num)//主导航鼠标滑过函数,带时间延迟              
+    {              
+        number = Num;              
+        sourceObj = thisobj;              
+        secondLeft = 1;              
+        timer = setTimeout('CheckTime()',50);              
+    }              
+function OnMouseLeft()//主导航鼠标移出函数,清除时间函数              
+    {             
+	    clearInterval(timer); 
+    } 
+function hide()          
+    {             
+	    setTimeout('hide1()',50); 
+    } 	
+function hide1()        
+    {  
+		getObject("mm1").className = ""; 
+	    getObject("mb1").className = "hide";
+		getObject("mm2").className = ""; 
+	    getObject("mb2").className = "hide";
+		getObject("mm3").className = "";  
+		getObject("mb3").className = "hide";  
+		getObject("mm4").className = "";  
+		getObject("mb4").className = "hide";  
+		getObject("mm5").className = "";  
+		getObject("mb5").className = "hide";  
+	    getObject("mm6").className = "";  
+		getObject("mb6").className = "hide";  
+		getObject("mm7").className = "";  
+		getObject("mb7").className = "hide";  
+		getObject("mm8").className = "";  
+		getObject("mb8").className = "hide";  
+		getObject("mm9").className = "";  
+		getObject("mb9").className = "hide";  
+    } 
+	
+</script> 
+</head>
+<body>
+<div id="main_container">
+  <div id="header">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td><img src="../../1500.files/banner2.jpg" width="985" height="155"></td>
+      </tr>
+      <tr>
+        <td><table cellspacing="0" cellpadding="0" border="0">
+          <tbody><tr>
+            <td><div id="mainmenu_body" onmouseleave="hide();">
+              <!--主导航开始-->
+              <div id="mainmenu_top">
+                <ul>
+                  <li><a id="mm1" onmouseover="showM(this,1);" onmouseout="OnMouseLeft();" href="../../index.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">网站首页</a></li>
+                  <li><a id="mm2" onmouseover="showM(this,2);" onmouseout="OnMouseLeft();" href="../../node_1738.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">部门简介</a></li>
+                  <li><a id="mm3" onmouseover="showM(this,3);" onmouseout="OnMouseLeft();" href="../../node_1739.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">招生信息</a></li>
+                  <li><a id="mm4" onmouseover="showM(this,4);" onmouseout="OnMouseLeft();" href="../../node_1740.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">培养管理</a></li>
+                  <li><a id="mm5" onmouseover="showM(this,5);" onmouseout="OnMouseLeft();" href="../../node_1741.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">学位工作</a></li>
+                  <li><a id="mm6" onmouseover="showM(this,6);" onmouseout="OnMouseLeft();" href="../../node_1742.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">导师专栏</a></li>
+                  <li><a id="mm7" onmouseover="showM(this,7);" onmouseout="OnMouseLeft();" href="../../node_1743.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">学术活动</a></li>
+                  <li><a id="mm8" onmouseover="showM(this,8);" onmouseout="OnMouseLeft();" href="../../node_1744.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">学子风采</a></li>
+                  <li><a id="mm9" onmouseover="showM(this,9);" onmouseout="OnMouseLeft();" href="../../node_1745.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">学科建设</a></li>
+                </ul>
+              </div>
+              <!--子导航导航开始-->
+              <div id="mainmenu_bottom">
+                <div class="mainmenu_rbg">
+                  <ul class="hide" id="mb1" style="DISPLAY: none">
+                  </ul>
+                  <ul class="hide" id="mb2">
+                    <li><a href="../../node_1746.htm" target="_blank">机构概况</a></li>
+                    <li><a href="../../node_1748.htm" target="_blank">工作人员</a></li>
+                  </ul>
+                  <ul class="hide" id="mb3">
+                    <li style="MARGIN-LEFT: 40px"><a href="../../node_1749.htm" target="_blank">动态信息</a></li>
+                    <li><a href="../../node_1751.htm" target="_blank">博士研究生</a></li>
+                    <li><a href="../../node_1752.htm" target="_blank">硕士研究生</a></li>
+					<li><a href="../../node_1754.htm" target="_blank">在职研究生</a></li>
+                    <li><a href="../../node_1753.htm" target="_blank">以同等学力申请硕士学位</a></li>
+                    <li><a href="../../node_1755.htm" target="_blank">访问学者</a></li>
+                    <li><a href="../../node_1756.htm" target="_blank">课程班</a></li>
+                  </ul>
+                  <ul class="hide" id="mb4">
+                    <li style="MARGIN-LEFT: 200px"><a href="../../node_1757.htm" target="_blank">学籍管理</a></li>
+                    <li><a href="../../node_1758.htm" target="_blank">教学管理</a></li>
+					<li><a href="../../node_2887.htm" target="_blank">国内外联合培养</a></li>
+                    <li><a href="../../node_1759.htm" target="_blank">培养方案</a></li>
+                    <li><a href="../../node_1937.htm" target="_blank">学风建设</a></li>
+                    <li><a href="../../node_1761.htm" target="_blank">下载专区</a></li>
+                  </ul>
+                  <ul class="hide" id="mb5">
+                    <li style="MARGIN-LEFT: 380px"><a href="../../node_1762.htm" target="_blank">最新动态</a></li>
+                    <li><a href="../../node_1764.htm" target="_blank">博士学位</a></li>
+                    <li><a href="../../node_1765.htm" target="_blank">硕士学位</a></li>
+                  </ul>
+                  <ul class="hide" id="mb6">
+                    <li style="MARGIN-LEFT: 490px"><a href="../../node_1766.htm" target="_blank">导师介绍</a></li>
+                    <li><a href="../../node_1767.htm" target="_blank">导师管理</a></li>
+					<li><a href="../../node_2097.htm" target="_blank">教师风采</a></li>
+                  </ul>
+                  <ul class="hide" id="mb7">
+                    <li style="MARGIN-LEFT: 620px"><a href="../../node_1768.htm" target="_blank">学院大讲堂</a></li>
+                    <li><a href="../../node_1769.htm" target="_blank">学院放映厅</a></li>
+                  </ul>
+                  <ul class="hide" id="mb8">
+                    <li style="MARGIN-LEFT: 680px"><a href="../../node_1770.htm" target="_blank">学子动态</a></li>
+                    <li><a href="../../node_1771.htm" target="_blank">研究生会</a></li>
+                    <li><a href="../../node_1772.htm" target="_blank">研究生校友录</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div></td>
+          </tr>
+        </tbody></table>
+            <img src="../../1500.files/mainmenu_h.gif" width="1" height="1"><img src="../../1500.files/mainmenu_bg.jpg" width="1" height="1"><img src="../../1500.files/top_bg2.jpg" width="1" height="1"></td>
+      </tr>
+    </tbody></table>
+  </div>
+  <!-- end of main_contenEt -->
+  <div id="main_content">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td valign="top" background="../../1500.files/right_more_bg.jpg"><table width="100%" height="581" cellspacing="0" cellpadding="0" border="0">
+          <tbody><tr>
+            <td width="87%" valign="top" height="532" align="left"><table width="100%" cellspacing="10" cellpadding="0" border="0">
+              <tbody><tr>
+                <td valign="top" align="left"><a href="../../index.htm" target="_blank">首页</a>&gt;&gt;
+                        <a href="../../node_1825.htm" target="_blank" class="">管理系</a></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="58%" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tbody><tr>
+                                  <th align="center"><br>
+                                  <font size="4.5px" color="#990000"><b> 吴兵</b></font></th>
+                                </tr>
+                                <tr>
+                                  <th align="center"> 2007-07-06 18:15:40</th>
+                                </tr>
+                              </tbody></table>
+                      <table width="100%" cellspacing="0" cellpadding="8" border="0">
+                                <tbody><tr>
+                                  <td class="STYLE13 style93 style1"><br>
+                                      <br>
+                                    <!--enpproperty <articleid>53523</articleid><date>2007-07-06 18:15:40.0</date><author></author><title>吴兵</title><keyword></keyword><subtitle></subtitle><introtitle></introtitle><siteid>1</siteid><nodeid>1825</nodeid><nodename>管理系</nodename><nodesearchname></nodesearchname>/enpproperty--><!--enpcontent--> <!--enpcontent--><p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class="MsoNormal"><span style="COLOR: black; FONT-SIZE: 18pt; mso-fareast-language: ZH-CN" lang="EN-GB"><img style="WIDTH: 310px; HEIGHT: 469px" id="73544" src="../../attachement/jpg/site1/20140221/448a5b060aeb14710cd30b.jpg" shapes="_x0000_i1025" width="427" height="648"><span></span></span></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify" class="MsoNormal"><font style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">吴兵</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">北京电影学院管理系副教授</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">中国电影家协会会员</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">中国电影导演协会会员</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">中国广播电视学会电视制片委员会委员</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">北京市海淀区第十三，十四届人大代表</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">学术兴趣：</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">电影电视编剧，导演，策划，制作。</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">主要研究方向：</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span></span><span style="FONT-FAMILY: 楷体_GB2312; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">电影制片管理，影视项目策划</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">主讲讲授课程：</span><span style="FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《电影制片管理》《影视项目策划》《制片与市场<span style="COLOR: black">》</span></span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">主要创作作品：</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《苦茶香》电影</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">编剧</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">导演</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《来不及爱你》电影</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">编剧</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">导演</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《致命追击》电影</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">监制</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">主演</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 21pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《十月围城》电影</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">编剧</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 21pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《爱情</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB">36</span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">计》电影</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">编剧</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">导演</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 21pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《吴大观》电影</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">主演</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 21pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《智取威虎山》电影</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">小说改编编剧</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《新铡美案》电视连续剧</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">剧本策划</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">总导演</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">《猜心妙手》电视连续剧</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">编剧</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN"> </span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">导演</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">获奖经历：</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">第八届中国电影华表奖新人导演奖</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">第八届中国电影华表奖评委会特别奖</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">第二十二届中国电影金鸡奖最佳导演处女作提名</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">第十一届莫斯科国际侦探题材电影节特别奖</span><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB">2009</span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">年度中国电影剧本夏衍创意剧本</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB">2010</span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">年度中国电影剧本夏衍创意剧本</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt; FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN" lang="EN-GB">2010</span><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">年度中国影协杯年度优秀剧本奖</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p>
+<p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; TEXT-INDENT: 24pt" class="MsoNormal"><font style="FONT-SIZE: 12pt"><font style="FONT-FAMILY: 楷体; FONT-SIZE: 16pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black"><span style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt; mso-fareast-language: ZH-CN; mso-ascii-font-family: Helvetica; mso-hansi-font-family: Helvetica">第三届澳门国际电影节金莲花优秀电影大奖提名</span><span style="mso-fareast-language: ZH-CN" lang="EN-GB"><span></span></span></font></font></font></font></font></p><!--/enpcontent--><!--/enpcontent-->
+                                    <br>
+                                      <table width="100%" cellspacing="0" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td height="22" bgcolor="#cccccc"><div align="left">∶∶附件∶∶</div></td>
+                                          </tr>
+                                          <tr>
+                                            <td>
+                                        </td></tr></tbody>
+                                  </table></td>
+                                </tr>
+                            </tbody></table></td>
+                  </tr>
+                </tbody></table>
+                    </td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table>
+            <table style="margin-top:20px;border-top:1px solid #CCCCCC;" width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td height="30" align="center"><a href="../../../../" class="a1" target="_blank"><span class="STYLE2">学校首页</span></a><span class="STYLE2"> |</span><a href="../../index.htm" class="a1" target="_blank"> 研究生院首页</a><span class="STYLE2"> |</span> <a href="../../node_1738.htm" class="a1" target="_blank">部门简介</a><span class="STYLE2"> | </span><a href="../../node_1739.htm" class="a1" target="_blank">招生信息</a><span class="STYLE2"> |</span> <a href="../../node_1740.htm" class="a1" target="_blank">培养管理</a><span class="STYLE2"> |</span> <a href="../../node_1741.htm" class="a1" target="_blank">学位工作</a><span class="STYLE2"> |</span> <a href="../../node_1742.htm" class="a1" target="_blank">导师专栏</a><span class="STYLE2"> | </span><a href="../../node_1743.htm" class="a1" target="_blank">学术活动</a><span class="STYLE2"> | </span><a href="../../node_1744.htm" class="a1" target="_blank">学子风采</a><span class="STYLE2"> |</span> <a href="../../node_1745.htm" class="a1" target="_blank">学科建设</a></td>
+              </tr>
+              <tr>
+                <td height="30" align="center"><span class="STYLE2">Copyright(c) 2014 版权所有 北京电影学院研究生院</span></td>
+              </tr>
+            </tbody></table>
+            <p></p></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+<!-- end of main_container -->
+
+</body></html>

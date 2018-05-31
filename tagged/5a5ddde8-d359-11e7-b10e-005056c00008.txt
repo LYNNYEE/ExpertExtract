@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=84" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="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" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;吴斌</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/吴斌.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;博导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;通信软件工程中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        复杂网络、<a href="showcourse.aspx?id=72" target="_blank">离散数学（上）</a>   <a href="showcourse.aspx?id=73" target="_blank">离散数学（下）</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp; 智能信息处理 复杂网络 基于图的数据挖掘 商务智能</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;2002年中科院计算技术研究所博士毕业，承担本科（10年）和研究生（6年）课程各1门，多年从事面向复杂网络数据集的智能信息处理研究，负责和主研多项国家自然科学基金、国家科技支撑计划、国家高技术研究发展计划、国家重点基础研究发展计划项目，同时承担了电信社会网络分析、科技文献可视分析、数据密集型计算等方面的横向课题。在复杂网络、数据挖掘、海量数据并行处理、可视分析、电信客户关系管理等方面发表近百篇论文。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;国家自然科学基金-面上项目&nbsp;基于电信数据分析的群体客户关系管理关键技术研究&nbsp;2011～2013项目编号:61074128（项目负责人）<br>国家973项目:“社交网络分析与网络信息传播的基础研究”课题三“社交网络群体行为与群体情感理论研究”2013-2017&nbsp;项目编号：2013CB329603&nbsp;（主研）<br>&nbsp;国家自然科学基金-重点项目&nbsp;面向不确定性的Web2.0用户创作内容管理研究2013-2017项目编号：71231002（主研）<br>国家自然科学基金-青年科学基金项目&nbsp;面向电信海量数据的群体关系数据挖掘研究&nbsp;项目编号:60402011&nbsp;2005-2007（项目负责人）&nbsp;<br>&nbsp;“十一五”国家科技支撑计划重点项目&nbsp;科技文献信息服务系统关键技术研究及应用示范&nbsp;课题五：基于海量信息分析的科技评价方法、技术研究与应用&nbsp;项目编号:2006BAH03B05&nbsp;2007-2009（子课题负责人）国家高技术研究发展计划（863&nbsp;计划）专题课题&nbsp;基于数据挖掘的热轧产品质量综合分析和评价技术&nbsp;项目编号:2009AA04Z136&nbsp;2009-2010（项目副组长）<br>国家自然科学基金委员会重大研究计划“非常规突发事件应急管理研究”项目&nbsp;“非常规突发事件中网络舆情作用机制与相关技术研究”2010-2012&nbsp;项目编号：90924029（主研）</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">吴斌&nbsp;王柏&nbsp;杨胜琦&nbsp;.&nbsp;基于事件的社会网络演化分析框架.&nbsp;软件学报,&nbsp;2011,&nbsp;(07):&nbsp;1488-1503&nbsp;Bin&nbsp;Wu,&nbsp;Tian&nbsp;Zhu,&nbsp;Weiduo&nbsp;Wang,&nbsp;Qi&nbsp;Ye,&nbsp;and&nbsp;Bai&nbsp;Wang,&nbsp;Group-level&nbsp;Analysis&nbsp;by&nbsp;Extracting&nbsp;Semantic&nbsp;Relations&nbsp;from&nbsp;Query&nbsp;Graph,2010&nbsp;IEEE&nbsp;/&nbsp;WIC&nbsp;/&nbsp;ACM&nbsp;International&nbsp;Conferences&nbsp;on&nbsp;Web&nbsp;Intelligence&nbsp;and&nbsp;Intelligent&nbsp;Agent&nbsp;Technology,&nbsp;August&nbsp;&nbsp;2010,&nbsp;Toronto,&nbsp;Canada&nbsp;Bin&nbsp;Wu,&nbsp;Wenbo&nbsp;Ma,&nbsp;Tian&nbsp;Zhu,&nbsp;Juan&nbsp;Yang:&nbsp;Predicting&nbsp;mechanical&nbsp;properties&nbsp;of&nbsp;hot-rolling&nbsp;steel&nbsp;by&nbsp;using&nbsp;RBF&nbsp;network&nbsp;method&nbsp;based&nbsp;on&nbsp;complex&nbsp;network&nbsp;theory.&nbsp;ICNC&nbsp;2010:&nbsp;1759-176<br>吴&nbsp;斌&nbsp;马&nbsp;超&nbsp;一种旅行数据约束关联规则挖掘算法&nbsp;&nbsp;计算机工程与应用&nbsp;&nbsp;2010&nbsp;46&nbsp;(20):&nbsp;129-132&nbsp;&nbsp;,&nbsp;Bin&nbsp;Wu,&nbsp;Shengqi&nbsp;Yang&nbsp;,Haizhou&nbsp;Zhao,Yuan&nbsp;Gao,&nbsp;and&nbsp;Lijun&nbsp;Suo,&nbsp;CosDic:&nbsp;Towards&nbsp;a&nbsp;Comprehensive&nbsp;System&nbsp;for&nbsp;Knowledge&nbsp;Discoveryin&nbsp;Large-scale&nbsp;data,&nbsp;2009&nbsp;IEEE/WIC/ACM&nbsp;International&nbsp;Joint&nbsp;Conference&nbsp;on&nbsp;Web&nbsp;Intelligence&nbsp;and&nbsp;Intelligent&nbsp;Agent&nbsp;Technology&nbsp;(WI’09&nbsp;and&nbsp;IAT’09),&nbsp;15&nbsp;–&nbsp;18&nbsp;September&nbsp;2009,&nbsp;Milano,&nbsp;Italy&nbsp;Bin&nbsp;Wu,&nbsp;Deyong&nbsp;Hu,&nbsp;Qi&nbsp;Ye,&nbsp;Bai&nbsp;Wang&nbsp;,&nbsp;Correlation&nbsp;in&nbsp;mobile&nbsp;call&nbsp;networks&nbsp;from&nbsp;structure&nbsp;perspective&nbsp;Frontiers&nbsp;of&nbsp;Computer&nbsp;Science&nbsp;in&nbsp;China,&nbsp;2009,Vol.&nbsp;3(3)&nbsp;347-&nbsp;355&nbsp;WU&nbsp;Bin,&nbsp;LIU&nbsp;Qi&nbsp;and&nbsp;YE&nbsp;Qi，Cumulative&nbsp;Laws,&nbsp;Team&nbsp;Assembling&nbsp;Mechanisms&nbsp;Determining&nbsp;Network&nbsp;Structure.&nbsp;Chinese&nbsp;Physics&nbsp;Letters&nbsp;2008&nbsp;25&nbsp;(2):&nbsp;776-779&nbsp;Wu,&nbsp;Bin&nbsp;Bi,&nbsp;Ran;&nbsp;Ye,&nbsp;Qi,Design&nbsp;and&nbsp;implementation&nbsp;of&nbsp;SOA-based&nbsp;integrative&nbsp;tools&nbsp;for&nbsp;network&nbsp;analysis&nbsp;and&nbsp;visualization:&nbsp;Journal&nbsp;of&nbsp;Harbin&nbsp;Institute&nbsp;of&nbsp;Technology&nbsp;(New&nbsp;Series),&nbsp;v&nbsp;15,&nbsp;n&nbsp;SUPPL.,&nbsp;p&nbsp;32-36,&nbsp;April&nbsp;2008&nbsp;&nbsp;Wu,&nbsp;Bin;&nbsp;Tan,&nbsp;Jianbin;&nbsp;Huang,&nbsp;Yi;&nbsp;Finding&nbsp;sales&nbsp;promotion&nbsp;based&nbsp;on&nbsp;group&nbsp;analysis&nbsp;of&nbsp;edge-enhanced&nbsp;product&nbsp;networks,China-Ireland&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Information&nbsp;and&nbsp;Communications&nbsp;Technologies,&nbsp;CIICT&nbsp;2008,p&nbsp;204-210,&nbsp;2008,&nbsp;Wu,&nbsp;Bin;&nbsp;Yang,&nbsp;Xin;&nbsp;Huang,&nbsp;Yi;&nbsp;Tan,&nbsp;Jianbin&nbsp;Analyzing&nbsp;temporal&nbsp;variation&nbsp;of&nbsp;telecom&nbsp;graph&nbsp;structure,,China-Ireland&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Information&nbsp;and&nbsp;Communications&nbsp;Technologies,&nbsp;CIICT&nbsp;2008,&nbsp;p&nbsp;199-203,&nbsp;2008,&nbsp;吴斌,&nbsp;徐超群,&nbsp;王文彬,&nbsp;吴巍,基于链接的作者重名处理方法研究与应用.&nbsp;计算机科学,&nbsp;2008,&nbsp;35&nbsp;(03):&nbsp;197-199&nbsp;&nbsp;吴斌,&nbsp;杜楠,&nbsp;裴欣,&nbsp;叶祺,&nbsp;基于科技文献的科研组织网络分析方法研究,情报学报,&nbsp;2008,vol27(04)591-595&nbsp;Wu,&nbsp;Bin;&nbsp;Pei,&nbsp;Xin&nbsp;A&nbsp;parallel&nbsp;algorithm&nbsp;for&nbsp;enumerating&nbsp;all&nbsp;the&nbsp;maximal&nbsp;k-plexes,&nbsp;Lecture&nbsp;Notes&nbsp;in&nbsp;Computer&nbsp;Science&nbsp;(including&nbsp;subseries&nbsp;Lecture&nbsp;Notes&nbsp;in&nbsp;Artificial&nbsp;Intelligence&nbsp;and&nbsp;Lecture&nbsp;Notes&nbsp;in&nbsp;Bioinformatics),&nbsp;v&nbsp;4819&nbsp;LNAI,&nbsp;p&nbsp;476-483,&nbsp;2007,&nbsp;Emerging&nbsp;Technologies&nbsp;in&nbsp;Knowledge&nbsp;Discovery&nbsp;and&nbsp;Data&nbsp;Mining&nbsp;-&nbsp;PAKDD&nbsp;2007&nbsp;International&nbsp;Workshops,&nbsp;Revised&nbsp;Selected&nbsp;Papers&nbsp;Wu,&nbsp;Bin;&nbsp;Pei,&nbsp;Xin;&nbsp;Tan,&nbsp;JianBin;&nbsp;Wang,&nbsp;Yi,&nbsp;Resume&nbsp;mining&nbsp;of&nbsp;communities&nbsp;in&nbsp;social&nbsp;network:&nbsp;Proceedings&nbsp;-&nbsp;IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Data&nbsp;Mining,&nbsp;ICDM,&nbsp;p&nbsp;435-440,&nbsp;2007,&nbsp;ICDM&nbsp;Workshops&nbsp;2007&nbsp;-&nbsp;Proceedings&nbsp;of&nbsp;the&nbsp;17th&nbsp;IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Data&nbsp;Mining&nbsp;Workshops&nbsp;吴斌&nbsp;叶祺&nbsp;裴欣,可视分析在科技监测中的应用,数字图书馆论坛2007&nbsp;,(02):9-15&nbsp;吴斌,&nbsp;王柏,&nbsp;苏雪峰,&nbsp;&nbsp;一种大规模呼叫图最大团发现算法,第十一届中国人工智能学术年会,&nbsp;2005,武汉,1505-1510</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp; （010）62283778</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教三616</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp; wubin@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

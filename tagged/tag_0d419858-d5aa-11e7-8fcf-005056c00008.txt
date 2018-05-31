@@ -1,0 +1,92 @@
+首页 
+学院概况 
+学院简介 
+发展历程 
+组织结构 
+现任领导 
+历任领导 
+院长寄语 
+人才培养 
+本科生工作 
+研究生工作 
+师资队伍 
+测控 技术 教学 ... 
+机器人 传感 与 ... 
+空间信息 与导 ... 
+汽车 安全 技术 ... 
+微 惯性 系统 及 ... 
+先进导航 技术 ... 
+信息 导航 与 智 ... 
+智能网络 及测 ... 
+院士 办公室 
+科学研究 
+科研 通知 
+学术交流 
+科研成果 
+党群 工作 
+党建 工作 
+教工之家 
+校友会 
+关工委 
+学生工作 
+通知 公告 
+就业信息 
+学生组织 
+学生活动 
+党团建设 
+下载专区 
+联系 我们 
+下载专区 
+English 
+1 
+name_label 
+发布者 ： name_label 发布时间 ： timelabel 浏览次数 ： 8499 
+name_label ， 教授 ， 博士生导师 。 place_label 六大 高峰 人才 、 国土资源部 首届 杰出青年 科技人才 ， 入选 科技部重点 领域 创新团队 （ 第一 合作 人 ）、 place_label 高 校优秀青年教师 境外 研修 奖励计划 。 
+timelabel 生 ， 吉林 桦甸 人 ， 东南 大学仪器科学 与 技术 专业博士学位 ， 英国诺丁汉大学访问 学者 ； timelabel 加入 东南 大学仪器科学 与 工程学院 ， 从事 智能 体 自主导航 与 环境 感知 、 高精度 卫星 导航定位 等 研究 和 教学工作 ； 先后主持承担 国家科技支撑计划 重点课题 2 项 、 国家自然科学基金 3 项 、 国家重点研发计划 子课题 1 项 ， 国家公益性行业 基金 1 项 、 place_label 重点 研发计划课题 1 项 、 中国航天 科技 / place_label 电科 等 企事业委托 课题 15 项 ； 发表 Sci / Ei 学术论文 71 篇 ， 授权国家 发明专利 29 项 ， 获省部级科学 技术 奖励 5 项 。 
+主要研究方向 
+1 .  高精度 GNSS 卫星 导航定位 
+2 .  智能 体 环境 感知 与 自主导航 
+3 .  多源 融合 泛 在 智能 导航定位 
+4 .  高精度 动态 定位 检定 与 溯源 
+科研项目情况 
+1 .  国家自然科学基金 2 项 ， 在 研 ， 负责人 ； 
+2 . “ 十三 五 ” 国家重点研发计划 子课题 1 项 ， 在 研 ， 负责人 ； 
+3 . “ 十三 五 ” place_label 重点研发计划 1 项 ， 在 研 ， 负责人 ； 
+4 .  place_label 六大人才高峰 计划 1 项 ， 在 研 ， 负责人 ； 
+5 .  国家 质检 总局 重点项目 1 项 ， 在 研 ， 负责人 （ 东南大学 ）； 
+6 . “ 十一五 ” 国家科技支撑计划 重点项目课题 1 项 ， 完成 ， 负责人 ； 
+7 . “ 十二五 ” 国家科技支撑计划 重点项目课题 1 项 ， 完成 ， 负责人 ； 
+8 .  国家公益性行业 基金 1 项 ， 完成 ， 负责人 ； 
+9 .  国家自然科学基金 1 项 ， 完成 ， 第一 合作 人 ； 
+10 . 中国航天 科技 、 place_label 电子科技 等 企事业单位委托 课题 11 项 ， 负责人 。 
+代表性论著 （ 近 3 年 ） 
+[ 1 ]  PanS   G ,  Meng   X ,  Gao   W ,  et   al .  A   New   Approach   for   Optimising   GNSS   PositioningPerformance   in   Harsh   Obs ervation   Env iron ments .  Journal   of   Navigation ,  timelabel , 67 ( 6 ):  1029 - 1048 . ( SCI检索 ) 
+[ 2 ] Shu guoPan  , 
+We iron g   Chen ,  Xia odong   Jin ,  etal .  Real - Time   PPP   based   on   the   Coupling   Estimation   of   Clock   Bias   and   OrbitError   with   Broadcast   Ephemeris . Sensors   timelabel , 17808 - 17826 .（ SCI检索 ） 
+[ 3 ]  PanS   G ,  Gao   W ,  Wang   S   L ,  et   al .  Analy sis   of   ill   posedness   in   double   differentialambiguity   resolution   of   BDS .  Survey   Review ,  timelabel ,  46 ( 339 ):  411 - 416 .(  SCI检索 ) 
+[ 4 ] 
+Pan   S   G ,  Meng   X ,  Wang   S   L ,  et   al . Ambiguity   resolution   with   double   troposphere   parameter   restriction   for   longrange   ref erence   station s   in   NRTK   System .  Survey   Review ,  timelabel ， 47 ( 345 ): 429 - 437 .（ SCI检索 ） 
+[ 5 ]  WangGao ,  Chengfa   Gao ,  Shu guo   Pan *,  et   al .  Improving   Ambiguity   Resolution   for   MediumBaselines   Using   Com bin ed   GPS   and   BDS   Dual / Triple - Frequency   Obs ervations ,  Sensors , timelabel , 27525 - 27542 （ SCI检索 ） 
+[ 6 ]  WangD ,  Gao   C ,  Pan   S *,  et   al .  A   Robust   Strategy   for   Ambiguity   Resolution   UsingUn - Diff erenced   and   Un - Com bin ed   GNSS   Models   in   Network   RTK [ J ].  Journal   ofNavigation ,  timelabel ,  69 ( 3 ): 504 - 520 .（ SCI检索 ） 
+[ 7 ] GaoW ,  Gao   C   Pan   S *.  Sin gle - Epoch   Navigation   Performance   with   Real   BDSTriple - Frequency   Pseudorange   and   EWL / WL   Obs ervations [ J ].  Journal   of   Navigation , timelabel ,  69 ( 6 ): 1293 - 1309 . （ SCI检索 ） 
+[ 8 ]  WangD ,  Meng   X ,  Gao   C ,  Pan   S *， et   al . Multipath   extraction   and   mitigation   for   b rid ge   deformation   monitoring   using   asingle - difference   model [ J ].  Advances   in   Space   Research ,  timelabel , Oline .（ SCI 源刊 ） 
+[ 9 ]  GaoW ,  Gao   C ,  Pan   S *,  et   al .  Method   and   asse ssm ent   of   BDS   triple - frequencyambiguity   resolution   for   long - baseline   network   RTK [ J ].  Advances   in   SpaceResearch ,  timelabel , Oline .（ SCI 源刊 ） 
+[ 10 ]  GaoW ,  Gao   C ,  Pan   S *.  A   method   of   GPS / BDS / GLONASS   com bin ed   RTK   positioning   formiddle - long   baseline   with   partial   ambiguity   resolution [ J ].  Survey   Review ,  timelabel , Oline .（ SCI 源刊 ） 
+奖励 / 荣誉 
+1 .  timelabel 教育部科技进步 一等奖 
+2 .  timelabel place_label 科学技术 学会 一等奖 
+3 .  timelabel 教育部科技进步二等奖 
+4 .  timelabel 国土资源部 科学技术 二等奖 
+5 .  timelabel place_label 卫星 导航定位 协会 科学技术 二等奖 
+6 .  timelabel 入选 国土资源部 杰出青年 科技人才 计划 
+7 .  timelabel 年入选江苏省 六大人才高峰 计划 
+8 .  timelabel 科技部创新 人才 推进 计划 重点 领域 创新团队 （ 第一 合作 人 ） 
+9 .  timelabel 中 泰国 立奖 教金 
+学术兼职 
+“ 泛 在 导航定位 与 位置服务 国际会议 ”（ UPINLBS ' timelabel ） Session   Chair 、 全球华人 导航定位 协会 （ CPGPS ） 会员 、 place_label 惯性 技术 协会会员 ； 青年 长江学者 通讯评审专家 ； 国家重点研发计划 视频 答辩 评审专家 ； 国家自然科学基金 通讯评审专家 ； 中国工程 timelabel 咨询 通讯评审专家 ； booklabel 、 booklabel 等学术期刊 审稿专家 。 
+研究生 / 博后 招聘计划 
+硕士生 ： 3 - 4 人 / 年 ； 博士生 ： 1 - 2 人 / 年 ； 博士后 ： 1 - 2 人 / 年 ， 欢迎 仪器科学 与 技术 、 自动控制 、 测绘 、 计算机 、 电子 、 数学 等 相关 专业 的 同学报考 。 
+联系方式 
+Tel : phonelabel , Email : maillabel 
+东南大学 四 牌楼 校区 礼西 二楼 / 空间信息 与 导航定位 研究中心 203 室 
+版权所有  ©  东南 大学仪器科学 与 工程学院   place_label 四 牌楼 2 号  ( Zip : timelabel 96   Tel : phonelabel ) 

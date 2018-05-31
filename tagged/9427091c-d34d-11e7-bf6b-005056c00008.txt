@@ -1,0 +1,575 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../css/2017/index.css" type="text/css" rel="stylesheet">
+<link href="../css/2017/dh.css" type="text/css" rel="stylesheet">
+<link href="../css/2017/list.css" type="text/css" rel="stylesheet">
+<link href="../css/2017/tab.css" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="../css/2017/left-nav.css">
+
+<script src="../js/2017/left-nav-jquery-1.3.2.js" type="text/javascript"></script>
+<script src="../../js/2017/left-nav-jquery-1.3.2.js" type="text/javascript"></script>
+<script type="text/javascript" src="../js/2017/tab-jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="../js/2017/tab-jquery.SuperSlide.js"></script>
+<script type="text/javascript" src="../../js/2017/tab-jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="../../js/2017/tab-jquery.SuperSlide.js"></script>
+<title>马瑞新</title>
+<meta name="keywords" content="">
+<meta name="description" content="马瑞新">
+
+</head>
+
+<body>
+
+<!---头部开始--->
+<div id="header">
+	<div id="header-1">
+      <div class="logo"><a href="/" target="_blank"><img src="/images/2017/logo.png" width="614" height="110" border="0"></a> </div>
+      <div id="english"><a href="http://en.metall.ustb.edu.cn/" target="_blank">ENGLISH</a>      </div>
+  </div>    
+</div>
+
+<div id="nav0">
+<div id="nav">
+	<div class="menu">
+            <ul>
+             
+            <li><a class="hide1" href="/" target="_blank"><span class="menu_dh_fu"><img src="/images/2017/home2.jpg" width="109" height="50" border="0"></span></a>
+            <!--[if lte IE 6]>
+            <a href="/">首页
+            <table><tr><td>
+            <![endif]-->
+            <!--
+                <ul>
+                  <li><a href="" class=""></a></li>
+
+                </ul>
+                -->
+                
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>
+                       
+            <li><a class="hide" href="/about/introducing/" target="_blank"><span class="menu_dh_fu">学院概况</span></a>
+            <!--[if lte IE 6]>
+            <a href="/about/">学院概况
+            <table><tr><td>
+            <![endif]-->
+                <ul>                
+                <li><a class="hide menu_dh_fu" href="/about/introducing/" title="学院简介" target="_blank">学院简介</a>
+              <!--[if lte IE 6]>
+              <a class="sub" href="/about/introducing/" title="学院简介">学院简介 >
+              <table><tr><td>
+              <![endif]-->
+                  
+                <!--[if lte IE 6]>
+                </td></tr></table>
+              </a>
+              <![endif]-->
+                </li>
+                <li><a class="hide" href="/about/Speech/" title="院长致辞" target="_blank">院长致辞</a>
+              <!--[if lte IE 6]>
+              <a class="sub" href="/about/Speech/" title="院长致辞">院长致辞 >
+              <table><tr><td>
+              <![endif]-->
+                <!--[if lte IE 6]>
+                </td></tr></table>
+              </a>
+              <![endif]-->
+                </li>
+                <li><a class="hide" href="/about/Leader/" title="现任领导" target="_blank">现任领导</a>
+              <!--[if lte IE 6]>
+              <a class="sub" href="/about/Leader/" title="现任领导">现任领导 >
+              <table><tr><td>
+              <![endif]-->
+                <!--[if lte IE 6]>
+                </td></tr></table>
+              </a>
+              <![endif]-->
+                </li>
+
+                <li><a class="hide" href="/about/Journal/" title="院刊" target="_blank">院刊</a>
+              <!--[if lte IE 6]>
+              <a class="sub" href="/about/Journal/" title="院刊">院刊 >
+              <table><tr><td>
+              <![endif]-->
+                <!--[if lte IE 6]>
+                </td></tr></table>
+              </a>
+              <![endif]-->
+                </li>
+                <li><a class="hide" href="/about/Briefing/" title="冶金简报" target="_blank">冶金简报</a>
+              <!--[if lte IE 6]>
+              <a class="sub" href="/about/Briefing/" title="冶金简报">冶金简报 >
+              <table><tr><td>
+              <![endif]-->
+                <!--[if lte IE 6]>
+                </td></tr></table>
+              </a>
+              <![endif]-->
+                </li>
+                <li><a class="hide" href="/about/History/" title="历史沿革" target="_blank">历史沿革</a>
+              <!--[if lte IE 6]>
+              <a class="sub" href="/about/History/" title="历史沿革">历史沿革 >
+              <table><tr><td>
+              <![endif]-->
+                <!--[if lte IE 6]>
+                </td></tr></table>
+              </a>
+              <![endif]-->
+                </li>
+                <li><a class="hide" href="/about/ContactUs/" title="联系方式" target="_blank">联系方式</a>
+              <!--[if lte IE 6]>
+              <a class="sub" href="/about/ContactUs/" title="联系方式">联系方式 >
+              <table><tr><td>
+              <![endif]-->
+                <!--[if lte IE 6]>
+                </td></tr></table>
+              </a>
+              <![endif]-->
+                </li>
+                </ul>
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>
+            
+  			<li><a class="hide" href="/departments/1/" target="_blank"><span class="menu_dh_fu">院系设置</span></a>
+            <!--[if lte IE 6]>
+            <a href="/departments/">院系设置
+            <table><tr><td>
+            <![endif]-->
+                <ul>
+                  <li><a href="/departments/1/" class="" target="_blank">钢铁冶金系 </a></li>
+                  <li><a href="/departments/2/" class="" target="_blank">有色金属冶金系  </a></li>
+                    <li><a href="/departments/3/" class="" target="_blank">物理化学系  </a></li>                   
+                    <li><a href="/departments/4/" class="" target="_blank">生态科学与工程系  </a></li>                   
+                    <li><a href="/departments/6/" class="" target="_blank">生态与循环实验室  </a></li>
+                    <li><a href="/departments/7/" class="" target="_blank">稀贵金属实验室</a></li>
+                    <li><a href="/departments/71/2598.html" class="" target="_blank">特种熔炼与制备实验室</a></li>
+                </ul>
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li> 
+            
+            <li><a class="hide" href="/Outstanding-alumni/1/" target="_blank"><span class="menu_dh_fu">杰出校友</span></a>
+            <!--[if lte IE 6]>
+            <a href="/about/Outstanding-alumni/4.html/">杰出校友
+            <table><tr><td>
+            <![endif]-->
+            <!--
+                <ul>
+                  
+					<li><a href="/about/Outstanding-alumni/4.html" class="">杰出校友</a></li>
+                </ul>
+            -->    
+                
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>        
+            
+            
+            <li><a class="hide" href="/jiansuo/2516.html" target="_blank"><span class="menu_dh_fu">师资队伍</span></a>
+            <!--[if lte IE 6]>
+            <a href="/jiansuo/2516.html">师资队伍
+            <table><tr><td>
+            <![endif]-->
+                <ul>
+                	<!--
+
+                    -->
+                    <li><a href="/faculty/Academician/" class="" target="_blank">院士风采</a></li>
+                    <li><a href="/jiansuo/2516.html" class="" target="_blank">系所检索</a></li>
+                    <li><a href="/faculty/2/2517.html" class="" target="_blank">姓氏检索</a></li>
+                    <li><a href="/faculty/Honorary/" class="" target="_blank">荣誉称号与奖励 </a></li>
+                </ul>
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>      
+            
+            <li><a class="hide" href="/research/echelon/" target="_blank"><span class="menu_dh_fu">科学研究</span></a>
+            <!--[if lte IE 6]>
+            <a href="/research/">科学研究
+            <table><tr><td>
+            <![endif]-->
+                <ul>
+                  <li><a href="/research/echelon/" class="" target="_blank">学术梯队</a></li>
+                  <li><a href="/research/Achievements/" class="" target="_blank">科研成果</a></li>
+                  <li><a href="/research/Research-project/" class="" target="_blank">科研项目</a></li>
+                  
+                </ul>
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>
+            
+            <li><a class="hide" href="/academics/training/" target="_blank"><span class="menu_dh_fu">教育教学</span></a>
+            <!--[if lte IE 6]>
+            <a href="/articlelist.asp?cateID=20">教育教学
+            <table><tr><td>
+            <![endif]-->
+                <ul>
+                  <li><a href="/academics/training/" class="" target="_blank">人才培养</a></li>
+                  <li><a href="/academics/Enrollment-and-employment/" class="" target="_blank">招生就业</a></li>
+                </ul>
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>
+            
+            <li><a class="hide" href="/Student/Information/" target="_blank"><span class="menu_dh_fu">学生工作</span></a>
+            <!--[if lte IE 6]>
+            <a href="/Student/">学生工作
+            <table><tr><td>
+            <![endif]-->
+                <ul>
+                  <li><a href="/Student/Information/" class="" target="_blank">信息公开</a></li>
+                  <li><a href="/Student/news/" class="" target="_blank">学工新闻</a></li>
+                  <li><a href="/Student/party-building/" class="" target="_blank">学生党建</a></li>
+                  <li><a href="/Student/Student-service/" class="" target="_blank">学生服务</a></li>
+                  <li><a href="/Student/Graduate-work/" class="" target="_blank">研究生工作</a></li>
+                  <li><a href="/Student/Group-work/" class="" target="_blank">团学工作</a></li>
+                  <li><a href="/Student/Brand-activity/" class="" target="_blank">品牌活动</a></li>
+                  <li><a href="/Student/Metallurgy-students/" class="" target="_blank">冶金学子</a></li>                  
+                </ul>
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>
+            
+            <li><a class="hide" href="/global/news/" target="_blank"><span class="menu_dh_fu">全球合作</span></a>
+            <!--[if lte IE 6]>
+            <a href="/global/">全球合作
+            <table><tr><td>
+            <![endif]-->
+            <!--
+                <ul>
+                  <li><a href="" class=""></a></li>
+
+                </ul>
+                -->
+                
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>
+            
+            <li><a class="hide" href="/Experiment/jj/2518.html" target="_blank"><span class="menu_dh_fu">实验中心</span></a>
+            <!--[if lte IE 6]>
+            <a href="/Experiment/">实验中心
+            <table><tr><td>
+            <![endif]-->
+            
+                <ul>                    
+                    <li><a href="/Experiment/jj/2518.html" class="" target="_blank">实验室简介</a></li>
+					<li><a href="/Experiment/Instrument/" class="" target="_blank">仪器设备</a></li>
+				  <li><a href="/Experiment/lab-safety/" class="" target="_blank">实验室安全</a></li>
+                </ul>
+                
+                
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>
+            
+            
+            <li><a class="hide" href="/party-building/activity/" target="_blank"><span class="menu_dh_fu"><img src="/images/2017/danghui.jpg" width="109" height="50" border="0"></span></a>
+            <!--[if lte IE 6]>
+            <a href="/party-building/">党建工会
+            <table><tr><td>
+            <![endif]-->
+            <ul>
+                  <li><a href="/party-building/activity/" class="" target="_blank">党建活动</a></li>
+                    <li><a href="/party-building/Union-activities/" class="" target="_blank">工会活动</a></li>
+
+              <!--[if lte IE 6]>
+              <a class="sub" href="/party-building/" title="党建工会">< 党建工会
+              <table><tr><td>
+              <![endif]-->
+              		<!--
+                    <ul class="left">
+                      <li><a href="" title="党建活动">党建活动</a></li>
+                        <li><a href="" title="工会活动">工会活动</a></li>
+                    </ul>
+                    -->
+                    
+                <!--[if lte IE 6]>
+                </td></tr></table>
+              </a>
+              <![endif]-->
+              
+               <!--
+                </li>
+                -->
+                </ul>
+            <!--[if lte IE 6]>
+            </td></tr></table>
+            </a>
+            <![endif]-->
+            </li>
+      </ul>
+    </div>
+</div>
+</div>
+
+
+<!---头部结束--->
+<!---中部开始--->
+<!-- 左侧导航代码 开始 -->
+<script type="text/javascript">
+$(function(){
+$(".subNav1").click(function(){
+			$(this).toggleClass("currentDd").siblings(".subNav1").removeClass("currentDd")
+			$(this).toggleClass("currentDt").siblings(".subNav1").removeClass("currentDt")
+			
+			// 修改数字控制速度， slideUp(500)控制卷起速度
+			$(this).next(".nav1Content").slideToggle(500).siblings(".nav1Content").slideUp(500);
+	})	
+})
+
+
+</script>
+<!-- 左侧导航代码 结束 -->
+<div id="banner-list"><img src="/images/2017/banner-list-01.jpg" width="1200" height="250"></div>
+<div id="nav-fu"><a href="/" target="_blank">首页</a>&nbsp;&gt;&nbsp;<a href="/faculty/" target="_blank">师资队伍</a>&nbsp;&gt;&nbsp;<a href="/Teacher/" target="_blank">系所成员</a></div>
+
+<!---con开始--->
+<div id="conlist">
+	<div id="conlist-left">
+      <div class="subNav1Box">  
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;学院概况</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/about/introducing" title="学院简介" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 学院简介</a></li>
+       
+                         <li><a href="/about/Speech" title="院长致辞" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 院长致辞</a></li>
+       
+                         <li><a href="/about/Leader" title="现任领导" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 现任领导</a></li>
+       
+                         <li><a href="/about/Journal" title="院刊" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 院刊</a></li>
+       
+                         <li><a href="/about/Briefing" title="冶金简报" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 冶金简报</a></li>
+       
+                         <li><a href="/about/History" title="历史沿革" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 历史沿革</a></li>
+       
+                         <li><a href="/about/ContactUs" title="联系方式" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 联系方式</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;院系设置</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/departments/1" title="钢铁冶金系" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 钢铁冶金系</a></li>
+       
+                         <li><a href="/departments/2" title="有色金属冶金系" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 有色金属冶金系</a></li>
+       
+                         <li><a href="/departments/3" title="物理化学系" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 物理化学系</a></li>
+       
+                         <li><a href="/departments/4" title="生态科学与工程系" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 生态科学与工程系</a></li>
+       
+                         <li><a href="/departments/6" title="生态与循环冶金教育部重点实验室" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 生态与循环冶金教育部重点实验室</a></li>
+       
+                         <li><a href="/departments/71" title="高端金属材料特种熔炼与制备北京市重点实验室" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 高端金属材料特种熔炼与制备北京市重点实验室</a></li>
+       
+                         <li><a href="/departments/7" title="稀贵金属绿色回收与提取北京市重点实验室" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 稀贵金属绿色回收与提取北京市重点实验室</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;杰出校友</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/Outstanding-alumni/1" title="杰出校友" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 杰出校友</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;师资队伍</div>
+    		<ul class="nav1Content " style="display:block">              
+                <li><a href="/faculty/Academician" title="院士风采" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 院士风采</a></li>
+       
+                         <li><a href="/faculty/Honorary" title="荣誉称号与奖励" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 荣誉称号与奖励</a></li>
+       
+                         <li><a href="/jiansuo" title="系所检索" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 系所检索</a></li>
+       
+                         <li><a href="/faculty/2" title="姓名检索" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 姓名检索</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;科学研究</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/research/echelon" title="学术梯队" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 学术梯队</a></li>
+       
+                         <li><a href="/research/Achievements" title="科研成果" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 科研成果</a></li>
+       
+                         <li><a href="/research/Research-project" title="科研项目" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 科研项目</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;教育教学</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/academics/training" title="人才培养" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 人才培养</a></li>
+       
+                         <li><a href="/academics/Enrollment-and-employment" title="招生就业" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 招生就业</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;学生工作</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/Student/Information" title="信息公开" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 信息公开</a></li>
+       
+                         <li><a href="/Student/news" title="学工新闻" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 学工新闻</a></li>
+       
+                         <li><a href="/Student/party-building" title="学生党建" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 学生党建</a></li>
+       
+                         <li><a href="/Student/jiuyezhidao" title="就业指导" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 就业指导</a></li>
+       
+                         <li><a href="/Student/Student-service" title="学生服务" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 学生服务</a></li>
+       
+                         <li><a href="/Student/Brand-activity" title="品牌活动" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 品牌活动</a></li>
+       
+                         <li><a href="/Student/Metallurgy-students" title="冶金学子" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 冶金学子</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;全球合作</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/global/news" title="全球合作新闻" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 全球合作新闻</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;实验中心</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/Experiment/lab-safety" title="实验室安全" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 实验室安全</a></li>
+       
+                         <li><a href="/Experiment/Instrument" title="仪器设备" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 仪器设备</a></li>
+       
+                         <li><a href="/Experiment/jj" title="实验中心简介" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 实验中心简介</a></li>
+       
+                         </ul>
+     
+    <div class="subNav1 currentDd currentDt">&nbsp; &nbsp;党建工会</div>
+    		<ul class="nav1Content " style="">              
+                <li><a href="/party-building/activity" title="党建活动" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 党建活动</a></li>
+       
+                         <li><a href="/party-building/Union-activities" title="工会活动" target="_blank">&nbsp; &nbsp; &gt;&nbsp;&nbsp; 工会活动</a></li>
+       
+                         </ul>
+     
+    </div>
+            
+	</div>
+    <div id="conlist-right">
+   	  <div id="title-list">人物简介
+      </div>
+        <div id="jianjie-biaoge-1">
+        	<div id="jianjie-biaoge-1-left"><img src="../news/facultypic/maruixin2017.JPG"></div>
+            <div id="jianjie-biaoge-1-right">
+           	  <ul>
+               	  	<li><span class="size-red">姓 &nbsp; &nbsp; &nbsp; &nbsp;名：</span>马瑞新</li>
+                    <li><strong class="size-red">职 &nbsp; &nbsp; &nbsp; &nbsp;务：</strong>副教授</li>
+                	<li><strong class="size-red">电子邮件：</strong>  maruixin@ustb.edu.cn  </li>
+                    <li> </li>
+
+              </ul>       	
+        	</div>
+		
+		</div>
+        <div class="clear"></div>
+		<div id="jianjie-biaoge-2">
+        	<ul>
+            	<li><strong class="size-red">办公电话：</strong> 13264128272 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong class="size-red"> &nbsp;  &nbsp;  &nbsp; 传 &nbsp; &nbsp; &nbsp; &nbsp;真：</strong> 010-82376937</li>
+                <li><strong class="size-red">本科课程：</strong> 本科课程： 《有色金属冶金学》 
+ </li>
+                <li><strong class="size-red">研究生课程：</strong> 《表面工程的原理与方法》（硕士）、《粉体与表面工程》（博士） 
+ </li>
+                <li><strong class="size-red">科研方向：</strong>  1.稀有金属冶金：稀有金属的综合利用与材料的高纯化；<br>
+2.电化学工程：电极过程及镀层织构、新型电极材料制备与性能；<br>
+3.表面工程：高纯金属/合金/化合物的制备、磁控溅射靶材与镀膜蒸发料开发、表面化学热处理、电镀与化学镀。 
+</li>
+            </ul>
+      </div>
+      <div id="jianjie-biaoge-3">
+        
+       	<div class="tabox">
+          <div class="hd">
+            <ul>
+              <li class="on"><strong>个人简介</strong></li>
+                  <li class="">成就及业绩</li>
+                  </ul>
+              </div>
+              <div class="bd">
+                <ul class="lh" style="">
+                  <li>
+                    <div class="tab-info">
+                    <br>
+                       男，博士，副教授，1967年11月生于河北唐山。1989年毕业于唐山工程技术学院获有色金属专业学士学位；1992年毕业于中国科学院化工冶金研究所获化工冶金专业硕士学位；2000年4月毕业于北京有色金属研究总院获有色金属冶金专业博士学位。2002年4月进入北京科技大学从事教学科研工作。 
+ 
+                      <br><br>
+                      <strong class="size-red">代表性论著：</strong>
+                      <br>
+                      承担多项国家及企业课题。发表多篇论文 
+ 
+                      <br>                  
+                    </div>
+                  </li>          
+               
+                </ul>
+                
+                <ul class="lh" style="display: none;">
+                  <li>
+                    <div class="tab-info">
+                    	<br><strong class="size-red">获奖：</strong><br>
+						                        <br><br>
+                        <strong class="size-red">主要科研项目/业绩：</strong><br>
+                                            </div>
+                  </li> 
+
+
+                </ul>
+                
+                </div>
+            </div>
+			
+<script type="text/javascript">
+	jQuery(".tabox").slide({delayTime: 0});
+</script>
+   	  </div>
+        
+        <div class="clear"></div>
+        
+  </div>
+</div>
+
+<div class="clear"></div>
+
+<!---con结束--->
+<!---公告开始--->
+<!---公告结束--->
+<!---底部开始--->
+<div id="foot">
+	<div id="foot-1"><br><br>
+    Copyright © 2017   北京科技大学冶金与生态工程学院 &nbsp; &nbsp;&nbsp; &nbsp;<a href="http://cn.metall.ustb.edu.cn/" target="_blank">网站旧版</a><br>                              
+学院地址：北京市海淀区学院路30号冶金楼<br>                      
+联系电话：010-62332265 &nbsp; &nbsp;传真：010-62322265 &nbsp; &nbsp;邮编：100083 &nbsp; &nbsp;E-mail:metall@ustb.edu.cn
+    </div>
+</div>
+
+
+
+
+
+
+
+
+</body><!-- 代码 结束 --></html>

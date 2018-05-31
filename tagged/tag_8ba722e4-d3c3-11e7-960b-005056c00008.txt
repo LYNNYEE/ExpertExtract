@@ -1,0 +1,43 @@
+登录   帮助           返回首页          交大 主页 
+我 的 主页 : 
+个人信息 
+科学研究 
+论文成果 
+荣誉奖励 
+实验室建设 
+课程教学 
+招生信息 
+English 
+基本信息 
+name_label 
+教授 、 博士研究生导师 
+专业 ： 电力电子 与 电力传动 
+工作单位 ： 电气工程学院 
+联系方式 
+通信地址 ： 
+成都市西南交通大学 电气工程学院 
+电子邮箱 ： maillabel 
+办公地点 ： 
+牵引 动力 实验区   国家轨道交通电气化 与 自动化工程 技术 研究中心   NEEC 楼   105 / 102 实验室 
+个人简介 
+name_label ， 教授 ， 博士研究生导师 。 timelabel 生 ， 分别 于 timelabel 和 timelabel 西南交通大学电气 工程学院 获工学学士 和 博士学位 ， 并 分别 于 timelabel 和 timelabel 年破格晋升 为 副教授 和 教授 ， 是 IEEE高级会员 。 
+主要 从 事电力电子 技术 及 应用 研究 ， 包括 ： 多 电平 变流器 技术 、 同相 供电 变换器 、 电力电子 变压器 技术 、 APF 和 STATCOM 等 FACTS 装置 及 电力电子 应用 中 的 数字信号处理 技术 等 ， 在 多 电平 变化器 拓扑 和 优化控制 方面 具有 较 多 积累 ， 面向 无功 谐波 补偿 、 车载 电力电子 变压器 、 贯通 式 同相 供电 等 应用 研究 较 深入 。 
+主持国家自然科学基金 青年 、 青年 - 面上 连续 项目 、 博士点新教师基金 等 ， 主研 参与 3 项 “ 十一五 ” 国家科技支撑计划 、 2 项 “ 863 ” 课题 和 1 项 铁道部 科研开发 计划 等 。 发表学术论文 五十余 篇 ， 包括 booklabel 、 booklabel 、 booklabel 等 专业 顶级期刊 十余篇 。 其中 ， SCI检索论文 单篇 论文 最高 被 引用 41 次 ； EI检索论文 被 引用 159 次 。 申请 （ 授权 ） 国家 发明专利 、 实用新型 和 软件著作权 等 40 余项 。 
+主要研究方向 
+电力电子 技术 及 应用 
+包括 ： 多 电平 变换 装置 在 电力电子 变压器 、 同相 供电 、 APF 、 STATCOM 等 系统 及 电力电子 应用 中 的 数字信号处理 技术 。 
+学术兼职 
+IEEE    Trans .  on   Power   Electro nic s 、 IEEE   Trans .  on   Industrial    Electro nic s 、  IEEE   Trans .  on   Industry   Appli cation s 、 IET   Power   Electro nic s 等期刊 的 特邀审稿人 。 
+工作 与 学习简历 
+timelabel - 今 
+西南交通大学电气 工程学院 ， 教授 
+timelabel - timelabel 
+西南交通大学电气 工程学院 ， 副教授 
+timelabel - timelabel 
+西南交通大学电气 工程学院 ， 讲师 
+timelabel - timelabel 
+西南交通大学电气 工程学院 硕博 连读 ,  师从 name_label 教授 、 郭 place_label 副教授 ， 获工学博士学位 
+timelabel - timelabel 
+西南交通大学电气 工程学院 ， 本科 ， 获 电气工程 及其 自动化 学士学位 
+欢迎您 Email 联系   maillabel 
+Copyright  ©  timelabel     http :// inc . swjtu . edu . cn     西南交通大学信息 网络中心 

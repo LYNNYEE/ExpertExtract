@@ -1,0 +1,214 @@
+捐赠 通道 
+管理入口 
+English 
+首页 
+学院简介 
+学院概述 
+学院 沿革 
+学院 架构 
+行政 组织 
+历任领导 
+党委 组织 
+历史 人物 
+系所介绍 
+大事记 
+行政 通知 
+师资队伍 
+领军人才 
+千人计划 
+青年千人 
+长江学者 、 杰 ... 
+专任教师 
+机械制造 
+机械电子 
+机械设计 
+工业设计 
+车辆工程 
+工业 工程 
+客座教授 
+兼职教师 
+name_label 
+张 红 
+name_label 
+行政人员 
+学术研究 
+科研团队 
+特色 研究 
+学术论坛 
+学生培养 
+本科生培养 
+研究生培养 
+学生工作 
+学工队伍 
+学工 通知 
+学生 党建 
+支部 设置 
+制度建设 
+党团 动态 
+党员发展 
+党 日 活动 
+学生 团建 
+组织结构 
+制度建设 
+团内 动态 
+团日活动 
+学生组织 
+就业工作 
+企业 风采 
+就业 动态 
+下载专区 
+党群 工作 
+制度建设 
+党群 通知 
+两学 一 做 
+关工委 
+百年 机械 专区 
+“ 百年 机械 发 ... 
+校友风采 
+院士 
+知名校友 
+校友 返校 
+校友通讯 
+企业 风采 
+毕业 照 
+大学毕业 照 
+硕士毕业 照 
+在线 捐赠 
+联系 我们 
+孔雀东南飞 
+联系 我们 
+name_label   副教授 
+发布者 ： 机械工程学院 发布时间 ： timelabel 浏览次数 ： 3220 
+职称 
+副教授 
+办公室 
+机械 楼 439 
+联系电话 
+13915964177 
+E - mail 
+maillabel 
+学习经历 
+timelabel – timelabel ， 东南大学 ， 机械工程学院 ， 研究生 / 博士 
+timelabel – timelabel ， 合肥工业大学 ， 机械 与 汽车工程学院 ， 研究生 / 硕士 
+timelabel – timelabel ， 合肥工业大学 ， 机械 与 汽车工程学院 ， 本科 / 学士 
+工作经历 
+timelabel  – 至今 ， 东南大学 ， 机械工程学院 ， 副教授 
+timelabel  – timelabel ， 东南大学 ， 机械工程学院 ， 讲师 
+教授课程 
+机械工程 测试 与 控制技术 I 
+程序设计 与 算法语言 Ⅱ（ 非电类 ） 
+几何 精度 测量 
+生产实习 
+研究方向 
+1 .  软 测量 
+2 .  信号处理 
+3 .  故障诊断 
+获奖情况 
+东南大学 第 20 届 青年教师 授课 竞赛 三等奖 
+timelabel - timelabel 学年 “ 常州市 人民政府 奖教金 ” 
+timelabel - timelabel 年度 “ 优秀 工会 积极分子 ” 
+timelabel - timelabel 学年 “ name_label 奖教金 ” 
+东南大学 教学工作 优秀 二等奖 
+论文著作 
+[ 1 ] Hua ng   Peng ,  Jia   Min pin g ,  Zhong   Bin glin .  Study   on   the     method   for   collecting   vib ration   signals   from   mill   shell   based   on   me asu ring   the   fill   level   of   Ball   Mill  [ J ].  Mathematical   Problems   in   Engineering ,    timelabel . 
+[ 2 ] Hua ng   Peng ,  Jia   Min pin g ,  Zhong   Bin glin .  New   Method   to   Me asu re   the   Fill   Level   of   the   Ball   Mill   II - Analy sis   of   the   Vibration   Signals  [ J ].  Chinese   Journal   of   Mecha nic al   Engineering ,    timelabel ,  24 ( 4 ):  553 - 560 . 
+[ 3 ] Hua ng   Peng ,  Jia   Min pin g ,  Zhong   Bin glin .  New   Method   to   Me asu re   the   Fill   Level   of   the   Ball   Mill   I - Theoretical   Analy sis   and   DEM   S imu lation  [ J ].  Chinese   Journal   of   Mecha nic al   Engineering ,    timelabel ,  23 ( 4 ):  460 - 467 . 
+[ 4 ] Hua ng   Peng ,  Jia   Min pin g ,  Zhong   Bin glin .  Investigation   on   me asu ring   the   fill   level   of   an   industrial   ball   mill   based   on   the   vib ration   characteristic   of   the   mill   shell  [ J ].  Mine rals   Engineering   timelabel ,  22 ( 14 ):  1200 - 1208 . 
+[ 5 ] name_label ， 贾 place_label ， name_label .  基于 球磨机 筒体 振动 的 料位 特征 量 研究 [ J ].  东南大学学报 （ 自然科学 版 ）， timelabel : 898 - 903 
+[ 6 ] Hua ng   Peng ,  Jia   Min pin g ,  Zhong   Bin glin .  Study   on   a   new   vib ration   method   for   me asu ring   the   fill   level   of   the   ball   mill  [ J ].  Lecture   Notes   in   Electrical   Engineering ,  timelabel ,  128 : 617 - 622 
+[ 7 ] Hua ng   Peng ,  Jia   Min pin g ,  Zhong   Bin glin .  A   stu dy   on   the   technique   of   me asu ring   the   fill   level   based   on   the   vib ration   signal   of   the   ball   mill   shell  [ C ].  timelabel   WRI   World   Con gress   on   Computer   Science   and   Information   Engineering  ( CSIE   timelabel ),  Los   Angeles ,  USA ,  Vol   6 :  202 - 206 ,  timelabel . 
+[ 8 ] name_label ,  贾 place_label ,  name_label ,  name_label .  磨损 磨粒 显微 形态 分析 与 自动识别 技术 [ J ].  东南大学学报 ( 自然科学 版 ),  timelabel ,  36 ( 3 ):  411 - 415 
+[ 9 ] Hua ng   Peng ,  Jia   Min pin g ,  Zhong   Bin glin .  Analy sis   of   the   relation   between   charge   motion   and   fill   level   of   the   ball   mill   using   the   DEM   s imu lation  [ C ].  timelabel   International   Con ference   on   Information   Science   and   Engineering  ( ICISE   timelabel ),  timelabel ,  3 : 1647 - 1650 . 
+[ 10 ] Hua ng   Peng ,  Jia   Min pin g ,  Zhong   Bin glin .  A   stu dy   on   the   relation   between   fill   level   of   ball   mill   and   motion   of   steel   balls   by   the   disc rete   element   method  [ C ]// Proceeding   of   the   8th   International   Con ference   on   Frontiers   of   Design   and   Manufacturing .  Tianjin ,  timelabel : 213 - 217 
+[ 11 ] Wang   Heng ,  Jia   Min pin g ,  Hua ng   Peng ,  Chen   Zuoliang . A   stu dy   on   a   new   algorithm   to   optimize   ball   mill   syste mba sed   on   modeling   and   GA  [ J ].  Energy   Con version   and   Management ,  timelabel ,  51 ( 4 ):  846 - 850 
+[ 12 ] Xian guo   Hu ,  Peng   Hua ng ,  Sh ous en   Zheng . On   the   pretreatment   process   for   the   obj ect   extraction   in   color   image   of   wear   d ebr is  [ J ].  International   Journal   of   Imaging   Systems   and   Technology ,  timelabel ,  17 ( 5 ):  277 - 284 
+[ 13 ] name_label ， name_label ， name_label .  一种 基于 非线性 流行 学习 的 故障 特征提取 模型 [ J ].  振动 与 冲击 ， timelabel ( 23 ):  132 - 136 
+[ 14 ] name_label ， 贾 place_label ， name_label ， name_label .  集成 筒体 振动 信号 的 球磨机 出力 在线 监测 [ J ].  江苏大学学报 （ 自然科学 版 ）， timelabel ( 2 ):  134 - 138 
+[ 15 ] name_label ， 贾 place_label ， name_label ， name_label ， 张立成 ， 周全 .  故障 树 分析 及其 在 制粉 系统 故障诊断 中 的 应用 [ J ].  振动 、 测试 与 诊断 ， timelabel ( 4 ):  288 - 290 
+[ 16 ] Xian guo   Hu ,  Wu   Yucheng ,  Yuan   Guangcheng ,  Peng   Hua ng ,  Jin g   Hefeng .  Tribological   properties   of   nano - sized   molybde num   dis ulfide   particle [ C ]// Proceedings   of   the   World   Tribology   Con gress   III  -  timelabel .  Washington ,  timelabel :  303 - 304 
+[ 17 ] name_label ， 贾 place_label ， name_label ， name_label .  基于 筒体 振动 信号 的 球磨机 优化 工况 监测 [ J ].  仪表 技术 与 传感器 ， timelabel :  145 - 148 
+[ 18 ] name_label ， name_label ， name_label .  一种 克服 噪声 的 鲁棒 Laplacian 特征 映射 算法 [ J ].  江南 大学学报 （ 自然科学 版 ）， timelabel ):  401 - 405 
+[ 19 ] name_label ， name_label ， name_label .  USB 接口 在 WINDOWS   CE . NET 数控系统 中 的 应用 研究 [ J ].  机电 技术 ， timelabel :  2 - 4 
+[ 20 ] Xian guo   Hu ,  Peng   Hua ng ,  Sh ous en   Zheng .  Object   extraction   from   an   image   of   wear   particles   on   a   complicated   backgro und  [ J ].  Pattern   Recognition   and   Image   Analy sis ,  timelabel ,  16 ( 4 ): 644 - 650 
+科研项目 
+项目名称 
+项目类别 
+项目时间 
+工作 类别 
+项目金额 
+基于 离散 元素 法 的 球磨机 介质 运动 分析 及 应用 研究 
+国家自然科学基金项目 
+timelabel - timelabel 
+主持 
+轨道 车辆 门 系统 远程 状态监测 、 故障诊断 与 健康 评估 关键技术 研发 
+place_label 科技支撑 （ 工业 部分 ） 项目 
+timelabel - timelabel . 06 
+第二 参与 单位 
+基于 半 监督 流行 学习 的 非线性 故障诊断 方法 研究 
+国家自然科学基金项目 
+timelabel - timelabel 
+参与 
+机电设备 状态 检测 与 预警 关键技术 研究 
+place_label 产学研 项目 
+timelabel - timelabel . 09 
+参与 
+基于 传感网 的 机电 装备 智能 监控 诊断 成套 装置 研发 及 产业化 
+place_label 重大 成果转化 基金项目 
+timelabel - timelabel . 09 
+参与 
+牵引 整流 变压器 在线 监控 保护 及 故障 预警 诊断 装置 研发 
+place_label 重大 成果转化 基金项目 
+timelabel - timelabel 
+参与 
+基于 多 传感器 融合 的 大型 起重机 裂纹 早期 诊断 的 理论 与 方法 研究 
+教育部博士点基金项目 
+timelabel - 2016.1 2 
+参与 
+基于 传感网 的 机电 装备 智能 监控 诊断 成套 装置 研发 
+横向项目 
+timelabel - 2013.10 
+参与 
+适用 Bosch 泵 和 嘴 的 SCR 系统 电控 DCU 开发 
+横向项目 
+timelabel - 2011.05 
+参与 
+分配 泵 电控 单元 （ ECU ） 开发 
+横向项目 
+timelabel - timelabel 
+参与 
+桥 门式 起重机械 安全评估 方法 研究 
+横向项目 
+timelabel - timelabel . 04 
+参与 
+电熔 管件 焊接 参数 优化 
+横向项目 
+timelabel - timelabel . 03 
+参与 
+储罐 安全 及 腐蚀 活性 评价 系统开发 
+横向项目 
+timelabel - timelabel . 01 
+参与 
+基于 模型 辨识 的 在 役 起重机 结构损伤 识别方法 研究 
+横向项目 
+timelabel - 2016.1 2 
+参与 
+桥 门式 起重机 智能 监控 与 故障诊断 系统研究 
+横向项目 
+timelabel - timelabel . 06 
+参与 
+专利 
+专利号 
+专利名称 
+专利类型 
+timelabel 10059870.7 
+球磨机 内部 球 name_label 矿料 动态 分布 检测 系统 及 方法 
+timelabel 10060196.4 
+球磨机 内部 球 name_label 硬质 块状 矿料 分布 检测 系统 及 方法 
+timelabel 10060289.7 
+球磨机 内部 球 name_label 块状 矿料 分布 检测 系统 及 方法 
+timelabel 10060132.4 
+球磨机 内部 钢球 群 动态 分布 检测 系统 及 方法 
+timelabel 10131415.2 
+基于 球磨机 旋转 筒体 振动 信号 的 料位 检测 方法 及其 检测 装置 
+东南 大学机械工程学院 
+备案 序号 ： 苏 ICP 证 timelabel 08 timelabel 号 

@@ -1,0 +1,155 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>许梦卿_北京化工大学文法学院</title>
+<meta name="keywords" content="北京化工大学，文法学院">
+<meta name="description" content="北京化工大学，文法学院">
+
+<!-----------下拉菜单 效果-------->
+<script type="text/javascript" src="../../../../js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="../../../../js/js1.js"></script>
+
+<link href="../../../../css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<!--头部-->
+<div class="header">
+
+<div class="logo">
+<a href="http://en.wfxy.buct.edu.cn/" target="_blank" style="position: absolute; display: block; top:10px;right:10px;color:#fff;">English Version</a>
+        <div class="logo01"><a href="../../../../index.htm" target="_blank"><img src="../../../../images/logo01.png"></a></div>
+        <div class="shu"><img src="../../../../images/13.png"></div>
+        <div class="nian"><img src="../../../../images/2013.png"></div>
+        <div class="ser">
+                   </div>
+    </div>
+	<div class="nav">
+        <ul>
+        <li><a href="../../../../index.htm" target="_blank">学院首页</a></li>
+                    <li><a href="../../../index.htm" target="_blank">学院概况</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../xyjj/index.htm" target="_blank">学院简介</a></dd>
+                                    <dd><a href="../../../xyld/index.htm" target="_blank">学院领导</a></dd>
+                                    <dd><a href="../../../zzjg/index.htm" target="_blank">组织机构</a></dd>
+                                    <dd><a href="../../index.htm" target="_blank">教师风采</a></dd>
+                                    <dd><a href="../../../zdjs/index.htm" target="_blank">制度建设</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../xwtz/index.htm" target="_blank">新闻通知</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../xwtz/wfxw/index.htm" target="_blank">文法新闻</a></dd>
+                                    <dd><a href="../../../../xwtz/wftz/index.htm" target="_blank">文法通知</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../jyjx/index.htm" target="_blank">教育教学</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../jyjx/bksjy/index.htm" target="_blank">本科生教育</a></dd>
+                                    <dd><a href="../../../../jyjx/yjsjy/index.htm" target="_blank">研究生教育</a></dd>
+                                    <dd><a href="../../../../jyjx/lxsjy/index.htm" target="_blank">工程硕士教育</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../kyxz/index.htm" target="_blank">科研学术</a>
+                        </li>
+                     <li><a href="../../../../dtgk/index.htm" target="_blank">党团工会</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../dtgk/dqgz/index.htm" target="_blank">党群工作</a></dd>
+                                    <dd><a href="../../../../dtgk/gkgz/index.htm" target="_blank">工会工作</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../zsjy/index.htm" target="_blank">招生就业</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="http://www.goto.buct.edu.cn/" target="_blank">本科生招生</a></dd>
+                                    <dd><a href="http://gs.buct.edu.cn/enroll/yjszs.aspx" target="_blank">研究生招生</a></dd>
+                                    <dd><a href="../../../../zsjy/lxszs/index.htm" target="_blank">工程硕士招生</a></dd>
+                                    <dd><a href="../../../../zsjy/jyxx/index.htm" target="_blank">就业信息</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../xshd/index.htm" target="_blank">学生活动</a>
+                        </li>
+                     <li><a href="../../../../xysq/index.htm" target="_blank">校友社区</a>
+                        </li>
+                 </ul>
+    
+    </div></div>
+<!--内容-->
+<div class="content02">
+  <div class="con_lf" id="height1" style="height: 725px;">
+      <div class="lf01">
+            <div class="lf01_tit">
+            <h1><a href="#">四系</a></h1>
+            </div>
+            <img src="../../../../images/tit01.png">
+            <div class="lf01_con">
+                <ul>
+                                    <li><a href="index.htm" target="_blank">外语系</a></li>
+                                    <li><a href="../flx/index.htm" target="_blank">法律系</a></li>
+                                    <li><a href="../sktyx/index.htm" target="_blank">社会体育系</a></li>
+                                    <li><a href="../ggglx/index.htm" target="_blank">公共管理系</a></li>
+                                </ul>
+            </div>
+        </div>
+        <div class="lf02">
+            <ul>
+            <li class="icon01"><a href="mailto:wfxy@mail.buct.edu.cn" target="_blank">院长信箱</a></li>
+            <li class="icon02"><a href="../../../../zlxz/index.htm" target="_blank">资料下载</a></li>
+            <li class="icon03"><a href="http://www.buct.edu.cn/" target="_blank">北京化工大学</a></li>
+            <li class="icon04"><a href="../../../../rczp/index.htm" target="_blank">人才招聘</a></li>
+            </ul>
+        </div>
+    </div>
+<div class="con_rt" id="height2">
+        <div class="breadcrumb">您当前的位置：                 <a href="../../../../index.htm" target="_blank">首页</a>»
+                 <a href="../../../index.htm" target="_blank">学院概况</a>»
+                 <a href="../../index.htm" target="_blank">教师风采</a>»
+                 <a href="../index.htm" target="_blank">四系</a>»
+        外语系
+        </div>
+        <div class="rt_tit">
+        <h1>许梦卿</h1>
+                    </div>
+        <div class="rt_zuozhe">
+      来源：文法学院&nbsp;&nbsp;发布日期：2013-12-13
+        </div>
+        <div class="rt_zhengwen" style="min-height:300px;_height:300px; height:auto;">
+			&nbsp;
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt"><img alt="" src="../../../../images/content/2013-12/20131213142440656048.jpg" width="200" height="150" align="left"><br>
+&nbsp;&nbsp;&nbsp; 许梦卿，生于<span lang="EN-US">1971</span>年<span lang="EN-US">3</span>月，应用语言学硕士，现任北京化工大学文法学院副教授。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt"><br>
+<br>
+<br>
+<br>
+一、<b>教育背景及工作经历：</b></span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">1994</span><span style="line-height: 150%; font-size: 12pt">年<span lang="EN-US">7</span>月于东北师范大学外语系获文学学士学位，</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">2008</span><span style="line-height: 150%; font-size: 12pt">年<span lang="EN-US">1</span>月于北京师范大学获应用语言学硕士学位，</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">2012</span><span style="line-height: 150%; font-size: 12pt">年<span lang="EN-US">1</span>月—<span lang="EN-US">2012</span>年<span lang="EN-US">8</span>月赴<span style="background: white; letter-spacing: -0.75pt; color: black">美国宾西法尼<span class="grame">亚州</span>立大学应用语言学系访问研究。</span></span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; background: white; letter-spacing: -0.75pt; color: black; font-size: 12pt" lang="EN-US">1994</span><span style="line-height: 150%; background: white; letter-spacing: -0.75pt; color: black; font-size: 12pt">年<span lang="EN-US">8</span>月起，任教于北京化工大学文法学院外语系，教授本科生大学英语课程。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; background: white; letter-spacing: -0.75pt; color: black; font-size: 12pt">二、</span><b><span style="line-height: 150%; font-size: 12pt">主要研究方向：</span></b><span style="line-height: 150%; font-size: 12pt">英语语言教学。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><b><span style="line-height: 150%; font-size: 12pt">三、著作：</span></b></div>
+<div class="MsoNormal" style="line-height: 150%; text-indent: 23.5pt"><span style="line-height: 150%; font-size: 12pt">发表论文十余篇，其中“非英语专业大学生介词<span lang="EN-US">in</span>使用情况——一项基于语料库的研究”一文发表于外语类核心期刊《外语与外语教学》（<span lang="EN-US">2011</span>年第<span lang="EN-US">5</span>期），“基于语料库的介词<span lang="EN-US">in</span>错误分析”发表于社科类核心期刊《宁夏大学学报（社会科学版）》（<span lang="EN-US">2011</span>年第<span lang="EN-US">6</span>期），“<span lang="EN-US">Macroadaptaions of Textbooks for Particular Classroom Settings</span>”一文发表于世界英语教师协会<span lang="EN-US"> (TESOL) </span>出版的系列丛书 “<span lang="EN-US">The TESOL Classroom Series</span>”之<span lang="EN-US">Using Textbooks Effectively</span>（<span lang="EN-US">2009</span>）中。另参编教材五部。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><b><span style="line-height: 150%; font-size: 12pt">四、所获荣誉：</span></b></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">2010</span><span style="line-height: 150%; font-size: 12pt">年<span lang="EN-US">11</span>月被评为我校优秀青年主讲教师。</span></div>
+<br> 
+      </div>
+                
+    </div>
+    
+</div>
+<!--底部-->
+
+<div class="footer">
+版权属北京化工大学文法学院所有    地址：北京北三环路15号 电话：（010-64434889）    访问量：
+<script src="/cms/modules/channelVisitLog.jsp?parentID=3412"></script>
+</div><!-----------左侧随右侧高度------------------>
+<script type="text/javascript">
+      var height1 = document.getElementById("height1");
+  	  var height2 = document.getElementById("height2");   
+      if( height1.offsetHeight > height2.offsetHeight){
+        height2.style.height = height1.offsetHeight + "px";
+      }
+     else{
+           height1.style.height = height2.offsetHeight + "px";
+      }
+</script>
+
+</body></html>

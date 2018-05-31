@@ -1,0 +1,47 @@
+教师个人信息 
+姓名 
+name_label 
+性别 
+男 
+职务 
+学术兼职 
+中国计算机学会 YOCSEF 委员 
+老师类型 
+硕导 
+所属中心 
+物 联网 技术 中心 
+职称 
+副教授 
+承担课程 
+多媒体技术 
+研究方向 
+物 联网 与 传感网 
+个人介绍 
+刘   亮 ， 男 ， 博士 ， 北京邮电大学 计算机学院副教授 。 timelabel 在 北京邮电大学 获博士学位 ， 曾 在 美国 TAMU 进行 访问研究 。 主要研究方向 为 多媒体 、 传感器网络 。 主持 和 参与 多 项国家自然科学基金 、 国家 973 项目 、 国家 863 项目 和 企业研发项目 。 在 无线传感器网络 与 计算机视觉等 方面 取得 一 系列创新性成果 ， 在 IEEE   Transactions 、 INFOCOM 、 ICC 、 Globecom 、 软件学报 、 电子学报 等 国际 国内 权威 刊物 和 会议上发表论文 近 40 篇 。 曾 担任 多个 国际学术会议 和 刊物 的 论文评阅人 。 
+承担课题 
+主持 ： 
+国家自然科学基金青年 项目 “ 新一代 视频 监控 网络 中 匹配 无关 的 目标 运动 模式 研究 ”； 
+timelabel 年度 place_label 自然科学基金 “ 视频 传感器网络 中 目标 定位 追踪 关键技术 及 原型 系统研究 ”； 
+国家 自然科学基金重点项目 “ 后 IP 网络体系结构 及其 机理 探索 ” 北邮 子课题 。 
+参与 ： 
+国家重点基础研究 发展计划 （ 973 计划 ） 项目 “ 物联网体系结构 基础研究 ”（ 本人 任 项目 办公室主任 和 学术骨干 ）； 
+国家自然科学基金 杰出青年项目 “ 网络 环境 中 多媒体计算 ”。 
+获奖 和 成果 
+博士论文 booklabel 获得 中国计算机学会 （ CCF ） timelabel 年度 优秀博士学位论文 奖 。 
+发表论文 
+代表性论文 ： 
+[ 1 ]  Liang   Liu ,  Anlong   Ming ,  Hua dong   Ma ,  and   Xi   Zhang , “ A   Binary - Classifi cation - Tree   based   Framework   for   Distributed   Target   Classifi cation   in   Multimedia   Sensor   Networks ,”  IEEE   INFOCOM   timelabel ,  Orlando ,  Flo rid a   USA ,  Match   25 - 30 ,  timelabel . ( INFOCOM 为 中国计算机学会 推荐 A 类 国际学术会议 ， INFOCOM   timelabel 录用率 18 %) 
+[ 2 ]  Liang   Liu ,  Yun ing   Son g ,  Hua dong   Ma ,  and   Xi   Zhang , “ Physarum   Optimization :  A   Biology - Inspired   Algorithm   for   Mi nim al   Exposure   Path   Problem   in   Wireless   Sensor   Networks ,”  IEEE   INFOCOM   timelabel ,  Orlando ,  Flo rid a   USA ,  Match   25 - 30 ,  timelabel . ( INFOCOM 为 中国计算机学会 推荐 A 类 国际学术会议 ， INFOCOM   timelabel 录用率 18 %) 
+[ 3 ]  Liang   Liu ,  Xi   Zhang ,  and   Hua dong   Ma , “ Optimal   Density   Estimation   for   Exposure - Path   Pr event ion   in   Wireless   Sensor   Networks   Using   Percolation   Theory ,”  IEEE   INFOCOM   timelabel  ( Mini - Con ference ),  Orlando ,  Flo rid a   USA ,  Match   25 - 30 ,  timelabel . ( INFOCOM 为 中国计算机学会 推荐 A 类 国际学术会议 ， INFOCOM   timelabel 录用率 18 %) 
+[ 4 ]  Liang   Liu   and   Hua dong   Ma ,  On   Coverage   of   Wireless   Sensor   Networks   for   Rolling   Terra ins ,  IEEE   Transactions   on   Parallel   and   Distributed   Systems ,  Jan .  timelabel ,  23 ( 1 ): 118 - 125 . 
+[ 5 ]  Liang   Liu ,  Xi   Zhang ,  and   Hua dong   Ma , “ Localization - Oriented   Coverage   in   Wireless   Camera   Sensor   Networks ,”  IEEE   Transactions   on   Wireless   Commu nic ations ,  Feb .  timelabel ,  10 ( 2 ):  484 - 494 . 
+[ 6 ]  Liang   Liu ,  Xi   Zhang ,  and   Hua dong   Ma , “ Optimal   Node   Selection   for   Target   Localization   in   Wireless   Camera   Sensor   Networks ,”  IEEE   Transactions   on   Vehi cula r   Technology ,  Sept .  timelabel ,  59 ( 7 ):  3562 - 3576 . 
+[ 7 ]  Liang   Liu ,  Xi   Zhang ,  and   Hua dong   Ma , “ Dyn amic   Node   Collaboration   for   Mobile   Target   Tracking   in   Wireless   Camera   Sensor   Networks ,”  IEEE   INFOCOM   timelabel ,  Rio   De   Jan eiro ,  Brazil ,  April   19 - 25 ,  timelabel . ( INFOCOM 为 中国计算机学会 推荐 A 类 国际学术会议 ， INFOCOM   timelabel 录用率 19 %) 
+[ 8 ]  Liang   Liu ,  Hua dong   Ma ,  and   Xi   Zhang , “ Coverage   Analy sis   for   Target   Localization   in   Camera   Sensor   Networks ,”  Wiley   Journal   of   Wireless   Commu nic ations   and   Mobile   Computing ,  online . 
+联系电话 
+（ 010 ） 62282277 
+工作地点 
+教三 911 
+email 
+备注 
+maillabel 

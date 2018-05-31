@@ -1,0 +1,97 @@
+name_label 
+导师简介 ： 
+name_label ： 男 ， 博士 ， 教授 ， 博士生导师 ， timelabel 年 生人 ， 专业 为 基础数学 ， 研究方向 为 拓扑学 。 欢迎 对 拓扑学 感兴趣 的 学生报考 我 的 硕士 与 博士 。 主要研究方向 有 ： 广义 度量 空间 、 覆盖性质 、 D - 空间 、 函数空间 、 序 与 偏序 空间 、 拓扑群 与 拓扑 代数 等 。 name_label 近年来 在 D - 空间理论 、 函数空间 、 拓扑群 等 研究 领域 得到 了 多个 研究成果 ， 解决 了 几个 公开 问题 。 到 目前 name_label 已 在 国内外 权威 或 核心期刊上 发表 拓扑学 论文 50 多篇  ( SCI   收录 24 篇 ，  ISTP   收录 1 篇 )。 
+曾 于 timelabel 至 timelabel ， 作为 国家公派访问学者 在 加拿大多伦多大学 数学系 留学 进修 一年 。 在 timelabel 曾获 place_label 属市 管 高等学校 中青年骨干教师 称号 。 
+现已 公开 发表 专业 学术论文 50 多篇 ， 曾 解决 过 国内外 拓扑学 者 所 提出 的 几个 有 影响 的 公开 问题 。 对 与 覆盖性质 相结合 的 对策 论 、 D - 空间理论 ( 覆盖性质 ）、 广义 度量 化 理论 、 序 理论 及 函数空间 与 拓扑群 等 均 有 一定 的 研究 。 在 已 发表 的 50 多篇 科研论文 中 ， 在 拓扑学 有 重要影响 的 权威期刊 booklabel 上 发表 十几篇 文章 。 其它 文章发表 在 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 等 国内外重要期刊上 。 发表 的 文章 中 美国 数学研究 与 评论 收录 40 多篇 。 
+作为 主持人 完成 两项 北京市自然科学基金项目 ， 完成 北京市组织部优秀人才 、 北京市教委 等 基金项目 。 主持 在 研国家自然科学基金 项目 “ 与 星 覆盖性质 及 对偶 性质 相关联 的 拓扑 问题研究 "( 11271036 ，  timelabel - timelabel )。 
+联系方式 ： 
+place_label place_label ,  北京工业大学 应用 数理 学院 ,  邮编 :  100124 . 
+E - mail :  maillabel ,  Tel :  phonelabel - 211 . 
+主要成果 介绍 : 
+一    广义 度量 化等 方面 ： 
+1    在 timelabel 发表 在 Topology   Proceedings 上 的 文章 证明 了 正则 且 具有 sigma - HCP   k - 网络 的 k - 空间 是 遗传 meta - Lin de ö f 空间 ， 这 回答 了 name_label （ timelabel ）， name_label 与 Y .  Tanaka  ( timelabel )  两次 在 Topology   Proceedings 上 提到 的 一 公开 问题 。 
+2    在 timelabel ,  证明 了 具有 可数 伪 特征 的 强 Σ*- 空间 是 强 Σ- 空间 。 timelabel 的 这 一 结果 回答 了 我国 name_label 教授 于 timelabel 年 提出 的 一 公开 问题 。  该 问题 出现 在 name_label timelabel 年 编著 的 booklabel 一书 （ 第一版 ） ( 科学出版社 出版 )。 
+3   在 timelabel ， 通过 g - 函数 研究 了 空间 可度量化 的 充分 必要条件 。 
+4    In   timelabel ,  an   example   is   given   to   show   that   there   is   a   T 
+1 
+- space   of   transifinite   cohesion .  It   answers   P .  A .  Cairns ' s   question   posed   in   timelabel . 
+二   拓扑 对策 方面 
+1     研究 了 在 次亚紧 空间 类中 如果 选手 一取 秩 小于 omega _ 1 的 K - 散布 name_label 赢 ， 它 也 有 一取 离散 的 K name_label 嬴 的 策略 。 该 结论 部分 回答 了 Y .  Yajima 的 问题 。 
+2     证明 了 在 CH 假设 及 非 正则 条件 下 ， Lin del ö f   DK - like 空间 与 K - like 空间 不 一定 等价 （ timelabel ）。 
+3     证明 了 紧 - 似 空间 的 可数 积 空间 是 Lin del ö f 空间 （ timelabel ）。 
+三    D - 空间理论 、 函数空间 及 拓扑群 等 方面 
+name_label 在 覆盖性质 、 D - 空间 、 对偶 理论 、 函数空间 及 拓扑群 等 方面 取得 了 一些 有 影响 的 结果 ， 具体 如下 ： 
+( 1 )  timelabel 得到 单调 正规 空间 是 与 秩 不 超过 2 的 散布 空间 对偶 ， 并 得到 一些 有关 树及 广义 树 的 一些 结论 。 
+( 2 )  timelabel 得到 Cut ^ 2 空间 的 分离性 等 结论 。 
+( 3 )  timelabel ， name_label 得到 两个 序数 的 积 空间 是 遗传 离散 对偶空间 的 结论 ， 这 回答 了 Alas 、 Jun queira 及   Wil son 于 timelabel 提出 的 问题 。( 该文 SCI 收录 ,  IDS   号 :  855KL ) 
+( 4 )   timelabel ， name_label 与 name_label 证明 的 单调 可数 亚紧 （ 单调 亚 Lin del ö f ） 的 单调 正规 空间 是 遗传 仿紧 的 , 这个 结论 解决 了 H . R .  Bennett ,  K . P .  Hart   和 D . J .  Lutzer 提出 的 一个 公开 问题 。 
+( 5 )  name_label 在 timelabel 发表 的 文章 讨论 了 D - 空间 、 线性 D - 空间 与 传递 D - 空间 的 关系 ， 证明 了 亚 Lin del ö f 空间 是 传递 D - 空间 。 ( 该文 SCI 收录 ,  IDS :  527VQ  )。 
+( 6 )  在 timelabel ， name_label 证明 了 有限 个 序数 的 积 空间 是 离散 对偶空间 ， 以及 两个 序数 积 空间 的 正规 子 空间 是 离散 对偶空间 ， 回答 了 Alas 、 Jun queira 及   Wil son 于 timelabel 提出 的 问题 。 这 两 结果 所在 的 两篇 文章 的 SCI 收录号 分别 为 IDS :  442EH 与 IDS :  508AD 。 
+( 7 )  于 timelabel ， name_label 证明 了 每个 广义 序 空间 是 离散 对偶空间 ， 这一 结果 回答 了 Buzyakova   R .  Z .、 Tkachuk   V .  V . 及   Wil son   R .  G . 于 timelabel 提出 的 一 公开 问题 。 该文 被 SCI 收录  ( IDS   Number :  350UY )。  上述 问题 就是 曾 被   Buzyakova 、  Alas 等 5 人于 timelabel 、 timelabel 两次 提到 的 每个 广义 序 拓扑 空间 是否是 离散 对偶空间 的 问题 ，  其中 的 一次 是 在 Topology   and   its   Appli cation s 
+上 提出 的 。 所得 的 这 一 结果 具有 广泛 的 理论 应用性 。 
+( 8 )  在 timelabel ， name_label 年 发表 在 HOUSTON   JOURNAL   OF   MATHEMATICS 上 的 文章 证明 了 仿紧 C - 散布 空间 的 可数 积是 D - 空间 。 该文 被 SCI 收录 （ IDS   Number :  279NC ）。 
+( 9 )  在 timelabel ， name_label 证明 了 由 有限 个 Moore 子 空间 并 的 空间 是 D - 空间 。 该 结论 回 了 Arhangel ’ ski i 教授 于 timelabel 在 Proceedings   of   Ameri can   Mathematical   Society 上 提出 的 一 公开 问题 。 该文 已 被 SCI 收录 （ IDS   Number :  181VI ）。 
+( 10 )  在 timelabel ， name_label 证明 了 如果 空间 X 是 可数 紧 空间 且 可以 表示 成可 数个 D - 空间 的 并 ， 则 X 是 D - 空间 ， 因而是 紧 空间 。 该 结论 也 回答 了 Arhangel ’ ski i 教授 于 timelabel 在 Proceedings   of   Ameri can   Mathematical   Society 上 提出 的 一 公开 问题 。 该文 已 被 SCI 收录 （ IDS   Number :  181VI ）。 
+( 11 )   在 函数空间 方面 ： 
+name_label 在 timelabel 证明 了 C 
+p 
+( t 
+omega 
+) 是 D - 空间 。 这一 结果 也 回答 了 Buzyakova   于 timelabel 提出 的 一 公开 问题 , 该 文章 被 SCI 收录 （ IDS   Number :  122TK ）; 
+name_label 在 timelabel 得到 线性 序 空间 上 由 有限 个 分段 点 的 分段 函数 构成 的 按点 收敛 的 函数 拓扑 空间 具有 某 性质 P 的 等价 命题 ， 从而 解决 了 Buzyakova  （ F und .  Math .  192  ( timelabel )  25 - 35 ） 于 timelabel 提出 的 一 公开 问题 。 
+( 12 )  在 拓扑群 与 拓扑 代数 方面 ， 得到 拓扑群 及其 紧化 剩余 可 度量 的 一般 规律 （ 发表 在 Cze cho slovak   Mathematical   Journal ）； 解决 了 Arhangel ' ski i 等 人 提出 的 有关 Rectifiable 空间 的 两个 公开 问题 。 
+近几年 以来 发表 的 主要论文 有 ： 
+1 .  Peng   Liang - Xue ,  Dual   properties   of   monoto nic ally   normal   spaces   and   generalized   trees .  Topology   Appl .  172  ( timelabel ),  28 – 40 . ( SCI ) 
+2 .  Peng   Liang - Xue ;  Li ,  Hui ,  A   note   on 
+D 
+- spaces   and 
+L 
+- special   trees .  Topology   Appl .  170  ( timelabel ),  40 – 51 . 
+3 . Peng   Liang - Xue ;  Yan g ,  Chong ,  A   note   on   products   of  ( weakly )  disc retely   generated   spaces .  Topology   Appl .  161  ( timelabel ),  354 – 363 . ( SCI ) 
+4 .  Peng   Liang - Xue ,  A   note   on 
+D 
+- property ,  monotone   monolithicity   and 
+σ 
+- product .  Topology   Appl .  161  ( timelabel ),  17 – 25 . ( SCI ) 
+5 .  Li   Hui ;  Peng    Liang - Xue ,  Pressing   Down   Lemma   for 
+λ 
+- trees   and   its   appli cation s .  Cze cho slovak   Math .  J .  63 ( 138 ) ( timelabel ),  no .  3 ,  763 – 775 . ( SCI ) 
+6 .  Li   Hui ;  Peng ,  Liangxue ,  A   note   on   monoto nic ally   metacompact   spaces .  J .  Math .  Res .  Appl .  33  ( timelabel ),  no .  3 ,  353 – 360 . 
+7 .  Li   Jin g ;  Peng   Liang - xue ,  A   note   on   spaces   with   a   regular 
+G 
+δ 
+- diagonal   related   to   a   set .  J .  Math . ( Wuhan )  33  ( timelabel ),  no .  4 ,  603 – 608 . 
+8 .  Peng   Liang - Xue ;  Cao   Shi - Tong ,  A   note   on   cut  ^( 
+n 
+) - spaces   and   related   con clusions .  Topology   Appl .  160  ( timelabel ),  no .  5 ,  739 – 747 .( SCI ) 
+9 .  Peng   Liang - Xue ,  A   note   on   transitively 
+D 
+and 
+D 
+- spaces .  Houston   J .  Math .  38 ( timelabel ),  no .  4 ,  1297 – 1306 . ( SCI ) 
+10 .  Peng   Liang - Xue ;  Guo ,  Sheng   Jun ,  Two   questions   on   rectifiable   spaces   and   related   con clusions .  Topology   Appl .  159  ( timelabel ),  no .  15 ,  3335 – 3339 .( SCI ) 
+11 .  Peng   Liang - Xue ;  Li ,  Hui , The   D  - property   of   monotone   covering   properties   and   related   con clusions .  Topology   Appl .  159  ( timelabel ),  no .  15 ,  3274 – 3281 .( SCI ) 
+12 .  Peng ,  Liang - Xue ,  A   note   on   spaces   of   con tinu ous   step   func tions   over   LOTS . Houston   J .  Math .  38  ( timelabel ),  no .  1 ,  311 – 318 . ( SCI ) 
+13 .   Peng   Liang - Xue ，  The   products   of   two   ordinals   is   hereditarily   dual ly   disc rete ,  Topoloy   and   its   Appli cation s ,  timelabel ,  159 :  304 - 307 . ( SCI ) 
+14 .   Peng   Liang - Xue ，  The   D - property   which   relates   to   certain   covering   properties ， Topoloy   and   its   Appli cation s ,  timelabel ,  159 :  869 - 876 . ( SCI ) 
+15   Peng   Liang - Xue ,  He   Yu   Feng ,  A   note   on   topological   groups   and   their   remainders ,  Cze cho slovak   Mathematical   Journal ,  vol .  62 ,  no .  1  ( timelabel ), 197 - 
+214 . ( SCI ) 
+16 .  Peng   Liang   Xue ， Li   Hui ,  A   note   on   monotone   covering   properties ,  Topology   and   its   Appli cation s ,  timelabel ,  158 ， no .  13 ,  1673 – 1678 . ( SCI ) 
+17 .  Peng   Liang   Xue ，  A   note   on   transitively   D - spaces ,  Cze cho slovak   Mathematical   Journal ,  timelabel , ( 136 )  61 ,  1049 – 1061 . ( SCI ) 
+18 .   Wang   Li   Xia ,  Peng   Liang - Xue ， A   note   on   k - c - se mist ratifiable   spaces   and   strong 
+spaces ,  Mathematica   Bohemica , ( timelabel ),  136 ， No .  3 ,  287 – 299 . 
+19 .   Peng   Liang - Xue ，  Dual   properties   of   sub spaces   in   products   of   ordinals ，  Topology     and   its   Appli cation s ,  timelabel ， 157 ： 2297 - 2303 . ( SCI ) 
+20 .  Peng   Liang - Xue ，  On   spaces   which   are   D ,  linearly   D    and   transitively   D ,  Topology     and   its   Appli cation s ,   timelabel ,  Volume   157 ,  Issue   2 :  378 - 384 . ( SCI ) 
+21 . Peng   Liang - Xue ， On   weakly   monoto nic ally   monolithic   spaces ,  Comment   Math .  Univ .  Carolin .  timelabel ， 51 ( 1 )：  133 - 142 . 
+22 .  name_label ， name_label 霞 ，  关于 CSS 空间 及 相关 结论 ,  数学物理学报 ,  timelabel ， 
+30A ( 2 ):  358 - 363 . 
+23 .  Peng   Liang - Xue ，  Products   of   certain   dual ly   disc rete   spaces ,  Topology   and   its   Appli cation s ,  timelabel ,  Volume   156 ,  Issue   17 :  2832 - 2837 . ( SCI ) 
+24 .  Peng   Liang - Xue  ，  Finite   unions   of   weak 
+- ref inable   spaces   and   products   of   ordinals ,  Topology   Appl .,  timelabel ,  156 :  1679 — 1683 . ( SCI ) 
+25 .  name_label ， name_label 宇 ， 张广华 ， 与 性质 P 对偶 的 空间 及 相关 结论 ,  北京工业大学学报 ( 自然科学 版 ),  timelabel ,  第 35 卷 ， 第 11 期 ：  1579 - 1584 . 
+place_label place_label ,  北京工业大学 应用 数理 学院 ,  邮编 :  100124 . 
+E - mail :  maillabel ,  Tel :  phonelabel - 211 . 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

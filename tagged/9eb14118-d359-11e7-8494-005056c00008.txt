@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=238" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="OTaCSA77qGn2YRIq4dvW9IHOoBnJd/Ve4sdAsNpcOg/p/wLFpN0MfAzbWn3Hfshj5zLgpC7taQ46AJ/WRMerZsJAfQ0BizfH1hM4z+BV2lYIUQ3FX3r8o6naXdHAIa7mQFcAQnoD45pYtb9tMhcXx4B+JsehGmNvyIrZWQAckWiSo7j8I8ezE/MC2fh2m1U08ophwdfVVnip7lNR2Sn2eZhH11sJHdJODMdIEZQTQ7V4SC/GO7VVsIVikJYfqaKjm9qrg8UimIyVc10kbRdqZ+o9ycgLXibBVu0pV6NaBLgoKmIfIXNGic6YYfFAv3VWfWwxx4zv1MD1CNk3+XQG6/8xbM9RCgb4rg6/kkO0MTD367fZQ6/izHmdl2DXjuxEJsgUrLtD0YXgcbhyrMpKYFPVhzpTFmt2+5KA6w4S4aeOVJIE9PYaX27VVODHNvmhddFBwUx1ibe4ZaKwlGvT/taiqA7ON1+8mYgnFKV0YQRSfemt2WwqDTcqjAraU+OeSB18e3f8wpDg6DXsxhLV8CJKPekJChO3n2tjW2kwrEA03BptHtx2PlHUb+b69Qv2f3i8yWnYR+Aar55b9Rb157ODw4zmTOpO+2h08uua4yfn1iWMXMgt4l0bNHV5kkq7A7rqGijxAlH9scAstf/aZ6YjH3u/yOLmEZhhH+N2gWrZxCauxFbN19v0SeQvJZIt0V09sWu378PFZwrxJ1z6SfNUxUSXI22E86ssP2KwN7Rbq6nDchXjUB5g2GFCqOVcAMe4F7bj5RYJSt5SSTlEHA7FKOAMWHJys5AQ+kmT1AQxBAmcSl2rqPgT4uT5o2NaDfB2/+K9+Tb4gpJw7nPGgJyk3EpqR+TH31E5lHVdWXRIwJJb3++dZJ2UX0QgWsEFDXt0if16aZgjEuHHjTYUf64HHIP/kBPtNiOVO6zsvXOK2RpxzPI1o0kUGy/y0WEnSr0CxT/OEvpKhGVJvGLAutfXEyDuAkzrxpsng4fQszMjlw+S2CfqMCpO4Oq08losote8z3ki2uOTkHxnl8DfQVHBX45W8vSlaO+MTohPZRdlWaTKnpcwEBJlQRnd0tBFQaIKfvVPaELRg1dR+Xa4D7+ABNhC+yPe8GsjEkbknukmvMP708D2UWdR3PywC/N5sx0mab/leRyPyVQeU2XED/AuUXpcGOSV7BIXd5TjIQx1cNjro2hOre6CLLeLIVNsFySKJNaiYM3XShzTUA0FPTyJMcut8oW1NgYfdfSEqEX6R3zQOwor/xkCiOC8ayO6NLzs1df4nyfnkiqQes8p2TMpLZccUpCs0SBvK0N2VmnblEeOLRiWRlzYECFDnfQyDj8LnX/MrrdAt8kE39hssUiX0lhkbCcvbxrF/qeegqZOrT7Wv2DFLfSGhwbMmNdaldCA0CqrAiUFCH007Su2kkuBcxr9wktcjpU+/wMdQecxBkv8V+G/mSPo1K60Z1YzpLnZA4GeUU80mNzKlFncZwt0CiV+y7K5PJdsw7yotGgEYpnLp+0NQmbTfyKSJ8N6/CHFC8JKqh23w74WWQZtqq862B5zJponM7nyzsiVz8278xiXyFo1Ci4t3vUGPPJrZmfodfG8F5y8Ml4LOMM1eb9caSDJWbQ7L3qM2R33cdy7jfswR/kIQIm3ae56048sdAV92vqrkcxEEX+964DKDg2+uoheuidU0CY3AxFD5htBZsCCqD6ihqEv65kQvNYtlD20GlRJlk2WmhUoRVjeH3hSsqWHoS+x/fQ/Hpdg0tIOJ0+bsSJf7/9UaaHMsU1mheQYVR8wX9+dTNpgESW9iwA3uX3fqeZrlaABaIud9M46MFJpcOHsAgWjX8kQfdYIeB8xMME8O5SEI4mRWA4Dp8Ljzx0DJ4eXD6Am+BnRn5tlf5P0Q+AYyzRVdm+iZbKrvj7VqkfNYDloeLyr1Ec13LzQOjw9zM459C/s1vtQBNmDiFQcml2rJnUKc1U4dZ1/B71vgXaO3Yu0SG/1HLwKSy6l5b36ER21XFFwox3td3x4P3ML/WUJT9TbRwvwcKY+zMuXcU03BhXXKw/nKSDj2qcLMyvAOM3sm7r9PqbkKljOtBc7WzcadHgjORRqtcpvx3y+/LiYBbS4X7JuyEKJrk8IoCXE1DHIbHwFcxFfzItTmnkEf00BjX0ZUkds8REFIhzvp4kwjUHlIlEAKkQlkgV/4B6QU1ELYmoNHgQsEsxZGxQumTwZsoa391hNc2u1ZhiTlSv5C2JM+UPkSW/nztRTOi2Yg8skDTXctgg0OEc/cIZQeW/2EQmAsfdwviTtBQF7rqBV1ty/Gefav8IRZa+8mTqtiSpfJXAiesAOz3LJlYBoW/T43KhGhBqTA6dVb/FNSqq0NywdLL3qTbSgScaFnadUh+1hIii9/9UKg2en5IKHBWXsJqjIAtcSWP6udijTN41U+1UtyyKFd6tE4oaNk05WRpyqcexk94MgKeP4geI/HnR8T+9DOzvix9FNpF4YpDivCMBq/kD3Wd8FhQkC42xjxznJx28mP+pbN+vnM3QOYPN4Eb3sCK+CPpP3aXTpOkU/mfcglSgAIwyiC0DQcYF+PEYcpf+oIY8FtwEjlthNpX+ywra/vtcjNyePvdwotL7OX3VlegS2RSGWPrjhtghzrGXsTW7mpIJgb+7NKK2AbZ9JeN/7HiCeGbFnaB70mXB+QWNt7UiWHth/r7jE4vxvfpNMDC8UKDvZn716S/TdwmFmxkwwU4HxGmog7nIsrPlQ0uZr+Ao6NIzNxQTgfrKmL77geNjug7FRJHpy4V+mc/TE40ZxSmsdwUcIrRLmegTNfAnJq+dbKJmvUg2Mbrg+4beAvQGcj2C3I+tugiryxMGp4xzHMZp1ywrOWFyXn/M83dvHlhEf2g5FGB6+qK5AuFTDUnzca2N/oaWGejyx4RXfagQ/44cXKtmh6kmRybl76xVTkztF7FtjnH0nw9v6SyGrtKKXaUC1s67wG172D7meWNUMEavBR8fz4ArtqZlLlg6NOXxD7PV9bKHv3NkiJGIAjWU3PC/GrZJRLWkLg2nQob4yRGi42lZTi7PQ1MMu1ZBKaDlgVypnVrePgOT/gdlmKbyqwYr5BacshOonbKQYXNubOraMvnRcw1marith2hm/3hCz0jaUU0vpM4CA0RHAKX/ijcFll0ZAvlzl4UJB1Tp4cmVd4KbieWLIxOE2F6SVrqr1uQXZYJVeDarXjJraG2b1R0jBw1kAs07jweCcwarbU8qKcWkRQKIIQe7h4R5rfPOmKZ04ImEm4xdQ81deqFxKpLeZeGpK44EsSDx1ojDrARn9e35G7Qbz0q0bYd1HSfilLxxpBn7mQ14mQIx0PxLhr3UoRzjSSXV7f5yVyZLZE9VqZN5yz40gBtxYbrApTf8opW/1FzI/tc9gXV8ylj9Dl9ABPdBpXr7kSEmDODgF+sByqVWn905Iu4pRYKkjjjEnGKKllqAN+AOkuRkG2UOyH43y5J5neKSl+Sf3VwsSrf9M74kkDX+DFcP8sr2yA3hy0JmOQXhvO1ztIucP00KWwRjQiSFcOTDhvm7UDGtSbgIkVQFyo0Yeqy8jUxIbJ21tNJneBNFVCpjzYB9WeSbnVg1/N1oZk6pVfkdoEK64h9eNdJIZJQce17JmOvYKPxLqC97n5EoRZzA3ODiIpYFsmVjft9inbkUVM/PMKPCKK5U39RU5lWSfgnV3jlyX5jgmUIiS45AxRg6/bvaU2xNMG3Z+TxqK8+VEsCOcsu9Pd+mVj+V4R6vvlMzCPRg1lydLA69LWAmLoYkWJ5hkSwRh7GdhMZjJURsAH3IvmTl/CudYCFgos9+Ha9ZdTsV2AAhOqK9lnfcbch1uO9GGaxKBZpIduGGThREygCnCgvD+A7qRh41dWv9HaP1ovBvK5aiYQSrHtb1OhTbVZDODUKGIodMJ7fRs00Wfz2EMqw54gHktuyba9BIp8fIpqQZZRZy3dyeJhX5nustYn7a+l6Iq8pHzIyFcjA+9C9qrxhGl5OyQKvY2YIBDUfNr0MpB8NDJ88cUYMPNfAvFy1M+L3IASnaLqu3Hy3rWRLu0Q3Y2+Qdth3KKeLEIfQYkbK77z/CPcO3zMrr9hFuLC5cYCcz6/C2D+zmZWYiiSFJC38MsJh8RfQCTkENeLY7j/hhYOOBtnHX8xt5/kyoba4257eG5oqDKoFsjoR5n/R8dGWWmwwb/ZiMo93a1YFkQZLc1CfctsAgJGWW4Y4Vr+qNwE4Fo1g1B9OXaKtGWnMpZdl7qlqi8WGw+YIdqaHi7zkyiHCeQEx3vB8MRVs3t+8P6zKzbyRNBVBlGSY4azokx+be+ZbBoNBjKRFxuZH5DK6/lTnTOGePChIZh5jprsggm6mAsgyrzkxFHQyMp7FBZtwgLR4laWfE4tyQp1NmQVYfBaTd+h3q+SkSlbGnTZgO++xOz4iV3deIo4I1uQPSBfTR43KoSB6L91MVVfJviFy9ohrVykx5LGOy9eVxdRuIekBbvJHbxEp6MaUc6uixLcE16pq8+snc3Oby/cj/xZRDjHTmUXMQ5WB3Ic+t1R/wpmO09gdJFXfIM/2rzOfgNaUI/V9d32CzQliFB7Bj/OSBMll3C5/ZfVZYK2Vo=" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;赵东</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/赵东.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;中国计算机学会会员</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;物联网技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        物联网技术导论、无线传感器网络、无线射频识别（RFID）</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;物联网、移动计算、群智感知</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;赵&nbsp;东，男，博士，北京邮电大学计算机学院副教授。2014年在北京邮电大学获博士学位，曾在美国IIT进行访问研究。主要研究方向为物联网、移动计算、群智感知等。主持和参与多项国家自然科学基金、国家973项目和企业研发项目。近年来在群智感知网络等领域取得一系列创新性成果，在IEEE/ACM&nbsp;Transactions、INFOCOM、ICC、ICME、MASS等国际著名期刊和会议上发表论文30余篇，获得CCF优博论文奖、ACM北京优博论文奖、IEEE&nbsp;MASS&nbsp;2013最佳论文亚军奖等多项奖励。曾担任IEEE&nbsp;GLOBECOM、DCOSS等多个国际会议程序委员，以及多个国际会议和刊物的论文评阅人。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;主持：<br>国家自然科学基金青年项目“面向物联网搜索的群智感知关键技术研究”；<br>中国博士后科学基金项目“群智感知网络中用户激励与隐私保护机制研究”；<br>CCF-腾讯犀牛鸟创意基金项目“基于群智感知的移动位置识别研究”；<br>北京邮电大学青年科研创新计划专项“群智感知网络中实用型激励机制设计及应用”。<br>参与：<br>国家“973”计划项目“物联网体系结构基础研究”；<br>国家自然科学基金重点项目“移动社交中感知数据收集的机会路由与交互式内容移交”；<br>国家自然科学基金创新研究群体项目“无线通信网理论与技术”。<br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学计算机学院青年学术贡献奖（2016）；<br>中国计算机学会（CCF）优秀博士学位论文奖（2015）；<br>ACM北京优秀博士学位论文奖（2015）；<br>CCF-腾讯犀牛鸟创意基金奖（2015）；<br>北京邮电大学优秀博士学位论文奖（2014）；<br>中日韩A3年会最佳展示奖（2014）；<br>国际会议IEEE&nbsp;MASS2013最佳论文亚军奖（2013）。<br></td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">代表性论文：<br>[1]&nbsp;Dong&nbsp;Zhao,&nbsp;Xiang-Yang&nbsp;Li,&nbsp;and&nbsp;Huadong&nbsp;Ma.&nbsp;Budget-Feasible&nbsp;Online&nbsp;Incentive&nbsp;Mechanisms&nbsp;for&nbsp;Crowdsourcing&nbsp;Tasks&nbsp;Truthfully&nbsp;[J].&nbsp;ACM/IEEE&nbsp;Transactions&nbsp;on&nbsp;Networking,&nbsp;2016.&nbsp;(SCI,&nbsp;CCF推荐的A类期刊)<br>[2]&nbsp;Dong&nbsp;Zhao,&nbsp;Huadong&nbsp;Ma,&nbsp;Shaojie&nbsp;Tang,&nbsp;and&nbsp;Xiang-Yang&nbsp;Li.&nbsp;COUPON:&nbsp;A&nbsp;Cooperative&nbsp;Framework&nbsp;for&nbsp;Building&nbsp;Sensing&nbsp;Maps&nbsp;in&nbsp;Mobile&nbsp;Opportunistic&nbsp;Networks&nbsp;[J].&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Parallel&nbsp;and&nbsp;Distributed&nbsp;Systems,&nbsp;2015.&nbsp;(SCI,&nbsp;CCF推荐的A类期刊)<br>[3]&nbsp;Dong&nbsp;Zhao,&nbsp;Xiang-Yang&nbsp;Li,&nbsp;Huadong&nbsp;Ma.&nbsp;How&nbsp;to&nbsp;Crowdsource&nbsp;Tasks&nbsp;Truthfully&nbsp;without&nbsp;Sacrificing&nbsp;Utility:&nbsp;Online&nbsp;Incentive&nbsp;Mechanisms&nbsp;with&nbsp;Budget&nbsp;Constraint&nbsp;[C].&nbsp;In&nbsp;Proc.&nbsp;of&nbsp;IEEE&nbsp;INFOCOM,&nbsp;2014.&nbsp;(EI,&nbsp;CCF推荐的A类会议)<br>[4]&nbsp;Dong&nbsp;Zhao,&nbsp;Hao&nbsp;Wang,&nbsp;Huadong&nbsp;Ma,&nbsp;Huaiyu&nbsp;Xu,&nbsp;Liang&nbsp;Liu,&nbsp;Ping&nbsp;Zhang.&nbsp;CrowdOLR:&nbsp;Toward&nbsp;Object&nbsp;Location&nbsp;Recognition&nbsp;With&nbsp;Crowdsourced&nbsp;Fingerprints&nbsp;Using&nbsp;Smartphones&nbsp;[J].&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Human-Machine&nbsp;Systems,&nbsp;2017.&nbsp;(SCI,&nbsp;CCF推荐的B类期刊)<br>[5]&nbsp;Dong&nbsp;Zhao,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Liang&nbsp;Liu.&nbsp;Frugal&nbsp;Online&nbsp;Incentive&nbsp;Mechanisms&nbsp;for&nbsp;Mobile&nbsp;Crowd&nbsp;Sensing&nbsp;[J].&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Vehicular&nbsp;Technology,&nbsp;2016.&nbsp;(SCI)<br>[6]&nbsp;Huadong&nbsp;Ma,&nbsp;Dong&nbsp;Zhao,&nbsp;and&nbsp;Peiyan&nbsp;Yuan.&nbsp;Opportunities&nbsp;in&nbsp;Mobile&nbsp;Crowd&nbsp;Sensing&nbsp;[J].&nbsp;IEEE&nbsp;Communications&nbsp;Magazine,&nbsp;2014.&nbsp;(SCI)<br>[7]&nbsp;Liang&nbsp;Liu,&nbsp;Wangyang&nbsp;Wei,&nbsp;Dong&nbsp;Zhao,&nbsp;and&nbsp;Huadong&nbsp;Ma.&nbsp;Urban&nbsp;Resolution:&nbsp;New&nbsp;Metric&nbsp;for&nbsp;Measuring&nbsp;the&nbsp;Quality&nbsp;of&nbsp;Urban&nbsp;Sensing&nbsp;[J].&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Mobile&nbsp;Computing,&nbsp;2015.&nbsp;(SCI,&nbsp;CCF推荐的A类期刊)<br>[8]&nbsp;Dong&nbsp;Zhao,&nbsp;Huadong&nbsp;Ma,&nbsp;Liang&nbsp;Liu,&nbsp;and&nbsp;Xiang-Yang&nbsp;Li.&nbsp;Opportunistic&nbsp;Coverage&nbsp;for&nbsp;Urban&nbsp;Vehicular&nbsp;Sensing&nbsp;[J].&nbsp;Computer&nbsp;Communications,&nbsp;2015.&nbsp;(SCI)<br>[9]&nbsp;Dong&nbsp;Zhao,&nbsp;Huadong&nbsp;Ma,&nbsp;Shaojie&nbsp;Tang.&nbsp;COUPON:&nbsp;Cooperatively&nbsp;Building&nbsp;Sensing&nbsp;Maps&nbsp;in&nbsp;Mobile&nbsp;Opportunistic&nbsp;Networks&nbsp;[C].&nbsp;In&nbsp;Proc.&nbsp;of&nbsp;IEEE&nbsp;MASS,&nbsp;2013.&nbsp;(EI,&nbsp;Best&nbsp;paper&nbsp;Runner-up&nbsp;Award).<br>[10]&nbsp;Dong&nbsp;Zhao,&nbsp;Huadong&nbsp;Ma,&nbsp;Liang&nbsp;Liu.&nbsp;Event&nbsp;Classification&nbsp;for&nbsp;Living&nbsp;Environment&nbsp;Surveillance&nbsp;Using&nbsp;Audio&nbsp;Sensor&nbsp;Networks&nbsp;[C].&nbsp;In&nbsp;Proc.&nbsp;of&nbsp;IEEE&nbsp;ICME,&nbsp;2010.&nbsp;(EI,&nbsp;CCF推荐的B类会议)<br></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;（010）62282767</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教三632</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;dzhao@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;个人主页：http://dongzhao.weebly.com/</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

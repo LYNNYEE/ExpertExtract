@@ -1,0 +1,37 @@
+教师个人信息 
+姓名 
+name_label 
+性别 
+男 
+职务 
+学术兼职 
+老师类型 
+博导 
+所属中心 
+通信软件工程中心 
+职称 
+教授 
+承担课程 
+复杂网络 、 离散数学 （ 上 ）    离散数学 （ 下 ） 
+研究方向 
+智能信息处理   复杂网络   基于 图 的 数据挖掘   商务智能 
+个人介绍 
+timelabel 中科院 计算技术 研究所 博士毕业 ， 承担 本科 （ 10 年 ） 和 研究生 （ 6 年 ） 课程 各 1 门 ， 多年 从事 面向 复杂网络 数据 集 的 智能信息处理 研究 ， 负责 和 主研 多 项国家自然科学基金 、 国家科技支撑计划 、 国家 高技术 研究发展计划 、 国家重点基础研究 发展计划项目 ， 同时 承担 了 电信 社会 网络分析 、 科技 文献 可视 分析 、 数据 密集型 计算 等 方面 的 横向课题 。 在 复杂网络 、 数据挖掘 、 海量 数据 并行处理 、 可视 分析 、 电信 客户关系管理 等 方面 发表 近百篇 论文 。 
+承担课题 
+国家自然科学基金 - 面上 项目   基于 电信 数据分析 的 群体 客户关系管理 关键技术 研究   timelabel ～ timelabel 项目编号 : 61074128 （ 项目负责人 ） 
+国家 973 项目 :“ 社交网络 分析 与 网络信息传播 的 基础研究 ” 课题 三 “ 社交网络 群体行为 与 群体 情感 理论研究 ” timelabel - timelabel   项目编号 ： projectlabel  （ 主研 ） 
+国家自然科学基金 - 重点项目   面向 不确定性 的 Web2 . 0 用户 创作 内容 管理研究 timelabel - timelabel 项目编号 ： 71231002 （ 主研 ） 
+国家自然科学基金 - 青年科学基金 项目   面向 电信 海量 数据 的 群体 关系 数据挖掘 研究   项目编号 : 6040 timelabel   timelabel - timelabel （ 项目负责人 ） 
+“ 十一五 ” 国家科技支撑计划 重点项目   科技 文献 信息服务 系统 关键技术 研究 及 应用 示范   课题 五 ： 基于 海量 信息 分析 的 科技 评价 方法 、 技术 研究 与 应用   项目编号 : projectlabel   timelabel - timelabel （ 子课题负责人 ） 国家 高技术 研究发展计划 （ 863   计划 ） 专题 课题   基于 数据挖掘 的 热轧 产品质量 综合 分析 和 评价 技术   项目编号 : projectlabel   timelabel - timelabel （ 项目 副组长 ） 
+国家自然科学基金委员会 重大研究计划 “ 非常规 突发事件应急 管理研究 ” 项目  “ 非常规 突发事件 中 网络 舆情 作用机制 与 相关 技术 研究 ” timelabel - timelabel   项目编号 ： 90924029 （ 主研 ） 
+获奖 和 成果 
+发表论文 
+name_label   name_label   name_label  .  基于 事件 的 社会网络 演化 分析 框架 .  软件学报 ,  timelabel , ( 07 ):  1488 - 1503   Bin   Wu ,  Tian   Zhu ,  Weiduo   Wang ,  Qi   Ye ,  and   Bai   Wang ,  Group - level   Analy sis   by   Extracting   Semantic   Relations   from   Query   Graph , timelabel   IEEE  /  WIC  /  ACM   International   Con ferences   on   Web   Intelligence   and   Intelligent   Agent   Technology ,  August    timelabel ,  Toronto ,  Canada   Bin   Wu ,  Wenbo   Ma ,  Tian   Zhu ,  Juan   Yan g :  Predicting   mecha nic al   properties   of   hot - rolling   steel   by   using   RBF   network   method   based   on   complex   network   theory .  ICNC   timelabel :  1759 - 176 
+吴   斌   马   超   一种 旅行 数据 约束 关联 规则 挖掘 算法    计算机工程 与 应用    timelabel   46  ( 20 ):  129 - 132   ,  Bin   Wu ,  Shengqi   Yan g  , Haizhou   Zhao , Yuan   Gao ,  and   Lijun   Suo ,  CosDic :  Towards   a   Comprehensive   System   for   K now ledge   D isc over yin   Large - scale   data ,  timelabel   IEEE / WIC / ACM   International   Joint   Con ference   on   Web   Intelligence   and   Intelligent   Agent   Technology  ( WI ’ 09   and   IAT ’ 09 ),  15  –  18   September   timelabel ,  Milano ,  Italy   Bin   Wu ,  Deyong   Hu ,  Qi   Ye ,  Bai   Wang  ,  Correlation   in   mobile   call   networks   from   st ruc ture   perspective   Frontiers   of   Computer   Science   in   China ,  timelabel , Vol .  3 ( 3 )  347 -  355   WU   Bin ,  LIU   Qi   and   YE   Qi ， Cumulative   Laws ,  Team   Assembling   Mechanisms   Deter mini ng   Network   St ruc ture .  Chinese   Physics   Letters   timelabel  ( 2 ):  776 - 779   Wu ,  Bin   Bi ,  Ran ;  Ye ,  Qi , Design   and   implementation   of   SOA - based   integrative   tools   for   network   analy sis   and   visualization :  Journal   of   Harbin   Institute   of   Technology  ( New   Series ),  v   15 ,  n   SUPPL .,  p   32 - 36 ,  April   timelabel    Wu ,  Bin ;  Tan ,  Jianbin ;  Hua ng ,  Yi ;  Find ing   sales   promotion   based   on   group   analy sis   of   edge - enh anced   product   networks , China - Ireland   International   Con ference   on   Information   and   Commu nic ations   Technologies ,  CIICT   timelabel , p   204 - 210 ,  timelabel ,  Wu ,  Bin ;  Yan g ,  Xin ;  Hua ng ,  Yi ;  Tan ,  Jianbin   Analyzing   temporal   variation   of   telecom   graph   st ruc ture ,, China - Ireland   International   Con ference   on   Information   and   Commu nic ations   Technologies ,  CIICT   timelabel ,  p   199 - 203 ,  timelabel ,  name_label ,  name_label ,  name_label ,  name_label , 基于 链接 的 作者 重名 处理 方法 研究 与 应用 .  计算机科学 ,  timelabel ,  35  ( 03 ):  197 - 199    name_label ,  name_label ,  name_label ,  name_label ,  基于 科技 文献 的 科研 组织 网络分析 方法 研究 , 情报学报 ,  timelabel , vol27 ( 04 ) 591 - 595   Wu ,  Bin ;  Pei ,  Xin   A   parallel   algorithm   for   e num erating   all   the   maximal   k - plexes ,  Lecture   Notes   in   Computer   Science  ( inc luding   sub series   Lecture   Notes   in   Artificial   Intelligence   and   Lecture   Notes   in   Bioinformatics ),  v   4819   LNAI ,  p   476 - 483 ,  timelabel ,  Emerging   Technologies   in   K now ledge   D isc overy   and   Data   Mining  -  PAKDD   timelabel   International   Workshops ,  Revised   Selected   Papers   Wu ,  Bin ;  Pei ,  Xin ;  Tan ,  Jian Bin ;  Wang ,  Yi ,  Resume   mini ng   of   communities   in   social   network :  Proceedings  -  IEEE   International   Con ference   on   Data   Mining ,  ICDM ,  p   435 - 440 ,  timelabel ,  ICDM   Workshops   timelabel  -  Proceedings   of   the   17th   IEEE   International   Con ference   on   Data   Mining   Workshops   name_label   name_label   name_label , 可视 分析 在 科技 监测 中 的 应用 , 数字图书馆 论坛 timelabel  ,( 02 ): 9 - 15   name_label ,  name_label ,  name_label ,   一种 大规模 呼叫 图 最大 团 发现 算法 , 第十一届 place_label 人工智能 学术年会 ,  timelabel , place_label , 1505 - 1510 
+联系电话 
+（ 010 ） 62283778 
+工作地点 
+教三 616 
+email 
+maillabel 
+备注 

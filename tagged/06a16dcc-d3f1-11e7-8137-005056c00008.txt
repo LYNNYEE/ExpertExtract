@@ -1,0 +1,292 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>王晶-重邮外国语学院</title>
+<meta name="keywords" content="">
+<meta name="description" content="杭州电子科技大学外国语学院来我院调研">
+<link href="../../dfiles/4445/cfl/skin/cfl/list/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="../../dfiles/4445/cfl/skin/cfl/list/js/tabs.js"></script>
+<script type="text/javascript" src="../../dfiles/4445/cfl/e/data/js/ajax.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230747847565353544203050002 -->
+<link rel="stylesheet" type="text/css" href="../../nry.vsb.css">
+<meta name="keywords" content="重邮外国语学院,讲师">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1077,'/nry.jsp',1043,1222164770)</script>
+</head>
+<body class="showpage news">
+<!-- 页头 -->
+<div id="header">
+<div id="banner">
+<table class="top" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td vlign="middle" align="left">
+<a href="../../index.htm" target="_blank"><img src="../../dfiles/4445/cfl/skin/cfl/list/slogo.jpg" width="373px" height="128px" border="0"></a>
+</td>
+<td>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="FlashID" title="页头flash" width="630" height="128">
+  <param name="movie" value="../../images/flash.swf">
+  <param name="quality" value="high">
+  <param name="wmode" value="opaque">
+  <param name="swfversion" value="9.0.45.0">
+  <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+  <param name="expressinstall" value="../Scripts/expressInstall.swf">
+  <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+  <!--[if !IE]>-->
+  <object type="application/x-shockwave-flash" data="../../images/flash.swf" width="640" height="128">
+    <!--<![endif]-->
+    <param name="quality" value="high">
+    <param name="wmode" value="opaque">
+    <param name="swfversion" value="9.0.45.0">
+    <param name="expressinstall" value="../Scripts/expressInstall.swf">
+    <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+    <div>
+      <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+      <p><a href="http://www.adobe.com/go/getflashplayer" target="_blank"><img src="../../dfiles/8751/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33"></a></p>
+    </div>
+    <!--[if !IE]>-->
+  </object>
+  <!--<![endif]-->
+</object>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<div class="clear_l"></div>
+</div>
+<!-- 导航tab选项卡 -->
+<div id="nav">
+<table class="nav" width="1003" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tbody><tr> 
+    <td class="nav_global"><!--#begineditable name="网站导航" action="" layout="" tpltype="" contype="" clone="" viewid="42161" contentviewid="" tagname="网站导航"--><ul>
+        
+<li onmouseover="tabit(this)"><a href="../../index.htm" target="_blank">首页</a></li>
+        
+<li onmouseover="tabit(this)"><a href="../../xygk.htm" target="_blank">学院概况</a></li>
+        
+<li onmouseover="tabit(this)"><a href="../../dqgz.htm" target="_blank">党群工作</a></li>
+        
+<li onmouseover="tabit(this)"><a href="../../szdw.htm" target="_blank">师资队伍</a></li>
+        
+<li onmouseover="tabit(this)"><a href="../../bkspy.htm" target="_blank">本科生培养</a></li>
+        
+<li onmouseover="tabit(this)"><a href="../../fyss.htm" target="_blank">翻译硕士</a></li>
+        
+<li onmouseover="tabit(this)"><a href="../../kxyj.htm" target="_blank">科学研究</a></li>
+        
+<li onmouseover="tabit(this)"><a href="../../xsgz.htm" target="_blank">学生工作</a></li>
+        
+<li onmouseover="tabit(this)"><a href="../../jxzy.htm" target="_blank">教学资源</a></li>
+        
+</ul><!--#endeditable--></td>
+  </tr>
+</tbody></table>
+</div>
+</div>
+<table width="100%" cellspacing="10" cellpadding="0" border="0">
+<tbody><tr valign="top">
+<td class="main"><table class="position" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><!--#begineditable name="当前位置" action="" layout="" tpltype="" contype="" clone="" viewid="42162" contentviewid="" tagname="当前位置"-->您当前的位置：
+    <a href="../../index.htm" target="_blank">首页</a>&nbsp;&gt;&nbsp;
+    <a href="../../szdw.htm" target="_blank">师资队伍</a>&nbsp;&gt;&nbsp;
+    <a href="../../szdw/szjj.htm" target="_blank">师资简介</a>&nbsp;&gt;&nbsp;
+            正文
+<!--#endeditable--></td>
+</tr>
+</tbody></table>
+<table class="box" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><!--#begineditable name="文章内容" action="webber.wbst.com.news.DetailNews" layout="/system/_component/news/content/tpltitle.jsp" tpltype="1" contype="" clone="" viewid="42178" contentviewid="" tagname="文章内容"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1043,'1222164770','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+
+<table class="title_info" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><h1>王晶</h1></td>
+</tr>
+<tr>
+<td><h2></h2></td>
+</tr>
+<tr>
+<td class="info_text">时间：2015-11-30 12:49:49&nbsp;&nbsp;发布者：&nbsp;&nbsp;</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td id="text"><div id="vsb_content"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td id="text"><p style="text-align: center"><img alt="1.jpg" src="/__local/9/B2/C8/B2CCAF3A9B7823638B695640B37_586DFFB9_4588.jpg?e=.jpg" width="138" height="169"></p>
+<p style="text-align: left">王晶，女，土家族，语言学及应用语言学硕士，重庆邮电大学外国语学院及国际学院讲师。研究方向为商务英语，跨文化交际。</p>
+<p style="text-align: left">一 学习经历<br>
+1998年9月—2002年7月，重庆大学，英语，学士学位<br>
+2002年9月—2005年7月，重庆大学，语言学及应用语言学（商务英语方向），硕士学位<br>
+2009年7月—2009年9月，加拿大Laurier大学与Conestoga学院，  TEFL证书</p>
+<p style="text-align: left">二 工作经历<br>
+2005年9月— ，重庆邮电大学外国语学院及国际学院</p>
+<p style="text-align: left">三 承担课程<br>
+1. 英语专业：《基础英语》，《商务英语》，《高级商务英语听说》<br>
+2. 公外本科：《大学英语1-5》、《商务英语听说》<br>
+3．国际学院本科： 《综合英语》</p>
+<p style="text-align: left">四 科研成果  <br>
+   论文<br>
+1．《合作原则的违背在广告语中的应用》，独著，《中华教育与教学实践》，汕头大学出版社， 2003.6<br>
+2．《论领导替代理论在我国公共管理中的应用》，排名第二，《东北亚论坛》第9期，2004.9<br>
+3．《论文化因素对颜色词汇翻译的影响》，排名第一，《英汉对比•翻译》，电子科技大学出版社，2004.12 <br>
+4．《“移就”与Transferred Epithet的比较分析及其翻译》，排名第二，《英汉对比•翻译》，电子科技大学出版社，2004.12<br>
+5．《大学特殊专业英语写作教学改革初探》，独著，重庆大学电影学院大学英语教学改革课题研究报告，2004．9-2005．7<br>
+6．《口译课程中的学习障碍及技能训练初探》，独著，重庆邮电大学学报，2006.12 </p>
+<p style="text-align: left">   项目<br>
+1．重庆邮电大学社会科学基金项目，广告翻译中的谜米研究 K2007-40，负责人，项目时间（2007.6-2008.12）<br>
+2．重庆市人文社会科学重点研究基地——网络社会发展问题研究中心项目，网络语言传播的多元语境研究，排名第二，项目时间 （2007.6-2008.12）</p>
+<p style="text-align: left">五 学术交流<br>
+1.重庆市翻译年会，宣读论文《论文化因素对颜色词汇翻译的影响》，排名第一，2003,重庆大学<br>
+2.第6届跨文化交际年会，宣读论文《广告中的中外女性形象比较》，独著，2005．5，南京<br>
+3.重庆市第五届翻译年会，07.11， 重庆邮电大学<br>
+4.第二届全国“体验英语写作”创新教学高级研讨会，2008.11.8,重庆科技学院</p>
+<p style="text-align: left">学术报告<br>
+1. 重庆邮电大学，MEME理论简介（外国语学院全体教师），2007.10<br>
+2. 重庆邮电大学，过程写作法，（外国语学院全体教师），2009.11</p>
+<p style="text-align: left">六 荣誉<br>
+1.重庆市翻译学会，论文《论文化因素对颜色词汇翻译的影响》获优秀论文奖，2003</p>
+<p class="pageLink" align="center"></p></td>
+</tr>
+</tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<table cellspacing="8" cellpadding="0" border="0" align="center">
+<tbody><tr>
+<td><table class="digg" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr>
+<td class="diggnum" id="diggnum"><strong><!--script type="text/javascript" src="/dfiles/4445/cfl/e/public/d330204291fe4a44ba5ab73a36727ba9_viewclick.js" ></script--></strong></td>
+</tr>
+<tr>
+<td class="diggit"><a href="JavaScript:makeRequest('/cfl/e/public/digg/?classid=47&amp;id=1741&amp;dotop=1&amp;doajax=1&amp;ajaxarea=diggnum','EchoReturnedText','GET','');">支持一下</a></td>
+</tr>
+</tbody></table></td>
+<td><table class="digg" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr>
+<td class="diggnum" valign="middle"><strong><a href="../../cfl" target="_blank"><img src="../../dfiles/4445/cfl/skin/default/images/back.gif" alt="返回首页" width="12" height="13" border="0" align="absmiddle"></a></strong></td>
+</tr>
+<tr>
+<td class="diggit"><a href="../../cfl" target="_blank">返回首页</a></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+          
+
+
+
+
+
+</form>
+
+<!--#endeditable--></td>
+</tr>
+</tbody></table>
+</td>
+<td class="sider">
+<table class="title margin_top" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><strong>相关文章</strong></td>
+</tr>
+</tbody></table>
+<table class="box" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><ul>
+无相关信息
+</ul></td>
+</tr>
+</tbody></table>
+<table class="title margin_top" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><strong>栏目更新</strong></td>
+</tr>
+</tbody></table>
+<table class="box" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><ul><!--#begineditable name="栏目更新" action="" layout="" tpltype="" contype="" clone="" viewid="42254" contentviewid="" tagname="栏目更新"--><li><a href="4033.htm" title="武芳" target="_blank">武芳</a></li>
+<li><a href="4030.htm" title="张欢" target="_blank">张欢</a></li>
+<li><a href="4027.htm" title="王月" target="_blank">王月</a></li>
+<li><a href="4024.htm" title="陈有梅" target="_blank">陈有梅</a></li>
+<li><a href="4021.htm" title="严晓燕" target="_blank">严晓燕</a></li>
+<li><a href="4018.htm" title="黄余霞" target="_blank">黄余霞</a></li>
+<li><a href="3851.htm" title="徐强" target="_blank">徐强</a></li>
+<li><a href="3470.htm" title="徐秋群" target="_blank">徐秋群</a></li>
+<li><a href="3467.htm" title="相启征" target="_blank">相启征</a></li>
+<li><a href="3299.htm" title="邱怡" target="_blank">邱怡</a></li>
+<script>_showDynClickBatch(['dynclicks_u3_4033','dynclicks_u3_4030','dynclicks_u3_4027','dynclicks_u3_4024','dynclicks_u3_4021','dynclicks_u3_4018','dynclicks_u3_3851','dynclicks_u3_3470','dynclicks_u3_3467','dynclicks_u3_3299'],[4033,4030,4027,4024,4021,4018,3851,3470,3467,3299],"wbnews", 1222164770)</script>
+<!--#endeditable--></ul></td>
+</tr>
+</tbody></table>
+<table class="title margin_top" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><strong>栏目热门</strong></td>
+</tr>
+</tbody></table>
+<table class="box" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><ul><!--#begineditable name="栏目热门" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="42255" contentviewid="0" tagname="栏目热门"--><li><a href="4033.htm" title="武芳" target="_blank">武芳</a></li>
+<li><a href="4030.htm" title="张欢" target="_blank">张欢</a></li>
+<li><a href="4027.htm" title="王月" target="_blank">王月</a></li>
+<li><a href="4024.htm" title="陈有梅" target="_blank">陈有梅</a></li>
+<li><a href="4021.htm" title="严晓燕" target="_blank">严晓燕</a></li>
+<li><a href="4018.htm" title="黄余霞" target="_blank">黄余霞</a></li>
+<li><a href="3851.htm" title="徐强" target="_blank">徐强</a></li>
+<li><a href="3470.htm" title="徐秋群" target="_blank">徐秋群</a></li>
+<li><a href="3467.htm" title="相启征" target="_blank">相启征</a></li>
+<li><a href="3299.htm" title="邱怡" target="_blank">邱怡</a></li>
+<script>_showDynClickBatch(['dynclicks_u4_4033','dynclicks_u4_4030','dynclicks_u4_4027','dynclicks_u4_4024','dynclicks_u4_4021','dynclicks_u4_4018','dynclicks_u4_3851','dynclicks_u4_3470','dynclicks_u4_3467','dynclicks_u4_3299'],[4033,4030,4027,4024,4021,4018,3851,3470,3467,3299],"wbnews", 1222164770)</script>
+<!--#endeditable--></ul></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+<!-- 页脚 -->
+<div class="foot">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<!--#begineditable name="版权" action="" layout="" tpltype="" contype="" clone="" viewid="42163" contentviewid="" tagname="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<td><!--#endeditable-->
+    <table class="copyright" width="100%" cellspacing="4" cellpadding="0" border="0">
+        <tbody><tr> 
+          <td align="center"><a href="../../cfl" target="_blank">网站首页</a> | <a href="mailto:5296151@qq.com" target="_blank">关于我们</a> 
+            | <a href="mailto:5296151@qq.com" target="_blank">联系我们</a> | <a href="http://202.202.43.11/web/" target="_blank">英语学习网址大全</a>
+        </td></tr>
+
+        <tr> 
+          <td align="center">重庆邮电大学外国语学院网站&nbsp; © 2009-2012</td>
+        </tr>
+        <tr> 
+          <td align="center">联系电话:86-23-62460060 传真:86-23-62487600 邮编:400065</td>
+        </tr>
+    </tbody></table>
+</td>
+</tr>
+</tbody></table>
+</div>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F4c9bdefa04ffef51a1cf806515aefb7d' type='text/javascript'%3E%3C/script%3E"));
+</script><script src=" http://hm.baidu.com/h.js?4c9bdefa04ffef51a1cf806515aefb7d" type="text/javascript"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29825819-2']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script src="../../dfiles/4445/cfl/e/public/b382f9c07a4672c828e9a5ef89f437ce_onclick.js"></script>
+
+
+</body></html>

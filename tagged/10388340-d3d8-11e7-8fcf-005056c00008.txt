@@ -1,0 +1,323 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>烟台海洋学院</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta content="烟台海洋学院" name="keywords">
+<link rel="stylesheet" type="text/css" href="http://ocean.ytu.edu.cn/images/v7/style.css">
+<link rel="stylesheet" type="text/css" href="http://ocean.ytu.edu.cn/images/v7/cms.css">
+<meta content="烟台海洋学院" name="description"><link href="/images/style.css" type="text/css" rel="stylesheet">
+<meta content="MSHTML 6.00.2900.5726" name="GENERATOR"><script language="JavaScript">
+//屏蔽可忽略的js脚本错误
+function killErr(){
+	return true;
+}
+window.onerror=killErr;
+</script></head>
+
+<body bgcolor="#DCE4F4"><!--头部分-->
+<div id="Head">
+<div class="head_A">
+<div class="idj">
+	<a onclick="document.all?window.external.AddFavorite(window.location.href,document.title):alert('对不起，目前只有IE支持这个功能');" href="javascript:void(0)"><font color="blue">加入收藏</font></a>&nbsp;&nbsp;
+    <a onclick="javascript:if(document.all){this.style.behavior='url(#default#homepage)';this.setHomePage(window.location.href);return false;}else{alert('对不起，目前只有IE支持这个功能')}" href="javascript:void(0)"><font color="blue">设为首页</font></a>
+</div>
+<div class="menu"><!--导航栏-->
+<ul class="inner" id="nav_top">
+
+        <li><a href="http://ocean.ytu.edu.cn/" target="_blank">网站首页</a>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=3" target="_blank">学院概况</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=175" target="_blank">学院简介</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/bencandy.php?fid=42&amp;id=830" target="_blank">现任领导</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/bencandy.php?fid=112&amp;id=1023" target="_blank">组织机构</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=113" target="_blank">师资力量</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/images/qj/ydqj.html" target="_blank">校园风光</a></li>
+
+        </ul>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=31" target="_blank">教学管理</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=69" target="_blank">教学通知</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=72" target="_blank">专业介绍</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=71" target="_blank">招生计划</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=70" target="_blank">管理规定</a></li>
+
+        </ul>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=32" target="_blank">科学研究</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=66" target="_blank">科研概况</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=67" target="_blank">科研项目</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=68" target="_blank">科研成果</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=115" target="_blank">管理规定</a></li>
+
+        </ul>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=45" target="_blank">学科建设</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/bencandy.php?fid=104&amp;id=971" target="_blank">学科概况</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=106" target="_blank">重点实验室</a></li>
+
+        </ul>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=48" target="_blank">研究生工作</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=84" target="_blank">通知</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=81" target="_blank">导师风采</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=86" target="_blank">专业方向</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=85" target="_blank">招生培养</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=83" target="_blank">获奖情况</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=82" target="_blank">管理规定</a></li>
+
+        </ul>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=44" target="_blank">学生工作</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=91" target="_blank">通知公告</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=88" target="_blank">学团活动</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=107" target="_blank">毕业生工作</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=168" target="_blank">心理教育</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=89" target="_blank">学子风采</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=116" target="_blank">管理规定</a></li>
+
+        </ul>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=4" target="_blank">党群工作</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=59" target="_blank">党建工作</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=114" target="_blank">工会工作</a></li>
+
+        </ul>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=47" target="_blank">船员培训</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=77" target="_blank">中心简介</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=80" target="_blank">培训计划</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=78" target="_blank">法律法规</a></li>
+
+        </ul>
+
+    </li>
+
+        <li><a href="http://ocean.ytu.edu.cn/list.php?fid=46" target="_blank">校友天地</a>
+
+        <ul>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=52" target="_blank">校友活动</a></li>
+
+        	<li><a href="http://ocean.ytu.edu.cn/list.php?fid=51" target="_blank">校友风采</a></li>
+
+        </ul>
+
+    </li>
+
+  
+  </ul>
+  <li><a href="http://www.ytu.edu.cn" target="_blank"><font color="red">烟大主页</font></a></li>
+</div></div>
+<div class="Head_f" style="background-color:#FFFFFF;margin-top:2.3px">
+<object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1000" height="350"><param name="movie" value="images/6.swf"><param name="quality" value="high"><param name="wmode" value="transparent">
+	<embed src="images/6.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="1000" height="350">             
+</object>
+</div></div>
+<!--
+--> 
+<!--你的位置-->
+<div class="ni"><strong>您当前的位置</strong>：<a href="" target="_blank">首页</a>  -&gt; <a href="list.php?fid=3" class="guide_menu1" target="_blank">学院概况</a> -&gt; <a href="list.php?fid=113" class="guide_menu1" target="_blank">师资力量</a> -&gt; <a href="list.php?fid=162" class="guide_menu1" target="_blank">海洋生物技术系副高职称以上教师</a></div><!--主体部分-->
+<div id="Main"><div id="Left"><!--通知公告-->
+<div class="Notice">
+<h1>
+<div class="Notice_l"><img alt="" src="images/index_05.gif"></div>
+<div class="Notice_m">海洋生物技术系副高职称以上教师</div>
+<div class="Notice_r"><img src="images/index_09.gif"></div></h1>
+<div class="Notice_body_A">
+<ul>
+          <table style="margin:4px 0 4px 0;" align="center" width="98%" cellspacing="5" cellpadding="5" border="0">
+<!--
+-->
+<tbody><tr>
+
+    <td><div style="margin:3px;background:#eee;border:1px solid #ccc;line-height:25px;text-align:center; width:100px;"><a style="font-size:14px;" href="list.php?fid=162" target="_blank">海洋生物技术系副高职称以上教师</a></div></td>
+  
+    <td><div style="margin:3px;background:#eee;border:1px solid #ccc;line-height:25px;text-align:center; width:100px;"><a style="font-size:14px;" href="list.php?fid=163" target="_blank">轮机工程系副高职称以上教师及轮机长</a></div></td>
+  
+  </tr>
+
+<tr>
+
+    <td><div style="margin:3px;background:#eee;border:1px solid #ccc;line-height:25px;text-align:center; width:100px;"><a style="font-size:14px;" href="list.php?fid=164" target="_blank">航海技术系副高职称以上教师及船长</a></div></td>
+  
+    <td><div style="margin:3px;background:#eee;border:1px solid #ccc;line-height:25px;text-align:center; width:100px;"><a style="font-size:14px;" href="list.php?fid=165" target="_blank">制冷工程系副高职称以上教师及博士</a></div></td>
+  
+  </tr>
+
+</tbody></table> 
+  <li></li>
+</ul></div>
+<h1>
+<div class="Notice_l"><img alt="" src="images/index_05.gif"></div>
+<div class="Notice_m">通知公告</div>
+<div class="Notice_r"><a href="/list.php?fid=1" target="_blank"><img alt="更多" src="images/index_09.gif"></a></div></h1>
+<div class="Notice_body_A">
+<ul>
+  <li><a href="http://ocean.ytu.edu.cn/bencandy.php?fid=1&amp;id=1073" target="_blank" style=";">山东省2015年选调生到村任职考</a></li><li><a href="http://ocean.ytu.edu.cn/bencandy.php?fid=1&amp;id=1043" target="_blank" style=";">海洋学院硕士研究生系列学术讲座</a></li><li><a href="http://ocean.ytu.edu.cn/bencandy.php?fid=1&amp;id=844" target="_blank" style=";">2014年烟台大学海洋学院航海类</a></li><li><a href="http://ocean.ytu.edu.cn/bencandy.php?fid=1&amp;id=841" target="_blank" style=";">2014年烟台大学海洋学院航海类</a></li><li><a href="http://ocean.ytu.edu.cn/bencandy.php?fid=1&amp;id=836" target="_blank" style=";">关于对邹士群同学捐款的倡议书</a></li>
+</ul></div><!--图片部分-->
+</div></div><!--右边部分-->
+<div id="Right"><!--新闻部分-->
+<div class="News">
+<h1>
+<div class="News_l"><img alt="top" src="images/index_05.gif"></div>
+<div class="News_m">&nbsp;</div>
+<div class="News_r"><img alt="更多" src="images/index_09_1.gif"></div></h1></div>
+<div class="news">
+
+
+                   <div class="Article">
+<div class="Standard">杜荣斌</div>
+<div class="Sr_A">
+<ul>
+<li style="WIDTH: 280px">发布时间：2014-07-02 17:12:06
+</li>
+<li></li></ul></div>
+<div style="FONT-SIZE: 14px" class="C_zi">
+ 姓名：杜荣斌<br>
+性别：男<br>
+出生年月：1962年1月<br>
+学科专业：海洋生物学，水产养殖学<br>
+专业技术职称：教授<br>
+行政职务：<br>
+联系电话：13964568692<br>
+Email:rbdubz@163.com<br>
+&nbsp;<br>
+学习与工作经历：<br>
+1979.09--1983.07&nbsp;&nbsp; 山东海洋学院水产养殖专业学习<br>
+1983.07--2001.03&nbsp;&nbsp; 山东省水产学校任教<br>
+2001.03至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 烟台大学任教<br>
+&nbsp;<br>
+研究领域（方向）：海洋生物学、水产养殖学<br>
+&nbsp;<br>
+承担的科研项目<br>
+1. 2006--2009年，主持山东省自然科学基金：多齿围沙蚕繁殖生物学的研究（Y2006D29）；<br>
+2. 2007--2011年，承担山东省农业重大应用技术项目创新课题：海水主养品种病控及产品安全综合技术的研究（鲁财农指（2007）99号文）；<br>
+3. 2009年至今，承担山东省良种工程子课题：优质抗病速生鱼类良种选育；<br>
+4. 2010年至今，主持山东省科技发展计划项目：刺参池塘综合生态调控养殖技术（2010GHY10505）；<br>
+5. 2011年至今，承担烟台市科技发展计划项目：刺参养殖池塘环境控制与高产养殖技术的研究（2011049）；<br>
+6. 2012年至今，承担国家海洋局公益项目：海水鱼低碳高效养殖关键技术集成与示范（201205025）。<br>
+&nbsp;<br>
+代表性论文（著作、专利）<br>
+1. Embryonic and larval development in barfin flounder Verasper moseri (Jordan and Gilbert)<br>
+Chinese Journal of Oceanology and Limnology, 中国海洋湖沼学报(英文版), 2010年01期&nbsp;<br>
+2. 对条斑星鲽仔、稚鱼发育形态异常的观察&nbsp; 海洋科学2009.1<br>
+3. 多齿围沙蚕胚胎及游毛幼虫发育条件的研究&nbsp; 渔业科学进展, 2009年05期<br>
+4. 多齿围沙蚕的亲体培育&nbsp; 海洋科学, 2009年09期<br>
+5. 人工养殖条件下多齿围沙蚕亲体培育和繁殖生物学的初步研究&nbsp; 海洋科学, 2009年11期<br>
+6. 北方地区南美白对虾两茬养殖试验&nbsp; 水产科学, 2005年01期<br>
+7. 黑鲪早期发育与摄食的初步观察 渔业科学进展通讯作者2010年31卷2期<br>
+8. 沙蚕养殖与开发中国海洋大学出版社2004年<br>
+&nbsp;<br>
+1. 一种能够有效控光控温和防治杂藻的刺参养殖池及养殖方法<br>
+&nbsp;&nbsp;&nbsp;&nbsp;专利号：ZL2010 1 0622689.3<br>
+&nbsp;&nbsp;&nbsp;&nbsp; 授权公告日：2012年07月25日<br>
+2. 六线鱼亲鱼培育及孵化方法<br>
+&nbsp;&nbsp;&nbsp;专利号：ZL 2010 1 0622777.3<br>
+&nbsp;&nbsp;&nbsp;授权公告日：2012年09月05日<br>
+3. 实用新型专利：一种能够有效控光控温和防治杂藻的刺参养殖池<br>
+&nbsp;&nbsp;&nbsp;专利号：ZL2010 2 0699057.2<br>
+&nbsp;&nbsp;&nbsp;授权公告日：2011年12月14日<br>
+<br>
+荣誉及获奖情况<br>
+&nbsp;&nbsp;&nbsp; 2010年获山东省科技进步二等奖，第二位。<br>
+&nbsp;<br>
+
+<div></div></div></div>
+                    					
+                </div>
+            </div>
+</div>
+<div class="cleardiv"></div>
+
+<!--
+-->
+<div id="footer" style="height:80px">
+  <div class="footer_word">
+  <div>
+    <div align="center"><span style="COLOR: #3366ff"><span><strong>
+    ©烟台大学海洋学院       ┋ 管理员  电话：0535-6706018 邮箱：hyxytw@163.com</strong></span></span>
+  </div>
+  </div>
+<div><span style="COLOR: #0000ff"><strong></strong></span>&nbsp;</div>
+<div>
+  <div align="center"><span style="COLOR: #000000"><span style="COLOR: #0000ff"><span style="COLOR: #3366ff"><strong>
+  	&nbsp;&nbsp; Copyright (<a href="http://ocean.ytu.edu.cn/member/post.php?job=postnew&amp;fid=162" style="color:#3366ff;" target="_blank">C</a>) 2013-2015     烟台大学海洋学院 All Rights Reserved</strong></span></span></span>  </div>
+</div>
+</div></div>
+<script language="javascript" src="images/jquery.js" type="text/javascript"></script>
+<script language="javascript" src="images/swfobject.js" type="text/javascript"></script>
+<script language="javascript" src="images/common.js" type="text/javascript"></script>
+<script language="javascript" src="images/public.js" type="text/javascript"></script>
+<!-- //漂浮广告
+<SCRIPT language=javascript src="images/adpf.js" type=text/javascript></SCRIPT>
+<SCRIPT type=text/javascript>
+        $(document).ready(function () {
+            $("#nav_top>li:eq(6)>a:eq(0)").css("color", "red");
+        })
+	</SCRIPT>-->
+
+
+</body></html>

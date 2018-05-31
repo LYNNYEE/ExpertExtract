@@ -1,0 +1,44 @@
+北京师范大学 瀚德 学院         Bei jin g   Normal   University   Maxdo   College 
+中文         English 
+学院概况 
+学院简介             院长致辞             办学 特色 
+机构 设置 
+学院领导              董事会              咨询 委员会 
+人才培养 
+培养目标              专业 设置             培养方案             学制 与 学位 授予 
+师资队伍 
+法学专业 教师             国际经济 与 贸易专业教师             第二 外语 专业教师 
+学生工作 
+学生手册             校园 活动             学术活动             相关 表格下载 
+招生就业 
+招生要求              就业 前景 
+新闻 与 动态 
+学院新闻              学院动态 
+联系 我们 
+联系 我们 
+name_label 
+来源 ： 作者 ： 瀚德 学院 timelabel 大中小 
+代表作 一览 ： 
+论文 ： 
+→ booklabel （ 第二 作者 ）， booklabel （ CSSCI   扩展版来源期刊 ）， timelabel ）。 
+→ booklabel ， booklabel ， 第 7 卷 ， timelabel 。 
+→ booklabel ， booklabel （ CSSCI来源集刊 ）， 第 11 卷 第 1 辑 ， timelabel 。 
+→ booklabel ， booklabel （ CSSCI来源集刊 ）， 第 11 辑 （“ 走向 民主 的 时代 ” 专号 ）， 清华大学出版社 ， timelabel 。 
+→ booklabel ， booklabel （ CSSCI来源期刊 ， 中文核心期刊 ）， timelabel ）。（ 被 booklabel 摘录 ， 刊于 timelabel 期 ）。 
+→ booklabel ， booklabel （ CSSCI扩展版 来源期刊 ）， timelabel ）。 
+→ booklabel ，      booklabel （ 全国 外国 法制史 研究会 第 20 届 年 会 文集 ）， 法律出版社 ， timelabel 。（ 本文 获全国 外国 法制史 研究会 timelabel 年度优秀论文 一等奖 ） 
+→ booklabel ， booklabel （ 台湾 place_label 法制史 学会 会刊 ）， 第 11 期 ， timelabel 。 
+→ booklabel ， booklabel （ CSSCI来源集刊 ）， 第 10 辑 ， 清华大学出版社 ， timelabel 。 
+→ booklabel （ 第二 作者 ）， booklabel （ 哲社版 ）（ CSSCI来源期刊 ， 中文核心期刊 ）， timelabel ）。 
+译著 ： 
+→ 译文 booklabel （ G .  Te ubn er ）， booklabel （ CSSCI来源集刊 ）， 第 10 辑 ， 清华大学出版社 ， timelabel 。 
+→ 译著 booklabel （ D .  Nelken  &  J .  Feest   eds .， 合译 ， 承担 第 2 、 3 、 4 章 ）， 清华大学出版社 ， timelabel 。 
+→ 译文 booklabel （ R .  Cotterrell ）， booklabel （ CSSCI来源期刊 ， 中文核心期刊 ）， timelabel ）。 
+→ 译文 booklabel （ P .  Legrand ）， booklabel （ CSSCI来源集刊 ）， 第 8 辑 ， 清华大学出版社 ， timelabel 。 
+→ 译文 booklabel ， booklabel （ CSSCI来源集刊 ）， 第 8 辑 ， 清华大学出版社 ， timelabel 。 
+→ 译著 booklabel （ L .  Friedman ， 合译 ， 承担 第 3 章 “ 现代性 与 个人 的 兴起 ”）， 清华大学出版社 ， timelabel 。 
+编著 ： 
+→ booklabel （ 合编 ）， 清华大学出版社 ， timelabel 。 
+→ booklabel （ 清华大学 法学 系列 教材 ， 合编 ）， 清华大学出版社 ， timelabel 。 
+→ booklabel （ 合编 ）， 上海交通大学出版社 ， timelabel 。 
+Copyright  ©  timelabel   Maxdo   College   Bei jin g   Normal   University   All   rights   reserved 

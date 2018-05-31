@@ -1,0 +1,102 @@
+首    页 
+基本信息 
+教育经历 
+工作经历 
+教学信息 
+科研项目 
+科教 成果 
+社会任职 
+其他 信息 
+name_label   教授 
+博导 
+中文版  /   ENGLISH 
+基本信息 
+联系方式 
+联系地址 ：  place_label place_label place_label 外 大街 19 号 
+邮政编码 ：  100875 
+电话 ：  86 - 10 - 5880   7612 
+Email ：  maillabel 
+研究方向 
+（ 1 ） 流域 水 环境 中 持久性 有毒 物质 的 演变 规律 及 控制 原理 
+（ 2 ） 纳米 功能 材料 的 制备 原理 及其 在 环境污染物 治理 中 的 应用 
+基本信息 
+教育经历 
+timelabel — timelabel   place_label 化工学院 精细化工 系 ， 工学学士 
+timelabel — timelabel   郑州 工业 大学化工学院 ， 工学硕士 
+timelabel — timelabel   大连理工大学环境学院 ， 工学博士 
+工作经历 
+timelabel — timelabel   德国 国家 环境 与 健康 研究中心 （ GSF ） 生态 化学研究所 （ IOC ）， 访问学者 
+timelabel — timelabel   清华大学环境科学 与 工程系 ， 博士后 
+timelabel — 至今   北京师范大学 place_label ,  历任讲师 ； 副教授 ； 教授 ， 博士生导师 
+教学信息 
+科研项目 
+1 .  国家自然科学 基 年 面上 项目 ， timelabel - timelabel ， 项目负责人 
+2 .  国家自然科学基金 青年基金项目 ， timelabel - timelabel ， 项目负责人 
+3 .  国家 高技术 研究发展计划 （ 863 计划 ） 项目 ， timelabel - timelabel ， 项目负责人 
+4 .  教育部 “ 新世纪优秀人才 支持计划 ” 项目 ， timelabel - timelabel ， 项目负责人 
+5 . “ 十一五 ” 国家 科技支撑计划课题 .  timelabel - timelabel ， 第四 课题负责人 
+6 .  教育部 科学技术 研究重点项目 .  timelabel - timelabel ， 项目负责人 
+7 .  国家重点基础研究 发展规划 （ 973 ） 项目 .  timelabel - timelabel ， 学术骨干 
+8 .  霍英东 教育基金会 第十二届 高等院校 青年教师 基金 基础性研究 课题 资助 .  timelabel - timelabel ， 项目负责人 
+9 .  教育部留学回国人员 科研启动基金 ， timelabel - timelabel ， 项目负责人 
+科教 成果 
+出版 论 （ 译 ） 著 ： 
+( 1 )  刘新会 ， name_label ， name_label ， name_label 编 .  booklabel ， place_label ： 北京师范大学出版社 ， timelabel . 8 
+( 2 )  name_label ， name_label ， name_label ， name_label ， name_label ， name_label 著 .  booklabel ， place_label ： 中国环境科学出版社 ， timelabel . 9 
+( 3 )  name_label ， name_label ， name_label 等 编著 . booklabel ， place_label ： 科学出版社 ， timelabel . 4 
+近年来 发表学术论文 ( SCI 文章 50 余篇 ， 已授权国家 发明专利 10 余项 )： 
+1 .  Niu   J . F .,*  Lin   H .,  Xu   J . L .,  Wu   H .,  Li   Y . Y .  Electrochemical   Mine ralization   of   Perfluorocarboxylic   A cid s  ( PFCAs )  by   Ce - doped   Modified   Por ous   Nano - cry sta lline   PbO2   Film   Electrode .  Env iron mental   Science  &  Technology ,  timelabel ,  46 ( 18 ):  10191 - 10198 
+2 .  Lin   H .,  Niu   J . F .,*  Din g   S . Y .,  Zhang   L . L .  Electrochemical   degradation   of   perfluorooc tan oic   a cid  ( PFOA )  by   Ti / SnO2 - Sb ,  Ti / SnO2 - Sb / PbO2   and   Ti / SnO2 - Sb / MnO2   anodes .  Water   Research ,  timelabel ,  46 ( 7 ):  2281 - 2289 
+3 .  Dai   Y . R .,  Yin   L . F .,  Niu   J . F .*  Laccase - carr yin g   electros pun   fib r ous   membranes   for   adsorption   and   degradation   of   PAHs   in   shoal   soils .  Env iron mental   Science  &  Technology ,  timelabel ,  45 ( 24 ):  10611 - 10618 
+4 .  Dai   Y . R .,  Niu   J . F .,*  Liu   J .,  Yin   L . F .,  Xu   J . J .  In   situ   enca psu lation   of   laccase   in   nano fib ers   by   emulsion   electros pin ning :  Preparation ,  characterization ,  and   appli cation .  Bioresource   Technology ,  timelabel ,  101 ( 23 ),  8942 - 8947 
+5 .  Yin   L . F .,  Niu   J . F .,*  Shen   Z . Y .,  Chen   J .  Mechanism   of   reductive   decomposition   of   pentachloroph eno l   by   Ti - doped  β- Bi2O3   und er   visible   light   irradiation .  Env iron mental   Science  &  Technology ,  timelabel ,  44 ( 14 )  5581 – 5586 
+6 .  Wang   L . L .,  Yan g   Z . F .,*  Niu   J . F .,  Wang   J . Y .  Characterization ,  ecological   risk   asse ssm ent   and   source   diagnostics   of   polycyclic   aromatic   hydro carbon s   in   water   column   of   the   Yellow   River   Delta ,  one   of   the   most   plenty   biodiversity   zones   in   the   world .  Journal   of   Hazard ous   Materials ,  timelabel ,  169 ( 1 - 3 ):  460 - 465 
+7 .  Yan g   Z . F .*,  Shen   Z . Y .,  Gao   F .,  Tan g   Z . W .,  Niu   J . F .,  He   Y .  Polychlorinated   Biphenyls   in   Urban   Lake   Sediments   from   Wuhan ,  Central   China :  Oc curr ence ,  Composition ,  and   Sedimentary   Record .  Journal   of   Env iron mental   Quality ,  timelabel ,  38 ( 4 ):  1441 - 1448 
+8 .  Yan g   Z . F .*,  Shen   Z . Y .,  Gao   F .,  Tan g   Z . W .,  Niu   J . F .  Oc curr ence   and   p oss ible   sources   of   polychlorinated   biphenyls   in   surface   sediments   from   the   Wuhan   reach   of   the   Yan gtze   River ,  China .  Chemosphere ,  timelabel ,  74 ( 11 ):  1522 - 1530 
+9 .  Zhang   Z . Y .,  Niu   J . F .,*  Zhi   X .  A   QSAR   model   for   predicting   m uta ge nic ity   of   nitronaphthalenes   and   me thy lnitronaphthalenes .  Bull .  Env iron .  Con tam .  Toxicol .,  timelabel ,  81 ( 5 ):  498 - 502 
+10 .  Feng   J . L .,  Shen   Z . Y .,  Niu   J . F .,  Yan g   Z . F .*  The   role   of   sediment   resuspension   duration   in   release   of   PAHs .  Chin .  Sci .  Bull .,  timelabel ,  53 ( 18 ):  2777 - 2782 
+11 .  Yan g   Z . F .,*  Feng   J . L .,  Niu   J . F .,  Shen   Z . Y .*  Release   of   polycyclic   aromatic   hydro carbon s   from   Yan gtze   River   sediment   cores   during   periods   of   s imu lated   resuspension .  Env iron .  Pollut .,  timelabel ,  155 ( 2 ):  366 - 374 
+12 .  Wang   L . L .,  Niu   J . F .,  Yan g   Z . F .,*  Shen   Z . Y .,  Wang   J . Y .  Effects   of   carbon ate   and   orga nic   matter   on   sorption   and   desorption   behavior   of   polycyclic   aromatic   hydro carbon s   in   the   sediments   from   Yan gtze   River .  J .  Hazard .  Mater .,  timelabel ,  154 ( 1 - 3 ):  811 - 817 
+13 .  Wang   H . Y .,  Niu   J . F .,*  Long   X . X .,  He   Y .  Son ophotocatalytic   degradation   of   me thy l   orange   by   nano - sized   Ag / TiO2   particles   in   aque ous   solutions .  Ultra son .  Son ochem .,  timelabel ,  15 ( 4 ),  386 - 392 . 
+14 .  Tan g   Z . W .,  Yan g   Z . F .,  Shen   Z . Y .,  Niu   J . F .*,  Cai   Y . P .  Residues   of   orga noc hlorine   pesti cid es   in   water   and   susp end ed   parti cula te   matter   from   Yan gtze   River   catchment   of   Wuhan ,  China .  Env iron .  Monit .  Assess .,  timelabel ,  137 ( 1 - 3 ),  427 - 439 
+15 .  Tan g   Z . W .,  Yan g   Z . F .,  Shen   Z . Y .,  Niu   J . F .*,  Liao   R . F .  Distribution   and   sources   of   orga noc hlorine   pesti cid es   in   sediments   from   typical   catchment   of   Yan gtze   River ,  China .  Arch .  Env iron .  Con tam .  Toxicol .,  timelabel ,  53 ( 3 ),  303 - 312 
+16 .  Tan g   Z . W .,  Yan g   Z . F .,  Shen   Z . Y .,*  Niu   J . F .  Pentachloroph eno l   residues   in   susp end ed   particle   matter   and   sediments   from   Yan gtze   River   Catchment   of   Wuhan ,  China .  Bull .  Env iron .  Con tam .  Toxicol .,  timelabel ,  78 ( 2 ),  148 - 152 
+17 .  Feng   J . L .,  Yan g   Z . F .,  Niu   J . F .,  Shen   Z . Y .*  Remobilization   of   polycyclic   aromatic   hydro carbon s   during   the   resuspension   of   Yan gtze   River   sediments   using   a   particle   entrainment   s imu lator .  Env iron .  Pollut .,  timelabel ,  149 ( 2 ),  193 - 200 
+18 .  Long   X . X .,  Niu   J . F .*  Estimation   of   gas - phase   reaction   rate   con sta nts   of   alkylnaphthalenes   with   chlorine ,  hydroxyl   and   nitrate   radicals .  Chemosphere ,  timelabel ,  67 ( 10 ),  timelabel - timelabel 
+19 .  Niu   J . F .,*  Long   X . X .,  Shi   S . Q .  Quantitative   st ruc ture - activity   relationships   for   prediction   of   the   toxicity   of   hydroxylated   and   qu ino id   PCB   me tab olites .  J .  Mol .  Model .,  timelabel ,  13 ( 1 ),  163 - 169 
+20 .  Niu   J . F .,*  Sun   P .,  Schramm   K .- W .  Photoly sis   of   polycyclic   aromatic   hydro carbon s   a sso ciated   with   fly   ash   particles   und er   s imu lated   sun light   irradiation .  J .  Photochem .  Photobiol .  A :  Chem .,  timelabel ,  186 ( 1 ),  93 - 98 
+21 .  Niu   J . F .,*  Wang   L . L .,  Yan g   Z . F .  QSPRs   on   photodegradation   half - lives   of   atmospheric   chlorinated   polycyclic   aromatic   hydro carbon s   a sso ciated   with   parti cula tes .  Ecotox .  Env iron .  Safe .,  timelabel ,  66 ( 2 ),  272 - 277 
+22 .  Niu   J . F .,*  Shen   Z . Y .,  Yan g   Z . F .,  Long   X . X .,  Yu   G .  Quantitative   st ruc ture - property   relationships   on   photodegradation   of   polybro min ated   diphenyl   ethers .  Chemosphere ,  timelabel ,  64 ( 4 ),  658 - 665 
+23 .  Niu   J . F .,*  Yan g   Z . F .,  Shen   Z . Y .,  Wang   L . L .  QSPRs   for   the   prediction   of   photodegradation   half - Life   of   PCBs   in   n - hexane .  SAR   QSAR   Env iron .  Res .,  timelabel ,  17 ( 2 ),  173 - 182 
+24 .  Niu   J . F .,*  Yan g   Z . F .,  Shen   Z . Y .,  Long   X . X .  Estimation   of   photoly sis   lifetimes   of   the   nitronaphthalenes   and   me thy lnitronaphthalenes .  Bull .  Env iron .  Con tam .  Toxicol .,  timelabel ,  75 ( 4 ),  813 - 819 
+25 .  Niu   J . F .,*  Hua ng   L . P .,  Chen   J . W .,  Yu   G .,  Schramm   K .- W .  Quantitative   st ruc ture - property   relationships   on   photoly sis   of   PCDD / Fs   adsorbed   to   sp ruc e  ( Picea   abies  ( L .)  Karst .)  needle   surfaces   und er   sun light   irradiation .  Chemosphere ,  timelabel ,  58 ( 7 ),  917 - 924 
+26 .  Niu   J . F .,  Chen   J . W .,*  Quan   X .,  Yan g   F . L .,  Henkelmann   B .,  Schramm   K .- W .  Effects   of   UV - B   on   photochemical   behaviour   of   fly   ash   particle - a sso ciated   PCDD / Fs .  Bull .  Env iron .  Con tam .  Toxicol .,  timelabel ,  73 ( 4 ),  717 - 724 
+27 .  Niu   J . F .,*  Yu   G .  Mol ecu lar   st ruc tural   characteristics   governing   on   biocatalytic   oxidation   of   PAHs   with   hemoglo bin .  Env iron .  Toxicol .  Pharmacol .,  timelabel ,  18 ( 1 ),  39 - 45 
+28 .  Niu   J .,*  Chen   J .,  Yu   G .,  Schramm   K .- W .  Quantitative   st ruc ture - property   relationships   on   direct   photoly sis   of   PCDD / Fs   on   surfaces   of   fly   ash .  SAR   QSAR   Env iron .  Res .,  timelabel ,  15 ( 4 ),  265 - 277 
+29 .  Niu   J . F .,  Yu   G .*  Prediction   of   the   Ability   of   PAHs   to   be   Photocytotoxic   to   a   Cell   Line   from   the   Rainbow   Trout  ( Oncorhynchus   mykiss )  Gill .  Bull .  Env iron .  Con tam .  Toxicol .,  timelabel ,  73 ( 4 ),  659 - 665 
+30 .  Niu   J .,  Yu   G .*  Mol ecu lar   st ruc tural   characteristics   governing   biocatalytic   chlorination   of   PAHs   by   Chloroperoxidase   from   Caldariomyces   fumago .  SAR   QSAR   Env iron .  Res .,  timelabel ,  15 ( 3 ),  159 - 167 
+31 .  Niu   J . F .,  Chen   J . W .,*  Martens   D .,  Henkelmann   B .,  Quan   X .,  Yan g   F . L .,  Seidlitz   H . K .,  Schramm   K .- W .  The   role   of   UV - B   on   the   degradation   of   PCDD / Fs   and   PAHs   sorbed   on   surfaces   of   sp ruc e  ( Picea   abies  ( L .)  Karst .)  needles .  Sci .  Total   Env iron .,  timelabel ,  322 ( 1 - 3 ),  231 - 241 
+32 .  Quan   X .,*  Niu   J . F .,  Chen   S .,  Chen   J . W .,  Zhao   Y . Z .,  Yan g   F . L .  Effects   of   Fe2O3 ,  orga nic   matter   and   carbon ate   on   photocatalytic   degradation   of   lindane   in   the   sediment   from   Liao   riv er ,  China .  Chemosphere ,  timelabel ,  52 ( 10 ),  1749 - 1755 
+33 .  Niu   J . F .,  Chen   J . W .,*  Henkelmann   B .,  Quan   X .,  Yan g   F . L .,  Kettrup   A .,  Schramm   K .- W .  Photodegradation   of   PCDD / Fs   adsorbed   on   sp ruc e  ( Picea   abies  ( L .)  Karst .)  needles   und er   sun light   irradiation .  Chemosphere ,  timelabel ,  50 ( 9 ),  1217 - 1225 
+34 .  Niu   J . F .,  Chen   J . W .,*  Martens   D .,  Quan   X .,  Yan g   F . L .,  Kettrup   A .,  Schramm   K .- W .  Photoly sis   of   polycyclic   aromatic   hydro carbon s   adsorbed   on   sp ruc e  ( Picea   abies  ( L .)  Karst .)  needles   und er   sun light   irradiation .  Env iron .  Pollut .,  timelabel ,  123 ( 1 ),  39 - 45 
+35 .  name_label ,  name_label *,  name_label .  基于 遗传 - 支持向量机 和 遗传 - 径向 基 神经网络 的 有机物 正 辛醇 - 水 分配 系数 QSPR 研究 .  环境科学 ,  timelabel ,  29 ( 1 ),  212 - 218 
+36 .  智昕 ,  name_label ,  name_label ,  杨 志峰 *.  place_label 水系 place_label 段 典型 有机氯 农药 的 生态 风险 评价 .  环境科学学报 ,  timelabel ,  28 ( 1 ),  168 - 173 
+37 .  name_label ,  name_label *.  place_label place_label 段 不同 粒径 沉积物 中多环 芳烃 （ PAHs ） 分布 特征 .  环境科学 ,  timelabel ,  28 ( 7 ),  1573 - 1577 
+38 .  隆兴兴 ,  name_label *,  name_label .  邻苯二甲酸 酯类化合物 正 辛醇 - 水 分配 系数 的 QSPR 研究 .  环境科学 ,  timelabel ,  27 ( 11 ),  2318 - 2322 
+39 .  name_label ,  杨 志峰 *,  name_label .  城市 生态经济 系统 模型 构建 与 分析 .  环境科学学报 ,  timelabel ,  25 ( 10 ),  l425 - 1430 . 
+社会任职 
+其他 信息 
+教育部 技术 发明 一等奖 （ 1 , timelabel ） 
+教育部 自然科学奖二等奖 （ 3 , timelabel ） 
+教育部 科学技术 进步奖 一等奖 （ 4 , timelabel ） 
+入选教育部新世纪 优秀人才支持 计划 （ timelabel 年度 ） 
+研究方向 
+（ 1 ） 流域 水 环境 中 持久性 有毒 物质 的 演变 规律 及 控制 原理 
+（ 2 ） 纳米 功能 材料 的 制备 原理 及其 在 环境污染物 治理 中 的 应用 
+联系方式 
+联系地址 ：  place_label place_label place_label 外 大街 19 号 
+邮政编码 ：  100875 
+电话 ：  86 - 10 - 5880   7612 
+Email ：  maillabel 
+ENGLISH 
+北京师范大学   版权所有   地址 ： place_label place_label 外 大街 19 号               邮编 ： 100875 

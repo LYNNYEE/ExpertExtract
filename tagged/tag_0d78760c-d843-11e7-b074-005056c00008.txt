@@ -1,0 +1,83 @@
+设 为 首页    加入收藏 
+085201 | 机械工程专业 硕士研究生指导 教师 ClickNum : 360 
+姓名 
+name_label 
+性别 
+男 
+民族 
+汉族 
+出生年月 
+timelabel - 3 
+学历 | 学位 
+研究生 | 博士 
+专业 技术 职务 
+副教授 
+行政职务 
+联系电话 
+13791001041 
+移动电话 
+13791001041 
+邮箱 
+maillabel 
+通讯地址  |  邮编 
+place_label place_label 南辛 庄西路 336 号 place_label 大学机械工程学院  |  250022 
+招生方向 ( 领域 ) 
+01 ( 全日制 ) 机电 一体化 技术 , 02 ( 全日制 ) 先进制造 技术 与 装备 , 03 ( 全日制 ) 机械装备 现代 设计 与 分析 , 51 ( 非全日制 ) 机电 一体化 技术 , 52 ( 非全日制 ) 先进制造 技术 与 装备 , 53 ( 非全日制 ) 机械装备 现代 设计 与 分析 
+研究 领域 、 学习工作经历 、 学术兼职等 情况 
+timelabel 毕业 于 山东大学 机械制造专业 ， 获工学博士学位 。 
+timelabel 至 timelabel ， place_label 大学机械工程学院 讲师 。 
+timelabel 至今 ， place_label 大学 机械学院副教授 。 
+timelabel - timelabel ， 美国 德州 理工大学 （ TEXAS   TECH   UNIV ） 访问学者 。 
+place_label 机械 工程学会常务理事 。 
+主要 研究 领域 ： 常见 机械 机构 的 优化设计 与 创新 应用 、 复杂 曲面 的 数控加工 及 农业机械设计 ， 目前 正 承担 place_label 重点研发计划项目 一项 ， 并 先后主持 place_label 科技 发展计划项目 2 项 ， 企业委托项目 ３ 项 ， 参与 国家自然科学基金项目 3 项 ， 在 国内外重要期刊发表 学术论文 20 余篇 ， 其中 12 篇 被 EI 检索 ， 授权国家 发明专利 和 实用新型专利 3 项 。 
+代表性科研成果 及 奖励 ： 
+（ 包括 项目 、 鉴定 、 论文 、 专著 、 专利 等 ) 
+主持项目 
+1 .  place_label 重点研发计划项目 ： 高速 高精度 凸轮 分割器 刚柔 优化 方法 研究  （ 在 研 ） 
+2 .  农业机械 - 移栽 机 的 设计 优化 （ 在 研 ） 
+3 . place_label 科技 发展计划项目 ： 可 智能 调速 的 凸轮 分度器 
+4 .  place_label 科技 发展计划项目 ： 前缘 送纸 圆压 圆 模切机 
+5 .  企业委托 横向项目 ： 可 智能 调速 的 凸轮 分度器 
+6 .  企业委托 横向 题目 ： 前缘 送纸 圆压 圆 模切机 
+7 .  企业委托项目 ： 活塞 温度 测试装置 开发  （ 在 研 ） 
+8 .  place_label 大学 科研基金 ： 球形 滚子 凸轮 分度器 动力学 分析 
+9 .  place_label 大学 校企 合作 科研基金 ： 圆压 圆 模切机 及 智能 凸轮 分度器 产品 研发 
+10 .  place_label 大学博士 基金 ： 新型 圆柱 凸轮 分度器 的 摩擦学 性能研究 
+主要学术论文 ： 
+[ 1 ]  Rongyu   Ge ,  Yi min   Wu ,  Haitao   Wang .  St ruc tureDesign   of   Die   Cutting   Unit   in   Corrugated   Carton   Production   Line .  AdvancedGraphic   Commu nic ations ,  Packaging   Technology   and   Materials   of   theseries   Lecture   Notesin   Electrical   Engineering ,  timelabel , v369 :  707 - 711 
+[ 2 ]  name_label ， name_label ， name_label 松 .  弧面 凸 轮廓 面非 等价 加工 的 name_label 控制 方法 . booklabel ， timelabel ， 41 （ 9 ）： 267 - 271  （ EI ） 
+[ 3 ]  Ge   Rongyu ,  Feng   Xian yin g ,  GuoPei qua n .  Non equi val ent   Milling   of   Roller   Gear   Cams   Based   on   ApproximationMethod   of   Offset   surface .  Advanced   Materials   Research ,  timelabel ,  Vols .  97 - 101 : pp timelabel - timelabel  （ EI ） 
+[ 4 ]  Ge   Rongyu ,  Wang   Qin g son g ,  Shang   Xuqiang . Self - adaptive   Compensation   Method   on   the   Tool   Position   of   Roller   Gear   CamSurface .  Advanced   Materials   Research ,  timelabel ,  Vols .  154 - 155 :  pp396 - 400 （ EI ） 
+[ 5 ]  Ge   Rongyu ,  Guo   Pei qua n .  Flexible   camprofile   synthe sis   method   using   NURBS   and   its   optimization   based   on   genetic algorithm .  Advanced   Materials   Research ,  timelabel ,  Vols .  426 :  pp69 - 72  （ EI ） 
+[ 6 ]  Ge   Rongyu ,  Feng   Xian yin g ,  Guo   Pei qua n . Research   on   Generation   Method   of   Globoidal   Cam   Surfaces   Based   on   Five - axis   CNCMachine   Tools .  Proceedings   of   the   timelabel   International   Con ference   on   Information , Electro nic   and   Computer   Science  ( ICIECS   timelabel ),  timelabel ,  257 - 260 （ ISTP ） 
+[ 7 ]  name_label ， name_label ， name_label .  基于 五轴 数控机床 弧面 凸 轮廓 面创成 方法 研究 . booklabel ， timelabel ，（ 9 ）： 70 - 73 
+[ 8 ]  name_label ， name_label .  基于 Pro / E 的 球形 滚子 弧面 凸轮 机构 的 建模 与 仿真 . booklabel ， timelabel （ 1 ）： 63 - 65 
+[ 9 ]  name_label ， name_label .  基于 Pro / E 的 球形 滚子 弧面 分度 凸轮 CAD / CAM ， 制造 技术 与 机床 ， timelabel ，（ 6 ）: 111 - 114 
+[ 10 ]  St ruc ture   Design   of   Front - Edge   PaperFeeder   in   the   Production   Line   of   Corrugated   Carton ， AdvancedGraphic   Commu nic ations   and   Media   Technologies ,  Lecture   Notes   in   ElectricalEngineering   417  （ EI ） 
+[ 11 ]  Rongyu   Ge ,  Jin   Wang ;  Yi min   Wu ;  Guodong   Wu .  Design   of   wireless   temperature   me asu rement   systemfor   piston   based   on   patentlabel ， timelabel nd   International   Con ference   on   Mecha nic al   Engineering   and   Automation   Science , ICMEAS   timelabel ， timelabel ， Sin gapore ， IOP Con ference   Series :  Materials   Science   and   Engineering ， Vol . 157 ,( 1 ),（ EI ） 
+[ 12 ]  Rongyu   Ge ; Yun feng   Du , Kinematic   Optimization   of   Cam   Mechanisms   with   variable   input   speed ,  timelabel International   Con ference   on   Cybernetics ,  Robotics   and   Con trol  ， IEEE ,  55 - 59 . （ EI ） 
+主要 授权专利 ： 
+发明专利 ： 一种 可 智能 调速 的 分度 凸轮 传动装置   patentlabel . X 
+发明专利 ： 瓦楞纸箱 生产线 新型 前缘 送纸 装置    patentlabel . 7 
+教学 及 研究生培养 情况 
+主讲 本科 booklabel booklabel booklabel 及 研究生课程 booklabel 等 课程 。 目前 正 指导 全日制 专业型 研究生 2 名 ， 在职 工程硕士 4 名 。 
+多次 指导本科生 和 研究生 参加 省级 机器人 大赛 ， 获 省级 一等奖 10 余次 ， 并 多次 被 评为 优秀指导教师 。 
+备注 
+设 为 首页  |  加入收藏  |  联系 我们  |  友情链接             place_label 大学研究生 处  ·  place_label 大学 研究生招生信息 网 版权所有 
+首页 
+工作动态 
+工作进展     工作 计划 
+博士招生 
+简章 目录     报名 考试     复试 录取 
+硕士招生 
+简章 目录     报名 考试     复试 录取 
+推免 工作 
+推荐 工作     接收 工作 
+非全日制 
+在职 攻读     同等学力 
+招生 目录 
+硕士招生专业 目录     博士招生专业 目录 
+导师信息 
+硕士生导师    博士生导师 
+资料中心 
+常用下载     在职 招生     相关 文件 

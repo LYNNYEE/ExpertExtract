@@ -1,0 +1,498 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/1d8cb8f4549a1f3f512b918387b1fdd4/allmobilize.min.js"></script><style type="text/css"></style><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>西北农林科技大学风景园林艺术学院 - 科教队伍 - 邱玲 </title>
+<meta name="keywords" content="">
+<meta content="" name="description">
+ 
+<meta name="copyright" content="Copyright 2010 "> 
+<meta name="Author" content=""> 
+<meta name="Keywords" content=""> 
+<meta name="Description" content="">
+  <script type="text/javascript" src="../../js/MSClass.js"></script>
+<script language="javascript" type="text/javascript" src="../../js/jquery-1.4.2.js"></script>
+<script language="javascript" type="text/javascript" src="../../js/menu.js"></script>
+<script language="javascript" type="text/javascript" src="../../js/jquery-1.8.2.1min.js"></script>
+<script language="javascript" type="text/javascript" src="../../js/piaofu.js"></script>
+
+
+<!--[if IE 6]>
+<style type="text/css"> 
+#nav li a:hover {color:#fff;background:#85BCF3}
+#nav li a:hover ul { display:block;position:absolute;top:38px;left:0;}
+#nav li a:hover ul li a {display:block;background:#c5dbf2;color:#000;font-size:12px;font-weight:normal;height:30px;line-height:30px;border:1px solid #fff;border-width:1px 1px 0 0;}
+#nav li a:hover ul li a:hover {background:#85BCF3;color:#000;}	
+</style>
+<![endif]-->
+<style type="text/css">
+#right{font-size:14px;line-height:3em;}
+</style>
+<script charset="utf-8" src="//s.yunshipei.com/javascript/sm.min.js" async=""></script></head>
+<body>
+<style>
+		 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {padding: 0;margin: 0;}
+		  img{border:none;}
+		  a{text-decoration:none;}
+		  a:hover{color:#cb0101;}
+		  body{background:url('../../images/body.png') repeat;}
+		  li{list-style:none;}
+		  .more{float:right;margin-right:10px;font-size:12px;color:#999999;font-weight:normal;}
+		  .more a{color:#999999;}
+		  .more_tzgg{float:right;margin-right:30px;font-size:12px;color:#999999;font-weight:normal;}
+		  .more_tzgg a{color:#999999;}
+		  table{border-collapse:collapse;border-spacing:0;}
+		   .date{float:right;font-size:12px;color:#333;margin-right:10px;}
+.Black-bbb{float:right;font-size:12px;color:#333;margin-right:10px;}
+		/***head***/
+		 .head{width:100%;height:232px;background:url('../../images/head.png') repeat-x;min-width:1024px;}
+		 .header{width:1200px;height:160px;background:url('../../images/ad6c599055f8aea36172cead473c3487.png') no-repeat;margin:0 auto;}
+		 .top{float:right;padding-top:36px;}
+		 .head_title{float:right;font-size:12px;}
+		 .sousuo{float:right;margin-top:80px;}
+		 .head_title a{color:#333;}
+		 .head_title a:hover{color:#cb0101;}
+		 .sousuo_input{width:200px;height:17px;border:1px solid #dadada;float:left;padding:5px;border-radius:5px;}
+		 .so_btn{width:60px;height:29px;border:0px;float:left;color:#fff;font-size:12px;background:#c66d25;padding:0 10px;border-radius:3px;}
+		/***nav***/
+		 .nav_bg{width:100%;height:87px;background:url('../../images/nav.png') repeat-x;min-width:1024px;}
+#nav0{width:1200px;height:87px;background:url('../../images/nav_bg.png') no-repeat;margin:0 auto;}		 
+
+/*menu*/
+#nav {display:block;margin-left:50px;_display:inline;l}
+#nav .mainlevel {float:left;text-align:center; display:block;padding:0 13px;font-size:14px;}
+#nav .mainlevel a {color:#fff; text-decoration:none; line-height:44px; height:44px; text-align:center;display:block; _width:48px;_display:inline}
+#nav .mainlevel a:hover {color:#3f240e; text-decoration:none; }
+#nav .mainlevel ul {position:absolute; display:none; *width:2000px;/*IE is great need, width>=li.length*/}
+#nav .mainlevel li {float:left; background:#991000;font-size:12px;color:#fff;}
+#nav .mainlevel li a {padding:0 12px; line-height:24px; height:24px; display:block; _padding-bottom:6px;/*IE6 only*/}
+#nav .mainlevel li a:hover {color:#3f240e; text-decoration:none;}
+#nav li a{padding:0 3px;}
+.note {color:#3f240e;display:block; line-height:34px;padding-left:10px;padding-right:10px;}
+.Triangle_con {height:4px;display:block; _margin-bottom:-6px;/*IE6 only*/margin-top:3px;}
+.log {margin:100px auto; width:1000px; text-transform:capitalize; line-height:200%;}
+
+		/***main***/
+		 .main{width:1200px;margin:0 auto;background:#fff;}
+		 .ppt{width:1160px;height:316px;background:#fff;float:left;margin-left:20px;_display:inline;}
+		 /*焦点图*/
+.focus{ position:relative; width:1160px; height:316px; background-color: #000; float: left;}  
+.focus img{ width: 1160px; height:316px;} 
+.focus .shadow .title{width: 200px; height: 45px;padding-left: 30px;padding-top: 20px;}
+.focus .shadow .title a{ text-decoration:none; color:#fff; font-size:14px; font-weight:bolder; overflow:hidden; }
+.focus .btn{ position:absolute; bottom:34px; left:510px; overflow:hidden; zoom:1;} 
+.focus .btn a{position:relative; display:inline; width:13px; height:13px; border-radius:7px; margin:0 5px;color:#B0B0B0;font:12px/15px "\5B8B\4F53"; text-decoration:none; text-align:center; outline:0; float:left; background:#D9D9D9; }  
+.focus .btn a:hover,.focus .btn a.current{  cursor:pointer;background:#fc114a;}  
+.focus .fPic{ position:absolute; left:0px; top:0px; }  
+.focus .D1fBt{ overflow:hidden; zoom:1;  height:16px; z-index:10;  }  
+.focus .shadow{ width:243px; position:absolute; bottom:0; left:0px; z-index:10; height:45px; line-height: 45px; background:rgba(0,0,0,0.6);    
+filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorstr = '#80000000',endColorstr = '#80000000')\9;  display:block;  text-align:left; }  
+.focus .shadow a{ text-decoration:none; color:#fff; font-size:12px; overflow:hidden; margin-left:10px; font-family: "\5FAE\8F6F\96C5\9ED1";}  
+.focus .fcon{ position:relative; width:100%; float:left;  display:none; background:#000  }  
+.focus .fcon img{ display:block; }  
+.focus .fbg{bottom:25px; right:0px; position:absolute; height:20px; text-align:center; z-index: 200; }  
+.focus .fbg div{padding-top:18px;overflow:hidden;zoom:1;height:27px;}    
+.focus .D1fBt a{position:relative; display:inline; width:12px; height:12px; border-radius:7px; margin:0 5px;color:#B0B0B0;font:12px/15px "\5B8B\4F53"; text-decoration:none; text-align:center; outline:0; float:left; background:#D9D9D9; }    
+.focus .D1fBt .current,.focus .D1fBt a:hover{background:#fc114a;}    
+.focus .D1fBt img{display:none}    
+.focus .D1fBt i{display:none; font-style:normal; }    
+.focus .prev,.focus .next{position:absolute;width:40px;height:74px;background: url('../../images/focus_btn.png') no-repeat;}
+.focus .prev{top: 50%;margin-top: -37px; left: 0;background-position:0 -74px; cursor:pointer; }  
+.focus .next{top: 50%;margin-top: -37px; right: 0;  background-position:-40px -74px;  cursor:pointer;}  
+.focus .prev:hover{  background-position:0 0; }  
+.focus .next:hover{  background-position:-40px 0;} 
+		 .dtll{width:907px;height:250px;float:left;margin-left:20px;margin-top:20px;_display:inline;border:1px solid #7d5a3e;}
+		   .ppt1{width:320px;height:218px;float:left;background:#fff;margin-left:20px;margin-top:16px;_display:inline;}
+		   .xinwen{width:525px;height:230px;float:left;background:#fff;margin-left:20px;_display:inline;}
+		     .xinwen_title{width:500px;height:58px;background:url('../../images/dtll_title.png') no-repeat;color:#333;font-size:14px;line-height:58px;font-weight:bold;font-size:14px;padding-left:25px;}
+		   .xinwen_dr{width:525px;height:172px;}
+		   .xinwen_dr ul li{font-size:12px;background:url('../../images/dian.png') no-repeat left;padding-left:15px;margin-left:15px;border-bottom:1px dashed #999;margin-right:15px;line-height:27px;}
+		   .xinwen_dr ul li a{color:#333;}
+		   .xinwen_dr ul li a:hover{color:#cb0101;}
+		 .tpzl{width:231px;height:252px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		 .tpzl img{margin-top:4px;_display:inline;display:block;}
+		 .xsjl{width:615px;height:227px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .xsjl_title{width:590px;height:58px;background:url('../../images/xsjl_title.png') no-repeat;color:#333;font-size:14px;line-height:58px;font-weight:bold;font-size:14px;padding-left:25px;}
+		   .xsjl_dr{width:615px;height:169px;}
+		   .xsjl_dr ul li{font-size:12px;background:url('../../images/dian.png') no-repeat left;padding-left:15px;margin-left:15px;border-bottom:1px dashed #999;margin-right:15px;line-height:26px;}
+		   .xsjl_dr ul li a{color:#333;}
+		   .xsjl_dr ul li a:hover{color:#cb0101;}
+		 .tzgg{width:274px;height:465px;background:#fff;float:left;margin-left:20px;margin-top:20px;_display:inline;margin-bottom:20px;}
+		   .tzgg1{width:274px;height:338px;background:#fff;float:left;}
+		     .tzgg1_title{width:274px;height:39px;background:url('../../images/tzgg_title.png') no-repeat;color:#333;font-size:14px;padding-top:35px;font-weight:bold;font-size:14px;padding-left:15px;}
+		   .tzgg1_dr{width:270px;height:264px;border-left:1px solid #dedcdd;border-right:1px solid #dedcdd;background:#fbf2e1;}
+		   .tzgg1_dr ul li{font-size:12px;margin-left:15px;line-height:29px;}
+		   .tzgg1_dr ul li a{color:#333;}
+		   .tzgg1_dr ul li a:hover{color:#cb0101;}
+		   .zyfw{width:270px;height:127px;background:#fbf2e1;float:left;border-left:1px solid #dedcdd;border-right:1px solid #dedcdd;}
+		     .zyfw_title{width:270px;height:50px;background:url('../../images/zlxz_title.png') no-repeat bottom;color:#333;font-size:14px;font-weight:bold;font-size:14px;padding-left:15px;line-height:39px;}
+		   .zyfw_dr{width:270px;height:77px;background:#fbf2e1;border-bottom:1px solid #dedcdd;}
+		     .zyfw_dr img{margin-top:20px;margin-left:15px;}
+		 .zwgk{width:231px;height:227px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .zwgk_title{width:231px;height:35px;background:url('../../images/zwgk_title.png') no-repeat;font-weight:bold;text-align:center;color:#333;font-size:14px;line-height:35px;}
+		   .zwgk_dr{width:229px;height:191px;border-left:1px solid #7d5a3e;border-right:1px solid #7d5a3e;border-bottom:1px solid #7d5a3e;}
+		   .zwgk_dr img{padding-top:9px;margin-left:18px;_dsiplay:inline;display:block
+}
+		 .xstd{width:298px;height:217px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .xstd_title{width:273px;height:58px;background:url('../../images/xsjl1_title.png') no-repeat;color:#333;font-size:14px;line-height:58px;font-weight:bold;font-size:14px;padding-left:25px;}
+		   .xstd_dr{width:298px;height:159px;}
+		   .xstd_dr ul li{font-size:12px;background:url('../../images/dian.png') no-repeat left;padding-left:15px;margin-left:15px;border-bottom:1px dashed #999;margin-right:15px;line-height:25px;}
+		   .xstd_dr ul li a{color:#333;}
+		   .xstd_dr ul li a:hover{color:#cb0101;}
+		 .zsjy{width:297px;height:217px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .zsjy_title{width:272px;height:58px;background:url('../../images/xsjl1_title.png') no-repeat;color:#333;font-size:14px;line-height:58px;font-weight:bold;font-size:14px;padding-left:25px;}
+		   .zsjy_dr{width:297px;height:159px;}
+		   .zsjy_dr ul li{font-size:12px;background:url('../../images/dian.png') no-repeat left;padding-left:15px;margin-left:15px;border-bottom:1px dashed #999;margin-right:15px;line-height:25px;}
+		   .zsjy_dr ul li a{color:#333;}
+		   .zsjy_dr ul li a:hover{color:#cb0101;}
+		 .yqlj{width:231px;height:217px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .yqlj_title{width:231px;height:35px;background:url('../../images/zwgk_title.png') no-repeat;text-align:center;color:#333;font-size:14px;font-weight:bold;line-height:35px;}
+		   .yqlj_dr{width:229px;height:181px;border-left:1px solid #7d5a3e;border-right:1px solid #7d5a3e;border-bottom:1px solid #7d5a3e;}
+		   .yqlj_dr img{margin-top:6px;margin-left:18px;_dsiplay:inline;}
+		   .yqlj_dr select{width:198px;margin-top:13px;margin-left:18px;_dsiplay:inline;}
+		.xyfc{width:1160px;height:210px;background:#f00;float:left;margin-left:20px;_display:inline;margin-bottom:20px;}
+		   .xyfc_title{width:1110px;height:39px;background:url('../../images/xyfc_title.png') no-repeat;color:#fff;font-size:14px;line-height:39px;font-weight:bold;font-size:14px;padding-left:50px;}
+		   .xyfc_dr{width:1160px;height:171px;background:#f4f2f3;}
+		   .xyfc_dr table tr td{padding-left:12px;padding-top:12px;}
+		   .xyfc_dr img{width:175px;height:118px;border:2px solid #fff;}
+		 /***foot***/
+		 .footer{width:100%;height:105px;background:url('../../images/foot_bg.png') repeat-x;min-width:1024px;}
+		 .foot{width:1200px;height:105px;margin:0 auto;}
+		 .foot p{padding-top:65px;text-align:center;font-size:12px;color:#fff;}
+		 .foot p a{color:#fff;}
+		/***sort***/
+		 .sort_left{width:246px;background:#fff;float:left;margin-left:20px;_display:inline;margin-bottom:20px;}
+		   .sort_left_top{width:246px;height:78px;background:url('../../images/sort_left_top.png') no-repeat;line-height:78px;font-weight:bold;text-align:center;color:#bc713b;}
+		   .sort_left_mid{width:246px;min-height:100px;background:url('../../images/sort_left_mid.png') repeat-y;margin-left:5px;_display:inline;}
+
+.sort_left_mid ul{padding-left:18px;}
+		   .sort_left_mid ul li{background:url('../../images/sort_left.png') no-repeat;padding-top:12px;padding-bottom:12px;padding-left:40px;}
+		   .sort_left_mid ul li a{color:#fff;font-size:14px;font-weight:bold;}
+		   .sort_left_bottom{width:246px;height:23px;background:url('../../images/sort_left_bottom.png') no-repeat;margin-left:5px;_display:inline;}
+		 .sort_right{width:900px;min-height:500px;background:#fff;margin-left:15px;float:left;_display:inline;margin-bottom:20px;}
+		   .sort_nav{width:880px;height:58px;background:url('../../images/sort_nav.png') no-repeat;float:left;_display:inline;line-height:58px;font-size:12px;padding-left:20px;}
+		   .sort_nav a{color:#333;}
+		    .sort_nr{width:860px;min-height:400px;float:left;margin-top:20px;padding:0 15px;}
+		    .sort_nr ul{margin-top:20px;padding-bottom:10px;}
+		    .sort_nr ul li{line-height:38px;font-size:12px;background:url('../../images/dian.png') no-repeat left;border-bottom:1px dashed #c7b29d;margin:0 10px; padding-left:15px;}
+		    .sort_nr ul li a{color:#333;}
+		 /***show***/
+		 .cont{width:860px;min-height:400px;float:left;margin-top:20px;padding:0 20px;line-height:26px;font-size:14px;}
+		   h1{font-size:24px;text-align:center;margin-top:20px;padding-bottom:20px;border-bottom:1px solid #cfcfcf;margin:0 10px;}
+		   h2{font-size:12px;font-weight:normal;text-align:center;padding-top:20px;padding-bottom:20px;}
+.cont table tr td{border:1px solid #333;}
+.cont table{border:1px solid #333;}
+.cont TABLE TR TD{border:1px solid #333;}
+.cont TABLE{border:1px solid #333;}
+		   
+#marqueediv6{margin-left:10px;_display:inline;}
+</style>
+
+
+ <script type="text/javascript" language="javascript">
+    //加入收藏
+        function AddFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }   
+        }
+    }
+    //设为首页
+    function SetHome(url){
+ 
+        if (document.all) {
+ 
+            document.body.style.behavior='url(#default#homepage)';
+ 
+               document.body.setHomePage(url);
+ 
+        }else{
+ 
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+
+ <div class="head">
+           <div class="header">
+             <div class="top">
+                <span class="head_title">
+                 <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>|
+                 <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a>丨
+                 <a href="#">联系我们</a>
+                </span>
+                <div class="sousuo">
+                  <form name="search" method="get" action="http://ylxy.nwsuaf.edu.cn/search.php">
+                   <input name="query" class="sousuo_input" type="text">
+                   <input name="siteID" value="84" type="hidden">
+                   <input value="搜　索" class="so_btn" type="Submit">       
+                   </form>
+
+
+                </div>
+             </div>
+           </div>
+           <div class="nav_bg">
+             <div id="nav0">
+                <ul id="nav">
+
+    <li class="mainlevel"><span class="note"><a href="../../index.htm" target="_blank">网站首页</a></span></li> 
+   
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../xygk/xyjj/index.htm" target="_blank">学院简介</a></li>
+        <li><a href="../../xygk/jgsz/index.htm" target="_blank">机构设置</a></li>
+        <li><a href="../../xygk/xrld/index.htm" target="_blank">现任领导</a></li>
+        <li><a href="../../xygk/lxwm/index.htm" target="_blank">联系我们</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="index.htm" target="_blank">师资队伍</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="index.htm" target="_blank">科教队伍</a></li>
+        <li><a href="../wpzj/index.htm" target="_blank">外聘专家</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../yjsjy/zdjsjfx/index.htm" target="_blank">研究生教育</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../yjsjy/zdjsjfx/index.htm" target="_blank">招生导师</a></li>
+        <li><a href="../../yjsjy/zsxx/index.htm" target="_blank">招生信息</a></li>
+        <li><a href="../../yjsjy/glzd/index.htm" target="_blank">管理制度</a></li>
+        <li><a href="../../yjsjy/zlxz/index.htm" target="_blank">资料下载</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../bksjy/zyjs/index.htm" target="_blank">本科生教育</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../bksjy/zyjs/index.htm" target="_blank">专业介绍</a></li>
+        <li><a href="../../bksjy/kcjs/index.htm" target="_blank">课程建设</a></li>
+        <li><a href="../../bksjy/jcjs/index.htm" target="_blank">教材建设</a></li>
+        <li><a href="../../bksjy/sjjx/index.htm" target="_blank">实践教学</a></li>
+        <li><a href="../../bksjy/jxyj/index.htm" target="_blank">教学研究</a></li>
+        <li><a href="../../bksjy/jxhjqk/index.htm" target="_blank">教学获奖情况</a></li>
+        <li><a href="../../bksjy/gzzd/index.htm" target="_blank">规章制度</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../xsgz/zzjg/index.htm" target="_blank">学生工作</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../xsgz/zzjg/index.htm" target="_blank">组织机构</a></li>
+        <li><a href="../../xsgz/tgwxsk/index.htm" target="_blank">团工委、学生会</a></li>
+        <li><a href="../../xsgz/xstd/index.htm" target="_blank">学生天地</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../djgz/zzjg_dj/index.htm" target="_blank">党建工作</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../djgz/zzjg_dj/index.htm" target="_blank">组织机构</a></li>
+        <li><a href="../../djgz/llxx/index.htm" target="_blank">理论学习</a></li>
+        <li><a href="../../djgz/rdzn/index.htm" target="_blank">入党指南</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../kytg/kypt/index.htm" target="_blank">科研推广</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../kytg/kypt/index.htm" target="_blank">科研平台</a></li>
+        <li><a href="../../kytg/lwzz/index.htm" target="_blank">论文著作</a></li>
+        <li><a href="../../kytg/cdxm/index.htm" target="_blank">承担项目</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../xxfw/wjxz/index.htm" target="_blank">信息服务</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../xxfw/wjxz/index.htm" target="_blank">文件下载</a></li>
+        <li><a href="../../xxfw/cybgxz/index.htm" target="_blank">常用表格下载</a></li>
+        <li><a href="../../xxfw/bdjtbgxx/index.htm" target="_blank">本地交通宾馆信息</a></li>
+        </ul>
+ 
+    </li>
+ 
+                            
+    <li class="mainlevel"><a href="../../hzjl/index.htm" target="_blank">合作交流</a>
+    <!--input an em tag as a space,IE is gread need-->
+    </li>
+            
+</ul>
+             </div>
+           </div>
+        </div>
+ <div class="main">
+		<div class="sort_left">
+		  <div class="sort_left_top">师资队伍</div>
+		  <div class="sort_left_mid">
+		    <ul>
+				   <ul>
+				   <li class="selected"><a href="index.htm" target="_blank">科教队伍</a></li>
+  <li class="selected"><a href="../wpzj/index.htm" target="_blank">外聘专家</a></li>
+ 				</ul>
+		  </ul></div>
+		  <div class="sort_left_bottom"></div>
+		</div>
+		 <script src="/cms/web/writeLog.jsp?articleID=311720"></script>
+		<div class="sort_right">
+		  <div class="sort_nav">您现在的位置：                 <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        科教队伍
+</div>
+		  <div class="cont">
+		    <h1> 邱玲</h1>
+			
+			<h2>发布时间：2016-07-12　作者： 　出处：　浏览：<script src="/cms/web/count.jsp?articleID=311720"></script>9548次</h2>
+				 <div class="media"></div>
+				 <div class="flashpaper"></div>
+				 <p style="TEXT-ALIGN: left; TEXT-INDENT: 31.5pt; mso-pagination: widow-orphan" class="MsoNormal">
+				  </p><p>　　邱玲，女，1981年生，汉族，双博士，副教授，硕士生导师。</p>
+
+<p>　　<strong>一、教育工作经历：</strong></p>
+
+<p>　　2016/01 –至今，西北农林科技大学，风景园林艺术学院 副教授</p>
+
+<p>　　2014/10 –2015/12，西北农林科技大学，风景园林艺术学院 讲师</p>
+
+<p>　　2011/07 –2014/06，瑞典农业大学，风景园林规划与管理系，哲学博士</p>
+
+<p>　　2010/04 –2010/11，上海世博会，瑞典马尔默城市案例馆，项目协调官</p>
+
+<p>　　2007/09 –2010/02，瑞典农业大学，风景园林规划与管理系，联合培养博士</p>
+
+<p>　　2006/09 –2011/07，西北农林科技大学，生态系 理学博士</p>
+
+<p>　　2003/09 –2006/06，西北农林科技大学，园林植物与观赏系 农学硕士</p>
+
+<p>　　1999/09 –2003/06，西北农林科技大学，园林系 农学学士</p>
+
+<p>　<strong>　二、研究经历：</strong></p>
+
+<p>　　2004年4月—2004年6月，参与山西运城花园居住区绿地规划设计；</p>
+
+<p>　　2005年10月—2005年11月，负责宝鸡金陵河与清姜河河道绿地规划设计；</p>
+
+<p>　　2008年9月—2010年1月，负责瑞典赫尔辛堡市绿色景观结构与空间的规划与设计；</p>
+
+<p>　　2011年9月至今，参与瑞典国家环境、农业和空间规划研究 Formas 基金项目，主要研究城市生物多样性与人们对其偏好与需求之间的关系；</p>
+
+<p>　　2012年2月，赴肯尼亚内罗毕参加有关景观保护、生产与交流理论的培训（Conservation, Production and Communication in Diverse Landscapes: Theories and Methods）；</p>
+
+<p>　　2014年5月一篇研究论文的实验结果被美国华盛顿大学主办的“Conservation”(volume 14, number 4, winter 2014) 杂志报道，报道中指出由于试验方法的独创性，美国国家公园管理局将借鉴此方法开展美国红杉树国家公园的规划与管理工作；</p>
+
+<p>　　2015年3月受德国慕尼黑工业大学全额资助赴慕尼黑参加 Research Opportunities Week（ROM）学术活动。</p>
+
+<p>　　<strong>三、教学工作：</strong></p>
+
+<p>　　目前承担的本科生课程：《风景区规划设计》、《游憩资源与规划》、《人居环境与环境设计》。</p>
+
+<p>　　主持我校2014年“Designing with Plants”（植物造景）本科生全英文课程项目（2.5万元，2014年12月-2016年12月）；</p>
+
+<p>　　参与我校2015年“Landscape Ecology”（景观生态）本科生全英文课程项目（5.0万元，2015年12月-2017年12月）；</p>
+
+<p>　　参与我校2015年“聚点成面?以面拓展?强化实践?多样考核—《园林绿地规划设计》课程体系改革与实践”项目（1.0万元，2015年6月）。</p>
+
+<p>　　<strong>四、科研工作：</strong></p>
+
+<p>　　先后访问欧洲、北美、非洲等多所大学和科研院所，多次参加国内外学术会议，担任国内外风景园林权威期刊的审稿人。</p>
+
+<p>　　研究方向：园林规划与设计，景观认知与偏好，城乡生物多样性保护与规划，城市绿色基础设施规划。</p>
+
+<p>　　主持与参与的科研项目：</p>
+
+<p>　　（1）主持国家自然科学基金青年项目“基于生态单元制图的城乡生物多样性保护体系构建”（31500582），24.0万，2016年1月-2018年12月；</p>
+
+<p>　　（2）主持陕西省留学人员科技活动择优资助项目“生态单元制图在城乡自然资源保护中的应用”（A289021601），3.0万，2015年1月-2017年12月；</p>
+
+<p>　　（3）主持校博士科研启动基金项目“基于景观认知偏好理论的城市生物多样性与居民游憩关系的研究”（Z109021501），5.0万，2015年1月-2016年12月；</p>
+
+<p>　　（4）主持校基本科研业务费科技创新项目“基于生物多样性保护与居民身心健康的城乡绿色基础设施规划研究”（Z109021560），5.5万，2015年8月-2015年12月；</p>
+
+<p>　　（5）主持校国际科技合作种子基金项目“融入生物多样性保护和居民身心健康的城乡绿色基础设施规划研究”（A213021505），4.0万，2015年6月-2017年6月；</p>
+
+<p>　　（6）参与国家林业局“陕西扶风七星河湿地生态系统定位研究站规划研究”项目，（K403021515），12万，2015年1月-2020年10月；</p>
+
+<p>　　（7）参与安徽省高校人文社会科学研究重点项目“城镇化进程中徽州古村落园林的景观价值评价与保护研究”，2.0万，2015年9月-2017年9月；</p>
+
+<p>　　（8）参与校引进人才科研启动项目“生物多样性为导向的城乡景观规划体系构建”，（Z111021501），50万，2015年9月-2020年9月；</p>
+
+<p>　　（9）参与校国际合作基金项目“基于生态文明的城乡可持续绿色基础设施研究”，（A213021310），10万，2014年1月-2015年12月；</p>
+
+<p>　　（10）参与校基本科研业务费专项资金项目“地域特色乡村景观规划设计研究”，（Z109021531），50万，2015年8月-2015年12月。</p>
+
+<p>　　发表文章：</p>
+
+<p>　　（1）Ling Qiu, Anders Busse Nielsen. Are perceived sensory dimensions reliable tools for urban green space assessment and planning? Landscape Research 2015, 40(7):834-854. (IF=1.077, SSCI)</p>
+
+<p>　　（2）Ling Qiu, Stefan Lindberg, Anders Busse Nielsen. Is biodiversity attractive? – On-site perception of recreational and biodiversity values in urban green space. Landscape and Urban Planning 2013, 119: 136-146. (IF=3.654, SSCI/SCI)</p>
+
+<p>　　（3）Tian Gao, Ling Qiu, Allan Gunnarsson, Marten Hammer. The importance of temporal and spatial vegetation structure information in biotope mapping schemes: a case study in Helsingborg, Sweden. Environmental management 2012, 49(2): 459-472. (IF=1.857, SCI)</p>
+
+<p>　　（4）Ling Qiu, Tian Gao, Allan Gunnarsson, Marten Hammer, Roland von bothmer. A methodological study of biotope mapping in nature conservation. Urban Forestry &amp; Urban Greening 2010, 9(2): 161-166. (IF=2.006, SCI/SSCI)</p>
+
+<p>　　（5）邱玲，陈泓，高天. 融合生物多样性与景观认知评价的城市绿地规划与管理之研究综述. 中国园林, 2016, 32 (1): 92-97. 中文核心期刊</p>
+
+<p>　　（6）邱玲. 生态单元制图在城乡生物多样性保护中的研究. 南方建筑, 2016. 特约稿件</p>
+
+<p>　　（7）邱玲, 高天, 张硕新. 社会单元图谱在国外城市景观规划中的应用. 中国园林, 2010, 26(1): 64-67. 中文核心期刊</p>
+
+<p>　　（8）邱玲, 高天, 张硕新. 融入植被结构因子的生态单元制图法在城市生物多样性信息采集中的应用. 生态学报, 2010, 30(14): 3688-3699. CSCD [C]（核心库）/中文核心期刊</p>
+
+<p>　　（9）邱玲, 邹志荣. 浅析居住区绿地文化. 西北林学院学报, 2006, 21(1): 143-145. CSCD [C]（核心库）/中文核心期刊</p>
+
+<p>　　（10）高天, 邱玲, 陈存根. 生态单元制图在国外自然保护和城乡规划中的发展与应用. 自然资源学报, 2010, 25(6): 978-989. CSCD [C]（核心库）/中文核心期刊</p>
+
+<p>　　（11）高天, 邱玲, 陈存根. 融入植被连续性因子的生态单元制图法在城市生物多样性维护中的应用. 应用生态学报, 2010, 21(9): 2295-2300. CSCD [C]（核心库）/中文核心期刊</p>
+
+<p>　　著作：</p>
+
+<p>　　Ling Qiu. Linking Biodiversity and Recreational Merits of Urban Green Spaces – Methodological Development. 2014. Swedish University of Agricultural Sciences, Alnarp. ISSN 1652/6880, ISBN 978-91-576-7980-2. Online publication of thesis summary: http://pub.epsilon.slu.se/11002/1/qiu_l_140221.pdf</p>
+
+<p>　　<strong>五、联系方式：</strong></p>
+
+<p>　　地址：陕西杨凌 邰城路3号</p>
+
+<p>　　西北农林科技大学 风景园林艺术学院</p>
+
+<p>　　邮编：712100</p>
+
+<p>　　电子邮箱：qiu.ling@nwsuaf.edu.cn</p>
+ 
+				<o:p></o:p><p></p>
+
+
+
+
+<!--EndFragment-->	
+		  </div>
+		</div>
+		<div style="clear:both;"></div>
+		</div>
+
+  <div class="footer">
+		<div class="foot">
+		<p>版权所有：西北农林科技大学风景园林艺术学院　维护：园林学院　技术支持：艾特网络</p>
+		</div>
+		</div>    
+
+</body></html>

@@ -1,0 +1,185 @@
+捐赠 通道 
+管理入口 
+English 
+首页 
+学院简介 
+学院概述 
+学院 沿革 
+学院 架构 
+行政 组织 
+历任领导 
+党委 组织 
+历史 人物 
+系所介绍 
+大事记 
+行政 通知 
+师资队伍 
+领军人才 
+千人计划 
+青年千人 
+长江学者 、 杰 ... 
+专任教师 
+机械制造 
+机械电子 
+机械设计 
+工业设计 
+车辆工程 
+工业 工程 
+客座教授 
+兼职教师 
+name_label 
+张 红 
+name_label 
+行政人员 
+学术研究 
+科研团队 
+特色 研究 
+学术论坛 
+学生培养 
+本科生培养 
+研究生培养 
+学生工作 
+学工队伍 
+学工 通知 
+学生 党建 
+支部 设置 
+制度建设 
+党团 动态 
+党员发展 
+党 日 活动 
+学生 团建 
+组织结构 
+制度建设 
+团内 动态 
+团日活动 
+学生组织 
+就业工作 
+企业 风采 
+就业 动态 
+下载专区 
+党群 工作 
+制度建设 
+党群 通知 
+两学 一 做 
+关工委 
+百年 机械 专区 
+“ 百年 机械 发 ... 
+校友风采 
+院士 
+知名校友 
+校友 返校 
+校友通讯 
+企业 风采 
+毕业 照 
+大学毕业 照 
+硕士毕业 照 
+在线 捐赠 
+联系 我们 
+孔雀东南飞 
+联系 我们 
+name_label   教授 
+发布者 ： 发布时间 ： timelabel 浏览次数 ： 3967 
+职称 
+教授 
+办公室 
+机械 楼 
+联系电话 
+E - mail 
+maillabel 
+学习经历 
+timelabel - timelabel ， 东北大学 尖子班 ， 材料科学 与 工程 ， 本科 / 学士 ； 
+timelabel - timelabel ， 东北大学 ， 材料学 ， 硕博连读研究生 / 博士 ； 
+timelabel - timelabel ， 美国密歇根大学 ， 工学院 机械系 ， 激光 辅助 智能制造 中心 ( CLAIM )， 联合培养博士 ， 师承 于 美国工程院院士 Jyoti   Mazumder 教授 。 
+工作经历 
+timelabel - timelabel ： place_label 大学 ， 机械工程学院 ， 讲师 、 副教授 、 硕士生导师 ； 
+timelabel - timelabel ： 美国密歇根大学 ， 工学院 机械系 ， 激光 辅助 智能制造 中心 ( CLAIM )， 研究学者 ( Research   s cho lar ) 
+timelabel - timelabel ： 东南大学 ， 机械工程学院 机制 系 ， 副教授 、 硕士生导师 ； 
+timelabel - 至今 ： 东南大学 ， 机械工程学院 机制 系 ， 教授 
+教授课程 
+工程 材料 及 制造 技术 基础 
+先进制造 技术 ( 双语 ) 
+先进 激光 制造 技术 
+研究方向 
+1 .  激光 增材制造 、  激光 表面工程 ( 激光 熔覆 、 激光 合金化 、 激光 name_label 、 激光 重熔 )、 激光 焊接 
+2 .  海工 装备 激光 电弧 复合 焊接 理论 及 方法 
+3 .  激光 与 材料 相互作用 、 冶金学 原理 、 微观组织 演变 、 相变 、 热 / 动力学 原理 、 残余应力 分析 、 疲劳 、 腐蚀 、 磨损 、 断裂 失效 机制 
+获奖情况 
+place_label “” 六大人才高峰 “ 高层次人才 ” 
+place_label 机械工业 联合会 一等奖 
+论文著作 
+书籍 章节 
+[ 1 ] GF   Sun ,  R   Zhou .    Chapter   3 :  Mecha nic al   properties   improvement   of   metallic   rolls   by   laser     surface   allo yin g .  In   the   Book   Laser   surface     engineering :  Processes   and   appli cation s .  Edited   by   Jonathan   Lawrence   and   David   Waugh .  Published   by   Woodhead   Publishing   Limited .  timelabel ,  59 - 96 . 
+期刊论文 
+[ 30 ] ZD   Wang ,  Y   Lu ,  GF   Sun *,  ZH   Ni .  Effect   of   Ultra - son ic   Peening   on   Laser - Arc   Hyb rid   Welded   NV   E690   Steel .  Journal   of   Laser   Appli cation s , 
+timelabel ,  in   press . ( SCI ). 
+[ 29 ] JF   Wu ,  SK   Zou ,  YK   Zhang ,  SL   Gong ,  GF   Sun *,  ZH   Ni ,  ZW   Cao ,  ZG   Che ,  AX   Feng .  Microst ruc tures   and   mecha nic al   properties   of  β  forging   Ti17   alloy   und er   com bin ed   laser   shock   processing   and   shot   peening . 
+Surface    &  Coatings   Technology , 
+timelabel ,  328 :  283 - 291  ( SCI ). 
+[ 28 ] name_label ,  name_label ,  name_label *,  name_label ,  张胜标 ,  name_label .  三维 平顶 光束 激光 冲击 timelabel 铝合金 的 残余应力 场 数值模拟 .  place_label 激光 , 
+timelabel ,  44 ( 8 ):  080 timelabel  ( EI ). 
+[ 27 ]  GF   Sun *,  ZD   Wang ,  Y   Lu ,  R   Zhou ,  ZH   Ni .  Investigation   on   microst ruc ture   and   mecha nic al   properties   of   NV   E690steel   joint   by   laser - MIG   hyb rid   welding .  Materials   and   Design ,  timelabel ,  127 :  297 - 310 . ( SCI ) 
+[ 26 ]  R   Zhou ,  ZP   Tong , 
+GF   Sun *,  ZH   Ni ,  W   Zhang .  Microst ruc ture   and   wear   behaviour   of   38CrMoAl   steel   laser - processed   with   addition   of   MoS2   or   patentlabel .  Lasers   in   Engineering , 
+timelabel ,  in   press . ( SCI ) 
+[ 25 ]  AM   Xia o ,  GF   Sun *, ZP   Tong ,  SY   Dong ,  SX   Yan ,  JZ   Lu ,  YK   Zhang .  Effect   of   laser   shock   processing   on   microst ruc ture ,  resi dual   stress   and   wear - fracture   behavior   of   laser   deposited   Fe - based   alloy   coating .  Lasers   in   Engineering , 
+timelabel ,  in   press . ( SCI ) 
+[ 24 ]  GF   Sun *,  XY   Fan g ,  ZP   Tong ,  ZH   Ni ,  Y   Lu .  Effect   of   laser   shock   peening   on    alu min um   alloy   laser - welds .  Surface   Engineering ,  timelabel ,  32 :  943 - 948 . ( SCI ) 
+[ 23 ] name_label ,  name_label *,  name_label ,  name_label .  光纤 激光 水下 切割 1   mm 厚 304 不锈钢 的 实验研究 .  place_label 激光 , 
+timelabel ,  43 : 060 timelabel  ( EI ). 
+[ 22 ]  GF   Sun *,  ZP   Tong ,  XY   Fan g ,  XJ   Liu ,  ZH   Ni ,  W   Zhang . Effect   of   s can ning   speeds   on   microst ruc ture   and   wear   behavior   of   laser   processed   NiCr - Cr3C2 - MoS2 - CeO2   on   38CrMoAl   steel . 
+Optics  &  Laser   Technology , 
+timelabel ,  77 :  80 - 90 . ( SCI ) 
+[ 21 ]  Y .  Lu ,  GF   Sun ,  D . P .  Wen ,  Y . K .  Zhang ,  A . X .  Feng .  Effects   of   appl yin g   electric   and   magnetic   fields   on   laser   drilling .  The   International   Journal   of   Advanced   Manufacturing   Technology , 
+timelabel ,  84 :  2293 - 2300  ( SCI ) 
+[ 20 ]  GF   Sun *,  R   Zhou ,  JZ   Lu ,  J   Mazumder .    E val uation   of   defect   density ,  microst ruc ture ,  resi dual   stress ,  elastic   modulus ,  hardness     and   strength   of   laser   deposited   AISI   4340   steel .  Acta   Materialia ,  timelabel ,  84 :  172 - 189 . ( SCI ) 
+[ 19 ] GF   Sun *,  K   Wang ,  R   Zhou ,  AX   Feng ,  W   Zhang .  Effect   of   different   heat - treatment   temperatures   on   the   laser   cladded   M3 : 2   high - speed   steel .  Materials   and   Design ,  timelabel ,  65 :  606 - 616 . ( SCI ) 
+[ 18 ] GF   Sun *,  K   Wang ,  R   Zhou ,  ZP   Tong ,  XY   Fan g .  Effect     of   annealing   on   microst ruc ture   and   mecha nic al   properties   of   laser   deposited     Co - 285  +  WC   coatings .    Optics  &  Laser   Technology ,  timelabel ,  66 :  98 - 105 . ( SCI ) 
+[ 17 ] GF   Sun *,  YK   Zhang ,  MK   Zhang ,  R   Zhou ,  K   Wang ,    CS   Liu ,  KY   Luo .  Microst ruc ture   and   corrosion   characteristics   of   304   sta inless     steel   laser - alloyed   with   Cr - CrB 
+2 
+.  Applied   Surface   Science ,    timelabel ,    295 :  94 - 107 . ( SCI ) 
+[ 16 ] GF   Sun *,  R   Zhou ,  YK   Zhang ,  GD   Yuan ,  K   Wang ,    XD   Ren ,  DP   Wen .  Microst ruc ture   evolution   and   lubri can t   wear   performance   of     laser   alloyed   layers   on   automobile   engine   cha ins .  Optics  &  Laser   Technology ,  timelabel ,  62 :  20 - 31 . ( SCI ) 
+[ 15 ] R   Zhou ,    GF   Sun *,  CS   Liu ,    XD   Ren ,  K   Wang ,  AX   Feng ,  XP   Bu .  Effects     of   yttrium   on   microst ruc ture   and   wear   properties   of   laser   DMD   Co - 285 + WC     coatings .  Lasers   in   Engineering ,  timelabel ,  31 ( 3 - 4 ):  161 - 178 . ( SCI ) 
+[ 14 ] MK   Zhang ,  GF     Sun *, YK   Zhang ,  CS   Liu ,  XD   Ren ,  AX   Feng ,  W   Zhang .  Laser     surface   allo yin g   of   Cr - CrB 
+2 
+on   SUS   304   sta inless   steel .  Lasers     in   Engineering ,  timelabel ,  27 ( 3 - 4 ):  231 - 245 . ( SCI ) 
+[ 13 ] name_label ,  name_label *,  name_label ,  name_label ,  name_label ,  name_label .  不锈钢 表面 激光 合金化 Mn - Al2O3 强化 层 的 组织 及 性能 .  place_label 有 色金属学报 , 
+timelabel （ 8 ）： 2253 - 2259 。( EI ) 
+[ 12 ] GF   Sun *, S   Bhattacharya ,  GP   Din da ,  A   Dasgupta ,  J   Mazumder .  Microst ruc ture     evolution   during   laser   aided   direct   metal   deposition   of   alloy   tool   steel ,  Scripta     Materialia ,  timelabel ,  64 :  454 - 457 . ( SCI ) 
+[ 11 ] GF   Sun *, S   Bhattacharya ,  GP   Din da ,  A   Dasgupta ,  J   Mazumder .    Influence   of   processing   parameters   on   lattice   parameters   in   laser   deposited     tool   alloy   steel .  Materials   Science   and   Engineering :  A ,  timelabel ,  528 :  5141 - 5145 . ( SCI ) 
+[ 10 ] GF   Sun *,  R   Zhou ,  P   Li ,  AX   Feng ,  YK   Zhang .  Laser     surface   allo yin g   of   C - B - W - Cr   powders   on   nodular   cast   iron   rolls .  Surface    &  Coatings   Technology ,  timelabel ,  205 :    2747 - 2754 . ( SCI ) 
+[ 9 ] GF   Sun ,  CS   Liu ,  LJ   Son g ,  J   Mazumder .    Microst ruc ture   and   wear   behavior   of   laser - aided   direct   metal   deposited   Co - 285     and   Co - 285  + WC   coatings .  Metallurgy   and   Materials   Transactions :  A , timelabel ,  41 :    1592 - 1603 . ( SCI ) 
+[ 8 ] GF   Sun *,  YK   Zhang ,  CS   Liu ,  KY   Luo ,  XQ   Tao ,  P   Li .    Microst ruc ture   and   wear   re sis tan ce   enh an cement   of   cast   steel   rolls   by   laser     surface   allo yin g   NiCr - Cr 
+3 
+C 
+2 
+.  Materials   and   Design ,  timelabel ( 6 ):  2737 - 2744 . ( SCI ) 
+[ 7 ] GF   Sun *,  YK   Zhang ,  CS   Liu ,  P   Li ,  XQ   Tao .    Microst ruc ture   and   wear   re sis tan ce   enh an cement   of   semi - steel   rolls   by   laser     surface   allo yin g   of   NiCr - Cr 
+3 
+C 
+2 
+.  Lasers   in   Engineering ,  timelabel ,  19 :  347 - 361 . ( SCI ) 
+[ 6 ] GF   Sun *,  YK   Zhang ,  CS   Liu .  Effects   of   laser   surface     re - melting   on   the   microst ruc ture   and   hardness   of   laser   deposited   Co - 285 + WC     coatings .  Lasers   in   Engineering ,  timelabel ,  20 :  9 - 20 . ( SCI ) 
+[ 5 ]  name_label ,  name_label ,  name_label ,  name_label .  碳钢 上 激光 辅助 沉积 Co - 285 合金 的 组织 及 性能 .  place_label 有 色金属学报 , 
+timelabel （ 2 ）： 274 - 281 。( EI ) 
+[ 4 ] S   Hua ng ,  JZ   Zhou ,  J   Sheng ,  JZ   Lu ,  GF   Sun ,  XK   Meng ,  LD     Zuo ,  HY   Ruan .  Effects   of   laser   energy   on   fatigue   crack   growth   properties   of     6061 - T6   alu min um   alloy   sub jected   to   multiple   laser   peening .  Engineering     Fracture   Mecha nic s ,  timelabel ,  99 :  87 - 100 . ( SCI ) 
+[ 3 ] JZ   Lu ,  KY   Luo ,  YK   Zhang ,  GF   Sun ,  YY   Gu ,  JZ   Zhou ,  XD     Ren ,  XC   Zhang ,  LF   Zhang ,  KM   Chen ,  CY   Cui ,  YF   Jian g ,  AX   Feng ,  L   Zhang .  Grain     ref inement   mechanism   of   multiple   laser   shock   processing   impacts   on   ANSI   304     sta inless   steel .  Acta   materialia , timelabel ,  58 ( 16 ):    5354 - 5362 . ( SCI ) 
+[ 2 ] HY   Wang ,  DW   Zuo ,  G   Chen ,  GF   Sun ,  XF   Li ,  X   Cheng .  Hot     corrosion   behaviour   of   low   Al   NiCoCrAlY   cladded   coatings   reinforced   by     nano - particles   on   a   Ni - base   super   alloy .  Corrosion   science ,  timelabel ,  52 :  3561 - 3567 . ( SCI ) 
+[ 1 ] JZ   Lu ,  KY   Luo ,  YK   Zhang ,  CY   Cui ,  GF   Sun ,  JZ   Zhou ,  L   Zhang ,  J     You ,  KM   Chen ,  JW   Zhong .  Grain   ref inement   of   patentlabel   alu min um   alloy   induced   by     ultra - high   plastic   strain   during   multiple   laser   shock   processing   impacts .  Acta     materialia ,  timelabel ,  58 :  3984 - 3994 .   ( SCI ) 
+会议论文 
+[ 4 ] R   Zhou ,  GF   Sun *,    KK   Chen ,  YQ   Tong .  Effect   of   tempering   on   microst ruc ture   and   mecha nic al     properties   of   cast   iron   rolls   laser   alloyed   with   C - B - W - Cr .  timelabel     Global   Con ference   on   Polymer   and   Composite   Materials  ( PCM   timelabel ), IOP   Con f .    Series :  Materials   Science   and   Engineering , timelabel ,  62 :  01 timelabel . ( EI ) 
+[ 3 ] GF   Sun *,  Zhou   Rui ,  Li   Peng ,  Zhang   Yongkang .  Effects   of     processing   parameters   on   the   laser   deposited   Co - 285  +  WC   coatings .  Key   Engineering   Materials , timelabel ,  464 :  568 - 571 . ( EI ) 
+[ 2 ] GF   Sun ,  Liu   Changsheng ,  Liang   Jin g ,  Zhou   Junhu a ,    Tao   Xin gqi .  Laser   surface   allo yin g   of   NiCr - Cr 
+3 
+C 
+2 
+and     C - B - W - Cr   powders   on   nodular   cast   iron   rolls .  Advanced   Materials   Research ,    timelabel ,  79 - 82 :  1459 - 1462 . ( EI ) 
+[ 1 ] GF   Sun ,  Liu   Changsheng ,  Guru   P   Din da ,  Jyoti     Mazumder .  Laser - AidedDirect   Metal     Deposition   of   Co - 285 .  ICALEO ,  27 
+th 
+International   Con gress   on     Appli cation   of   Lasers  &  Electro - Optics ,  October   20 - 23 ,  timelabel .  Pechanga   Resort  &  Cas ino ,  Tem ecu la ,  CA ,  USA . ( ISTP ) 
+科研项目 
+项目名称 
+项目类别 
+项目时间 
+工作 类别 
+项目金额 
+XXX 

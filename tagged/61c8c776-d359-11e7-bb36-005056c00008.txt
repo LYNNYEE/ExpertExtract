@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=41" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="zBTZzTNWQSAi7cyhTVEEvIZ8FFUHFRh5ejM/Lh/mmKO2uyaJb5ebQRzS3zOMF2k9/GTWO1p5bdPCVAfYjtVgTzptJMNLMu2X6ULFnKvtyDHJy5A7bipajMNoAvCQl3kijjVNcdevfqiJFNzWbU17ai3uPgF6dMjmlRoMyzVjP3ZAhxc5aKgiwtp8gCVNs0kD1hNn9c0WoKUBxQmbfOnd2tjdzpPzQDB+WZ3umnaPd/FlsIHm6Tllu/0qoP9Ik1DvShStl9h+/ZL6MSSDq5j2Dc5HfCSwT4I5I4LN4bfAJCSSFM+xGbOwY2cg4jUTp/c3cQD/jY/+Jr3598EjusgVDK9Si+JaNc6Y6fyJYlJiRt9VMqSEzKUyE1cNjvaW+PfUgQTqUnRSm6VCXdqkwL9e44wgI8R536v2ix1hIi9fGWFRCdPbVxiYbNOB/2f9O22fHDHCbMIlsPqkjA8FA9wDAOMT0dWK1K6zwilPG/r50SA5CPM7ydabI/qL8ZOgMOWzg667NWk5fiA0CsphOrtQPHaSjSp5rSeZkEi0ucqD+2UTkKemcEZ3gC9YshMXGppAXbv0DyObQaEEbanII8KkokHjZk4a9AOTEIc4LZy1z7Z6m8WOrkZEluJwTG3MujZyOkFrz1Ks0COAc/L7p6dQL0TTrVym74G3IOpk0k8sXfGAuAK4B/7jOU8NO9655jlErTFbMBe3FVxj38cFBVyxlhCAFGOZoMAQ1Ugk0HG7DnZPtBS19UdUFcAtqsk7UFH8rAI2X/d3FRskxONANBxFiM0/j8QbF3UUt0UbxycrYhuDmnUTn8zyptF0/1cNtNXkQ30iXRZ99fuuhV4tw0QAOhLnHfTRpQpVp+ab+kNOV1M6ChKZDxrMMGurNtpgZ1E8hdzT/TcE4TxfBAPBMvGZUo/s9RgFgp4ZW77101AS732kW1VZ" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;杜军平</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/杜军平3.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;女</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;计算机应用技术中心主任</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;中国人工智能学会常务理事、副秘书长；中国人工智能学会智能服务专业委员会主任、中国自动化学会智能自动化专业委员会副主任、中国人工智能学会智能空天专业委员会副主任、中国旅游信息标准技术委员会主任、世界工程组织联合会信息与通信委员会委员、《International Journal of Intelligent Information Processing》国际期刊副主编，《计算机仿真》、《智能系统学报》、《智能技术》等期刊编委。</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;博导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;计算机应用技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        数据库系统、机器学习、智能管理、数据仓库与数据挖掘等</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;计算机应用，运动图像处理，视觉与信息获取，预测预警，数据融合，人工智能理论与技术等</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;杜军平，女，教授，博士生导师。主要研究方向为计算机应用，运动图像处理，视觉与信息获取，预测预警，数据融合，人工智能理论与技术等。在北京科技大学计算机系获博士学位，清华大学计算机系智能技术与系统重点实验室博士后。丹麦Aarhus大学计算机系访问学者。目前正在主持国家自然科学基金重大国际合作项目，并担任国家973计划项目课题负责人。&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;近年来主持承担各类科研项目30余项，包括主持国家863计划“新一代高可信网络”重大项目1项、国家自然科学基金项目5项、北京市自然基金重点项目1项、北京市教育委员会科技发展计划重点项目1项、北京市自然科学基金项目3项、北京市教委科技发展基金项目1项等。主持完成了全国“黄金周”假日旅游预报系统、中国旅游投资信息管理系统、中国旅游行业财务信息管理系统和中国旅游电子商务国家标准等。目前正在主持国家自然科学基金重大国际合作项目，并担任国家973计划项目课题负责人等，在数据分析与融合、视觉与信息获取、运动图像处理等方面取得了重要的进展。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;获2005年度北京市科学技术二等奖（排名第一）、2008年北京邮电大学教学名师奖。研究成果多次荣获中国自动化学会优秀论文奖。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">在IEEE&nbsp;Transactions&nbsp;on&nbsp;Neural&nbsp;Networks,&nbsp;IEEE&nbsp;Transaction&nbsp;on&nbsp;Circuits&nbsp;and&nbsp;Systems,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Automatic&nbsp;Control,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Information&nbsp;Forensics&nbsp;and&nbsp;Security,&nbsp;IEEE&nbsp;Transaction&nbsp;on&nbsp;Instrumentation&nbsp;and&nbsp;Measurement,&nbsp;IET&nbsp;Information&nbsp;Security等国际重要刊物和国内外著名学术会议上发表论文150余篇，被SCI、EI等检索80余篇。</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;13501233431</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学鸿通楼410</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;junpingdu@126.com,junpingd@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

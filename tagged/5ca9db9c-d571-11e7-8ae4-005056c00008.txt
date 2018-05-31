@@ -1,0 +1,140 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>历史沿革_北京师范大学生物多样性与生态工程教育部重点实验室</title>
+<meta name="keywords" content="  ">
+<meta name="description" content=" ">
+<link rel="stylesheet" type="text/css" href="/css/css.css">
+<script type="text/javascript" src="/js/jquery1.42.min.js"></script>
+<script type="text/javascript" src="/js/jquery.SuperSlide.2.1.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+</head>
+<body>
+<div class="top">
+  <div class="logo"><a href="/" target="_blank">北京师范大学生物多样性与生态工程教育部重点实验室</a></div>
+  <div class="form">
+    <h3>English Version</h3>
+    <form name="searchform" method="post" action="/e/search/index.php">
+ <input name="show" value="title,newstext" type="hidden">
+      <input class="input" name="keyboard" value="请输入关键词" onfocus="if(value=='请输入关键词') {value=''}" onblur="if (value=='') {value='请输入关键词'}" type="text">
+      <input name="" class="search" value="提交" type="submit">
+    </form>
+  </div>
+</div>
+<ul class="nav" id="nav">
+  <div class="prev"></div>
+  <div class="next"></div>
+  <li class="nLi no on">
+    <h3><a href="/" target="_blank">首页</a></h3>
+  </li>
+  <li class="nLi">
+    <h3><a href="/about/introduce/" target="_blank">实验室概况</a></h3>
+    <ul class="sub">
+      <li><a href="/about/introduce/" target="_blank">实验室简介</a></li>
+      <li><a href="/about/history/" target="_blank">历史沿革</a></li>
+      <li><a href="/about/Pastleader/" target="_blank">历任领导</a></li>
+      <li><a href="/about/AcademicBoard/" target="_blank">学术委员会</a></li>
+    </ul>
+  </li>
+  <li class="nLi">
+    <h3><a href="/team/researcher/" target="_blank">研究队伍</a></h3>
+  </li>
+  <li class="nLi">
+    <h3><a href="/science/project/" target="_blank">科学研究</a></h3>
+    <ul class="sub">
+      <li><a href="/science/project/" target="_blank">科研项目</a></li>
+      <li><a href="/science/activity/" target="_blank">学术活动</a></li>
+      <li><a href="/science/paper/" target="_blank">最近发表论文</a></li>
+      <li><a href="/science/win/" target="_blank">获奖</a></li>
+      <li><a href="/science/baogao/" target="_blank">年度报告</a></li>
+    </ul>
+  </li>
+  <li class="nLi">
+    <h3><a href="/cultivate/list/" target="_blank">人才培养</a></h3>
+    <ul class="sub">
+      <li><a href="/cultivate/list/" target="_blank">研究生名单</a></li>
+      <li><a href="/cultivate/course/" target="_blank">研究生课程</a></li>
+      <li><a href="/cultivate/education/" target="_blank">研究生教育</a></li>
+    </ul>
+  </li>
+  <li class="nLi">
+    <h3><a href="/Open/topic/" target="_blank">开放与交流</a></h3>
+    <ul class="sub">
+      <li><a href="/Open/topic/" target="_blank">开放课题</a></li>
+      <li><a href="/Open/teamwork/" target="_blank">交流与合作</a></li>
+    </ul>
+  </li>
+  <li class="nLi">
+    <h3><a href="/Resource/equipment/" target="_blank">资源共享</a></h3>
+  </li>
+  <li class="nLi">
+    <h3><a href="/run/rules/" target="_blank">运行管理</a></h3>
+  </li>
+  <li class="nLi">
+    <h3><a href="/news/alerts/" target="_blank">新闻中心</a></h3>
+    <ul class="sub">
+      <li><a href="/news/alerts/" target="_blank">新闻快讯</a></li>
+      <li><a href="/news/Notice/" target="_blank">通知公告</a></li>
+    </ul>
+  </li>
+  <script id="jsID" type="text/javascript">
+	jQuery("#nav").slide({type:"menu",titCell:".nLi",targetCell:".sub",effect:"slideDown", delayTime:300 ,triggerTime:0, returnDefault:true});
+		</script>
+</ul>
+<div class="bannerfy"><img src="/d/file/p/2015-09-27/7de0bfade556a804b23b0dc02cec28da.jpg" width="1000" height="217"> </div>
+<!------main----->
+<div class="mainf">
+   <div class="content">
+     <div class="title"><a href="/index.html" target="_blank">首页</a>&nbsp;&gt;&nbsp;<a href="/about/" target="_blank">实验室概况</a>&nbsp;&gt;&nbsp;<a href="/about/history/" target="_blank">历史沿革</a></div>
+     <div class="containter">
+       <div class="sidebar">
+          <h3>实验室概况</h3>
+      	  <ul>
+<li><a href="/about/introduce/" target="_blank">实验室简介</a></li><li class="on"><a href="/about/history/" target="_blank">历史沿革</a></li><li><a href="/about/Pastleader/" target="_blank">历任领导</a></li><li><a href="/about/AcademicBoard/" target="_blank">学术委员会</a></li>
+</ul>       </div>
+      <div class="zcon">
+       <div class="con0">
+       <h3><b>历史沿革</b>
+         <p></p><div class="clear"></div></h3></div>
+       <div class="conx">
+         <div class="lsyg">
+           <ul>
+
+<li><a href="/about/history/1923.html" title="1923年，动物学教研室" target="_blank">1923年，动物学教研室</a></li>
+
+<li><a href="/about/history/1984.html" title="1984年，获批我国第二批博士学位授予权" target="_blank">1984年，获批我国第二批博士学位授予权</a></li>
+
+<li><a href="/about/history/1987.html" title="1987年，获批我国首批国家重点学科" target="_blank">1987年，获批我国首批国家重点学科</a></li>
+
+<li><a href="/about/history/1998.html" title="1998年，成立生态学研究所（校级开放实验室）" target="_blank">1998年，成立生态学研究所（校级开放实验室）</a></li>
+
+<li><a href="/about/history/2000.html" title="2000年，与复旦大学联合建立“生物多样性与生态工程教育部重点实验室" target="_blank">2000年，与复旦大学联合建立“生物多样性与生态工程教育部重点实验室</a></li>
+
+<li><a href="/about/history/2005.html" title="2005年，实验室第一次通过教育部验收评估" target="_blank">2005年，实验室第一次通过教育部验收评估</a></li>
+
+<li><a href="/about/history/2001.html" title="2001年，依托实验室的生态学科被教育部再次确定为国家重点学科" target="_blank">2001年，依托实验室的生态学科被教育部再次确定为国家重点学科</a></li>
+
+<li><a href="/about/history/2007.html" title="2007年，在国家重点学科评估中位列前茅" target="_blank">2007年，在国家重点学科评估中位列前茅</a></li>
+
+<li><a href="/about/history/2010.html" title="2010年，实验室第二次通过教育部验收评，并进入了争优答辩" target="_blank">2010年，实验室第二次通过教育部验收评，并进入了争优答辩</a></li>
+
+<li><a href="/about/history/2012_1.html" title="2012年，生态学调整为一级学科，并获批生态学博士后科研流动站" target="_blank">2012年，生态学调整为一级学科，并获批生态学博士后科研流动站</a></li>
+
+<li><a href="/about/history/2012.html" title="2012年，在第三次全国一级学科评估中综合排名第一" target="_blank">2012年，在第三次全国一级学科评估中综合排名第一</a></li>
+
+
+           </ul>
+         </div>
+         </div>
+         </div>
+       </div>
+       <div class="clear"></div>
+     </div>
+   </div>
+
+<div class="bottom">
+<p class="link">友情链接  <a href="#">基金委</a> | <a href="#">全文数据库</a> | <a href="#">北师大</a> | <a href="#">复旦大学</a> | <a href="#">教育部</a> | <a href="#">科技部</a></p>
+<p>北京师范大学版权所有   联系地址：北京市海淀区新街口外大街19号   北京师范大学生物多样性与生态工程教育部重点实验室   邮编100875</p>
+</div>
+
+
+</body></html>

@@ -1,0 +1,76 @@
+欢迎登录 
+主页 
+登录 
+CAS   登录 
+西安交通大学 教师个人主页   王   珏 
+个人主页 
+教书育人 
+科学研究 
+学术成果 
+研究队伍 
+学术交流 
+社会服务 
+招生信息 
+弟子 风采 
+其他 
+English 
+基本信息 
+name_label    三级教授   博士生导师 
+西安交通大学 生物医学工程 研究所所长 
+Analog   Clock 
+简讯 与 通知 
+“ 辅具 改变 生活 ， 你 我 同样 精彩 ”—— timelabel place_label 辅具 创意设计 竞赛 
+timelabel - 31 
+place_label “ 康复 多学科交叉 人才培养 模式 创新实验区 ” 被 批准 立项 建设 
+timelabel - 08 
+我校 康复 科学 与 技术 研究中心 与 place_label 维安 传感器 技术 有限公司 正式 签署 关于  “ 针对 注意障碍 伴 多动症 儿童 康复 治疗仪 ” 研究成果 转让 及 合作开发 的 协议 
+timelabel - 03 
+“ place_label booklabel 教学 交流 机制研究 和 共享 平台建设 ” 被 批准 为 陕西省教学改革重点 项目 
+timelabel - 04 
+携手 同行 ， 温暖 相随 —— 生医 所 成果 汇报 展示 暨 “ 我 参与 ， 我 快乐 ” 师生 同 庆元旦 会 日前 在 place_label 大厦 召开 
+timelabel - 30 
+booklabel 获西安交通大学 十一届 优秀教材二等奖 
+timelabel - 28 
+更多新闻 ... 
+联系信息 
+办公室 ：     西安交通大学东 校区 科学馆 524 室 
+电话 / 传真 ：   phonelabel （ O ） 
+通讯地址 ： 西安交通大学生命 科学 与 技术 学院 
+place_label place_label 西路 28 号 科学馆 524 室 
+邮编 ：        710047 
+电子邮件 ： maillabel 
+网页 地址 ：/ web / juewang 
+友情链接 
+http :// www . ed . gov / offices / OSERS / NIDRR 
+http :/ www . unescap . org 
+http :// www . rerc . pitt . edu 
+http :// www . wheelchairnet . org 
+http :// www . herl . pitt . edu 
+http :// www . pitt . edu /~ super1 / 
+booklabel 课程 
+教育经历 
+出席 在 美国 亚特兰大 召开 的 国际学术会议 （ 背景 为 美国 CNN 总部 ） 
+timelabel - timelabel   年   西安交通大学无线电 工程系 元件 与 材料 专业 ， 本科 。 
+timelabel - timelabel   年   西安交通大学信息 与 控制工程系 生物医学电子 工程专业 ， 硕士研究生 。 
+timelabel - timelabel   美国 匹茨堡大学健康 与 康复学院康复科学 与 技术 专业 博士研究生 。 
+timelabel - timelabel   美国 匹茨堡大学健康 与 康复学院康复科学 与 技术 系 博士后 。 
+工作经历 
+timelabel 被 聘为 西安交通大学教授 。 现任西安交通大学 生命科学 与 技术 学院 三级教授 、 博士生导师 ， 生物医学工程 研究所所长 兼 康复 科学 与 技术 研究中心主任 ； 中国国家保健器具 工程技术 研究中心 西安交通大学 分 部副主任 。 
+timelabel 起   被 聘为 美国匹兹堡大学 健康 与 康复 科学 学院兼职教授 。 
+timelabel 起   被 聘为 中国国家保健器具 工程技术 研究中心 西安交通大学 分 部副主任 
+timelabel - timelabel 年 在 美国匹兹堡大学 任 访问副教授 、 研究助理 、 在职 博士生 、 助理教授 等 职 。 
+timelabel - timelabel    历任 西安交通大学信息 与 控制工程系 助理工程师 、 工程师 、 讲师 、 副教授 ， 生物医学电子 工程 研究室副主任 等 职 。 
+timelabel - timelabel    历任 南京 无线电 元件 一厂 技术员 、 助理工程师 、 集成电路 新品 开发 车间 技术 副主任 、 厂 技术科 副科长 、 科长 、 厂 技术 开发部 主任 等 职 。 
+荣誉 和 奖励 
+timelabel ， 作为 学科带头人 ， 领军 的 西安交通大学 “ 康复 医学 与 理疗 学 ” 学科 被 民间 学科 评估 
+专家 name_label 评为 A ++（ 全国 前 2 %）， 列为 该 学科 全国 排名 第二 。 
+timelabel ， 获得 “ 宝钢教育基金 ” 优秀教师奖 。 
+timelabel ， 根据 教育部 文件精神 ， 被 列为 “ 引进 优秀 尖子 留学人员 ”。 
+timelabel ， 在 西安交通大学研究生院 、 学生处 、 校团委 主办 ， 研究生会 、 博士生 协会 承办 的 网上 无记名 投票选举 中 ， 被 评为 “ 我最喜爱 的 交大 导师 ” 
+timelabel 在 美国 学习 期间 ， 获得 “ All - Ameri can   S cho lar   Collegiate   Award ”， 名字 和 照片 被 收入 进 “ All - Ameri can   S cho lar   Collegiate   名录 ”  timelabel 卷 。 
+版权所有 ： 西安交通大学   站点设计 ： 网络信息中心   陕 ICP 备 05001571 号 
+IPhone版本下载 
+Android版本下载 
+欢迎您访问 我们 的 网站 ， 您 是 第 
+位 访客 
+推荐分辨率 1024 * 768 以上     推荐浏览器IE 7   Fi fef ox   以上 

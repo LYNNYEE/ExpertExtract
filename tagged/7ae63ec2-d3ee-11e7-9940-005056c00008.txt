@@ -1,0 +1,163 @@
+<html><head>
+<title>马莹-先进制造工程学院</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+<link rel="icon" href="../../images/ico.ico" mce_href="/images/ico.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="../../dfiles/14559/css/subpage.css">
+<script type="text/javascript" src="../../dfiles/14559/js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="../../dfiles/14559/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../dfiles/14559/js/jquery-json.js"></script>
+<script type="text/javascript" src="../../dfiles/14559/js/constant.js"></script>
+<script type="text/javascript" src="../../dfiles/14559/js/handlebars.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230747847565353544203050002 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css">
+<meta name="keywords" content="先进制造工程学院,师资队伍">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1012,'/content.jsp',1651,1341248802)</script>
+</head>
+<body>
+<div id="sub_header"><div id="flash"><img src="../../images/14321993773f4fbcff886c648a.jpg"></div>
+<div class="header"><!--#begineditable name="网站导航" action="" layout="" tpltype="" contype="" clone="" viewid="49275" contentviewid="" tagname="网站导航"-->        <div class="top">
+            <div class="navWrap">
+                <a href="../../index.htm" target="_blank"><img src="../../dfiles/14559/images/logo1.png" class="logo"></a>
+                <div class="nav">
+                    <ul id="nav">
+                            <li class="all college">
+                            <div class="navigation">                                    
+                                <a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1002" target="_blank">学院概况</a>
+                            </div>
+                                    <ul class="subNav">
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1010" target="_blank">学院简介</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1011" target="_blank">机构设置</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1012" target="_blank">师资队伍</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013" target="_blank">院内新闻</a></li>
+                                    </ul>
+                                </li>
+                    </ul>
+                    <ul id="nav">
+                            <li class="all college">
+                            <div class="navigation">                                    
+                                <a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003" target="_blank">学科建设</a>
+                            </div>
+                                    <ul class="subNav">
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1014" target="_blank">学科规划</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1015" target="_blank">学科动态</a></li>
+                                    </ul>
+                                </li>
+                    </ul>
+                    <ul id="nav">
+                            <li class="all college">
+                            <div class="navigation">                                    
+                                <a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1004" target="_blank">人才培养</a>
+                            </div>
+                                    <ul class="subNav">
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1016" target="_blank">概况</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1017" target="_blank">硕士生导师</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1018" target="_blank">本科生教育</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1019" target="_blank">研究生教育</a></li>
+                                    </ul>
+                                </li>
+                    </ul>
+                    <ul id="nav">
+                            <li class="all college">
+                            <div class="navigation">                                    
+                                <a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1005" target="_blank">科学研究</a>
+                            </div>
+                                    <ul class="subNav">
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1020" target="_blank">科学概况</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1021" target="_blank">科研机构</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1022" target="_blank">科研动态</a></li>
+                                    </ul>
+                                </li>
+                    </ul>
+                    <ul id="nav">
+                            <li class="all college">
+                            <div class="navigation">                                    
+                                <a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1006" target="_blank">学生工作</a>
+                            </div>
+                                    <ul class="subNav">
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1023" target="_blank">学工概况</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1024" target="_blank">事务通知</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1025" target="_blank">学生服务</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1026" target="_blank">成果展示</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1027" target="_blank">毕业墙</a></li>
+                                    </ul>
+                                </li>
+                    </ul>
+                    <ul id="nav">
+                            <li class="all college">
+                            <div class="navigation">                                    
+                                <a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007" target="_blank">党建工作</a>
+                            </div>
+                                    <ul class="subNav">
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1028" target="_blank">机构设置</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1029" target="_blank">十八大以来系列重要讲话</a></li>
+                                    </ul>
+                                </li>
+                    </ul>
+                    <ul id="nav">
+                            <li class="all college">
+                            <div class="navigation">                                    
+                                <a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008" target="_blank">公共服务</a>
+                            </div>
+                                    <ul class="subNav">
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1030" target="_blank">文档下载</a></li>
+                                            <li><a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1031" target="_blank">公共资源</a></li>
+                                            <li><a href="../../search.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1032" target="_blank">搜索</a></li>
+                                    </ul>
+                                </li>
+                    </ul>
+                    <ul id="nav">
+                            <li class="all college">
+                            <div class="navigation">                                    
+                                <a href="../../lanmu.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1041" target="_blank">English</a>
+                            </div>
+                                    <ul class="subNav">
+                                    </ul>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+        </div><!--end of top-->
+    
+
+<!--#endeditable--></div></div>
+<div id="sub_content">
+    <div class="articles" id="articles"><!--#begineditable name="文章内容" action="webber.wbst.com.news.DetailNews" layout="/system/_component/news/content/tpltitle.jsp" tpltype="1" contype="" clone="" viewid="49281" contentviewid="" tagname="文章内容"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1651,'1341248802','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+
+<div class="map"></div>         
+                <h2>
+                    马莹
+                    <div class="art_time"><span>作者：</span><span>时间：2017年11月03日 14:27</span></div>                
+                </h2>
+                <p></p><div id="vsb_content"><p style="text-align: left;"><span style="font-family: 宋体; font-size: 18px;"></span>&nbsp;</p>
+<p style="text-align: center;">
+ <img src="/__local/B/2D/B5/C800892635E3E3A0B2F6E46E5C1_37ED049B_1E92D.jpg" vwidth="500" vheight="" vurl="/_vsl/B2DB5C800892635E3E3A0B2F6E46E5C1/37ED049B/1E92D" vsbhref="vurl" orisrc="/__local/7/56/29/3229C0AD294558AEAF1897BA9E7_163EF8FE_177811.jpg" class="img_vsb_content" width="500"></p>
+<p style="text-align: left;"><span style="font-family: 宋体; font-size: 18px;"></span></p>
+<p style="text-align: left;"><span style="font-family: 宋体; font-size: 18px;">&nbsp;&nbsp;&nbsp; 马莹，女，博士，2017年获美国堪萨斯州立大学，工程学院机械工程系，博士学位并从事博士后研究，重庆邮电大学先进制造工程学院机械设计制造系教师，讲师，美国复合材料学会会员。研究方向为固体力学；擅长3D建模，计算机辅助设计与工程软件（CAD/CAE）开发和优化，计算机仿真，模拟，和设计；研究领域为纺织复合材料性质，军用纺织材料抗打击强度／受力／失效分析。曾参与和负责美国陆军研究实验室（ARL），美国国防部，美国奥伯尼工程纺织股份有限公司（Albany&nbsp;Engineered&nbsp;Composites,&nbsp;Inc.）项目若干。已在国际期刊及国际重要学术会议上发表论文5篇，其中SCI索引2区论文2篇，EI索引3篇。<br>&nbsp;&nbsp;&nbsp;&nbsp; 邮箱：maying@cqupt.edu.cn<br>&nbsp;&nbsp;&nbsp;&nbsp; 通信地址：重庆市南岸区崇文路2号&nbsp;重庆邮电大学先进制造工程学院&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp; 邮编：400065 </span></p>
+<p>&nbsp;</p></div><p></p>
+
+
+
+
+
+</form>
+
+<!--#endeditable--></div>
+</div>
+<div id="footer">
+    <div class="weixin"><span>学院微信</span><img src="../../dfiles/14559/images/weixin.jpg"></div>
+    
+    <p>版权所有：重庆邮电大学先进制造工程学院  地址：重庆市南岸区崇文路2号 邮编：400065</p>
+    <p>学院邮箱：xjzz@cqupt.edu.cn/same@cqupt.edu.cn  学院联系电话：023-62480054</p>
+    <p>制作：蓝山工作室 <a href="http://202.202.32.50:8080/system/login.jsp" target="_blank">后台管理</a></p>
+</div>
+
+<script type="text/javascript" src="../../dfiles/14559/js/base.js"></script>
+<script type="text/javascript" src="../../dfiles/14559/js/third.js"></script>
+
+
+</body></html>

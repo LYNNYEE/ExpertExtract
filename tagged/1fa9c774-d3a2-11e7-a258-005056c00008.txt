@@ -1,0 +1,460 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/1d8cb8f4549a1f3f512b918387b1fdd4/allmobilize.min.js"></script><style type="text/css"></style><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>西北农林科技大学风景园林艺术学院 - 科教队伍 - 武冬梅 </title>
+<meta name="keywords" content="">
+<meta content="" name="description">
+ 
+<meta name="copyright" content="Copyright 2010 "> 
+<meta name="Author" content=""> 
+<meta name="Keywords" content=""> 
+<meta name="Description" content="">
+  <script type="text/javascript" src="../../js/MSClass.js"></script>
+<script language="javascript" type="text/javascript" src="../../js/jquery-1.4.2.js"></script>
+<script language="javascript" type="text/javascript" src="../../js/menu.js"></script>
+<script language="javascript" type="text/javascript" src="../../js/jquery-1.8.2.1min.js"></script>
+<script language="javascript" type="text/javascript" src="../../js/piaofu.js"></script>
+
+
+<!--[if IE 6]>
+<style type="text/css"> 
+#nav li a:hover {color:#fff;background:#85BCF3}
+#nav li a:hover ul { display:block;position:absolute;top:38px;left:0;}
+#nav li a:hover ul li a {display:block;background:#c5dbf2;color:#000;font-size:12px;font-weight:normal;height:30px;line-height:30px;border:1px solid #fff;border-width:1px 1px 0 0;}
+#nav li a:hover ul li a:hover {background:#85BCF3;color:#000;}	
+</style>
+<![endif]-->
+<style type="text/css">
+#right{font-size:14px;line-height:3em;}
+</style>
+<script charset="utf-8" src="//s.yunshipei.com/javascript/sm.min.js" async=""></script></head>
+<body>
+<style>
+		 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {padding: 0;margin: 0;}
+		  img{border:none;}
+		  a{text-decoration:none;}
+		  a:hover{color:#cb0101;}
+		  body{background:url('../../images/body.png') repeat;}
+		  li{list-style:none;}
+		  .more{float:right;margin-right:10px;font-size:12px;color:#999999;font-weight:normal;}
+		  .more a{color:#999999;}
+		  .more_tzgg{float:right;margin-right:30px;font-size:12px;color:#999999;font-weight:normal;}
+		  .more_tzgg a{color:#999999;}
+		  table{border-collapse:collapse;border-spacing:0;}
+		   .date{float:right;font-size:12px;color:#333;margin-right:10px;}
+.Black-bbb{float:right;font-size:12px;color:#333;margin-right:10px;}
+		/***head***/
+		 .head{width:100%;height:232px;background:url('../../images/head.png') repeat-x;min-width:1024px;}
+		 .header{width:1200px;height:160px;background:url('../../images/ad6c599055f8aea36172cead473c3487.png') no-repeat;margin:0 auto;}
+		 .top{float:right;padding-top:36px;}
+		 .head_title{float:right;font-size:12px;}
+		 .sousuo{float:right;margin-top:80px;}
+		 .head_title a{color:#333;}
+		 .head_title a:hover{color:#cb0101;}
+		 .sousuo_input{width:200px;height:17px;border:1px solid #dadada;float:left;padding:5px;border-radius:5px;}
+		 .so_btn{width:60px;height:29px;border:0px;float:left;color:#fff;font-size:12px;background:#c66d25;padding:0 10px;border-radius:3px;}
+		/***nav***/
+		 .nav_bg{width:100%;height:87px;background:url('../../images/nav.png') repeat-x;min-width:1024px;}
+#nav0{width:1200px;height:87px;background:url('../../images/nav_bg.png') no-repeat;margin:0 auto;}		 
+
+/*menu*/
+#nav {display:block;margin-left:50px;_display:inline;l}
+#nav .mainlevel {float:left;text-align:center; display:block;padding:0 13px;font-size:14px;}
+#nav .mainlevel a {color:#fff; text-decoration:none; line-height:44px; height:44px; text-align:center;display:block; _width:48px;_display:inline}
+#nav .mainlevel a:hover {color:#3f240e; text-decoration:none; }
+#nav .mainlevel ul {position:absolute; display:none; *width:2000px;/*IE is great need, width>=li.length*/}
+#nav .mainlevel li {float:left; background:#991000;font-size:12px;color:#fff;}
+#nav .mainlevel li a {padding:0 12px; line-height:24px; height:24px; display:block; _padding-bottom:6px;/*IE6 only*/}
+#nav .mainlevel li a:hover {color:#3f240e; text-decoration:none;}
+#nav li a{padding:0 3px;}
+.note {color:#3f240e;display:block; line-height:34px;padding-left:10px;padding-right:10px;}
+.Triangle_con {height:4px;display:block; _margin-bottom:-6px;/*IE6 only*/margin-top:3px;}
+.log {margin:100px auto; width:1000px; text-transform:capitalize; line-height:200%;}
+
+		/***main***/
+		 .main{width:1200px;margin:0 auto;background:#fff;}
+		 .ppt{width:1160px;height:316px;background:#fff;float:left;margin-left:20px;_display:inline;}
+		 /*焦点图*/
+.focus{ position:relative; width:1160px; height:316px; background-color: #000; float: left;}  
+.focus img{ width: 1160px; height:316px;} 
+.focus .shadow .title{width: 200px; height: 45px;padding-left: 30px;padding-top: 20px;}
+.focus .shadow .title a{ text-decoration:none; color:#fff; font-size:14px; font-weight:bolder; overflow:hidden; }
+.focus .btn{ position:absolute; bottom:34px; left:510px; overflow:hidden; zoom:1;} 
+.focus .btn a{position:relative; display:inline; width:13px; height:13px; border-radius:7px; margin:0 5px;color:#B0B0B0;font:12px/15px "\5B8B\4F53"; text-decoration:none; text-align:center; outline:0; float:left; background:#D9D9D9; }  
+.focus .btn a:hover,.focus .btn a.current{  cursor:pointer;background:#fc114a;}  
+.focus .fPic{ position:absolute; left:0px; top:0px; }  
+.focus .D1fBt{ overflow:hidden; zoom:1;  height:16px; z-index:10;  }  
+.focus .shadow{ width:243px; position:absolute; bottom:0; left:0px; z-index:10; height:45px; line-height: 45px; background:rgba(0,0,0,0.6);    
+filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorstr = '#80000000',endColorstr = '#80000000')\9;  display:block;  text-align:left; }  
+.focus .shadow a{ text-decoration:none; color:#fff; font-size:12px; overflow:hidden; margin-left:10px; font-family: "\5FAE\8F6F\96C5\9ED1";}  
+.focus .fcon{ position:relative; width:100%; float:left;  display:none; background:#000  }  
+.focus .fcon img{ display:block; }  
+.focus .fbg{bottom:25px; right:0px; position:absolute; height:20px; text-align:center; z-index: 200; }  
+.focus .fbg div{padding-top:18px;overflow:hidden;zoom:1;height:27px;}    
+.focus .D1fBt a{position:relative; display:inline; width:12px; height:12px; border-radius:7px; margin:0 5px;color:#B0B0B0;font:12px/15px "\5B8B\4F53"; text-decoration:none; text-align:center; outline:0; float:left; background:#D9D9D9; }    
+.focus .D1fBt .current,.focus .D1fBt a:hover{background:#fc114a;}    
+.focus .D1fBt img{display:none}    
+.focus .D1fBt i{display:none; font-style:normal; }    
+.focus .prev,.focus .next{position:absolute;width:40px;height:74px;background: url('../../images/focus_btn.png') no-repeat;}
+.focus .prev{top: 50%;margin-top: -37px; left: 0;background-position:0 -74px; cursor:pointer; }  
+.focus .next{top: 50%;margin-top: -37px; right: 0;  background-position:-40px -74px;  cursor:pointer;}  
+.focus .prev:hover{  background-position:0 0; }  
+.focus .next:hover{  background-position:-40px 0;} 
+		 .dtll{width:907px;height:250px;float:left;margin-left:20px;margin-top:20px;_display:inline;border:1px solid #7d5a3e;}
+		   .ppt1{width:320px;height:218px;float:left;background:#fff;margin-left:20px;margin-top:16px;_display:inline;}
+		   .xinwen{width:525px;height:230px;float:left;background:#fff;margin-left:20px;_display:inline;}
+		     .xinwen_title{width:500px;height:58px;background:url('../../images/dtll_title.png') no-repeat;color:#333;font-size:14px;line-height:58px;font-weight:bold;font-size:14px;padding-left:25px;}
+		   .xinwen_dr{width:525px;height:172px;}
+		   .xinwen_dr ul li{font-size:12px;background:url('../../images/dian.png') no-repeat left;padding-left:15px;margin-left:15px;border-bottom:1px dashed #999;margin-right:15px;line-height:27px;}
+		   .xinwen_dr ul li a{color:#333;}
+		   .xinwen_dr ul li a:hover{color:#cb0101;}
+		 .tpzl{width:231px;height:252px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		 .tpzl img{margin-top:4px;_display:inline;display:block;}
+		 .xsjl{width:615px;height:227px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .xsjl_title{width:590px;height:58px;background:url('../../images/xsjl_title.png') no-repeat;color:#333;font-size:14px;line-height:58px;font-weight:bold;font-size:14px;padding-left:25px;}
+		   .xsjl_dr{width:615px;height:169px;}
+		   .xsjl_dr ul li{font-size:12px;background:url('../../images/dian.png') no-repeat left;padding-left:15px;margin-left:15px;border-bottom:1px dashed #999;margin-right:15px;line-height:26px;}
+		   .xsjl_dr ul li a{color:#333;}
+		   .xsjl_dr ul li a:hover{color:#cb0101;}
+		 .tzgg{width:274px;height:465px;background:#fff;float:left;margin-left:20px;margin-top:20px;_display:inline;margin-bottom:20px;}
+		   .tzgg1{width:274px;height:338px;background:#fff;float:left;}
+		     .tzgg1_title{width:274px;height:39px;background:url('../../images/tzgg_title.png') no-repeat;color:#333;font-size:14px;padding-top:35px;font-weight:bold;font-size:14px;padding-left:15px;}
+		   .tzgg1_dr{width:270px;height:264px;border-left:1px solid #dedcdd;border-right:1px solid #dedcdd;background:#fbf2e1;}
+		   .tzgg1_dr ul li{font-size:12px;margin-left:15px;line-height:29px;}
+		   .tzgg1_dr ul li a{color:#333;}
+		   .tzgg1_dr ul li a:hover{color:#cb0101;}
+		   .zyfw{width:270px;height:127px;background:#fbf2e1;float:left;border-left:1px solid #dedcdd;border-right:1px solid #dedcdd;}
+		     .zyfw_title{width:270px;height:50px;background:url('../../images/zlxz_title.png') no-repeat bottom;color:#333;font-size:14px;font-weight:bold;font-size:14px;padding-left:15px;line-height:39px;}
+		   .zyfw_dr{width:270px;height:77px;background:#fbf2e1;border-bottom:1px solid #dedcdd;}
+		     .zyfw_dr img{margin-top:20px;margin-left:15px;}
+		 .zwgk{width:231px;height:227px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .zwgk_title{width:231px;height:35px;background:url('../../images/zwgk_title.png') no-repeat;font-weight:bold;text-align:center;color:#333;font-size:14px;line-height:35px;}
+		   .zwgk_dr{width:229px;height:191px;border-left:1px solid #7d5a3e;border-right:1px solid #7d5a3e;border-bottom:1px solid #7d5a3e;}
+		   .zwgk_dr img{padding-top:9px;margin-left:18px;_dsiplay:inline;display:block
+}
+		 .xstd{width:298px;height:217px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .xstd_title{width:273px;height:58px;background:url('../../images/xsjl1_title.png') no-repeat;color:#333;font-size:14px;line-height:58px;font-weight:bold;font-size:14px;padding-left:25px;}
+		   .xstd_dr{width:298px;height:159px;}
+		   .xstd_dr ul li{font-size:12px;background:url('../../images/dian.png') no-repeat left;padding-left:15px;margin-left:15px;border-bottom:1px dashed #999;margin-right:15px;line-height:25px;}
+		   .xstd_dr ul li a{color:#333;}
+		   .xstd_dr ul li a:hover{color:#cb0101;}
+		 .zsjy{width:297px;height:217px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .zsjy_title{width:272px;height:58px;background:url('../../images/xsjl1_title.png') no-repeat;color:#333;font-size:14px;line-height:58px;font-weight:bold;font-size:14px;padding-left:25px;}
+		   .zsjy_dr{width:297px;height:159px;}
+		   .zsjy_dr ul li{font-size:12px;background:url('../../images/dian.png') no-repeat left;padding-left:15px;margin-left:15px;border-bottom:1px dashed #999;margin-right:15px;line-height:25px;}
+		   .zsjy_dr ul li a{color:#333;}
+		   .zsjy_dr ul li a:hover{color:#cb0101;}
+		 .yqlj{width:231px;height:217px;float:left;margin-left:20px;margin-top:20px;_display:inline;}
+		   .yqlj_title{width:231px;height:35px;background:url('../../images/zwgk_title.png') no-repeat;text-align:center;color:#333;font-size:14px;font-weight:bold;line-height:35px;}
+		   .yqlj_dr{width:229px;height:181px;border-left:1px solid #7d5a3e;border-right:1px solid #7d5a3e;border-bottom:1px solid #7d5a3e;}
+		   .yqlj_dr img{margin-top:6px;margin-left:18px;_dsiplay:inline;}
+		   .yqlj_dr select{width:198px;margin-top:13px;margin-left:18px;_dsiplay:inline;}
+		.xyfc{width:1160px;height:210px;background:#f00;float:left;margin-left:20px;_display:inline;margin-bottom:20px;}
+		   .xyfc_title{width:1110px;height:39px;background:url('../../images/xyfc_title.png') no-repeat;color:#fff;font-size:14px;line-height:39px;font-weight:bold;font-size:14px;padding-left:50px;}
+		   .xyfc_dr{width:1160px;height:171px;background:#f4f2f3;}
+		   .xyfc_dr table tr td{padding-left:12px;padding-top:12px;}
+		   .xyfc_dr img{width:175px;height:118px;border:2px solid #fff;}
+		 /***foot***/
+		 .footer{width:100%;height:105px;background:url('../../images/foot_bg.png') repeat-x;min-width:1024px;}
+		 .foot{width:1200px;height:105px;margin:0 auto;}
+		 .foot p{padding-top:65px;text-align:center;font-size:12px;color:#fff;}
+		 .foot p a{color:#fff;}
+		/***sort***/
+		 .sort_left{width:246px;background:#fff;float:left;margin-left:20px;_display:inline;margin-bottom:20px;}
+		   .sort_left_top{width:246px;height:78px;background:url('../../images/sort_left_top.png') no-repeat;line-height:78px;font-weight:bold;text-align:center;color:#bc713b;}
+		   .sort_left_mid{width:246px;min-height:100px;background:url('../../images/sort_left_mid.png') repeat-y;margin-left:5px;_display:inline;}
+
+.sort_left_mid ul{padding-left:18px;}
+		   .sort_left_mid ul li{background:url('../../images/sort_left.png') no-repeat;padding-top:12px;padding-bottom:12px;padding-left:40px;}
+		   .sort_left_mid ul li a{color:#fff;font-size:14px;font-weight:bold;}
+		   .sort_left_bottom{width:246px;height:23px;background:url('../../images/sort_left_bottom.png') no-repeat;margin-left:5px;_display:inline;}
+		 .sort_right{width:900px;min-height:500px;background:#fff;margin-left:15px;float:left;_display:inline;margin-bottom:20px;}
+		   .sort_nav{width:880px;height:58px;background:url('../../images/sort_nav.png') no-repeat;float:left;_display:inline;line-height:58px;font-size:12px;padding-left:20px;}
+		   .sort_nav a{color:#333;}
+		    .sort_nr{width:860px;min-height:400px;float:left;margin-top:20px;padding:0 15px;}
+		    .sort_nr ul{margin-top:20px;padding-bottom:10px;}
+		    .sort_nr ul li{line-height:38px;font-size:12px;background:url('../../images/dian.png') no-repeat left;border-bottom:1px dashed #c7b29d;margin:0 10px; padding-left:15px;}
+		    .sort_nr ul li a{color:#333;}
+		 /***show***/
+		 .cont{width:860px;min-height:400px;float:left;margin-top:20px;padding:0 20px;line-height:26px;font-size:14px;}
+		   h1{font-size:24px;text-align:center;margin-top:20px;padding-bottom:20px;border-bottom:1px solid #cfcfcf;margin:0 10px;}
+		   h2{font-size:12px;font-weight:normal;text-align:center;padding-top:20px;padding-bottom:20px;}
+.cont table tr td{border:1px solid #333;}
+.cont table{border:1px solid #333;}
+.cont TABLE TR TD{border:1px solid #333;}
+.cont TABLE{border:1px solid #333;}
+		   
+#marqueediv6{margin-left:10px;_display:inline;}
+</style>
+
+
+ <script type="text/javascript" language="javascript">
+    //加入收藏
+        function AddFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }   
+        }
+    }
+    //设为首页
+    function SetHome(url){
+ 
+        if (document.all) {
+ 
+            document.body.style.behavior='url(#default#homepage)';
+ 
+               document.body.setHomePage(url);
+ 
+        }else{
+ 
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+
+ <div class="head">
+           <div class="header">
+             <div class="top">
+                <span class="head_title">
+                 <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>|
+                 <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a>丨
+                 <a href="#">联系我们</a>
+                </span>
+                <div class="sousuo">
+                  <form name="search" method="get" action="http://ylxy.nwsuaf.edu.cn/search.php">
+                   <input name="query" class="sousuo_input" type="text">
+                   <input name="siteID" value="84" type="hidden">
+                   <input value="搜　索" class="so_btn" type="Submit">       
+                   </form>
+
+
+                </div>
+             </div>
+           </div>
+           <div class="nav_bg">
+             <div id="nav0">
+                <ul id="nav">
+
+    <li class="mainlevel"><span class="note"><a href="../../index.htm" target="_blank">网站首页</a></span></li> 
+   
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../xygk/xyjj/index.htm" target="_blank">学院简介</a></li>
+        <li><a href="../../xygk/jgsz/index.htm" target="_blank">机构设置</a></li>
+        <li><a href="../../xygk/xrld/index.htm" target="_blank">现任领导</a></li>
+        <li><a href="../../xygk/lxwm/index.htm" target="_blank">联系我们</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="index.htm" target="_blank">师资队伍</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="index.htm" target="_blank">科教队伍</a></li>
+        <li><a href="../wpzj/index.htm" target="_blank">外聘专家</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../yjsjy/zdjsjfx/index.htm" target="_blank">研究生教育</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../yjsjy/zdjsjfx/index.htm" target="_blank">招生导师</a></li>
+        <li><a href="../../yjsjy/zsxx/index.htm" target="_blank">招生信息</a></li>
+        <li><a href="../../yjsjy/glzd/index.htm" target="_blank">管理制度</a></li>
+        <li><a href="../../yjsjy/zlxz/index.htm" target="_blank">资料下载</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../bksjy/zyjs/index.htm" target="_blank">本科生教育</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../bksjy/zyjs/index.htm" target="_blank">专业介绍</a></li>
+        <li><a href="../../bksjy/kcjs/index.htm" target="_blank">课程建设</a></li>
+        <li><a href="../../bksjy/jcjs/index.htm" target="_blank">教材建设</a></li>
+        <li><a href="../../bksjy/sjjx/index.htm" target="_blank">实践教学</a></li>
+        <li><a href="../../bksjy/jxyj/index.htm" target="_blank">教学研究</a></li>
+        <li><a href="../../bksjy/jxhjqk/index.htm" target="_blank">教学获奖情况</a></li>
+        <li><a href="../../bksjy/gzzd/index.htm" target="_blank">规章制度</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../xsgz/zzjg/index.htm" target="_blank">学生工作</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../xsgz/zzjg/index.htm" target="_blank">组织机构</a></li>
+        <li><a href="../../xsgz/tgwxsk/index.htm" target="_blank">团工委、学生会</a></li>
+        <li><a href="../../xsgz/xstd/index.htm" target="_blank">学生天地</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../djgz/zzjg_dj/index.htm" target="_blank">党建工作</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../djgz/zzjg_dj/index.htm" target="_blank">组织机构</a></li>
+        <li><a href="../../djgz/llxx/index.htm" target="_blank">理论学习</a></li>
+        <li><a href="../../djgz/rdzn/index.htm" target="_blank">入党指南</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../kytg/kypt/index.htm" target="_blank">科研推广</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../kytg/kypt/index.htm" target="_blank">科研平台</a></li>
+        <li><a href="../../kytg/lwzz/index.htm" target="_blank">论文著作</a></li>
+        <li><a href="../../kytg/cdxm/index.htm" target="_blank">承担项目</a></li>
+        </ul>
+ 
+    </li>
+ 
+                                     <li class="mainlevel" id="mainlevel_01"> <a href="../../xxfw/wjxz/index.htm" target="_blank">信息服务</a>
+      
+    <ul class="sub_nav_01"> <span class="Triangle_con"></span>
+    <li><a href="../../xxfw/wjxz/index.htm" target="_blank">文件下载</a></li>
+        <li><a href="../../xxfw/cybgxz/index.htm" target="_blank">常用表格下载</a></li>
+        <li><a href="../../xxfw/bdjtbgxx/index.htm" target="_blank">本地交通宾馆信息</a></li>
+        </ul>
+ 
+    </li>
+ 
+                            
+    <li class="mainlevel"><a href="../../hzjl/index.htm" target="_blank">合作交流</a>
+    <!--input an em tag as a space,IE is gread need-->
+    </li>
+            
+</ul>
+             </div>
+           </div>
+        </div>
+ <div class="main">
+		<div class="sort_left">
+		  <div class="sort_left_top">师资队伍</div>
+		  <div class="sort_left_mid">
+		    <ul>
+				   <ul>
+				   <li class="selected"><a href="index.htm" target="_blank">科教队伍</a></li>
+  <li class="selected"><a href="../wpzj/index.htm" target="_blank">外聘专家</a></li>
+ 				</ul>
+		  </ul></div>
+		  <div class="sort_left_bottom"></div>
+		</div>
+		 <script src="/cms/web/writeLog.jsp?articleID=292729"></script>
+		<div class="sort_right">
+		  <div class="sort_nav">您现在的位置：                 <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        科教队伍
+</div>
+		  <div class="cont">
+		    <h1> 武冬梅</h1>
+			
+			<h2>发布时间：2016-01-15　作者： 　出处：　浏览：<script src="/cms/web/count.jsp?articleID=292729"></script>2075次</h2>
+				 <div class="media"></div>
+				 <div class="flashpaper"></div>
+				 <p style="TEXT-ALIGN: left; TEXT-INDENT: 31.5pt; mso-pagination: widow-orphan" class="MsoNormal">
+				  </p><p>　　一、基本信息</p>
+
+<p>　　武冬梅，女，汉族，副教授。2006年毕业于西安美术学院，艺术学硕士。</p>
+
+<p>　　2009年7月-2010年2月在美国内布拉斯加州林肯大学进行绘画艺术交流，在林肯大学画廊和林肯市gallery9画廊举办个人画展。</p>
+
+<p>　　二、教学方面</p>
+
+<p>　　1、主讲课程：</p>
+
+<p>　　为风景园林、园林、艺术设计、环境设计等专业主要讲授园林素描、园林美术、色彩、水彩画、园林色彩等课程。</p>
+
+<p>　　2、教学成果奖：</p>
+
+<p>　　2012年，参与的“农林学科优势下艺术设计专业教学平台的建设与研究” 获西北农林科技大学校极一等奖、2013年陕西省级二等奖。</p>
+
+<p>　　三、科研方面</p>
+
+<p>　　1、研究方向：主要研究方向为园林景观设计、中国画创作。</p>
+
+<p>　　2、主持的科研项目：</p>
+
+<p>　　主持西北农林科技大学教改项目：园林美术-园林景观水彩手绘课程教学研究与探索（2011-2013）。</p>
+
+<p>　　主持陕西省社会科学基金：陕西当代工笔重彩画研究（2013-2015）。</p>
+
+<p>　　主持西北农林科技大学人文社科专项：矿物颜料在中国重彩画表现中的应用研究（2014-2017）。</p>
+
+<p>　　3、出版专著：</p>
+
+<p>　　《新工笔重彩画研究》，12.7万字、50余幅画，2014.8，西北农林科技大学出版社。</p>
+
+<p>　　4、在《美术观察》等期刊发表学术论文10余篇。</p>
+
+<p>　　1)2012年 “美术家-武冬梅作品”发表于《美术观察》</p>
+
+<p>　　2)2013年 “美术家-武冬梅作品” 发表于《美术观察》</p>
+
+<p>　　3)2014年 “武冬梅作品” 发表于《艺术评论》</p>
+
+<p>　　4)2012年“Application Research on Formal Composition Design in United States Botanic Garden ”发表于《Jouranal of Landscape Research》</p>
+
+<p>　　5)2013年 “独具风格留心迹-恽寿平没骨花的艺术特色” 发表于《名作欣赏》</p>
+
+<p>　　6)2013年 “从当代看文人画的文学意味”发表于《时代文学》</p>
+
+<p>　　7)2014年 “矿物颜料在中国重彩画发展过程中的作用” 发表于《名作欣赏》</p>
+
+<p>　　8)2014年 “陕西当代画家的重彩研究” 发表于《名作欣赏》</p>
+
+<p>　　四、作品与成果</p>
+
+<p>　　多年来一直坚持中国工笔画、水彩画创作与研究，西部美术馆、西北农林科技大学收藏美术作品多幅。国内外友人及团体收藏20多幅。</p>
+
+<p>　　1.2000年 作品入选中国美协主办的《新世纪全国中国画、书画精品大展》并收录作品集</p>
+
+<p>　　2.2001年 作品入选中国美协主办的《首届岩彩画展》获优秀奖，于中央美术学院美术馆展出</p>
+
+<p>　　3.2001年 作品入选中国美协主办的《首届中国重彩画展》并收录作品集，于北京中国美术馆展出</p>
+
+<p>　　4.2004年 作品入选十届美展陕西省展区</p>
+
+<p>　　5.2014年 作品参加西北农林科技大学美术馆成立暨教学汇报展</p>
+
+<p>　　6.2014年 作品参加中韩造型艺术交流展</p>
+
+<p>　　五、联系方式</p>
+
+<p>　　通讯地址： 陕西杨凌邰城路3号 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 邮编712100</p>
+
+<p>　　E-mail：wuhongyu2005@163.com</p>
+
+<p>　　</p>
+ 
+				<o:p></o:p><p></p>
+
+
+
+
+<!--EndFragment-->	
+		  </div>
+		</div>
+		<div style="clear:both;"></div>
+		</div>
+
+  <div class="footer">
+		<div class="foot">
+		<p>版权所有：西北农林科技大学风景园林艺术学院　维护：园林学院　技术支持：艾特网络</p>
+		</div>
+		</div>    
+
+</body></html>

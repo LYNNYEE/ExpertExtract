@@ -1,0 +1,259 @@
+康天放 
+康天放 ： 男 ， 博士 ， 教授 ， 博士生导师 ， 现任北京工业大学 环境 与 能源工程学院 环境科学系 主任 。 主要 从事 环境 分析化学 与 环境监测 的 研究工作 。 主持 了 包括 国家自然科学基金 、 北京市自然科学基金 、 北京市教委 基金 在内 的 多项 科研 项 以及 多项 环境影响评价 项目 。 主要研究方向 包括 ： 化学 与 生物 传感 技术 及 化学 污染物 快速 检测 应用 研究 ； 环境污染物 的 监测 及 环境 风险 评价 ； 食品 中 有害物质 快速 检测 技术 研究 。 目前 主持 着 北京市自然科学基金重点 项目 （ B 类 ）、 教育部博士点基金 （ 博导 类 ） 项目 。 已发表学术论文 60 多篇 ， 其中 有 20 多篇 论文 在 国际 期刊上发表 ， 并且 被 美国 科学 引文 索引 SCI 所 收录 ， 被 他人 引用 350 多次 。 近年来 发表 的 代表性论文 有 （ 
+* 
+为 通讯作者 ）： 
+1 .      L .  Wang ,  T .- F .  Kang *,  L .- P .  Lu ,  J .- G .  Zhang ,  R .  Xue ,  S .- Y .  Cheng ,  Microcystin -( leucine - argi nine ) immunosensor   based   on   iron ( II ,  III )  magnetic   nano particles . 
+Analytical   Letters 
+,  timelabel ,  47 ( 18 ):  2939 - 2949 . 
+2 .      T .- F .  Kang *,  Y .  Xiong ,  R .  Xue ,  S .- Y .  Cheng ,  Investigation   of   the   DNA - pesti cid e   interactions    by   sensitive   electrochemilu mine scence   method . 
+Analytical   Letters 
+,  2013,4 6 :  1255 - 1266 . 
+3 .      Y .  Xiong ,  T .- F .  Kang 
+∗ 
+,  L .- P .  Lu ,  Electroche mist ry   of   complex   formation   of   carbaryl   with   ds - DNA   using  [ Ru ( bpy ) 
+2 
+dppz ] 
+2 + 
+as   probe . 
+Journal   of   Solid   State   Electroche mist ry 
+,  timelabel ,  17 :  129 - 136 . 
+4 .      R .  Xue ,  T .- F .  Kang 
+∗ 
+,  L .- P .  Lu ,  S .- Y .  Cheng ,  Electrochemical   sensor   based   on   the   graphene - Nafion   matrix   for   sensitive   deter min ation   of   organophosphorus   pesti cid es . 
+Analytical   Letters 
+,  timelabel ,  46 :  131 - 141 . 
+5 .      L .- P .  Lu ,  L .- H .  Xu ,  T .- F .  Kang ,  S .- Y .  Cheng ,  Investigation   of   DNA   damage   treated    with   perfluorooc tan e   sulfonate  ( PFOS )  on   ZrO 
+2 
+/ DDAB   active   nano - order   film . 
+Biosensors   and   Bioelectro nic s 
+,  timelabel ,  35  ( 1 ):  180 - 185 . 
+6 .      R .  Xue ,  T .- F .  Kang 
+∗ 
+,  L .- P .  Lu ,  S .- Y .  Cheng ,  Immobilization   of   acetyl cho linesterase   via   biocompatible   interface   of   silk   fib roin   for   detection   of   organophosphate   and   carbamate   pesti cid es . 
+Applied   Surface   Science 
+， timelabel ,  258 ( 16 ):  6040 - 6045 . 
+7 .      J .  Ren ,  T .- F .  Kang 
+* 
+,  R .  Xue ,  C .- N .  Ge ,  S .- Y .  Cheng ,  Biosensor   based   on   a   gla ssy   carbon   electrode   modified   with   tyro sina se   immmobilized   on   multiwalled   carbon   nano tubes . 
+Microchim   Acta 
+,  timelabel ,  174 ( 3 ~ 4 ):  303 - 309 . 
+8 .      T .- F .  Kang 
+* 
+,  F .  Wang ,  L .- P .  Lu ,  Y .  Zhang ,  T .- S .  Liu ,  Me thy l   parathion   sensors   based   on   gold   nano particles   and   Nafion   film   modified   gla ssy   carbon   electrodes , 
+Sensors   and   Actuators   B 
+: 
+Chemical 
+,  timelabel ,  145 ( 1 ):  104 - 109 . 
+9 .      L .  P .  Lu ,  T .  F .  Kang ,  S .  Y .  Cheng ,  X .  R .  Guo ,  An   active   nano - supported   interface   designed   from   gold   nano particles   embedded   on   io nic   liquid   for   depositing   DNA , 
+Applied   Surface   Science 
+,  timelabel ,  256 ( 1 ):  52 - 55 . 
+10 .   T .- S .  Liu ,  T .- F .  Kang 
+* 
+,  L .- P .  Lu ,  et   al .,  Au - Fe (Ⅲ)  nano particle   modified   gla ssy   carbon   electrode   for   electrochemical   nitrite   sensor . 
+Journal   of   Electroanalytical   Che mist ry 
+,  timelabel ,  632 ( 1 - 2 ):  197 - 200 . 
+11 .   Y .  Zhang ,  T .- F .  Kang 
+* 
+,  Y .- W .  Wan ,  et   al .,  Gold   nano particles - carbon   nano tubes   modified   sensor   for   electrochemical   deter min ation   of   organophosphate   pesti cid es . 
+Microchim   Acta 
+,  timelabel ,  165 ( 3 - 4 ):  307 - 311 . 
+12 .   Z .- L .  Zhou ,  T .- F .  Kang 
+* 
+,  Electrochemical   sensor   for   formaldehyde   based   on   Pt 
+– 
+Pd   nano particles   and   a   Nafion - modified   gla ssy   carbon   electrode , 
+Microchimica   Acta 
+,  timelabel ,  164 ( 1 - 2 ):  133 - 138 . 
+13 .   L .  P .  Lu ,  S .  Q .  Wang ,  T .- F .  Kang ,  Wen   Wen   Xu ,  Synergetic   effect   of   Pd – Fe   nano clusters :  electrocataly sis   of   nitrite   oxidation . 
+Microchimica   Acta 
+,  timelabel ,  162 ( 1 - 2 ):  81 - 85 . 
+14 .   Z .- H .  Wen ,  T .- F .  Kang 
+* 
+,  Deter min ation   of   nitrite   using   sensors   based   on   nic kel   phthalocya nine   polymer   modified   electrodes . 
+Talanta 
+， timelabel ， 62 ： 351 - 355 . 
+15 .   X .  Chu ,  G .- L .  Shen ,  J .- H .  Jian g ,  T .- F .  Kang ,  et   al ,  Voltammetric   stu dies   of   the   interaction   of   daunomycin   anti can cer   drug   with   DNA   and   analytical   appli cation s . 
+Analytica   Chimica   Acta 
+,  timelabel ,  373 :  29 - 38 . 
+16 .   T .- F .  Kang ,  G .- L .  Shen ,  R .- Q .  Yu ,  Amprometric   biosensor   for   glucose    based   on   electropolymerized   tetraa min ophthalocyanatocobalt (Ⅱ)  and   ph eno l   films . 
+Analytical    Letters 
+,  timelabel ,  30 ( 4 ):  647 - 662 . 
+17 .   T .- F .  Kang ,  G .- L .  Shen ,  R .- Q .  Yu ,  Voltammetric   behaviour   of   dopa mine   at   nic kel   phthalocya nine   polymer   modified   electrodes   and   analytical   appli cation s . 
+Analytica   Chimica   Acta 
+,  timelabel ,  354 ( 1 - 3 ):  343 - 349 . 
+18 .   T .- F .  Kang ,  Z .- Y .  Xie ,  H .  Tan g ,  G .- L .  Shen ,  R .- Q .  Yu ,  Potentiometric   pH   sensors   based   on   chemically   modified   electrodes   with   electropolymerized   metal - tetraa min ophthalocya nine . 
+Talanta 
+,  timelabel ,  45 ( 2 ):  291 - 296 . 
+19 .   T .- F .  Kang ,  G .- L .  Shen ,  R .- Q .  Yu ,  Voltammetric   deter min ation   of   uric   a cid   in   the   presence   of   ascorbates   using   overoxidized   polypyrrole   film   coated   gla ssy   carbon   electrodes . 
+Chemical   Research   in   Chinese   Universities 
+,  timelabel ,  13 ( 3 ):  207 - 214 . 
+20 .   T .- F .  Kang ,  G .- L .  Shen ,  R .- Q .  Yu ,  Permselectivity   of   neu rotransmitters   at   overoxidized   polypyrrole   film   coated   gla ssy   carbon   electrodes . 
+Talanta 
+,  timelabel ,  43 ( 11 ):  timelabel - timelabel . 
+21 .   T .  F .  Kang 
+* 
+,  Y .  Y .  Shi .,  Deter min ation   of   lipoic   a cid   using   semi - differential   cathodic   strip pin g   voltamme try   in   the   presence   of   copper (Ⅱ). 
+Analyst 
+,  timelabel ,  119 ( 5 ):  1067 - 1070 . 
+22 .   张 金果 ， 康天放 
+* 
+， name_label ， name_label ， 基于 Fe 
+3 
+O 
+4 
+@ Au   磁性 纳米 粒子 修饰 丝网 印刷 电极 的 微囊藻 毒素 免疫 传感器 研究 . 
+分析化学 
+,  timelabel ,  41 ( 9 ):  1353 - 1358 . 
+23 .   name_label ， 康天放 
+* 
+.  纳米金 / Nafion / 石墨烯 修饰 玻碳 电极 检测 对苯二酚 的 研究 .  分析 测试学报 ， timelabel ,  32 ( 6 ):  693 - 698 . 
+24 .   name_label ,  康天放 
+* 
+,   name_label ,  name_label ， 快速 检测 Fenton   反应 诱导 DNA   损伤 的 电化学 DNA   传感器 研究 .  分析化学 ,  timelabel ,  40 ( 12 ):  1822 - 1826 . 
+25 .   name_label ， 康天放 
+* 
+， name_label ,  层层 自 组装 纳米金 与 乙酰胆碱 酯酶 电化学 生物 传感器 检测 有 机磷农药 . 
+分析 测试学报 
+,  timelabel ,  31 ( 8 ):  940 - 944 . 
+26 .   name_label ， 康天放 
+* 
+,  官厅水库 沉积物 表层 中 的 有机氯 农药 分布 特征 及 风险 评价 . 
+环境监测 管理 与 技术 
+,  timelabel ,  24 ( 3 ):  35 - 40 . 
+27 .   name_label ， 康天放 
+* 
+， name_label ， 周海青 ,  基于 纳米 钯 和 Nafion   膜 修饰 玻碳 电极 的 甲醛 传感器 研究 . 
+北京工业大学学报 
+,  timelabel ,  37 ( 7 ):  1073 - 1078 . 
+28 .    name_label ， 康天放 
+* 
+， name_label ， name_label ， name_label ,  自 组装 纳米金 修饰 玻碳 电极 检测 亚硝酸 根 . 
+环境科学 
+,  timelabel ,  32 ( 4 ):  1127 - 1132 . 
+29 .   name_label ， 康天放 
+* 
+， 
+name_label ， 预处理 金 电极 微分 脉冲 伏安 法测定 甲醛 . 
+理化 检验 
+- 
+化学 分册 
+， timelabel ， 47 ： 1323 - 1325 . 
+30 .   name_label ,  康天放 
+* 
+,  城市 自来水 中 挥发性 有机氯 污染物 检测 及 健康 风险 评价 初步 研究 . 
+环境污染 与 防治 
+， timelabel ,  32  ( 4 ):  16 - 24 . 
+31 .   name_label ,  康天放 
+* 
+,  name_label ,  基于 纳米 二氧化锆 与 铂 微粒 复合 修饰 玻碳 电极 的 甲醛 传感器 研究 . 
+分析 测试学报 
+,  timelabel ,  29 ( 2 ):  111 - 114 . 
+32 .   name_label ， 康天放 
+* 
+， name_label ， name_label ， 纳米金 / 3 - 氨 丙基 - 三乙 氧基 硅烷 修饰 传感器 电化学 检测 NO 
+2 
+- 
+. 
+分析 科学学报 
+， timelabel ,  25 ( 3 ):  253 - 256 . 
+33 .   name_label ， 康天放 
+* 
+， name_label ， name_label ， place_label 官厅水库 有机氯 农药 分布 特征 及 健康 风险 评价 . 
+农业环境科学学报 
+， timelabel ( 4 ):  803 - 807 . 
+34 .   name_label ， 康天放 
+* 
+， name_label ， name_label 娜 ， name_label ， place_label 官厅水库 水体 中 挥发性 有机物 健康 风险 评价 . 
+环境科学研究 
+， timelabel ( 2 ):  150 - 154 . 
+35 .   name_label ， 康天放 
+* 
+， name_label ,  place_label 官厅水库 中 有机氯 类 农药 的 分布 和 来源 . 
+生态 与 农村环境学报 
+,  timelabel ,  25 ( 1 ):  53 - 56 . 
+36 .   name_label ， 康天放 
+* 
+， 固相 萃取 气相 色谱法 测定 地表水 中有 机磷农药 . 
+place_label 环境监测 
+,  timelabel ,  24 ( 6 ):  40 - 43 . 
+37 .   康天放 
+* 
+， name_label ， 曹雯雯 ， name_label ， 高扬 .  某非 规范 垃圾 填埋场 地下水 中 污染物 的 健康 风险 评价 . 
+环境 与 健康 杂志 
+， timelabel ( 3 ):  209 - 211 . 
+38 .   name_label ， 康天放 
+* 
+， 基于 铂 / 碳纳米管 修饰 电极 的 甲醛 传感器 . 
+北京工业大学学报 
+,  timelabel ,  34 ( 11 ),  1191 - 1195 . 
+39 .   name_label ， 康天放 
+* 
+， name_label .  一种 基于 邻 氨基 硫酚 自 组装 分子印迹 膜 的 新型 对硫磷 传感器 . 
+环境科学 
+， timelabel ,  29 ( 4 ):  1072 - 1076 . 
+40 .   name_label ， 康天放 
+* 
+， name_label ， name_label . 碳纳米管 / 壳聚糖 修饰 电极 的 制备 及其 对 NADH 的 电催化 氧化 . 
+化学研究 与 应用 
+， timelabel ,  20 ( 4 ):  374 - 377 . 
+41 .   name_label ， 康天放 
+* 
+， name_label ， name_label ， 电化学 催化 氧化 法 降解 水中 甲基 橙 的 研究 . 
+环境科学 与 技术 
+， timelabel ( 2 ):  88 - 91 . 
+42 .   name_label ， 康天放 
+* 
+， name_label ， name_label .  铂 微粒 修饰 玻碳 电极 伏安 法测定 甲醛 . 
+分析 测试学报 
+， timelabel ( 1 ):  60 - 62 . 
+43 .   name_label ， 康天放 
+* 
+， name_label ， name_label .  基于 铂 微粒 和 Nafion 膜 修饰 玻碳 电极 的 甲醛 传感器 . 
+分析 科学学报 
+， timelabel ,  24 ( 1 ):  21 - 24 . 
+44 .   name_label ,  name_label ,  康天放 
+* 
+.  基于 碳纳米管 修饰 电极 检测 有 机磷农药 的 生物 传感器 . 
+分析 实验室 
+， timelabel ( 9 )： 9 - 12 . 
+45 .   康天放 
+* 
+， name_label ， name_label ， name_label .  再生 丝素 固定 乙酰胆碱 酯酶 生物 传感器 . 
+应用化学 
+， timelabel ,  23 ( 10 ):   1099 - 1103 . 
+46 .   康天放 
+* 
+， name_label ， 章 辛夷 ， 植物 酯酶 法 快速 检测 蔬菜 中有 机磷农药 . 
+北京工业大学学报 
+（ 自然科学 版 ）， timelabel ( 12 ):  1057 - 1061 . 
+47 .   康天放 
+* 
+， name_label .  对硫磷 在 预处理 玻碳 电极 表面 的 电化学 行为 研究 . 
+化学 传感器 
+， timelabel （ 2 ）： 38 - 42 . 
+48 .   name_label ， 康天放 
+* 
+， name_label ， name_label ， 溶胶 - 凝胶 法 固定 乙酰胆碱 酶 生物 传感器 测定 有 机磷农药 . 
+环境化学 
+， timelabel （ 6 ）:  707 - 710 . 
+49 .   康天放 
+* 
+， name_label ， name_label ， name_label ， 蔬菜 中有 机磷农药 残留 的 生物 传感器 法 快速 检测 . 
+环境科学 与 技术 
+， timelabel （ 5 ）： 37 - 39 . 
+50 .   name_label ， name_label ， 康天放 
+* 
+， 蔬菜 中有 机磷农药 残留 的 分光 光度法 快速 检测 . 
+环境化学 
+， timelabel （ 6 ）: 711 - 713 . 
+51 .   康天放 
+* 
+， name_label ， 基于 钴 酞菁 聚合物 膜 修饰 电极 的 生物 传感器 测定 有 机磷农药 的 研究 . 
+化学 传感器 
+， timelabel （ 1 ）： 52 - 56 . 
+联系方式 ：  E - mail :  maillabel 
+Tel :  phonelabel        Fax :  phonelabel 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

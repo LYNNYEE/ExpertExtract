@@ -1,0 +1,40 @@
+name_label 
+Curri cul um   Vitae 
+个人信息 
+姓名 :  name_label 
+性别 :  男 
+​ 
+职称 :  教授 
+学院 :  环境 与 能源工程学院 
+博士生导师 
+学科 
+应用化学 
+邮箱 :  maillabel 
+办公电话 :  phonelabel 
+地址 ： place_label place_label place_label 100 号 
+教育背景 
+timelabel - timelabel   中国科学院 固体物理 研究所 博士 
+研究方向 
+分析化学 细胞 成像 单 分子 检测 活体 检测 超 分辨 成像 
+目前 承担课题 
+1   生物 医用 纳米材料 的 代谢 过程 及其 分析方法 研究 （ 科技部 973 项目 ， 2716 万 ， 首席科学家 ） 
+2   基于 纳米技术 的 活细胞 原位 分析方法 （ 国家 name_label 项目   400 万 ， 负责人 ） 
+3   多功能 荧光 探针 对 细胞 内 活性 分子 的 高 时空 分辨 成像 （ 基金委 重大项目   400 万 主要 参与者 ） 
+研究成果 
+1 .  Qin g   Yuan ,  Yaling   Wang ,  Lina   Zhao ,  Ru   Liu ,  Fu pin g   Gao ,  Liang   Gao *  and   Xue yun   Gao *.  Pep tid e   protected   gold   clusters :  chemical   synthe sis   and   biomedical   appli cation s .  Nano scale ,  timelabel ,  8 ,  1 timelabel - 1 timelabel . 
+2 .  Fu pin g   Gao ,  Pengju   Cai ,  Wenjiang   Yan g ,  Jin g qua n   Xue ,  Liang   Gao ,  Ru   Liu ,  Yaling   Wang ,  Lina   Zhao ,  Guodong   Hua ng ,  Fasheng   Wu ,  Yuliang   Zhao ,  Zhifang   Chai   and   Xue yun   Gao *.  Ultrasmall  [ 64Cu ] Cu   Nano clusters   for   Targeting   Orthotopic   Lun g   Tumors   Using   Ac cur ate   Positron   E mission   Tomography   Imaging .  ACS   Nna o .  timelabel ,  9 ,  4976 - 4986 . 
+3   Liang   Gao ,  Mei qin g   Liu ,  Lina   Zhao ,  Qin g   Yuan ,  Fu pin g   Gao ,  Ru   Liu ,  Jiao   Zhai ,  Zhifang   Chai ,  Yuliang   Zhao ,  and   Xue yun   Gao *.  Pep tid e - Con jugated   Gold   Nano probe :  Intr ins ic   Nano zyme - Linke d   Immunsorbant   Assay   of   Integrin   Expression   Level   on   Cell   Membrane .  ACS   Nna o .  timelabel ,  9 ,  10979 - 10990 . 
+4   Deyi   An ,  Jiguo   Su ,  Jeffrey   K .  Weber ,  Xue yun   Gao ,  Ruhong   Zhou ,  Jin gyuan   Li .  A   Pep tid e - Coated   Gold   Nano cluster   Ex hib its   Unique   Behavior   in   Protein   Activity   In hib ition .  JACS ,  timelabel ,  137 ,  8412 − 8418 . 
+5   Yaling   Wang ,  Chao   Xu ,  Jiao   Zhai ,  Fu pin g   Gao ,  Ru   Liu ,  Liang   Gao ,  Yuliang   Zhao ,  Zhifang   Chai ,  and   Xue yun   Gao *.  Label - Free   Au   Cluster   Used   for   in   Vivo   2D   and   3D   Computed   Tomography   of   Murine   Kidneys .  Analytical   Che mist ry .  timelabel ,  87 ,  343 - 345 
+6   Liang   Gao ,  Ru   Liu ,  Fu pin g   Gao ,  Yaling   Wang ,  Xin glu   Jian g ,  and   Xue yun   Gao *.  Plasmon - Mediated   Generation   of   Reactive   Oxygen   Species   from   Near - Infrared   Light   Excited   Gold   Nano cages   for   Photod yna mic   Therapy   in   Vitro .  ACS   Nano ,  timelabel ,  8 ,  7260 - 7271 . 
+7   Fu pin g   Gao ,  Qin g   Yuan ,  Liang   Gao ,  Pengju   Cai ,  Hua rui   Zhu ,  Ru   Liu ,  Yaling   Wang  ,  Yueteng   Wei ,  Guodong   Hua ng ,  Jian   Liang ,  Xue yun   Gao *.  Cytotoxicity   and   therapeutic   effect   of   ir ino te can   com bin ed   with   selenium   nano particles .  Biomaterials ,  timelabel ,  34 ,  8854 - 8866 . 
+8   Pin g   Hua ng ,  Long   Jin g ,  Hua rui   Zhu ,  Xue yun   Gao *.  Diazonium   Functionalized   Graphene :  Microst ruc ture ,  Electric ,  and   Magnetic   Properties .  Accounts   of   Chemical   Research .  timelabel ,  46 ,  43 - 52 . 
+9   Pin g   Hua ng ,  Hua rui   Zhu ,  Long   Jin g ,  Yuliang   Zhao ,  Xue yun   Gao *.  Graphene   co val ently   bind ing   aryl   groups :  con ductivity   inc reases   rather   than   decreases .  ACS   Nano .  timelabel ,  5 ,  7945 - 7949 . 
+10   Ru   Liu ,  Zhong   Chen ,  Yaling   Wang ,  Yan yan   Cui ,  Hua rui   Zhu ,  Pin g   Hua ng ,  Wei   Li ,  Yuliang   Zhao ,  Ye   Tao ,  Xue yun   Gao *.  Nano probes :  qua ntitatively   detecting   the   femtogram   level   of   arsenite   ions   in   live   cells .  ACS   Nano .  timelabel ,  5 ,  5560 - 5565 . 
+11   T ais en   Zuo ,  Zhipeng   Sun ,  Yuliang   Zhao ,  Xia o min g   Jian g ,  Xue yun   Gao *.  The   big   red   shift   of   photolu mine scence   of   Mn   dopants   in   strained   CdS :  a   case   stu dy   of   Mn - doped   MnS - CdS   hetero nano st ruc tures .  JACS .  timelabel , 132 ,  6618 . 
+获奖 信息 
+发明专利 获 place_label 科学技术 一等奖 （ timelabel ）； 国家杰出青年 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

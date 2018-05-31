@@ -1,0 +1,259 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>
+张小霞老师</title>
+<meta name="keywords" content=" ">
+<meta name="description" content=" ">
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+
+<link href="/math/Static/css/home/images/style.css" rel="stylesheet" type="text/css">
+<link href="/math/Static/css/home/style.css" rel="stylesheet" type="text/css">
+<link href="/math/Static/css/home/flash/flashstyle.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/math/Static/css/home/flash/jquery.min.js"></script>
+<script type="text/javascript" src="/math/Static/css/home/flash/dropdown.js"></script>
+</head>
+
+<body>
+<div style="width:100%;height:50px; ">
+	<div style="width:980px; margin: 0 auto;">
+    		 <img src="/math/Static/css/home/images/logo.gif" alt="数学与信息科学学院">
+    </div>
+</div>
+<div style="width:100%; height:84px; background:url(/math/Static/css/home/images/top_bg.gif) repeat-x; ">
+   
+   
+    <div id="top" style="border:#CCC 0px solid;">
+       <div class="subnav"><a href="http://www.ytu.edu.cn" target="_blank">烟大首页</a>
+  
+       </div>
+      <div class="nav">
+      <ul>
+      <li><a href="/math/" target="_blank">网站首页</a></li>
+		<li><a href="http://math.ytu.edu.cn/math/Article/article_show/menu_id/20" target="_blank">学院概况</a>
+		    <ul>
+		    	<li><a href="/math/Article/article_show/menu_id/20" target="_blank">学院简介</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_show/menu_id/28" target="_blank">历史回眸</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_show/menu_id/29" target="_blank">内设机构</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_show/menu_id/91" target="_blank">学院荣誉</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li>		   
+		    </ul>  
+		</li><li><a href="http://math.ytu.edu.cn/math/Teacher/index/menu_id/30" target="_blank">师资力量</a>
+		    <ul>
+		    	<li><a href="/math/Teacher/index/menu_id/30" target="_blank">教师名录</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Teacher/index/menu_id/31" target="_blank">数学系</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Teacher/index/menu_id/33" target="_blank">信息与计算科学系</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Teacher/index/menu_id/64" target="_blank">统计系</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Teacher/index/menu_id/34" target="_blank">基础部</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Teacher/index/menu_id/75" target="_blank">离退休</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li>		   
+		    </ul>  
+		</li><li><a href="http://math.ytu.edu.cn/math/Article/article_show/menu_id/58" target="_blank">人才培养</a>
+		    <ul>
+		    	<li><a href="http://math.ytu.edu.cn/math/Article/article_show/menu_id/58" target="_blank">本科生教育</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					<li><a href="/math/Article/article_show/menu_id/58" target="_blank">专业介绍</a></li><li><a href="/math/Article/article_list/menu_id/77" target="_blank">教学文件</a></li><li><a href="/math/Article/article_list/menu_id/78" target="_blank">表格下载</a></li>        
+					</ul>
+				</li><li><a href="" target="_blank">研究生教育</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					<li><a href="http://math.ytu.edu.cn/math/Index/yjs.html" target="_blank">研究生主页</a></li><li><a href="/math/Article/article_show/menu_id/70" target="_blank">研究生导师名录</a></li>        
+					</ul>
+				</li>		   
+		    </ul>  
+		</li><li><a href="http://math.ytu.edu.cn/math/Article/article_list/menu_id/79" target="_blank">科学研究</a>
+		    <ul>
+		    	<li><a href="/math/Article/article_list/menu_id/79" target="_blank">学术报告</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_list/menu_id/40" target="_blank">科研项目</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_list/menu_id/39" target="_blank">学术成果</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_list/menu_id/41" target="_blank">科研奖励</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li>		   
+		    </ul>  
+		</li><li><a href="http://math.ytu.edu.cn/syzx/index.php/Index/index.html" target="_blank">建模实验中心</a>
+		    <ul>
+		    			   
+		    </ul>  
+		</li><li><a href="http://math.ytu.edu.cn/math/Article/article_list/menu_id/50" target="_blank">学生工作</a>
+		    <ul>
+		    	<li><a href="/math/Article/article_list/menu_id/50" target="_blank">心理教育</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_list/menu_id/51" target="_blank">就业指导</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_list/menu_id/80" target="_blank">日常活动</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_list/menu_id/81" target="_blank">学工动态</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li>		   
+		    </ul>  
+		</li><li><a href="http://math.ytu.edu.cn/math/Article/article_list/menu_id/52" target="_blank">联系院友</a>
+		    <ul>
+		    	<li><a href="/math/Article/article_list/menu_id/52" target="_blank">院友新闻</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_list/menu_id/53" target="_blank">院友活动</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_show/menu_id/54" target="_blank">院长致辞</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_show/menu_id/55" target="_blank">关于我们</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Yuanyou/index/menu_id/56" target="_blank">院友名单</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_show/menu_id/57" target="_blank">联系我们</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li>		   
+		    </ul>  
+		</li><li><a href="http://math.ytu.edu.cn/math/Article/article_list/menu_id/71" target="_blank">奖学金</a>
+		    <ul>
+		    	<li><a href="/math/Article/article_list/menu_id/71" target="_blank">鑫杰奖学金</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li><li><a href="/math/Article/article_list/menu_id/94" target="_blank">获奖人员</a>
+					<ul style="margin-left:100px; margin-top:-20px;">
+					        
+					</ul>
+				</li>		   
+		    </ul>  
+		</li>      </ul>
+      <div class="clear"></div>
+      </div>
+    </div>
+     
+     
+    
+    
+</div>
+<div style="width:100%;height:150px; background:url(/math/Static/css/home/images/p_product.jpg) no-repeat;">
+</div>
+        <div class="main" style="overflow: hidden;">
+    <div>
+        <div style="margin-left: 20px;margin-top: 10px;">
+        <span class="l_3" style="color:#666666;">当前位置：<a href="/math/" target="_blank">首页</a>
+        &gt;师资力量
+        &gt;<a style="color: #3266B8;">教师名录</a></span>
+        </div>
+    </div>
+                            
+    <div style="border-top: 1px silver solid;margin-top: 6px;">
+       <!-- 导航  --->
+	<div style="width:200px;float:left;height:100%;margin-top:0px;padding-top:20px;">
+	     <ul>
+            <li class="li_title">快速导航</li>
+            <li class="leftNavItem"><a href="/math/Teacher/index/menu_id/30" target="_blank">教师名录</a></li><li class="leftNavItem"><a href="/math/Teacher/index/menu_id/31" target="_blank">数学系</a></li><li class="leftNavItem"><a href="/math/Teacher/index/menu_id/33" target="_blank">信息与计算科学系</a></li><li class="leftNavItem"><a href="/math/Teacher/index/menu_id/64" target="_blank">统计系</a></li><li class="leftNavItem"><a href="/math/Teacher/index/menu_id/34" target="_blank">基础部</a></li><li class="leftNavItem"><a href="/math/Teacher/index/menu_id/75" target="_blank">离退休</a></li>                      </ul> 
+			  
+			             
+		
+
+           </div>
+       
+       <!-- 导航结束  --->
+       <!-- 右侧内容栏  --->
+	<div style="width:760px;float:right;height:100%;padding:0px;margin: 0px;margin-right:40px;margin-top: 20px;border-left:1px solid #C6C6C6;">
+        <!-- 标题  --->
+       <!-- 内容  --->
+        <div style="width:90%;margin:50px;float:left;min-height:400px;">
+        
+           
+           
+		<div class="teacher_show">
+			<div style="overflow: hidden;width:100%;">
+				<div style="float:left;margin-right:10px;border:1px solid #DAD3D3;padding:10px;"><img style="height:160px;width:120px;" src="/math/data/upload/teacher/2014/11/30//547ad1e511aad.gif"></div>
+				<div style="float:left;">
+				<p>张小霞老师
+				</p>
+																				</div>
+			</div>
+			<div style="margin-top:20px;">
+			张小霞个人简历
+张小霞， 男，汉族，祖籍山东省汶上县，1966年1月生人
+          无党派人士，博士研究生， 烟台大学教授
+烟台大学数学与信息科学学院院长 
+主要学习经历：  2001年6月毕业于北京大学，获博士学位
+2001年6月-2003年8月，中科院数学所博士后
+主要社会兼职：山东省数学会理事、山东省知识分子联谊会理事
+               美国《数学评论》评论员
+主要的工作业绩
+(1)	曾获得国家博士后基金(02年);国家青年基金的资助(04年 二位);国家面上基金项目资助(09年，二位)。02年、06年两次获得山东省优秀科研成果二等奖。
+(2)	 2004年担任院长助理工作，2006年至2013年担任副院长工作，2013年至今担任数学学院院长工作。其间对学院教学及外界的交流做出自己应该做的工作，受到好评。其间曾担任山东省高级职称评委、省教育厅等一些奖类的评委。
+(3)有在读研究生3人：其中一人在北京大学医学部联合培养，方向人类疾病与健康数据分析；还有一名在清华大学学术中心学习，方向为微分方程在微分几何中的应用。
+			</div>		
+		</div>  	
+        </div>
+       
+        
+      </div>
+   </div> 
+</div>
+
+<div class="foot">
+  <div id="foot2">
+        <p>电话：0535-6902406 &nbsp; &nbsp;    E-Mail: math@ytu.edu.cn &nbsp; &nbsp;<a href="http://math.ytu.edu.cn/math/Admin/Index/login.html" target="_blank">用户登陆</a>
+       
+        </p>
+    <p>地址：中国山东省烟台市莱山区清泉路30号 &nbsp;   <span style="height:32px; line-height:32px;"> &nbsp; 网站管理员：<a href="http://math.ytu.edu.cn/math/Teacher/teacher_show/id/54/menu_id/30" target="_blank">王老师</a></span></p>
+        
+  </div>
+</div>
+
+
+
+
+</body></html>

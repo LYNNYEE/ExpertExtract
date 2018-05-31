@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=20" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="ydVSIUQf4VPcX/vsQ1aaV0uCeN+cWh5RDtOVUU6lQOD9KPBg1sZTmdVEmJaZNdDAhBcgTLlOELQoXeCAfQa0fYyC+dBNDT7orVeq5kBNlLbRjEn7Ice6LV+gQXRuysGONn9iLrc4C27Zgpr6oPu4939FMqgbqL/+p3JiW7EPs8oiAEIQ0BnVnQeMdq3eCh5+4V4+MdYwELyPlC4rIEHsY8sEWCHiYLH2uxQxw26Datvhcon/xpfE5Du4YIHv6CgKWnyKLE/VLfCtO1jA+j7CVXUmHEyLZ01VVzE5n/JmYp4m9UToIWl9hoP1AqspRZwqr+QcIyuEchJoU0qdvz0OLgKg7j3WbpSLeOOh5Fq9A9G1QlNVzYiD+GbBOgteTBiVEVV6ymDNrxaZD5vwxr4Nu0WLhuk5GvvC28SJBxheIvKUmY0Rtu/iAylTIlExecwiBQQux3zRHNKbzQaPss4Sf3kijDJLU9y08BScs/U/Gp1lEfjbDxkq1dmuVmn8oIYEG3l590Uwqo4Nu10w766UEr4sM9HHWwuEH/X9F6Rx946L+a1Rmb+G/CnetZun/EgVAnhbT3gECBDx4a9vecRnHJCEqfTRnuZ61dAuTc3quppQIWWwFyW/zwARApSZr2EqgOu3ZViW4eKpMMHCNVfFtjvvYl9P2kZhB2xXes6JaDmh1H3g0Y2F8nkEOrQkmIsWaj9ObxootcIb6jtxx9huSWY3o59u+P/NYpMUu5OvjKcG3JkraJUgtZcQQGLx+1r3XaDRFYXvz284sB1/0ufnqkHNlswCm6UDQTwZnU2ZmZYlqecV3+b6IeYMCBpVuVy5Wy4IGrSATxXuD/4i5seEgBU+7jwXG6+z4YDMKHF8p9y/8n0K" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;王柏</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/王柏.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;女</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;北京邮电大学计算机与信息网络实验教学中心（北京市示范实验中心）主任</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;中国计算机学会高级会员，北京邮电大学学术委员会成员, 教育部高等学校文科计算机基础教学指导委员会委员</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;博导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;通信软件工程中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=124" target="_blank">形式语言与自动机</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;电信系统软件、分布计算技术 数据挖掘、智能信息处理</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;西安交通大学计算机本科，北京邮电大学计算机硕士，通信与电子系统博士<br>多年来一直在计算机科学及通信系统软件方面从事教学和研究工作。在软件形式化方法、通信软件工程、通信软件体系结构、智能网等方面组织开展了研究工作。作为主研人员参加过多期国家863智能网项目，主持多项国际合作项目、教育部项目等，&nbsp;研究成果数次获奖。&nbsp;&nbsp;目前主要研究领域：&nbsp;电信支撑系统体系结构，云计算及其在电信领域的应用研究、智能信息处理等。科研经费充足。可为在读研究生提供良好的研发工作环境与津贴。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;城市市政管网信息管理系统及可视化动态管理系统研究（国家科技支撑计划，2006-2010）<br>下一代网络的理论、技术研究及实验平台、实训基地建设,&nbsp;教育部，2007-2010<br>现代服务业关键支撑技术和典型领域应用研究,&nbsp;“211工程”重点学科建设项目&nbsp;2008-2012</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;CIN02高级智能网系统，1999年国家科技进步三等奖<br>CIN03智能网系统，1999年信息产业部科学技术进步奖二等奖<br>我国基于CS－2的智能网总体技术要求的研究，&nbsp;1999年信息产业部科学技术进步奖二等奖</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">已发表著作三部，译著1部，学术论文七十余篇。<br>《智能网教程》（九五国家级重点教材）&nbsp;王柏&nbsp;，北京邮电大学出版社，2000<br>《分布计算环境&nbsp;》&nbsp;王柏&nbsp;等，北京邮电大学出版社，2000<br>《形式语言与自动机》&nbsp;王柏&nbsp;杨娟，北京邮电大学出版社，2003<br>《Java与UML面向对象设计与编程》(译著)&nbsp;&nbsp;王柏&nbsp;等，电子工业出版社，2003</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;010-62283774</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教3-616</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;wangbai@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

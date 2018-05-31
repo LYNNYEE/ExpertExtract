@@ -1,0 +1,116 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<meta name="title" content="西南交通大学教师个人主页"> 
+<meta name="description" content="西南交通大学教师个人主页是为教职员工提供展示其教学和科研信息的平台"> 
+<meta name="keywords" content="交大，西南交通大学，西南交大，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>西南交通大学教师个人主页</title>
+
+				<link href="CSS/default.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+		<div class="toplink">		
+        <span><a href="http://homepage.swjtu.edu.cn/UserWeb/Login.aspx" target="_blank">登录</a></span>
+		<span><a href="http://homepage.swjtu.edu.cn/Home/list.aspx?type=help" target="_blank">帮助</a></span>
+        <span><a href="http://homepage.swjtu.edu.cn" target="_blank">返回首页</a></span>
+      	<span><a href="http://www.swjtu.edu.cn" title="西南交通大学" target="_blank">交大主页</a></span>
+		<div style="clear:both"></div>
+       </div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+   <div id="logo"></div>
+<!--导航-->
+</div>
+    <div id="lead">
+        <ul id="navigate">
+            <li><a href="index.htm" target="_blank">我的主页:</a></li><li><a href="index.htm" target="_blank">个人信息</a></li><li><a href="research.htm" target="_blank">科学研究</a></li><li><a href="paper.htm" target="_blank">论文成果</a></li><li><a href="award.htm" target="_blank">荣誉奖励</a></li><li><a href="team.htm" target="_blank">科研团队</a></li><li><a href="teach.htm" target="_blank">课程教学</a></li><li><a href="zhaosheng.htm" target="_blank">招生信息</a></li><li><a href="english.htm" target="_blank">English</a></li>
+        </ul>
+    </div>
+
+<!--中间-->
+<div id="middle">
+			<div id="middle_left" style="margin:1px 0 0 0; float:left; width:230px; display:inline;"> 
+			<div class="module" style="LEFT: 131px; WIDTH: auto; TOP: 118px; HEIGHT: auto">
+
+<div class="subject"><span id="t0">基本信息</span></div>
+<div class="detail">
+<p><img style="WIDTH: 220px; HEIGHT: 191px" alt="" src="images/photo.jpg"></p>
+<p><b>马红波 &nbsp; 博士 &nbsp;博士后&nbsp;副教授&nbsp;硕士生导师</b></p>
+<p><b>一级学科：</b>电气工程</p>
+<p><b>二级学科：</b>电力电子与电力传动</p>
+<p><b>工作单位：</b>电气工程学院</p></div></div>
+<div class="module" style="LEFT: 99px; WIDTH: auto; TOP: 597px; HEIGHT: auto">
+<div class="subject"><span id="t3">联系方式</span></div>
+<div class="detail" id="n3">
+<p><b>Address:</b> 成都市二环路北一段111号</p>
+<p> <b>E-mail:</b> hongboma@swjtu.edu.cn</p>
+<p><b>办公电话:</b> 无</p>
+<p><b>办公地点:</b> 无</p></div></div></div>
+
+			<div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;">
+			<div class="module" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+
+<div class="subject"><span id="t2">个人简介</span></div><!--ckstartn2-->
+<div class="detail" id="n2">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;马红波，<b>工学博士，博士后</b>，副教授，<b>IEEE Member</b>, <b>美国电源协会PSMA会员</b>, <b> 中国电源学会高级会员</b>, <b>成都市电动汽车无线充电系统标准评审专家组成员</b>, 2012年11月以引进人才任职于西南交通大学电气工程学院电力电子与电力传动系</p><p>
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自2004年以来，一直从事电力电子技术方面的研究工作，<b>尤其是HB-LED照明驱动技术、高效率变换器拓扑及控制、新能源电力电子技术</b>。2009年获国家留学基金委资助，赴<b>美国弗吉尼亚理工学院暨州立大学(Virginia Tech)未来能源电子中心(FEEC)从事研究25个月(2009/09-2011/10)</b>。2011年10月回国后，继续从事该领域的研究工作。曾主持<b>《DC-DC开关变换器大信号建模与非线性控制》</b>(西南交通大学博士生创新基金)、<b>《单相离线式HB-LED照明驱动电源》</b>(国家留学基金委全额资助项目，美国国家半导体公司合作项目)项目2项；参与<b>《DOE High Penetration Solar Deployment》</b>(美国能源部资助项目)、<b>《High-efficiency ZVS/ZCS Micro-Converter for Photovoltaic Application》</b>(美国TI 资助项目) 等科研课题。2012年12月，以专案博士后研究员的身份，任职于台湾科技大学电子工程系，合作导师为国际知名电力电子专家，台湾科技大学特聘教授<b>罗有刚、邱煌仁教授</b>。主研教育部“典范科技大学计划案<b>《高效能电能转换与储能关键技术与材料》、《高效能太阳能模组整合式转换器之研制》、《市电回收型充放电模组》和《低成本数位控制太阳能微型换流器》</b>等项目(均排名第二)；同时，负责<b>光宝台科电力电子研究中心的4个电源专案计划(涉及无桥PFC 技术、谐振变换器、有源箝位技术等)</b>。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以第一作者在<b>IEEE Trans. Power Electron., IET Power Electronics, International Journal of Circuit Theory and Applications</b>期刊、国内顶级期刊(<b>电工技术学报、电机与控制学报、电力自动化设备、铁道学报</b>等)以及<b>IEEE APEC、IEEE ECCE、IEEE ICCCAS</b>等顶级国际会议上发表论文<b>49</b>篇 (<b>SCI期刊8篇，EI 40篇)</b>，与他人合作发表论文<b>18</b>余篇(其中<b>SCI收录4篇，EI收录20篇</b>)。</p>
+<p>&nbsp;</p></div><!--ckendn2--></div>
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+<div class="subject"><span id="t2">学习与工作经历</span></div><!--ckstartn2-->
+<div class="detail" id="n2">
+<p><b>2000.09 - 2004.07</b> &nbsp;&nbsp; 兰州交通大学  &nbsp;&nbsp;&nbsp;通信工程&nbsp;&nbsp;&nbsp;  学士 </p>
+<p><b>2004.09 - 2006.02</b> &nbsp;&nbsp; 西南交通大学  &nbsp;&nbsp;&nbsp;微电子学与固体电子学 &nbsp;&nbsp;&nbsp;   <b>硕博连读(硕士阶段)</b> </p>
+<p><b>2006.03 - 2012.05</b> &nbsp;&nbsp;西南交通大学   &nbsp;&nbsp;&nbsp;电力电子与电力传动     &nbsp;&nbsp;&nbsp;          <b> 硕博连读(博士阶段)</b> </p>
+<p><b>2009.09 - 2011.10</b> &nbsp;&nbsp; 弗吉尼亚理工学院暨州立大学(Virgina Tech)   &nbsp;&nbsp;&nbsp;未来能源电子中心(FEEC)&nbsp;&nbsp;&nbsp;  电力电子 &nbsp;&nbsp;&nbsp; <b>中美联合培养博士生</b> </p>
+<p><b>2012.12 - 2013.07</b>    &nbsp;&nbsp; 国立台湾科技大学电子工程系  &nbsp;&nbsp;&nbsp; 光宝台科电力电子研究中心&nbsp;&nbsp;&nbsp;电力电子&nbsp;&nbsp;&nbsp;  <b>博士后研究员</b> </p>
+<p><b>2012.12 - 2013.07</b>   &nbsp;&nbsp;  LITEON &amp; NTUST电力电子研究中心(LNPEC)    &nbsp;&nbsp;&nbsp;<b>专案计划负责人</b>
+</p><p><b>2012.11 - 2016.12</b> &nbsp;&nbsp;    西南交通大学电气工程学院电力电子与电力传动系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电力电子 &nbsp;&nbsp;&nbsp;   讲师 </p>
+<p><b>2016.12 - 至今</b> &nbsp;&nbsp;    西南交通大学电气工程学院电力电子与电力传动系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电力电子 &nbsp;&nbsp;&nbsp;   副教授 </p>
+<p><b>2013.09 - 至今</b> &nbsp;&nbsp;    台湾科技大学电力电子技术研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电力电子 &nbsp;&nbsp;&nbsp;   研究员 </p>
+<p>&nbsp;</p></div><!--ckendn2--></div>
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+<div class="subject"><span id="t1">主要研究方向</span></div><!--ckstartn1-->
+<div class="detail">
+<p>&nbsp; <b>(1) HB-LED Lighting Driving System</b></p>
+<p>&nbsp; <b>(2) Power Electronics for Railway Traffic Applications</b></p>
+<p>&nbsp; <b>(3) High-efficiency Converter Topologies and Their Controller </b></p>
+<p>&nbsp; <b>(4) Power Electronics for Renewable Energy Power Conditioning System</b></p>
+<p>&nbsp; <b>(5) High-efficiency, Long Lifetime Micro-Inverter</b></p>
+<p>&nbsp; <b>(6) Battery Charger for EV/HEV</b></p>
+<p>&nbsp;</p></div><!--ckendn2--></div>
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+<div class="subject"><span id="t2">主要学术活动</span></div><!--ckstartn2-->
+<div class="detail" id="n2">
+<p><b>15. Co- Chair and Paper Reviewer</b> for 1.2 DC-DC Converters Topic in ECCEAsia (IFEEC 2017 ) 见<b>http://http://www.ifeec.tw//</b></p><p>
+</p><p><b>14. Session Chair</b> for Special Session "Power Electronics for Railway Traffic Applications" in IFEEC 2015  见<b>http://http://www.ifeec.tw//</b></p><p>
+</p><p><b>13. Special Session Orgnizor</b> for 2015 International Future Energy Electronics Conference(IFEEC) 见<b>http://http://www.ifeec.tw//</b></p><p>
+</p><p> <b>12. Technical Program Committee Member</b> for 2015 International Future Energy Electronics Conference(IFEEC) 见<b>http://http://www.ifeec.tw//</b></p><p>
+</p><p> <b>11. Paper Reviewer </b> for IEEE Power Electronics and and Application Conference and Exposition (PEAC) 2014. 
+</p><p> <b>10. Technical Program Committee Member</b> for the 1st International Conference on Intelligent Green Building and Smart Grid <b>(IGBSG 2014)</b> 见<b>http://igbsg.ntust.edu.tw/</b></p><p>
+</p><p> <b>9. Session Chair(T2-1: Power Electronics Technologies)</b> for the 1st International Conference on Intelligent Green Building and Smart Grid <b>(IGBSG 2014)</b> 见<b>http://igbsg.ntust.edu.tw/</b></p><p>
+</p><p> <b>8. Session Chair (S24: Lighting Technologies and Applications II ) </b> for 2013 International Future Energy Electronics Conference(IFEEC) 见<b>http://http://www.ifeec.tw//</b></p><p>
+</p><p> <b>7. Exhibition Session Chair</b> for 2012 Taiwan-Japan Symposium on Power Conversion (2012 TJSPC)</p><p>
+</p><p> <b>6. 2013年国立台湾科技大学电子工程系研究生口试委员会委员(17个电力电子专业研究生口试委员)
+</b></p><p><b> <b>5. Reviewers<b> for IEEE Trans. Power Electron.,IEEE Trans. Ind. Electron.,IEEE Trans. Ind. Appl., International Journal of Circuit Theory and Applications,and IEEE Journal of Emerging and Selected Topics in Power Electronics</b></b></b></p><p><b><b><b>
+</b></b></b></p><p><b><b><b> <b>4. Two oral Presentations<b> on IEEE ECCE 2011</b></b></b></b></b></p><p><b><b>
+</b></b></p><p><b><b> <b>3. Paper Reviewer<b> for IEEE Asia Pacific Conference on Circuits and Systems (IEEE APCCAS 2012)<b></b></b></b></b></b></p><p><b><b><b>
+</b></b></b></p><p><b><b><b> <b>2. Paper Reviewer <b> for 2013 International Future Energy Electronics Conference(IFEEC)</b> 见<b>http://http://www.ifeec.tw//</b></b></b></b></b></p><p><b><b>
+</b></b></p><p><b><b> <b>1. Oral Presentation <b> for 2013 International Future Energy Electronics Conference(IFEEC)</b> 见<b>http://http://www.ifeec.tw//</b></b></b></b></p><p><b><b>
+</b></b></p></div><!--ckendn1--></div></div><b><b>
+			</b></b></div><b><b>
+
+<!--底部-->
+<div id="bottom">
+Copyright © 2011   http://inc.swjtu.edu.cn   西南交通大学信息网络中心 
+<br>
+</div>
+</b></b></div><b><b>
+
+
+</b></b></body></html>

@@ -1,0 +1,707 @@
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" class="gecko firefox firefox57 win js"><head>
+<title>西安交通大学教师个人主页 - 个人信息</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+ <!--	<meta name="viewport" content="width=device-width; initial-scale=1.0;  minimum-scale=1.0; maximum-scale=1.0">	<meta name="viewport" content="width=960">	<meta name="format-detection" content="telephone=no">	<meta http-equiv="collapsable" content="none">	<meta name="apple-mobile-web-app-capable" content="yes">	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+ END 2013å¹´05æ24æ¥ä¿®æ¹ å¼ æ°¸å¼º -->
+<meta property="wb:webmaster" content="d3ba5b59fb78c7f4">
+<meta property="qc:admins" content="246611304502456545636">
+<link rel="Shortcut Icon" href="/html/themes/blue-pigment-theme/images/liferay.ico">
+<link href="/html/portal/css.jsp?browserId=firefox&amp;themeId=classic&amp;colorSchemeId=01&amp;t=1360026645000" rel="stylesheet" type="text/css">
+<script type="text/javascript">/*<![CDATA[*/var Liferay={Browser:{acceptsGzip:function(){return true},getMajorVersion:function(){return 57},getRevision:function(){return"57.0"},getVersion:function(){return"57.0"},isAir:function(){return false},isChrome:function(){return false},isFirefox:function(){return true},isGecko:function(){return true},isIe:function(){return false},isIphone:function(){return false},isLinux:function(){return false},isMac:function(){return false},isMobile:function(){return false},isMozilla:function(){return true},isOpera:function(){return false},isRtf:function(){return true},isSafari:function(){return false},isSun:function(){return false},isWap:function(){return false},isWapXhtml:function(){return false},isWebKit:function(){return false},isWindows:function(){return true},isWml:function(){return false}},ThemeDisplay:{getCompanyId:function(){return"4436"},getUserId:function(){return"7133"},getDoAsUserIdEncoded:function(){return""},getPlid:function(){return"18304"},getLayoutId:function(){return"1"},getLayoutURL:function(){return"/web/xyyang/1"},isPrivateLayout:function(){return"false"},getParentLayoutId:function(){return"0"},getScopeGroupId:function(){return"14153"},isSignedIn:function(){return false},getLanguageId:function(){return"zh_CN"},isFreeformLayout:function(){return false},isStateExclusive:function(){return false},isStateMaximized:function(){return false},isStatePopUp:function(){return false},getPathContext:function(){return""},getPathImage:function(){return"/image"},getPathMain:function(){return"/c"},getPathThemeImages:function(){return"/html/themes/blue-pigment-theme/images"},getPathThemeRoot:function(){return"/html/themes/blue-pigment-theme"},getURLHome:function(){return"http://gr.xjtu.edu.cn/web/guest"},getSessionId:function(){return"8180D5AB1985A537548E4D34EDEFD375"},getPortletSetupShowBordersDefault:function(){return true}}};var themeDisplay=Liferay.ThemeDisplay;/*]]>*/</script><script src="/html/js/barebone.jsp?browserId=firefox&amp;themeId=classic&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;t=1359696592000" type="text/javascript"></script><script type="text/javascript">/*<![CDATA[*/Liferay.currentURL="\u002f\u0077\u0065\u0062\u002f\u0078\u0079\u0079\u0061\u006e\u0067";Liferay.currentURLEncoded="%2Fweb%2Fxyyang";jQuery(function(){Liferay.Util.addInputType();Liferay.Util.addInputFocus()});Liferay.Portlet.ready(function(b,a){Liferay.Util.addInputType(b,a);if(Liferay.Menu){new Liferay.Menu({button:".lfr-actions",context:a[0],trigger:".lfr-trigger"})}});Liferay.Portlet.list=["592","598","611","588","593","597","599","594"];if(jQuery.ui&&jQuery.ui.tabs){jQuery.extend(jQuery.ui.tabs.defaults,{navClass:"ui-tabs tabs",selectedClass:"current"})}jQuery(function(){if(Liferay.Dock){Liferay.Dock.init()}if(Liferay.Menu){new Liferay.Menu()}if(Liferay.Notice){Liferay.Notice.prototype.setClosing()}});/*]]>*/</script><link href="/html/themes/blue-pigment-theme/css/main.css?browserId=firefox&amp;t=1361502445000" rel="stylesheet" type="text/css">
+<style type="text/css">#banner .logo a{background:url(/image/company_logo?img_id=91&amp;t=1511649672019) no-repeat;display:block;font-size:0;height:100px;text-indent:-9999em;width:496px;}</style><style type="text/css">#p_p_id_593_ .portlet{line-height:2em;}#p_p_id_597_ .portlet{line-height:2em;}#p_p_id_599_ .portlet{line-height:2em;}#p_p_id_594_ .portlet{line-height:2em;}</style><link class="lfr-css-file" href="/html/themes/blue-pigment-theme/css/main.css?browserId=firefox&amp;t=1361502445000" id="mainLiferayThemeCSS" rel="stylesheet" type="text/css">
+<script type="text/javascript">/*<![CDATA[*//*]]>*/</script><style type="text/css">#banner .logo a{background:url(/image/company_logo?img_id=91&t=1511649672019) no-repeat;display:block;font-size:0;height:100px;text-indent:-9999em;width:496px;}</style><link href="/html/js/liferay/My97DatePicker/skin/WdatePicker.css" rel="stylesheet" type="text/css"></head>
+<body class="blue controls-visible public-page">
+<div id="wrapper">	<div id="header" class="hd" style="position: relative; z-index: 20;">	<div class="lfr-dock interactive-mode lfr-component" style="position: absolute; left: 50%; margin-left: 312px; width: 170px; z-index: 10; cursor: pointer;">	<h2 class="user-greeting">	<span>欢迎登录</span>	</h2>	<div class="lfr-dock-list-container"><ul class="lfr-dock-list">	<li class="home first">	<a href="http://gr.xjtu.edu.cn/web/guest" class="first last" target="_blank">主页</a>	</li><li class="sign-in">	<a href="/c/portal/login?p_l_id=18304" class="first last" target="_blank">登录</a>	</li><li class="cas-sign-in last">	<a href="http://gr.xjtu.edu.cn/c/portal/caslogin" class="first last" target="_blank">CAS 登录</a>	</li></ul></div></div><div class="banner">	<h1 class="logo">	<a href="http://gr.xjtu.edu.cn/web/guest" target="_blank">西安交通大学教师个人主页</a>	<span class="current-community">杨 新宇</span>	</h1>	</div><div class="language">	   <a href="?p_p_id=82&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_count=2&amp;_82_struts_action=%2Flanguage%2Fview&amp;languageId=zh_CN" target="_blank"><img src="/html/themes/classic/images/language/zh_CN.png" alt="" title="" style="background-image: url('/html/themes/classic/images/language/zh_CN.png');background-repeat: no-repeat; height: 11px; width: 16px;"> </a>	   <a href="?p_p_id=82&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_count=2&amp;_82_struts_action=%2Flanguage%2Fview&amp;languageId=en_US" target="_blank"><img src="/html/themes/classic/images/language/en_US.png" alt="" title="" style="background-image: url('/html/themes/classic/images/language/en_US.png'); background-repeat: no-repeat; height: 11px; width: 16px;"></a>	</div><div id="navigation" class="menu sort-pages modify-pages">	<ul class="nav">	<li class="selected">	<a href="/web/xyyang/1" target="_blank"><span>个人信息</span></a>	</li><li class="sortable-item">	<a href="/web/xyyang/7" target="_blank"><span>荣誉奖励</span></a>	</li><li class="sortable-item">	<a href="/web/xyyang/9" target="_blank"><span>科研项目</span></a>	</li><li class="sortable-item">	<a href="/web/xyyang/10" target="_blank"><span>学术成果</span></a>	</li><li class="sortable-item">	<a href="/web/xyyang/8" target="_blank"><span>人才培养</span></a>	</li><li class="sortable-item">	<a href="/web/xyyang/11" target="_blank"><span>科研团队</span></a>	</li><li class="sortable-item">	<a href="/web/xyyang/5" target="_blank"><span>学术交流</span></a>	</li></ul></div></div><div id="p_p_id_103_" class="portlet-boundary portlet-boundary_103_  ">	<a id="p_103"></a>	<script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:0,isStatic:"end",namespacedId:"p_p_id\u005f\u0031\u0030\u0033\u005f",portletId:"\u0031\u0030\u0033"});/*]]>*/</script></div><div class="columns-2" id="content-wrapper">	<table class="lfr-grid" id="layout-grid">	<tbody><tr><td class="lfr-column thirty" id="column-1" valign="top">	<div class="lfr-portlet-column" id="layout-column_column-1">	<div id="p_p_id_592_" class="portlet-boundary portlet-boundary_592_  ">	<a id="p_592"></a>
+<div class="portlet" id="portlet-wrapper-592">	<div class="portlet-topper">	<span class="portlet-title">
+ 基本信息	</span>	<div class="portlet-icons" id="portlet-small-icon-bar_592">	</div></div><div class="portlet-content">	<div class="portlet-content-container" style="">	<div>
+<hr>
+<div align="left">
+<div align="left"><p align="center"><img alt="" src="/image/image_gallery?uuid=5fc5b08f-5435-4275-9b2c-66f14e410e49&amp;groupId=13817&amp;t=1341388339078" width="200" height="301"></p></div><blockquote></blockquote><blockquote><blockquote></blockquote><p align="left"><span style="font-size: small;"><span class="portlet-title1"><span style="font-family: Tahoma;" lang="EN-US"><font face="宋体"><span style="font-size: medium;"><strong>杨新宇</strong></span><br></font></span></span><span style="font-family: Tahoma;" lang="EN-US"><font face="宋体"><span style="font-size: medium;">教授, 博士生导师</span><br></font><span style="font-size: medium;"><font face="宋体">计算机科学与技术系软件所</font></span></span></span></p><blockquote></blockquote></blockquote><blockquote></blockquote>
+</div></div></div></div></div><script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:0,isStatic:"end",namespacedId:"p_p_id\u005f\u0035\u0039\u0032\u005f",portletId:"\u0035\u0039\u0032"});/*]]>*/</script></div><div id="p_p_id_598_" class="portlet-boundary portlet-boundary_598_  ">	<a id="p_598"></a>
+<div class="portlet" id="portlet-wrapper-598">	<div class="portlet-topper">	<span class="portlet-title">
+ 联系方式	</span>	<div class="portlet-icons" id="portlet-small-icon-bar_598">	</div></div><div class="portlet-content">	<div class="portlet-content-container" style="">	<div>
+<hr>
+<div align="left">
+<p align="left"><strong>&nbsp;&nbsp;&nbsp; E-mail：</strong><a href="mailto:yxyphd@mail.xjtu.edu.cn" target="_blank">yxyphd@mail.xjtu.edu.cn</a><br>&nbsp;&nbsp; ----------------------------------------------<br>&nbsp;&nbsp; 电子与信息工程学院<br>&nbsp;&nbsp; 西安交通大学<br>&nbsp;&nbsp; 西安 陕西 中国<br>&nbsp;&nbsp; 710049</p>
+</div></div></div></div></div><script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:1,isStatic:"end",namespacedId:"p_p_id\u005f\u0035\u0039\u0038\u005f",portletId:"\u0035\u0039\u0038"});/*]]>*/</script></div><div id="p_p_id_611_" class="portlet-boundary portlet-boundary_611_  ">	<a id="p_611"></a>
+<div class="portlet" id="portlet-wrapper-611">	<div class="portlet-topper">	<span class="portlet-title">
+ 站点计数器	</span>	<div class="portlet-icons" id="portlet-small-icon-bar_611">	</div></div><div class="portlet-content">	<div class="portlet-content-container" style="">	<div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">	<tbody><tr><td align="center">	<span style="color: #0066CC; font-size: 14pt; font-weight: bold;">	<img src="/html/portlet/ext/counter/images/1.gif"><img src="/html/portlet/ext/counter/images/7.gif"><img src="/html/portlet/ext/counter/images/8.gif"><img src="/html/portlet/ext/counter/images/8.gif"><img src="/html/portlet/ext/counter/images/4.gif">	</span>	</td></tr></tbody></table></div></div></div></div><script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:2,isStatic:"end",namespacedId:"p_p_id\u005f\u0036\u0031\u0031\u005f",portletId:"\u0036\u0031\u0031"});/*]]>*/</script></div></div></td><td class="lfr-column seventy" id="column-2" valign="top">	<div class="lfr-portlet-column" id="layout-column_column-2">	<div id="p_p_id_588_" class="portlet-boundary portlet-boundary_588_  ">	<a id="p_588"></a>
+<div class="portlet" id="portlet-wrapper-588">	<div class="portlet-topper">	<span class="portlet-title">
+ 我的新闻	</span>	<div class="portlet-icons" id="portlet-small-icon-bar_588">	</div></div><div class="portlet-content">	<div class="portlet-content-container" style="">	<div>
+<script src="/html/js/liferay/My97DatePicker/WdatePicker.js"></script><link href="/html/js/liferay/My97DatePicker/skin/WdatePicker.css" type="text/css" rel="stylesheet">
+ 
+ 
+  
+ 
+<table width="100%" height="100%" cellspacing="3" border="0">	<tbody><tr><td align="left">	<a href="http://gr.xjtu.edu.cn/web/xyyang/1?p_p_id=588&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=5&amp;_588_struts_action=%2Fmy_news%2Fedit&amp;_588_id=8429&amp;_588_page=1&amp;_588_itemsPerPage=20" target="_blank"> 	 <font size="-1">祝贺丁建行、王银瑞、孟多伦、董赟同学顺利获得硕士学位 	</font>	</a>	</td><td class="time_" width="70"> 	<font size="-1">2017-06-26</font>	</td></tr><tr><td align="left">	<a href="http://gr.xjtu.edu.cn/web/xyyang/1?p_p_id=588&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=5&amp;_588_struts_action=%2Fmy_news%2Fedit&amp;_588_id=8428&amp;_588_page=1&amp;_588_itemsPerPage=20" target="_blank"> 	 <font size="-1">恭喜课题组董怡卓同学的论文被Multimedia Systems-Springer期刊收录 	</font>	</a>	</td><td class="time_" width="70"> 	<font size="-1">2017-06-26</font>	</td></tr><tr><td align="left">	<a href="http://gr.xjtu.edu.cn/web/xyyang/1?p_p_id=588&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=5&amp;_588_struts_action=%2Fmy_news%2Fedit&amp;_588_id=8402&amp;_588_page=1&amp;_588_itemsPerPage=20" target="_blank"> 	 <font size="-1">恭喜课题组赵聪的论文获得WASA 2017 Best Paper 	</font>	</a>	</td><td class="time_" width="70"> 	<font size="-1">2017-06-21</font>	</td></tr><tr><td align="left">	<a href="http://gr.xjtu.edu.cn/web/xyyang/1?p_p_id=588&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=5&amp;_588_struts_action=%2Fmy_news%2Fedit&amp;_588_id=8427&amp;_588_page=1&amp;_588_itemsPerPage=20" target="_blank"> 	 <font size="-1">恭喜课题组王腾同学的论文被IEEE Transactions on Big Data期刊收录 	</font>	</a>	</td><td class="time_" width="70"> 	<font size="-1">2017-05-28</font>	</td></tr><tr><td align="left">	<a href="http://gr.xjtu.edu.cn/web/xyyang/1?p_p_id=588&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=5&amp;_588_struts_action=%2Fmy_news%2Fedit&amp;_588_id=8318&amp;_588_page=1&amp;_588_itemsPerPage=20" target="_blank"> 	 <font size="-1">英国爱丁堡大学Taku Komura副教授来访 	</font>	</a>	</td><td class="time_" width="70"> 	<font size="-1">2017-05-25</font>	</td></tr><tr><td align="left">	<a href="http://gr.xjtu.edu.cn/web/xyyang/1?p_p_id=588&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=5&amp;_588_struts_action=%2Fmy_news%2Fedit&amp;_588_id=8316&amp;_588_page=1&amp;_588_itemsPerPage=20" target="_blank"> 	 <font size="-1">美国Towson大学Chao Lu教授来访  	</font>	</a>	</td><td class="time_" width="70"> 	<font size="-1">2017-05-22</font>	</td></tr><tr><td></td><td class="time_" width="70">	<a href="http://gr.xjtu.edu.cn/web/xyyang/1?p_p_id=588&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=5&amp;_588_struts_action=%2Fmy_news%2Fmorenews&amp;_588_itemsPerPage=20" target="_blank">	<font color="#ff0000">更多新闻...</font>	</a>	</td></tr></tbody></table></div></div></div></div><script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:0,isStatic:"end",namespacedId:"p_p_id\u005f\u0035\u0038\u0038\u005f",portletId:"\u0035\u0038\u0038"});/*]]>*/</script></div><div id="p_p_id_593_" class="portlet-boundary portlet-boundary_593_  ">	<a id="p_593"></a>
+<div class="portlet" id="portlet-wrapper-593">	<div class="portlet-topper">	<span class="portlet-title">
+ 教育经历	</span>	<div class="portlet-icons" id="portlet-small-icon-bar_593">	</div></div><div class="portlet-content">	<div class="portlet-content-container" style="">	<div>
+<hr>
+<div align="left">
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG />
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->      <ul><li><span style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt" lang="EN-US">1991</span><span style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">年<span lang="EN-US">9</span>月至<span lang="EN-US">1995</span>年<span lang="EN-US">6</span>月, 在西安交通大学计算机科学专业（教改班）学习获工学学士学位，研究方向：计算机仿真</span></li><li><span style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt" lang="EN-US">1995</span><span style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">年<span lang="EN-US">9</span>月至<span lang="EN-US">1997</span>年<span lang="EN-US">6</span>月, 在西安交通大学计算机软件与理论专业学习获工学硕士学位，研究方向：计算机仿真</span></li><li><span style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt" lang="EN-US">1997</span><span style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">年<span lang="EN-US">9</span>月至<span lang="EN-US">2001</span>年<span lang="EN-US">6</span>月, 在西安交通大学计算机系统结构专业学习获工学博士学位，研究方向：计算机网络理论</span></li></ul><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves />
+  <w:TrackFormatting />
+  <w:PunctuationKerning />
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas />
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF />
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL />
+   <w:BalanceSingleByteDoubleByteWidth />
+   <w:DoNotLeaveBackslashAlone />
+   <w:ULTrailSpace />
+   <w:DoNotExpandShiftReturn />
+   <w:AdjustLineHeightInTable />
+   <w:BreakWrappedTables />
+   <w:SnapToGridInCell />
+   <w:WrapTextWithPunct />
+   <w:UseAsianBreakRules />
+   <w:DontGrowAutofit />
+   <w:SplitPgBreakAndParaMark />
+   <w:EnableOpenTypeKerning />
+   <w:DontFlipMirrorIndents />
+   <w:OverrideTableStyleHps />
+   <w:UseFELayout />
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math" />
+   <m:brkBin m:val="before" />
+   <m:brkBinSub m:val="&#45;-" />
+   <m:smallFrac m:val="off" />
+   <m:dispDef />
+   <m:lMargin m:val="0" />
+   <m:rMargin m:val="0" />
+   <m:defJc m:val="centerGroup" />
+   <m:wrapIndent m:val="1440" />
+   <m:intLim m:val="subSup" />
+   <m:naryLim m:val="undOvr" />
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="374">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading" />
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5" />
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature" />
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header" />
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink" />
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong" />
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text" />
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme" />
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text" />
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing" />
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading" />
+  <w:LsdException Locked="false" Priority="61" Name="Light List" />
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid" />
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1" />
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2" />
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1" />
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2" />
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1" />
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2" />
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3" />
+  <w:LsdException Locked="false" Priority="70" Name="Dark List" />
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading" />
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List" />
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid" />
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1" />
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1" />
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1" />
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1" />
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1" />
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision" />
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph" />
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote" />
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote" />
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1" />
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1" />
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1" />
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1" />
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1" />
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1" />
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2" />
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2" />
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2" />
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2" />
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2" />
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2" />
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2" />
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2" />
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3" />
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3" />
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3" />
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3" />
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3" />
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3" />
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3" />
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3" />
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4" />
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4" />
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4" />
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4" />
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4" />
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4" />
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4" />
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4" />
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5" />
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5" />
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5" />
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5" />
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5" />
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5" />
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5" />
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5" />
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6" />
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6" />
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6" />
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6" />
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6" />
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6" />
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6" />
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6" />
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis" />
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis" />
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference" />
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference" />
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title" />
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography" />
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading" />
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1" />
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2" />
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3" />
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4" />
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5" />
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light" />
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light" />
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2" />
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3" />
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4" />
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark" />
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful" />
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1" />
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1" />
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1" />
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2" />
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2" />
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2" />
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3" />
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3" />
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3" />
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4" />
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4" />
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4" />
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5" />
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5" />
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5" />
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6" />
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6" />
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6" />
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6" />
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light" />
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2" />
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3" />
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4" />
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark" />
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful" />
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1" />
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1" />
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1" />
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2" />
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2" />
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2" />
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3" />
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3" />
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3" />
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4" />
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4" />
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4" />
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5" />
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5" />
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5" />
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5" />
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6" />
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6" />
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6" />
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6" />
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6" />
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink" />
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag" />
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable	{mso-style-name:普通表格;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-parent:"";	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.5pt;	mso-bidi-font-size:11.0pt;	font-family:等线;	mso-ascii-font-family:等线;	mso-ascii-theme-font:minor-latin;	mso-fareast-font-family:等线;	mso-fareast-theme-font:minor-fareast;	mso-hansi-font-family:等线;	mso-hansi-theme-font:minor-latin;	mso-font-kerning:1.0pt;}
+</style><![endif]--><p>&nbsp;</p><p>&nbsp;</p>
+</div></div></div></div></div><script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:1,isStatic:"end",namespacedId:"p_p_id\u005f\u0035\u0039\u0033\u005f",portletId:"\u0035\u0039\u0033"});/*]]>*/</script></div><div id="p_p_id_597_" class="portlet-boundary portlet-boundary_597_  ">	<a id="p_597"></a>
+<div class="portlet" id="portlet-wrapper-597">	<div class="portlet-topper">	<span class="portlet-title">
+ 工作经历	</span>	<div class="portlet-icons" id="portlet-small-icon-bar_597">	</div></div><div class="portlet-content">	<div class="portlet-content-container" style="">	<div>
+<hr>
+<div align="left">
+<p class="2" style="margin-left: 21pt; text-indent: -21pt; mso-list: l0 level1 lfo1; mso-char-indent-count: 0"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">1998</span><span style="font-size: 9pt; font-family: 宋体">年11月至2001年7月在西安交通大学计算机科学与技术系任助教</span></p><div style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">2001</span><span style="font-size: 9pt; font-family: 宋体">年7月至2004年5月在西安交通大学计算机科学与技术系任讲师</span></div><div style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">2001</span><span style="font-size: 9pt; font-family: 宋体">年9月至2003年10月在西安交通大学控制科学与工程博士后流动站进行博士后研究</span></div><div style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">2001</span><span style="font-size: 9pt; font-family: 宋体">年12月至2006年5月在西安交通大学电子与信息工程学院党委历任专职委员、副书记</span></div><div style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">2004</span><span style="font-size: 9pt; font-family: 宋体">年5月至2008年7月在西安交通大学计算机科学与技术系任副教授</span></div><div style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">2007</span><span style="font-size: 9pt; font-family: 宋体">年3月至2007年7月在新疆大学信息工程与技术学院任副院长（挂职）</span></div><div style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">2009</span><span style="font-size: 9pt; font-family: 宋体">年3月至2011年4月在西安交通大学人事处任副处长（挂职）</span></div><div style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">2008</span><span style="font-size: 9pt; font-family: 宋体">年7月至今在西安交通大学计算机科学与技术系任教授/博导</span></div></div></div></div></div></div><script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:2,isStatic:"end",namespacedId:"p_p_id\u005f\u0035\u0039\u0037\u005f",portletId:"\u0035\u0039\u0037"});/*]]>*/</script></div><div id="p_p_id_599_" class="portlet-boundary portlet-boundary_599_  ">	<a id="p_599"></a>
+<div class="portlet" id="portlet-wrapper-599">	<div class="portlet-topper">	<span class="portlet-title">
+ 研究领域	</span>	<div class="portlet-icons" id="portlet-small-icon-bar_599">	</div></div><div class="portlet-content">	<div class="portlet-content-container" style="">	<div>
+<hr>
+<div align="left">
+<p class="2" style="margin-left: 21pt; text-indent: -21pt; mso-list: l0 level1 lfo1; mso-char-indent-count: 0"><span style="font-size: 9pt; font-family: 宋体"><span lang="EN-US"><o:p><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">无线网络及安全</span></o:p></span></span></p><div style="margin: 0cm 0cm 0pt 21pt; text-indent: -21pt"><span style="font-size: 9pt; font-family: Wingdings">²&nbsp;</span><span style="font-size: 9pt; font-family: 宋体">大数据处理</span></div></div></div></div></div></div><script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:3,isStatic:"end",namespacedId:"p_p_id\u005f\u0035\u0039\u0039\u005f",portletId:"\u0035\u0039\u0039"});/*]]>*/</script></div><div id="p_p_id_594_" class="portlet-boundary portlet-boundary_594_  ">	<a id="p_594"></a>
+<div class="portlet" id="portlet-wrapper-594">	<div class="portlet-topper">	<span class="portlet-title">
+ 科研成果	</span>	<div class="portlet-icons" id="portlet-small-icon-bar_594">	</div></div><div class="portlet-content">	<div class="portlet-content-container" style="">	<div>
+<hr>
+<div align="left">
+<p class="2"><span style="font-size: 9pt; font-family: 宋体">&nbsp; 近年来共承担科研课题<span lang="EN-US">30</span>余项，其中国家自然科学基金和<span lang="EN-US">863</span>项目<span lang="EN-US">7</span>项，省部级科研课题<span lang="EN-US">10</span>项；获省部级科研奖励<span lang="EN-US">4</span>项；在<span lang="EN-US">IEEE TC</span>、<span lang="EN-US">IEEE TPDS</span>、<span lang="EN-US">IEEE network</span>、<span lang="EN-US">JSAC</span>、<span lang="EN-US">IEEE Communications</span>、<span lang="EN-US">IEEE TMC</span>、<span lang="EN-US">IEEE TVT</span>、<span lang="EN-US">Sensors</span>、<span lang="EN-US">Computer Networks</span>、<span lang="EN-US">Infocom</span>、<span lang="EN-US">ICDCS</span>等国际高水平期刊和会议上发表学术论文<span lang="EN-US">130</span>余篇，其中<span lang="EN-US">SCI 31</span>篇，<span lang="EN-US">EI 80</span>余篇；授权发明专利<span lang="EN-US">12</span>项。<span lang="EN-US"><o:p></o:p></span></span></p>
+</div></div></div></div></div><script type="text/javascript">/*<![CDATA[*/Liferay.Portlet.onLoad({canEditTitle:false,columnPos:4,isStatic:"end",namespacedId:"p_p_id\u005f\u0035\u0039\u0034\u005f",portletId:"\u0035\u0039\u0034"});/*]]>*/</script></div></div></td></tr></tbody></table></div><form action="" method="post" name="hrefFm"></form><div id="footer" class="ft">
+<script src="/html/themes/blue-pigment-theme/javascript/javascript.js?browserId=firefox&amp;minifierType=js&amp;t=1361502445000" type="text/javascript"></script><script type="text/javascript">/*<![CDATA[*/null;null;null;/*]]>*/</script><meta http-equiv="Content-Typecontent=&quot;text/html;" charset="utf-8&quot;">
+<span>
+<style type="text/css">#layout-bottom-right a,#layout-bottom-right a:link,#layout-bottom-right a:visited{text-decoration:none;color:#666;}</style><script type="text/javascript">/*<![CDATA[*/function AddFav(a,b){if(window.ActiveXObject){window.external.AddFavorite(a,b)}else{window.sidebar.addPanel(b,a,"")}return false}function setHomepage(b){if(window.ActiveXObject){document.body.style.behavior="url(#default#homepage)";document.body.setHomePage(b)}else{if(window.sidebar){if(window.netscape){try{netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect")}catch(c){}}var a=Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefBranch);a.setCharPref("browser.startup.homepage",b)}}};/*]]>*/</script></span>
+<!--
+<hr>
+-->
+<div id="layout-bottom-container"><div id="layout-bottom-left"><div id="layout-bottom-right">	<div>	<div class="language">	<div align="center"> 	<!--<span><a href='#' onclick='setHomepage("http://gr.xjtu.edu.cn");return false;'>设为首页</a>	</span>&nbsp;&nbsp;&nbsp;&nbsp;	<span><a href='#' onclick='AddFav("http://gr.xjtu.edu.cn", document.title);return false;'>	加入收藏</a>	</span>&nbsp;&nbsp;&nbsp;&nbsp;	<span>	<a href="?p_p_id=82&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_count=2&amp;_82_struts_action=%2Flanguage%2Fview&amp;languageId=zh_CN" onclick="Liferay.Util.forcePost(this); return false;"><img class="icon" src="/brochure-theme/images/spacer.png" alt="中文（中国）" title="中文（中国）" style="background-image: url('/brochure-theme/images/language/zh_CN.png');background-repeat: no-repeat; height: 11px; width: 16px;">	</a>	</span>	<span><a href="?p_p_id=82&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_count=2&amp;_82_struts_action=%2Flanguage%2Fview&amp;languageId=en_US" onclick="Liferay.Util.forcePost(this); return false;"><img class="icon" src="/brochure-theme/images/spacer.png" alt="English (United States)" title="English (United States)" style="background-image: url('/brochure-theme/images/language/en_US.png'); background-repeat: no-repeat; height: 11px; width: 16px;">	</a>	</span> 	&nbsp;&nbsp;&nbsp;&nbsp;	-->
+ 	</div></div></div><div align="center">	<div align="center">	<font color="#808080">	<!--版权所有：西安交通大学 站点设计：信息中心 陕ICP备05001571号-->	版权所有：<a href="http://www.xjtu.edu.cn" target="_blank">西安交通大学</a>	站点设计：<a href="http://nic.xjtu.edu.cn" target="_blank">网络信息中心</a>	陕ICP备05001571号	</font>	<span><a target="_blank" href="/brochure-theme/images/iphone_xjtu.ipa"><img class="icon" src="/brochure-theme/images/icon_iph.gif" alt="IPhone版本下载" title="IPhone版本下载" width="15px" height="20px">&nbsp;IPhone版本下载	</a>	</span>&nbsp;&nbsp;	<span><a target="_blank" href="/brochure-theme/images/android_xjtu_personal_space_pad_1.0.apk"><img class="icon" src="/brochure-theme/images/icon_and.gif" alt="Android版本下载" title="Android版本下载" width="15px" height="20px">&nbsp;Android版本下载	</a>	</span>	<script type="text/javascript">/*<![CDATA[*/var _bdhmProtocol=(("https:"==document.location.protocol)?" https://":" http://");document.write(unescape("%3Cscript src='"+_bdhmProtocol+"hm.baidu.com/h.js%3F5d23f7883e07a996c7dbb2b9ad9dfef5' type='text/javascript'%3E%3C/script%3E"));/*]]>*/</script><script src=" http://hm.baidu.com/h.js?5d23f7883e07a996c7dbb2b9ad9dfef5" type="text/javascript"></script><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="HolmesIcon1511796168" width="67" height="18"><param name="movie" value="http://eiv.baidu.com/hmt/icon/34.swf"><param name="flashvars" value="s=http://tongji.baidu.com/hm-web/welcome/ico?s=5d23f7883e07a996c7dbb2b9ad9dfef5"><param name="allowscriptaccess" value="always"><embed type="application/x-shockwave-flash" name="HolmesIcon1511796168" src="http://eiv.baidu.com/hmt/icon/34.swf" flashvars="s=http://tongji.baidu.com/hm-web/welcome/ico?s=5d23f7883e07a996c7dbb2b9ad9dfef5" allowscriptaccess="always" width="67" height="18"></object></div><div align="center"><font color="#808080">	欢迎您访问我们的网站，您是第	<img src="/html/themes/blue-pigment-theme/images/custom/8.gif"><img src="/html/themes/blue-pigment-theme/images/custom/9.gif"><img src="/html/themes/blue-pigment-theme/images/custom/6.gif"><img src="/html/themes/blue-pigment-theme/images/custom/0.gif"><img src="/html/themes/blue-pigment-theme/images/custom/2.gif"><img src="/html/themes/blue-pigment-theme/images/custom/0.gif"><img src="/html/themes/blue-pigment-theme/images/custom/7.gif"><img src="/html/themes/blue-pigment-theme/images/custom/1.gif"><img src="/html/themes/blue-pigment-theme/images/custom/6.gif">	位访客	</font></div><div align="center"><font color="#808080">	<font color="#ff0000">推荐分辨率1024*768以上   推荐浏览器IE7 Fifefox 以上</font>	</font></div></div></div></div></div><script id="mainLiferayThemeJavaScript" src="/html/themes/blue-pigment-theme/javascript/javascript.js?browserId=firefox&amp;minifierType=js&amp;t=1361502445000" type="text/javascript"></script><font color="#808080">
+</font></div></div></body></html>

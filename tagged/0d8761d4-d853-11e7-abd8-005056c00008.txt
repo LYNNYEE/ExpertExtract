@@ -1,0 +1,706 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="济南大学生物科学与技术学院">
+<meta name="description" content="济南大学生物科学与技术学院"> 
+<title>济南大学生物科学与技术学院-济南大学生物科学与技术学院</title>
+<link href="main.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="JS/jquery.min.js"></script>
+<script type="text/javascript" src="JS/MSClass.js"></script>
+<script type="text/javascript" src="JS/ZGY_common.js"></script>
+
+</head>
+
+
+
+
+
+
+
+
+
+<body class="mainbody">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td bgcolor="#046CB5" align="center"><div style="margin:0 auto; width:1000px; background-color:#FFFFFF;">
+
+
+	
+	<link rel="stylesheet" type="text/css" href="images/ddlevelsmenu-topbar.css">
+	<script type="text/javascript" src="js/ddlevelsmenu.js"></script>
+	<script type="text/javascript">
+		//顶部菜单栏示例
+		ddlevelsmenu.setup("ddtopmenubar", "topbar")
+	</script>
+	<table style="margin:0 auto; background-image:url(images/title.jpg);" width="1000" cellspacing="0" cellpadding="0" border="0" align="center">
+      <tbody><tr>
+        <td valign="top" height="150"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody><tr>
+            <td>&nbsp;</td>
+			  <td width="130" height="35">
+              <div align="right">              <a href="http://bio.ujn.edu.cn/en/index.asp" target="_blank"><img src="images/6.png" width="125" height="14" border="0"></a></div></td>
+            <td width="90"><div align="right"><a href="http://www.ujn.edu.cn" target="_blank"><img src="images/7.png" width="70" height="14" border="0"></a></div></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="35" bgcolor="#26548A">
+		
+		
+		
+		
+		
+		
+<div id="ddtopmenubar" class="mattblackmenu">
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		</td>
+      </tr>
+    </tbody></table>
+	
+	
+	
+	
+	
+	
+</div></td>
+  </tr>
+</tbody></table>
+
+
+
+<div id="container" style="height:10px;"></div>
+
+<table style="margin:0 auto;" width="1000" cellspacing="0" cellpadding="0" border="0" align="center">
+      <tbody><tr>
+        <td width="270" valign="top"><link href="main.css" rel="stylesheet" type="text/css">
+
+<table style=" margin-bottom:10px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td style="background-image: url(images/14.jpg); background-repeat:no-repeat;" valign="top" height="36"></td>
+  </tr>
+ 
+  <tr>
+    <td style=" padding-left:10px;line-height:20px; border-left:1px solid #86CDE9; border-right:1px solid #86CDE9; border-bottom:1px solid #86CDE9; " bgcolor="#F7FCFF">
+		
+		<div id="gundong" style="width:240px; height:180px;overflow:hidden;"><table style="border-collapse:collapse;" cellspacing="0" cellpadding="0"><tbody><tr><td>
+		·&nbsp;<a href="detail.asp?id=962" target="_blank">学院2017年师资引进需求计划</a><font color="#808080">[1-25]</font><br>
+		·&nbsp;<a href="detail.asp?id=1324" target="_blank">2017年秋季济南大学生物科学与技术学院制药工程专业研究生硕士学位论文答辩安排(二)</a><font color="#808080">[12-1]</font><br>
+		·&nbsp;<a href="detail.asp?id=1323" target="_blank">2017年秋季济南大学生物科学与技术学院制药工程专业研究生硕士学位论文答辩安排(一)</a><font color="#808080">[12-1]</font><br>
+		·&nbsp;<a href="detail.asp?id=1291" target="_blank">生物科学与技术学院2017年专业技术岗位评聘工作日程安排</a><font color="#808080">[9-30]</font><br>
+		·&nbsp;<a href="detail.asp?id=1240" target="_blank">7月6日“青年教师学术沙龙”（二十一）预告</a><font color="#808080">[6-30]</font><br>
+		·&nbsp;<a href="detail.asp?id=1226" target="_blank">6月22日“Bio-X交叉研究学术沙龙”（三）预告</a><font color="#808080">[6-16]</font><br>
+		·&nbsp;<a href="detail.asp?id=1213" target="_blank">2017年春季济南大学生物科学与技术学院研究生硕士学位论文答辩安排(十三）</a><font color="#808080">[6-5]</font><br>
+		·&nbsp;<a href="detail.asp?id=1212" target="_blank">2017年春季济南大学生物科学与技术学院研究生硕士学位论文答辩安排(十二）</a><font color="#808080">[6-5]</font><br>
+		·&nbsp;<a href="detail.asp?id=1211" target="_blank">2017年春季济南大学生物科学与技术学院研究生硕士学位论文答辩安排(十一）</a><font color="#808080">[6-5]</font><br>
+		·&nbsp;<a href="detail.asp?id=1210" target="_blank">2017年春季济南大学生物科学与技术学院研究生硕士学位论文答辩安排(十）</a><font color="#808080">[6-5]</font><br>
+							  
+		</td></tr><tr><td>
+		·&nbsp;<a href="detail.asp?id=962" target="_blank">学院2017年师资引进需求计划</a><font color="#808080">[1-25]</font><br>
+		·&nbsp;<a href="detail.asp?id=1324" target="_blank">2017年秋季济南大学生物科学与技术学院制药工程专业研究生硕士学位论文答辩安排(二)</a><font color="#808080">[12-1]</font><br>
+		·&nbsp;<a href="detail.asp?id=1323" target="_blank">2017年秋季济南大学生物科学与技术学院制药工程专业研究生硕士学位论文答辩安排(一)</a><font color="#808080">[12-1]</font><br>
+		·&nbsp;<a href="detail.asp?id=1291" target="_blank">生物科学与技术学院2017年专业技术岗位评聘工作日程安排</a><font color="#808080">[9-30]</font><br>
+		·&nbsp;<a href="detail.asp?id=1240" target="_blank">7月6日“青年教师学术沙龙”（二十一）预告</a><font color="#808080">[6-30]</font><br>
+		·&nbsp;<a href="detail.asp?id=1226" target="_blank">6月22日“Bio-X交叉研究学术沙龙”（三）预告</a><font color="#808080">[6-16]</font><br>
+		·&nbsp;<a href="detail.asp?id=1213" target="_blank">2017年春季济南大学生物科学与技术学院研究生硕士学位论文答辩安排(十三）</a><font color="#808080">[6-5]</font><br>
+		·&nbsp;<a href="detail.asp?id=1212" target="_blank">2017年春季济南大学生物科学与技术学院研究生硕士学位论文答辩安排(十二）</a><font color="#808080">[6-5]</font><br>
+		·&nbsp;<a href="detail.asp?id=1211" target="_blank">2017年春季济南大学生物科学与技术学院研究生硕士学位论文答辩安排(十一）</a><font color="#808080">[6-5]</font><br>
+		·&nbsp;<a href="detail.asp?id=1210" target="_blank">2017年春季济南大学生物科学与技术学院研究生硕士学位论文答辩安排(十）</a><font color="#808080">[6-5]</font><br>
+							  
+		</td></tr></tbody></table></div>		  
+		<script language="javascript">
+			new Marquee("gundong",0,1,240,180,20,0,0,0)
+		</script>
+	</td>
+  </tr>
+</tbody></table>
+
+<table style="margin-bottom:10px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+   <td style="background-image: url(images/15.jpg); background-repeat:no-repeat;" valign="top" height="36"></td>
+  </tr>
+
+  <tr>
+    <td style="padding:5px; border-left:1px solid #86CDE9; border-right:1px solid #86CDE9; border-bottom:1px solid #86CDE9;" bgcolor="#F7FCFF">
+<script type="text/javascript">        
+function SerchType(Serch){       //判断用户点击了搜索框
+if(Serch.value=='请输入关键词'){
+Serch.value='';            
+Serch.style.color='black';    //设置字体颜色成黑色  
+}        
+}     
+function returnvalue(Serch)   //判断如果用户没有输入关键词，则框内恢复原状
+{if (Serch.value==''){
+Serch.value='请输入关键词';     //输入框恢复原值   
+Serch.style.color='Gray';   //还原输入框中的字体颜色为灰色
+}
+}
+</script>
+
+	
+<form action="search.asp" method="get" name="search" target="_blank">
+  搜索信息：<input id="keyword0" maxlength="50" style="width:90px;color:Gray;" name="keyword" value="请输入关键词" onblur="returnvalue(this)" onclick="SerchType(this)">
+  <div style="height:8px; width:100%;"></div>
+  搜索方式：<select name="bywhat" id="bywhat" style="width:60px;">
+<option value="biaoti">标题</option>
+<option value="author">作者</option>
+<option value="content">内容</option>
+</select>
+ <div style="height:8px; width:100%;"></div>
+验证码:<input name="txt_check" size="6" maxlength="4" class="input" type="text">&nbsp;<img src="checkcode.asp " alt="验证码,看不清楚请点击刷新验证码" style="cursor:pointer;" onclick="this.src='checkcode.asp?t='+(new Date().getTime());" height="10">
+    
+<input name="abc" id="abc" value="HVQLYISMJCUNTRDKEFKH" type="hidden">
+<input class="buttonface" value="查 询" type="submit">
+</form>
+</td>
+  </tr>
+</tbody></table>
+
+<table style="margin-bottom:10px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+     <td style="background-image: url(images/16.jpg); background-repeat:no-repeat;" valign="top" height="36"></td>
+  </tr>
+  
+  <tr>
+    <td style="line-height:22px; padding:10px; border-left:1px solid #86CDE9; border-right:1px solid #86CDE9; " bgcolor="#F7FCFF">·&nbsp;<a href="http://www.moe.gov.cn/" target="_blank">中华人民共和国教育部</a><br>·&nbsp;<a href="http://www.most.gov.cn/" target="_blank">中华人民共和国科学技术部</a><br>·&nbsp;<a href="http://www.nsfc.gov.cn/" target="_blank">国家自然科学基金委员会</a><br>·&nbsp;<a href="http://www.csc.edu.cn/" target="_blank">国家留学基金管理委员会</a><br>·&nbsp;<a href="http://www.sdedu.gov.cn/jyt/index.htm" target="_blank">山东省教育厅</a><br>·&nbsp;<a href="http://www.sdstc.gov.cn/" target="_blank">山东省科学技术厅</a><br>·&nbsp;<a href="http://www.sdnsf.gov.cn/portal/" target="_blank">山东省自然科学基金委员会</a><br>·&nbsp;<a href="http://www.jnsti.gov.cn/jnsti/" target="_blank">济南市科学技术局</a><br>
+	</td>
+  </tr>
+  <tr>
+     <td style="line-height:22px;   border-left:1px solid #86CDE9; border-right:1px solid #86CDE9; border-bottom:1px solid #86CDE9;" height="35" bgcolor="#F7FCFF"><div align="right"><a href="friendlinks.asp" target="_blank">更多&gt;&gt;&nbsp;</a></div></td>
+ </tr>
+</tbody></table>
+</td>
+        <td width="8" valign="top"></td>
+        <td valign="top"><table style="border:1px solid #C3D4E7; margin-bottom:10px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody><tr>
+            <td style="line-height:30px; height:30px; overflow:hidden;">&nbsp;&nbsp;&nbsp;<img src="images/icons_021.gif" width="16" height="12" align="absmiddle">&nbsp;当前位置： <a href="index.asp" target="_blank">首页</a>&nbsp;»&nbsp;<a href="list.asp?sortsid=73" target="_blank">学院概况</a>&nbsp;»&nbsp;<a href="list.asp?sortsid=102" target="_blank">师资队伍</a>&nbsp;»&nbsp;<a href="list.asp?sortsid=116" target="_blank">生物技术</a>&nbsp;»&nbsp;<a href="list.asp?sortsid=118" target="_blank">讲师</a>&nbsp;»&nbsp;<img src="images/dot_16.gif" width="10" height="11" align="absmiddle">&nbsp;李鹏</td>
+          </tr>
+
+
+        </tbody></table>
+          <table style=" border:1px solid #DCDDDD; margin-left:auto; margin-right:auto; margin-bottom:10px; background-color:#F6FAFD; display:none;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tbody><tr>
+                      <td class="zgy_padding5px"><img src="images/dot_08.gif" width="6" height="6" align="absmiddle">&nbsp;上一篇：<a href="detail.asp?id=36" target="_blank">李宁</a> </td>
+                    </tr>
+                    <tr>
+                      <td class="zgy_padding5px"><img src="images/dot_08.gif" width="6" height="6" align="absmiddle">&nbsp;下一篇：<a href="detail.asp?id=34" target="_blank">刘月辉</a></td>
+                    </tr>
+          </tbody></table>
+
+			   
+        <table id="divprint" style="border:1px solid #C3D4E7; margin-bottom:10px; margin-left:auto; margin-right:auto;" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+                      <tbody><tr>
+                        <td style="font-size: 16px; font-weight:bold; line-height:1.8; display:block; text-align:center; padding:10px;">李鹏</td>
+                      </tr>
+                      <tr>
+                        <td><div align="center">
+                            作者：管理员&nbsp;&nbsp;来源：本站原创&nbsp;&nbsp;发布时间：2017年5月18日&nbsp;&nbsp;点击次数：336
+                  </div></td>
+                      </tr>
+                      <tr>
+                        <td><div class="hrdiv"></div></td>
+                      </tr>
+                      <tr>
+                        <td style=" line-height:1.8; font-size:14px; height:344px;   " valign="top">
+						<div style=" margin:0 auto; width:680px; "><div align="center">
+<table style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" cellspacing="0" cellpadding="0" border="1">
+  <tbody>
+    <tr style="HEIGHT: 23.85pt">
+      <td style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 23.85pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 20pt" align="center"><b><span style="FONT-FAMILY: 宋体">姓名</span></b></p>
+      </td>
+      <td style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 23.85pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 303.65pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" width="405">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><span style="FONT-FAMILY: 宋体">李鹏</span></p>
+      </td>
+      <td style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 23.85pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 97.3pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" rowspan="5" width="130">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span><img src="uploadfile/20170518175305211001.jpg" width="101" height="147"></span></b></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 22.7pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 22.7pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 20pt" align="center"><b><span style="FONT-FAMILY: 宋体">性别</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 22.7pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 303.65pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" width="405">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><span style="FONT-FAMILY: 宋体">男</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 23pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 23pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 20pt" align="center"><b><span style="FONT-FAMILY: 宋体">学历</span></b><b><span>/</span></b><b><span style="FONT-FAMILY: 宋体">学位</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 23pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 303.65pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" width="405">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><span style="FONT-FAMILY: 宋体">研究生</span><span>/</span><span style="FONT-FAMILY: 宋体">博士</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 23.25pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 23.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 20pt" align="center"><b><span style="FONT-FAMILY: 宋体">职称</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 23.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 303.65pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" width="405">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><span style="FONT-FAMILY: 宋体">讲师</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 23.55pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 23.55pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">研究领域</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 23.55pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 303.65pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" width="405">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><span style="FONT-FAMILY: 宋体">植物与微生物互作；细菌群体感应系统</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 30.25pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 30.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">学术与社会兼职</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 30.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 400.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" colspan="2" width="535">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center">&nbsp;</p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 23.45pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 23.45pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">办公电话</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 23.45pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 400.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" colspan="2" width="535">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><span>0531-82767572</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 15.95pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 15.95pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">电子邮箱</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 15.95pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 400.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" colspan="2" width="535">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><span>bio_lip@ujn.edu.cn</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 22.65pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 22.65pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">通讯地址</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 22.65pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 400.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" colspan="2" width="535">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><span style="FONT-FAMILY: 宋体">山东省济南市市中区南辛庄西路</span><span>336</span><span style="FONT-FAMILY: 宋体">号特教楼</span><span>809</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 124.6pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 124.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">学习工作简历</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 124.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 400.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" colspan="2" width="535">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; LAYOUT-GRID-MODE: char; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 150%" align="left"><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 150%">教育经历：</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; LAYOUT-GRID-MODE: char; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 150%" align="left"><span style="LINE-HEIGHT: 150%">2011/09-2014/06</span><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 150%">，华南理工大学，生物科学与工程学院，微生物学，博士；</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; LAYOUT-GRID-MODE: char; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 150%" align="left"><span style="LINE-HEIGHT: 150%">2008/09 -2011/06</span><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 150%">，云南农业大学，植物保护学院，植物病理学，硕士；</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; LAYOUT-GRID-MODE: char; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 150%" align="left"><span style="LINE-HEIGHT: 150%">2004/09 -2008/06</span><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 150%">，</span><span style="LINE-HEIGHT: 150%"> </span><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 150%">长江师范学院，生命科学与技术学院，生物科学，学士；</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; LAYOUT-GRID-MODE: char; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 150%" align="left"><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 150%">研究工作经历：</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; LAYOUT-GRID-MODE: char; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 150%" align="left"><span style="LINE-HEIGHT: 150%">2014/07-2016/12</span><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 150%">，华南农业大学群体微生物研究中心从事博士后研究</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 78.65pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 78.65pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">教学工作</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 78.65pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 400.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" colspan="2" width="535">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="left"><span>PCR</span><span style="FONT-FAMILY: 宋体">技术；微生物遗传学</span></p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 326.55pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 326.55pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">主要科研成果及</span></b></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center"><b><span style="FONT-FAMILY: 宋体">获奖情况</span></b></p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 326.55pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 400.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" colspan="2" width="535">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left"><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 120%">主要科研成果：</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left"><span style="LINE-HEIGHT: 120%">1.<u> <b>Peng Li</b></u>, Dechen Wang, Jinli Yan, Jianuan Zhou, Yinyue Deng, Zide Jiang, Bihao Cao, Zifu He, Lianhui Zhang. Genomic analysis of phylotype I strain EP1 reveals substantial divergence from other strains in the Ralstonia solanacearum species complex. Frontiers in microbiology, 2016, doi: 10.3389/fmicb.2016.01719</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left"><span style="LINE-HEIGHT: 120%">2.<span> </span><b><u>Peng Li</u></b>, Taihui Li, Wangqiu Deng, Molecular cloning of α-amanitin and characterization of its expression pattern in different parts and development stages of Amanita exitialis fruitbody. Mycological Progress, 2014, 13(4):1011-1016</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left"><span style="LINE-HEIGHT: 120%">3.<span> </span><b><u>Peng Li</u></b>, Wangqiu Deng, Taihui Li, Molecular diversity of toxin gene families of lethal Amanita mushrooms. Toxicon, 2014, 83(1): 59-68</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left"><span style="LINE-HEIGHT: 120%">4.<span> </span><b><u>Peng Li</u></b>, Wangqiu Deng, Taihui Li, Bin Song, Yaheng Shen, Illumina-based de novo transcriptome sequencing and analysis of Amanita exitialis basidiocarps. Gene, 2013, 532(1): 63-71</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left"><span style="LINE-HEIGHT: 120%">5.<span> </span><b><u>Peng Li</u></b>, Xingxing Wu, Zhiyuan Wang, H. H. Ho, Yixin Wu, Zichao Mao, Yueqiu He. First report of Ralstonia solanacearum causing bacterial wilt of yacon in China. Plant Disease, 2012, 96 (6): 904. </span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left">&nbsp;</p>
+      </td>
+    </tr>
+    <tr style="HEIGHT: 326.55pt">
+      <td style="BORDER-TOP: medium none; HEIGHT: 326.55pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 63.05pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt" width="84">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; TEXT-JUSTIFY: inter-ideograph" align="center">&nbsp;</p>
+      </td>
+      <td style="BORDER-TOP: medium none; HEIGHT: 326.55pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 400.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt" colspan="2" width="535">
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left"><span style="LINE-HEIGHT: 120%">6.<b><u><span> </span>Peng Li</u></b>, Hengcang Zhou, Xingxing Wu, Zhiyuan Wang, H. H. Ho, Yixin Wu, Zichao Mao, Yueqiu He. First record and description of Ralstonia solanacearum wilt in patchouli from Yunnan Province, China. Indian Phytopathol, 2012, 65 (2): 208-210.</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 6pt 0cm 6pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 150%; TEXT-INDENT: -10.5pt" align="left"><span style="FONT-FAMILY: 宋体; LINE-HEIGHT: 150%">承担科研项目：</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 34pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 22pt; TEXT-AUTOSPACE: ; TEXT-INDENT: -18pt" align="left"><span style="FONT-FAMILY: 宋体"><span>1.<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 宋体">第<span>57</span>批中国博士后科学基金面上资助二等资助，<span>2015M572329</span>，青枯菌新型群体感应基因鉴定及功能研究，<span>2015/01-2016/08</span>，<span>5</span>万元，已结题，主持</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 34pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 22pt; TEXT-AUTOSPACE: ; TEXT-INDENT: -18pt" align="left"><span style="FONT-FAMILY: 宋体"><span>2.<span style="FONT: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="FONT-FAMILY: 宋体"><span>&nbsp;</span></span><span style="FONT-FAMILY: 宋体">国家自然科学基金面上项目，<span>31571969</span>，青枯菌群体感应与第二信使信号网络研究及病害防控，<span>2016/01-2019/12</span>，在研，参加</span></p>
+      <p style="FONT-SIZE: 10.5pt; FONT-FAMILY: 'Times New Roman','serif'; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt 10.5pt; TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 120%; TEXT-INDENT: -10.5pt" align="left">&nbsp;</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div></div>
+						 
+					    </td>
+                      </tr>
+                      <tr>
+                        <td height="60"><div style="padding-right:20px;" align="right"> <a href="javascript:printme()"><img src="images/icons_printer.gif" width="63" height="26" border="0"></a>
+                                <script language="JavaScript" type="text/javascript">
+function printme()
+{
+document.body.innerHTML=document.getElementById('divprint').innerHTML;
+window.print();
+}
+          </script>
+                          &nbsp;<a href="javascript:window.close();"><img src="images/icons_close.gif" width="63" height="26" border="0"></a><br>
+                        </div></td>
+                      </tr>
+          </tbody></table>
+              
+		  
+		  
+		  
+                    <table style="  margin-left:auto; margin-right:auto; margin-bottom:15px; " width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                      <tbody><tr>
+                        <td class="zgy_padding5px">»&nbsp;上一篇：<a href="detail.asp?id=36" target="_blank">李宁</a> </td>
+                      </tr>
+                      <tr>
+                        <td class="zgy_padding5px">»&nbsp;下一篇：<a href="detail.asp?id=34" target="_blank">刘月辉</a></td>
+                      </tr>
+                    </tbody></table>
+					
+		</td>
+           
+      </tr>
+  </tbody></table>
+
+
+  <table style="margin:0 auto;" width="1000" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+    <tbody><tr>
+      <td height="15"></td>
+    </tr>
+  </tbody></table>
+  <table style="  margin:0 auto  " width="1000" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+    <tbody><tr>
+      <td style="line-height:25px;" height="60" background="images/bottom1.jpg"><p align="center"><a href="contactus.asp" target="_blank">联系我们</a>&nbsp;|&nbsp;<a href="#" onclick="alert('请使用 ctrl+D 收藏本页');">加入收藏</a>&nbsp;|&nbsp;<a href="friendlinks.asp" target="_blank">友情链接</a>&nbsp;<br>
+      Powered by <strong>济南大学生物科学与技术学院</strong>&nbsp; 版权所有 <span style="width:10px; height:10px;vertical-align:middle; display:inline-block; background-image:url(images/Glogo10x10.gif); background-position:10px ; "></span></p></td>
+    </tr>
+  </tbody></table>
+  
+  
+  
+
+<div style="display:none">
+
+<a href="http://webscan.360.cn/index/checkwebsite/url/bio.ujn.edu.cn" name="652babffd590ce8b3851036a5b55d054" target="_blank">360网站安全检测平台</a>
+</div>
+<script type="text/javascript" language="javascript"> 
+//读取iframe高度
+function iFrameHeight() { 
+var ifm= document.getElementById("iframepage"); 
+var subWeb = document.frames ? document.frames["iframepage"].document : ifm.contentDocument; 
+if(ifm != null && subWeb != null) { 
+ifm.height = subWeb.body.scrollHeight; 
+} 
+} 
+</script>
+
+
+<iframe class="ddiframeshim" src="about:blank" style="" frameborder="0"></iframe><iframe class="ddiframeshim" src="about:blank" style="" frameborder="0"></iframe><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu73" style="visibility: hidden;">
+	<li><a href="list.asp?sortsid=104" target="_blank">学院介绍</a>
+
+</li>
+	<li><a href="list.asp?sortsid=103" target="_blank">学院领导</a>
+
+</li>
+	<li><a href="list.asp?sortsid=102" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">师资队伍</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"></div></li>
+	<li><a href="list.asp?sortsid=101" target="_blank">组织机构</a>
+
+</li>
+	
+	
+</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu72" style="visibility: hidden;">
+	<li><a href="list.asp?sortsid=98" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">组织建设</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"></div></li>
+	<li><a href="list.asp?sortsid=97" target="_blank">党务公开</a>
+
+</li>
+	<li><a href="list.asp?sortsid=96" target="_blank">理论学习</a>
+
+</li>
+	<li><a href="list.asp?sortsid=131" target="_blank">廉政建设</a>
+
+</li>
+	<li><a href="list.asp?sortsid=95" target="_blank">规章制度</a>
+
+</li>
+	<li><a href="list.asp?sortsid=94" target="_blank">党员风采</a>
+
+</li>
+	<li><a href="list.asp?sortsid=67" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">学院文化</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+
+		<li><a href="list.asp?sortsid=86" target="_blank">科技前沿</a></li>
+
+		<li><a href="list.asp?sortsid=85" target="_blank">科普知识</a></li>
+
+		<li><a href="list.asp?sortsid=84" target="_blank">健康身心</a></li>
+
+		<li><a href="list.asp?sortsid=83" target="_blank">学术道德</a></li>
+			</ul></div></li>
+	
+	
+</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu70" style="visibility: hidden;">
+	<li><a href="list.asp?sortsid=148" target="_blank">本科专业</a>
+
+</li>
+	<li><a href="list.asp?sortsid=182" target="_blank">学业导师</a>
+
+</li>
+	<li><a href="list.asp?sortsid=138" target="_blank">培养方案</a>
+
+</li>
+	<li><a href="list.asp?sortsid=173" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">教学大纲</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"></div></li>
+	<li><a href="list.asp?sortsid=170" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">授课计划</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+
+		<li><a href="list.asp?sortsid=171" target="_blank">生物技术专业</a></li>
+
+		<li><a href="list.asp?sortsid=172" target="_blank">制药工程专业</a></li>
+			</ul></div></li>
+	<li><a href="list.asp?sortsid=139" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">教研室</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"></div></li>
+	<li><a href="list.asp?sortsid=149" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">教学研究</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+
+		<li><a href="list.asp?sortsid=183" target="_blank">教学研究论文/著作</a></li>
+			</ul></div></li>
+	<li><a href="list.asp?sortsid=137" target="_blank">规章制度</a>
+
+</li>
+	<li><a href="list.asp?sortsid=136" target="_blank">常用下载</a>
+
+</li>
+	
+	
+</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu69" style="visibility: hidden;">
+	<li><a href="list.asp?sortsid=186" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">科研成果</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"></div></li>
+	<li><a href="list.asp?sortsid=92" target="_blank">研究方向</a>
+
+</li>
+	<li><a href="list.asp?sortsid=91" target="_blank">科研动态</a>
+
+</li>
+	
+	
+</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu68" style="visibility: hidden;">
+	<li><a href="list.asp?sortsid=154" target="_blank">暑期三下乡社会实践活动</a>
+
+</li>
+	<li><a href="list.asp?sortsid=130" target="_blank">学生组织</a>
+
+</li>
+	
+	
+</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"><ul id="ddsubmenu63" style="visibility: hidden;">
+	<li><a href="list.asp?sortsid=80" target="_blank">表格下载</a>
+
+</li>
+	<li><a href="list.asp?sortsid=79" target="_blank">网络资源</a>
+
+</li>
+	
+	
+</ul></div><div class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;"></div><div>
+		<li><a href="index.asp" target="_blank">首页</a></li>
+ 		
+		<li><a href="list.asp?sortsid=73" target="_blank" rel="ddsubmenu73">学院概况</a></li>
+		
+		<li><a href="list.asp?sortsid=72" target="_blank" rel="ddsubmenu72">党建工作</a></li>
+		
+		<li><a href="list.asp?sortsid=71" target="_blank" rel="ddsubmenu71">学科建设</a></li>
+		
+		<li><a href="list.asp?sortsid=70" target="_blank" rel="ddsubmenu70">本科生培养</a></li>
+		
+		<li><a href="list.asp?sortsid=66" target="_blank" rel="ddsubmenu66">研究生培养</a></li>
+		
+		<li><a href="list.asp?sortsid=69" target="_blank" rel="ddsubmenu69">科学研究</a></li>
+		
+		<li><a href="list.asp?sortsid=68" target="_blank" rel="ddsubmenu68">学工在线</a></li>
+		
+		<li><a href="list.asp?sortsid=105" target="_blank">学术交流</a></li>
+		
+		<li><a href="list.asp?sortsid=65" target="_blank">规章制度</a></li>
+		
+		<li><a href="list.asp?sortsid=64" target="_blank" rel="ddsubmenu64">校友工作</a></li>
+		
+		<li><a href="list.asp?sortsid=63" target="_blank" rel="ddsubmenu63">常用下载</a></li>
+		
+		<li><a href="list.asp?sortsid=62" target="_blank">诚聘英才</a></li>
+		
+		<li><a href="list.asp?sortsid=155" target="_blank" rel="ddsubmenu155">高端人才</a></li>
+	</div><div>
+
+		<li><a href="list.asp?sortsid=116" target="_blank">生物技术</a></li>
+
+		<li><a href="list.asp?sortsid=115" target="_blank">制药工程</a></li>
+			</div><div>
+
+		<li><a href="list.asp?sortsid=100" target="_blank">教工党支部</a></li>
+
+		<li><a href="list.asp?sortsid=99" target="_blank">学生党支部</a></li>
+			</div><div>
+	<li><a href="list.asp?sortsid=185" target="_blank">山东省高等学校优势学科方向团队</a>
+
+</li>
+	<li><a href="list.asp?sortsid=184" target="_blank">山东省十三五高等学校重点实验室</a>
+
+</li>
+	<li><a href="list.asp?sortsid=153" target="_blank">校级学科方向团队</a>
+
+</li>
+	<li><a href="list.asp?sortsid=152" target="_blank">院级学科方向团队</a>
+
+</li>
+	
+	
+</div><div>
+
+		<li><a href="list.asp?sortsid=175" target="_blank">生物技术专业</a></li>
+
+		<li><a href="list.asp?sortsid=174" target="_blank">制药工程专业</a></li>
+			</div><div>
+
+		<li><a href="list.asp?sortsid=141" target="_blank">生物技术专业教研室</a></li>
+
+		<li><a href="list.asp?sortsid=140" target="_blank">制药工程专业教研室</a></li>
+			</div><div>
+	<li><a href="list.asp?sortsid=200" target="_blank">研究生专业</a>
+
+</li>
+	<li><a href="list.asp?sortsid=132" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">导师风采</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+
+		<li><a href="list.asp?sortsid=135" target="_blank">博士生导师</a></li>
+
+		<li><a href="list.asp?sortsid=134" target="_blank">硕士生导师</a></li>
+			</ul></div></li>
+	<li><a href="list.asp?sortsid=201" target="_blank">培养方案</a>
+
+</li>
+	<li><a href="list.asp?sortsid=202" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">规章制度</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"></div></li>
+	<li><a href="list.asp?sortsid=203" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">常用下载</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+
+		<li><a href="list.asp?sortsid=209" target="_blank">培养工作</a></li>
+
+		<li><a href="list.asp?sortsid=208" target="_blank">学位工作</a></li>
+
+		<li><a href="list.asp?sortsid=207" target="_blank">招生工作</a></li>
+			</ul></div></li>
+	
+	
+</div><div>
+
+		<li><a href="list.asp?sortsid=190" target="_blank">科研项目</a></li>
+
+		<li><a href="list.asp?sortsid=189" target="_blank">科技论文</a></li>
+
+		<li><a href="list.asp?sortsid=188" target="_blank">发明专利</a></li>
+
+		<li><a href="list.asp?sortsid=187" target="_blank">科技奖励</a></li>
+			</div><div>
+	<li><a href="list.asp?sortsid=150" target="_blank">本科生</a>
+
+</li>
+	<li><a href="list.asp?sortsid=151" target="_blank">研究生</a>
+
+</li>
+	
+	
+</div><div>
+	<li><a href="list.asp?sortsid=156" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">天然药物化学国家优秀青年科学基金获得者</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"></div></li>
+	<li><a href="list.asp?sortsid=157" target="_blank"><img src="images/arrow-right.gif" style="width: 12px; height: 12px; left: 166px;" class="rightarrowpointer">植物学国家优秀青年科学基金获得者</a>
+
+
+
+<div style="left: 0px; top: 0px; visibility: hidden;"><ul style="visibility: hidden;">
+
+		<li><a href="http://bio.ujn.edu.cn/detail.asp?id=1002" target="_blank">秦晓春</a></li>
+
+		<li><a href="http://bio.ujn.edu.cn/detail.asp?id=1010" target="_blank">植物生理生化与基因组学团队</a></li>
+
+		<li><a href="list.asp?sortsid=163" target="_blank">团队成员</a></li>
+			</ul></div></li>
+	
+	
+</div><div>
+
+		<li><a href="list.asp?sortsid=206" target="_blank">培养工作</a></li>
+
+		<li><a href="list.asp?sortsid=205" target="_blank">学位工作</a></li>
+
+		<li><a href="list.asp?sortsid=204" target="_blank">招生工作</a></li>
+			</div><div>
+
+		<li><a href="http://bio.ujn.edu.cn/detail.asp?id=574" target="_blank">张华</a></li>
+
+		<li><a href="http://bio.ujn.edu.cn/detail.asp?id=815" target="_blank">天然药物研究团队</a></li>
+
+		<li><a href="list.asp?sortsid=160" target="_blank">团队成员</a></li>
+			</div></body></html>

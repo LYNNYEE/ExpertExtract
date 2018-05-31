@@ -1,0 +1,264 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+
+
+<link rel="shortcut icon" type="image/x-icon" href="images/cugbIcon.ico"> 
+
+<meta name="Keywords" content="中国地质大学、地质大学、地大北京、地大、北京地质大学、国家211工程">
+<meta name="Generator" content="中国地质大学欢迎您">
+<meta name="Author" content="中国地质大学">
+<meta name="Maketime" content="2014-01-26 17:38:38">
+<meta name="sitename" content="开放的中国地质大学欢迎您！">
+<meta name="siteurl" content="http://www.cugb.edu.cn/">
+<meta name="guild" content="">
+<meta name="district" content="">
+<meta name="sitecatalog" content="">
+
+<title>北京.中国地质大学欢迎您</title>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="images/cugbIcon.ico"> 
+<link href="css/cugbhome.css" type="text/css" rel="stylesheet">
+<link href="font/css/cugbicon.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" src="script/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="script/jquery.slideBox.min.js"></script>
+<script type="text/javascript" src="js/loadmenu.js"></script>
+<script type="text/javascript" src="js/newcugb.js"></script>
+<script type="text/javascript" src="js/jquery1.42.min.js"></script>
+<script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+
+<!--[if lt IE 9]>
+<script src="js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="font/css/cugbicon-ie7.css">
+<![endif]-->
+
+<style type="text/css">
+.leftSubMenu{
+	BACKGROUND-IMAGE: url(images/Snap1_12.jpg); 
+	HEIGHT: 29px
+}
+.leftSubMenu2{
+	BACKGROUND-IMAGE: url(images/Snap1_13.jpg); 
+	HEIGHT: 31px
+}
+
+#wrap{table-Layout:fixed;width:100%;height:100%;line-height:24px;padding:10px 10px 6px;word-warp:break-word;word-break:break-all;width:880px;overflow:auto;}
+
+.AutoNewline
+{
+  word-break: break-all;
+}
+</style>
+
+<script language="JavaScript">
+
+function privateHomepage(url){
+    if(url.length==0)
+        alert("暂无个人主页！");
+	else
+    	window.open(url,"个人主页","toolbar=yes,scrollbars=yes,width=800,left=12,top=30, menubar=yes,status=yes,resizable=yes");    
+}
+
+</script>
+</head>
+
+<body>
+<!-- 头部开始 -->
+
+<div class="top">
+    <div class="logo">
+		<div class="left">
+			<a href="index.action" target="_blank"><img src="images/logo20141008.png" width="334" height="80"></a>
+		</div>
+		<div class="right">
+		    <div class="layer1">
+				<h2><a href="http://www.cugb.edu.cn/EnglishWeb/index.html" target="_blank">English Version</a></h2>
+			</div>
+
+			<div class="layer2"> 
+			    <fieldset class="search">
+         			<input class="box" name="s" id="searchField" placeholder="" type="text">
+          			<a href="#" class="cugbicon-search btn" onclick="searchProc()" title="Search"></a>
+    			</fieldset>
+			</div>
+	 	</div>
+	 </div>
+</div>
+
+<div id="begin">
+    <div class="menu" id="smenu"><a class="cugbicon-menu menuicon"></a>导航</div>
+    <div class="menutop">
+        <ul class="cugbmenu">
+            <li class="nosub"><a class="lnk" href="news.action" target="_blank">新闻</a></li>
+            <li class="sub">
+            	<a class="lnk" href="shtml/xxgk/index.shtml" target="_blank">概况<i class="cugbicon-angle-down"></i></a>
+                <ul>
+			        <li><a href="shtml/xxgk/xxjj.shtml" target="_blank"><i class="cugbicon-angle-right"></i>学校简介 </a></li>
+			        <li><a href="shtml/xxgk/xrld.shtml" target="_blank"><i class="cugbicon-angle-right"></i>现任领导 </a></li>
+			        <li><a href="shtml/xxgk/lsyg.shtml" target="_blank"><i class="cugbicon-angle-right"></i>历史沿革 </a></li>
+			        <li><a href="http://bm.cugb.edu.cn/xxgk/" target="_blank"><i class="cugbicon-angle-right"></i>信息公开 </a></li>
+                </ul>
+            </li>
+
+            <li class="sub">
+            	<a class="lnk" href="shtml/department/index.shtml" target="_blank">机构<i class="cugbicon-angle-down"></i></a>
+                <ul>
+		    		<li><a href="shtml/department/faculties.shtml" target="_blank"><i class="cugbicon-angle-right"></i>教学院系 </a></li>
+		    		<li><a href="shtml/department/admin.shtml" target="_blank"><i class="cugbicon-angle-right"></i>党政部门 </a></li>
+		    		<li><a href="shtml/department/science.shtml" target="_blank"><i class="cugbicon-angle-right"></i>科研部门 </a></li>
+		    		<li><a href="shtml/department/supplementary.shtml" target="_blank"><i class="cugbicon-angle-right"></i>教辅部门</a></li>
+                </ul>
+            </li>
+
+            <li class="sub">
+            	<a class="lnk" href="shtml/szdw/index.shtml" target="_blank">师资<i class="cugbicon-angle-down"></i></a>
+                <ul>
+		    		<li><a href="shtml/szdw/szgk.shtml" target="_blank"><i class="cugbicon-angle-right"></i>师资概况 </a></li>
+		    		<li><a href="shtml/szdw/ysfc.shtml" target="_blank"><i class="cugbicon-angle-right"></i>院士风采 </a></li>
+		    		<li><a href="shtml/szdw/jcrc.shtml" target="_blank"><i class="cugbicon-angle-right"></i>杰出人才 </a></li>
+		    		<li><a href="pmoreInfo.action?bigClassId=34&amp;bigClassName=人才招聘" target="_blank"><i class="cugbicon-angle-right"></i>人才招聘</a></li>
+                </ul>
+            </li>
+           
+            <li class="sub">
+            	<a class="lnk" href="shtml/education/index.shtml" target="_blank">教学<i class="cugbicon-angle-down"></i></a>
+                <ul>
+					<li><a href="shtml/education/bksjy.shtml" target="_blank"><i class="cugbicon-angle-right"></i>本科生教育</a></li>
+					<li><a href="shtml/education/yjsjy.shtml" target="_blank"><i class="cugbicon-angle-right"></i>研究生教育</a></li>
+				    <li><a href="http://bm.cugb.edu.cn/gjhzc/cglx/" target="_blank"><i class="cugbicon-angle-right"></i>留学生教育</a></li>
+					<li><a href="http://www.cugbonline.cn/" target="_blank"><i class="cugbicon-angle-right"></i>继 续 教 育</a></li>
+                </ul>
+            </li>
+            
+            <li class="sub">
+            	<a class="lnk" href="shtml/research/index.shtml" target="_blank">科研<i class="cugbicon-angle-down"></i></a>
+                <ul>
+	    			<li><a href="http://www.cugb.edu.cn/research/index.action" target="_blank"><i class="cugbicon-angle-right"></i>科技总览</a></li>
+	    			<li><a href="http://www.bd.cugb.edu.cn/" target="_blank"><i class="cugbicon-angle-right"></i>北地讲堂</a></li>
+	    			<li><a href="http://bm.cugb.edu.cn/xsqk/" target="_blank"><i class="cugbicon-angle-right"></i>学术期刊</a></li>
+	    			<li><a href="http://bm.cugb.edu.cn/kxyjy/" target="_blank"><i class="cugbicon-angle-right"></i>科学研究院</a></li>	
+                </ul>
+            </li>
+
+            <li class="sub">
+            	<a class="lnk" href="shtml/culture/index.shtml" target="_blank">文化<i class="cugbicon-angle-down"></i></a>
+                <ul>
+	    			<li><a href="shtml/culture/culture.shtml" target="_blank"><i class="cugbicon-angle-right"></i>地学文化 </a></li>
+	    			<li><a href="shtml/culture/nimrf.shtml" target="_blank"><i class="cugbicon-angle-right"></i>岩矿化石</a></li>
+	    			<li><a href="shtml/culture/union.shtml" target="_blank"><i class="cugbicon-angle-right"></i>馆藏联盟</a></li>	
+	    			<li><a href="shtml/culture/archives.shtml" target="_blank"><i class="cugbicon-angle-right"></i>档案文化</a></li>	
+                </ul>
+            </li>
+			<!-- 
+            <li class="nosub"><a class="lnk" href="culture.action" target="_blank">文化</a></li>
+            <li class="nosub"><a class="lnk" href="infoService.action" target="_blank">服务</a></li>
+			 -->
+            <li class="nosub"><a class="lnk" href="students.action" target="_blank">学生</a></li>
+            
+            <li class="nosub"><a class="lnk" href="teachers.action" target="_blank">教工</a></li>
+            
+            <li class="nosub"><a class="lnk" href="admission.action" target="_blank">招生</a></li>
+            
+            <li class="nosub"><a class="lnk" href="http://jiuye.cugb.edu.cn/" target="_blank">就业</a></li>
+            
+            <li class="lastsub"><a class="lnk" href="http://xyh.cugb.edu.cn/" target="_blank">校友</a></li>
+        </ul>
+	</div>
+</div>
+<!-- 头部结束 -->
+ <!--profhome Start-->
+<div class="topimg_teacher"></div>
+<div class="teachers clearfix">
+	<div class="menu" id="infomenu"><a class="cugbicon-menu menuicon"></a>余心起教授</div>
+	<div class="left">
+		<div class="left_caption clearfix">
+			<h3><a href="profAbout.action?zgh=2006012015" target="_blank">余心起教授</a></h3>
+		</div>
+		<div>
+			<ul class="titles">
+				<li id="grjj" class="selected"><a href="profAbout.action?zgh=2006012015" target="_blank">个人简介</a></li>
+				<li id="xslw"><a href="profPaper.action?zgh=2006012015" target="_blank">学术论文</a></li>
+				<li id="kyxm"><a href="profResearch.action?zgh=2006012015" target="_blank">科研项目</a></li>
+				<li id="xszz"><a href="profMonograph.action?zgh=2006012015" target="_blank">学术专著</a></li>
+				<li id="xshj"><a href="profAward.action?zgh=2006012015" target="_blank">学术获奖</a></li>
+				<li id="fmzl"><a href="profPatent.action?zgh=2006012015" target="_blank">发明专利</a></li>
+				<li id="zsjx"><a href="profEdu.action?zgh=2006012015" target="_blank">教学招生</a></li>
+				<li id="grzy"><a href="javascript:privateHomepage('')">个人主页</a></li>
+			</ul>  
+		</div>
+	</div>
+	<div class="right"> 
+       	<div class="guide">
+        	<img src="images/guide.gif" width="24" height="22" align="absmiddle"><a>当前位置</a>
+        	&gt; <a href="http://www.cugb.edu.cn" target="_blank">首页</a> &gt;师资队伍 &gt; <a href="profhomeList.action" target="_blank">教师主页 </a>
+       	</div>
+     	<div class="Curent_name">
+        	<div style="float:left;"><img src="images/open_column.png" width="31" height="27"></div>
+        	<div class="Current_title" style="float:left">个人简介 </div>
+        	<div style="float:right"><img src="images/open_column_r.png" width="7" height="27"></div>
+       	</div>	
+          	
+        <div class="proftable">
+            <!--<img src="/uploadCms/professor_img/2006012015.jpg" border=0 class="photo"/>
+      		-->
+      		<img class="photo" src="readPhoto.action?idnum=2006012015" width="200" height="246" border="0">
+      		<div class="linecont">余心起，博士，教授，博士生导师<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;个人简历<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;主要学习经历<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1979～1983&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长春地质学院&nbsp;&nbsp;区域地质调查及矿产普查专业&nbsp;&nbsp;&nbsp;&nbsp;学士<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001～2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南京大学&nbsp;&nbsp;构造地质学&nbsp;&nbsp;&nbsp;&nbsp;理学博士<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004～2006&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国地质大学（北京）&nbsp;&nbsp;博士后<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010（1～4月）&nbsp;&nbsp;美国加利福尼亚大学圣克鲁兹分校&nbsp;&nbsp;&nbsp;&nbsp;访问学者<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;主要工作经历<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1983～2001&nbsp;&nbsp;安徽省地质矿产局332地质队、安徽省地质调查院&nbsp;&nbsp;&nbsp;&nbsp;高级工程师<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006～&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国地质大学（北京）&nbsp;&nbsp;&nbsp;&nbsp;教授，博导<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;主要研究方向和部分成果<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：区域构造和构造年代学；构造地球化学；应用构造地质学；中生代红层盆地及其构造演化；区域成矿学与矿产资源评价<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部分成果：1.&nbsp;&nbsp;开展了中国东南部中生代沉积盆地及其构造演化方面的研究。认为，由于太平洋板块在晚中生代不同阶段俯冲作用的方位、俯冲速率、俯冲角度有所变化，导致中国东南部中新生代地层分布总体上具NE走向、SE－NW的分带现象，现今盆地的面貌也有五种不同类型及其相应的几何形态。中侏罗世之后太平洋板块占主导，形成北东向构造形迹叠加在早期和同期近东西向构造带之上，完成从东西向古特提斯构造域向北东-北北东向太平洋构造域的体制转换。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;认为江南造山带东段中生代逆冲推覆和伸展滑覆构造的先后时序为，中三叠世挤压、晚侏罗世末期挤压、早中白垩世伸展、中（－晚）白垩世走滑、晚白垩世末期挤压。每一个阶段都有与之相关的构造或岩浆事件发生。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;江南造山带东段岩浆活动可以分为180～160&nbsp;&nbsp;Ma（花岗闪长岩为主）、145～120&nbsp;&nbsp;Ma（花岗岩为主）和110～95&nbsp;&nbsp;Ma（基性火山岩）三期。含钼岩体属第一期，具有较高的氧逸度，可能与伊邪那岐板块北西向俯冲有关；不含矿的岩体属于第二期，氧逸度较低，可能与伸展环境下软流圈上涌有关；在白垩纪伸展环境下形成大量A型花岗岩，其中几个典型的A型花岗岩均为还原性A型花岗岩（氧逸度小于NNO），说明该地区白垩纪岩浆活动不利于形成斑岩型矿床。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;开展了中亚天山造山带1∶100万构造单元划分和制图工作，共划分了一、二、三、四级构造单元划分；认为晚泥盆世－早石炭世是古亚洲洋洋盆的主要洋壳消减和洋盆闭合时期，属于压缩构造环境，而不是裂谷、裂陷槽等拉张构造环境；而境内外成矿差别原因在于基底结构、沉积建造、构造特点及岩浆岩发育程度不同。在对比分析基础上，提出5个金矿找矿靶区、1个金锑找矿靶区、2个铅锌矿找矿靶区、3个铜（镍）矿找矿靶区、3个铁矿找矿靶区。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;&nbsp;通过对太华群花岗质片麻岩和侵入其中的小河岩体的变质变形、岩相学、岩石地球化学和锆石U-Pb测年研究，认为小秦岭地区太华群形成于古元古代，期间华北中部造山带完成东西两大块体拼合。<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;联系方式<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京市海淀区学院路29号<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国地质大学（北京）地球科学与资源学院构造教研室<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮政编码：100083<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：010-82321738<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮箱：yuxinqi@cugb.edu.cn<br>&nbsp;&nbsp;</div>
+       	</div>
+       	<div class="separate"></div>
+	</div>
+	<script type="text/javascript">
+	jQuery(function($){
+		$(".titles li").removeClass("selected");
+		$(".titles li#grjj").addClass("selected");
+	});	
+	</script>
+</div>
+<form id="profhomeList" name="profForm" action="profhomeList.action" method="post">
+<input name="zgh" value="2006012015" id="zgh" type="hidden">
+</form>
+
+
+
+
+<div class="bottom_nav">
+    <div class="middle">
+		<div class="center">
+			<ul>
+				<li><img src="images/qrcode_main.jpg" width="80px;" height="80px;"><p>官方微信</p></li>
+				<li><img src="images/qrcode_infoservice.jpg" width="80px;" height="80px;"><p>信息服务(<a href="http://www.cugb.edu.cn/shtml/netCenter/wechathelp.shtml" target="_blank"><font color="#fffffff">帮助</font></a>)</p></li>
+			</ul>
+		</div>
+		<div class="line-1">
+             <div class="left">版权所有©中国地质大学（北京）<span>校址：北京市海淀区学院路29号    邮编：100083</span></div>
+			 <div class="right" style="font-size: 14px;">
+				<a href="http://bm.cugb.edu.cn/zjgl/" target="_blank">中央科研财政管理政策</a><span>|</span>
+				<a href="http://bm.cugb.edu.cn/sjdzt/" target="_blank">学习贯彻党的十九大精神</a>
+				<!--
+				<a href="shtml/department/contact.shtml" target="_blank">联系我们</a><span>|</span>
+				<a href="http://weibo.com/dida1952" target="_blank">地大微博</a><span>|</span>
+				<a href="http://www.cugb.edu.cn/shtml/map/index.shtml" target="_blank">虚拟校园</a>
+				-->
+			 </div>
+		</div>
+		<div class="line-2">
+			<div class="left">京ICP备：08011785&nbsp;&nbsp;&nbsp;&nbsp;文保网安备案：1101080023 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bm.cugb.edu.cn/bkpg/" target="_blank" style="font-size: 12px;color: #fff;">本科教学评估</a></div>
+			<!-- <div class="right"><a style="color:#fff;" href="http://www.cugb.edu.cn/netCenter.action">信息网络中心</a>保留网站所有权利 未经允许不得复制镜像</div> -->
+			<div class="right">
+				<a href="http://www.cug.edu.cn/" target="_blank">地大武汉</a><span>|</span>
+				<a href="http://www.cugb.edu.cn/shtml/department/contact.shtml" target="_blank">联系我们</a><span>|</span>
+				<a href="http://weibo.com/dida1952" target="_blank">新浪微博</a><span>|</span>
+				<!-- 
+				<a href="http://www.cugb.edu.cn/shtml/xxgk/sitemap.shtml" target="_blank">网站地图</a><span>|</span>
+				 -->
+				<a href="http://www.cugb.edu.cn/shtml/map/index.shtml" target="_blank">虚拟校园</a>
+			 </div>
+		</div>
+	</div>
+</div>
+
+
+</body></html>

@@ -1,0 +1,65 @@
+教师个人信息 
+姓名 
+name_label 
+性别 
+男 
+职务 
+学术兼职 
+ACM   FCA 创始 会员   Machine   Vision   and   Appli cation s 客邀 编辑   ICIP   timelabel ,  GlobalSIP   timelabel ,  BIGMM   timelabel ,  PCM   timelabel ,  ICIMCS   timelabel 分会 / 专题研讨会 主席 
+老师类型 
+所属中心 
+物 联网 技术 中心 
+职称 
+讲师 
+承担课程 
+多媒体技术 、 物 联网 信息处理 
+研究方向 
+多媒体计算 、 机器学习 、 计算机视觉 
+个人介绍 
+timelabel 年博士毕业 于 中国科学院计算技术研究所 。 研究方向 为 多媒体 、 机器学习 与 计算机视觉 ， 在 IEEE   CVPR 、 ACM   MM 、 IJCAI 、 ECCV 、 IEEE   T - MM 、 IEEE   T - CYB 等 一流 国际会议 和 期刊上发表 文章 20 余篇 。 曾 获得 中国科学院优秀博士 学位论文奖 、 中国科学院 院长 特别奖 、 国际会议IEEE   ICME   timelabel   Best   Student   Paper 、 BIGCOM   timelabel   Run ner   Up   for   Best   Paper 、 timelabel   CCF 腾讯 - 犀牛 鸟 科研基金 等 。 曾 担任 SCI期刊 MVA 客邀 编辑 ， 国际会议 PCM   timelabel 、 ICIMCS   timelabel 、 CCIS   timelabel 、 BIGMM   timelabel 、 ICIP   timelabel 、 GlobalSIP   timelabel 的 分会 或 专题研讨会 主席 ,  以及 多个 IEEE / ACM   Transaction 期刊 和 CCF 推荐 A 、 B类国际 会议 的 审稿人 。 
+承担课题 
+1 .  国家自然科学基金 青年科学基金 项目 ， 6160 timelabel ， 有限 语义 标注 的 视频 场景 自动 理解 技术 研究 ， timelabel - timelabel ， 在 研 ， 主持 
+2 .  CCF - 腾讯 “ 犀牛 鸟 ” 科研基金项目 ， A patentlabel ， 移动 视频 检索 关键技术 研究 ， timelabel  - timelabel ,  在 研 ， 主持 
+3 .  国家 自然科学基金面上项目 ， 61572472 ， 基于 稀疏表示 和 深度学习 的 大规模 目标 检测 ， timelabel - timelabel ， 在 研 ， 科研 骨干 
+4 .  国家 高技术 研究发展计划 （ 863 计划 ） 项目 ， projectlabel ， 基于 深度学习 的 大数据 语义 分析 技术 ， timelabel - timelabel ,  结题 ， 科研 骨干 
+获奖 和 成果 
+1 .  中国科学院优秀博士 学位论文奖 ， timelabel 
+2 .  中国科学院 院长 特别奖 ， timelabel 
+3 .  CCF - 腾讯 犀牛 鸟 科研基金 奖 ， timelabel 
+4 .  国际会议IEEE   ICME   timelabel 最佳 学生 论文 ， timelabel 
+5 .  国际会议 BIGCOM   timelabel 最佳 论文 亚军奖 ， timelabel 
+6 .  中科院计算所 “ name_label ” 奖 ， timelabel 
+发表论文 
+[ 1 ]  Wu   Liu ,  Xin cheng   Liu ,  Hua dong   Ma ,  Peng   Cheng :  Beyond   Human - level   License   Plate   Super - resolution   with   Progressive   Vehicle   Search   and   Domain   Priori   GAN .  ACM   MM   timelabel 
+[ 2 ]  Wu   Liu ,  Hua dong   Ma ,  Heng   Qi ,  Dong   Zhao ,  Zhineng   Chen :  Deep   learning   hashing   for   mobile   visual   search .  EURASIP   J .  Image   and   Video   Processing   timelabel :  17  ( timelabel ) 
+[ 3 ]  Wu   Liu ,  Jian gyu   Liu ,  Xia oyan   Gu ,  Kun   Liu ,  Xia owei   Dai ,  Hua dong   Ma :  Deep   Learning   Based   Intelligent   Baske tba ll   Arena   with   Energy   Image .  MMM  ( 1 )  timelabel :  601 - 613 
+[ 4 ]  Wu   Liu ,  Tao   Mei ,  Yongdong   Zhang ,  Cherry   Che ,  Jiebo   Luo :  Multi - task   deep   visual - semantic   embedding   for   video   thu mbnail   selection .  CVPR   timelabel :  3707 - 3715 
+[ 5 ]  Wu   Liu ,  Tao   Mei ,  Yongdong   Zhang :  In sta nt   Mobile   Video   Search   With   Layered   Audio - Video   Inde xin g   and   Progressive   Trans mission .  IEEE   Trans .  Multimedia   16 ( 8 ):  2242 - 2255  ( timelabel ) 
+[ 6 ]  Wu   Liu ,  Yongdong   Zhang ,  Sheng   Tan g ,  Jin hui   Tan g ,  Richang   Hong ,  Jin tao   Li :  Ac cur ate   Estimation   of   Human   Body   Orientation   From   RGB - D   Sensors .  IEEE   Trans .  Cybernetics   43 ( 5 ):  1442 - 1452  ( timelabel ) 
+[ 7 ]  Wu   Liu ,  Fei bin   Yan g ,  Yongdong   Zhang ,  Qin ghua   Hua ng ,  Tao   Mei :  LAVES :  an   ins tan t   mobile   video   search   system   based   on   layered   audio - video   inde xin g .  ACM   Multimedia   timelabel :  409 - 410 
+[ 8 ]  Wu   Liu ,  Tao   Mei ,  Yongdong   Zhang ,  Jin tao   Li ,  Shipeng   Li :  List en ,  look ,  and   gotcha :  ins tan t   video   search   with   mobile   phones   by   layered   audio - video   inde xin g .  ACM   Multimedia   timelabel :  887 - 896 
+[ 9 ]  Wu   Liu ,  Tian   Xia ,  Ji   Wan ,  Yongdong   Zhang ,  Jin tao   Li :  RGB - D   Based   Multi - attribute   People   Search   in   Intelligent   Visual   Surveillance .  MMM   timelabel :  750 - 760 
+[ 10 ]  Wu   Liu ,  Yihong   Gao ,  Hua dong   Ma ,  Shu i   Yu ,  and   Jie   Nie , “ Cost   Optimal   Resource   Pro vision ing   for   Live   Video   Forwarding   acr oss   Video   Data   Centers ,”  Journal   of   Visual   Commu nic ation   and   Image   Representation ,  timelabel ,  DOI :  10.1016 / j . jvcir . timelabel . 010 
+[ 11 ]  Yihong   Gao ,  Hua dong   Ma ,  Wu   Liu :  Mi nim izing   Resource   Cost   for   Camera   Stream   Scheduling   in   Video   Data   Center .  J .  Comput .  Sci .  Technol .  32 ( 3 ):  555 - 570  ( timelabel ) 
+[ 12 ]  Peiye   Liu ,  Wu   Liu ,  Hua dong   Ma , “ Weighted   sequence   l oss   based   spatial - temporal   deep   learning   framework   for   human   body   orientation   estimation ,”  IEEE   ICME   timelabel 
+[ 13 ]  Lin gheng   Zhu ,  Wu   Liu ,  Lin gyang   Chu ,  Peiye   Liu ,  Xia oyan   Gu , “ Query   From   Sk etc h :  A   Common   Sub graph   Correspondence   Mining   Framework ,”  IEEE   BIGMM   Workshop   timelabel 
+[ 14 ]  Jin gkuan   Son g ,  Zhao   Guo ,  Wu   Liu ,  Dongxiang   Zhang ,  Hengtao   TShen ,  Lianli   Gao , “ Hierarchical   LSTM   with   Ad just ed   Temporal   Attention   for   Video   Captioning ,”  IJCAI   timelabel 
+[ 15 ]  Zheng   Zhang ,  Wu   Liu ,  Hua dong   Ma ,  Chuang   Gan ,  Xin chen   Liu , “ Going   Clear   from   Misty   Rain   in   Dark   Channel   guided   Network ”,  IJCAI   Workshop ,  timelabel 
+[ 16 ]  Xin chen   Liu ,  Wu   Liu ,  Tao   Mei ,  Hua dong   Ma :  A   Deep   Learning - Based   Approach   to   Progressive   Vehicle   Re - identifi cation   for   Urban   Surveillance .  ECCV  ( 2 )  timelabel :  869 - 884 
+[ 17 ]  Cheng   Zhang ,  Wu   Liu ,  Hua dong   Ma ,  Huiyuan   Fu :  Sia mese   neu ral   network   based   gait   recognition   for   human   identifi cation .  ICASSP   timelabel :  2832 - 2836 
+[ 18 ]  Xin chen   Liu ,  Wu   Liu ,  Hua dong   Ma ,  Huiyuan   Fu :  Large - scale   vehicle   re - identifi cation   in   urban   surveillance   videos .  ICME   timelabel :  1 - 6 
+[ 19 ]  Shu angqun   Li ,  Wu   Liu ,  Hua dong   Ma ,  Huiyuan   Fu :  Multi - attribute   Based   Fire   Detection   in   Diverse   Surveillance   Videos .  MMM  ( 1 )  timelabel :  238 - 250 
+[ 20 ]  Yihong   Gao ,  Hua dong   Ma ,  Wu   Liu ,  Shu i   Yu :  Cost   Optimal   Resource   Pro vision ing   for   Live   Video   Forwarding   Acr oss   Video   Data   Centers .  BigCom   timelabel :  27 - 38 
+[ 21 ]  Shu angqun   Li ,  Xin chen   Liu ,  Wu   Liu ,  Hua dong   Ma ,  Haitao   Zhang :  A   disc ri min ative   null   space   based   deep   learning   approach   for   per son   re - identifi cation .  CCIS   timelabel :  480 - 484 
+[ 22 ]  Rui   Zhang ,  Sheng   Tan g ,  Wu   Liu ,  Yongdong   Zhang ， Jin tao   Li ，” Multi - modal   Tag   Localization   for   Mobile   Video   Search ,”  Multimedia   Systems ,  timelabel ,  DOI : 10.1007  / s00530 - 016 - 0506 - 9 
+[ 23 ]  Rui   Zhang ,  Sheng   Tan g ,  Wu   Liu ,  Jin tao   Li :  Multimodal   tag   localization   based   on   deep   learning .  ICIMCS   timelabel :  50 : 1 - 50 : 4 
+[ 24 ]  Bin   Wang ,  Sheng   Tan g ,  Ruizhen   Zhao ,  Wu   Liu ,  Yigang   Cen :  Pedestrian   detection   based   on   Region   Proposal   Fusion .  MMSP   timelabel :  1 - 6 
+[ 25 ]  Yicheng   Son g ,  Yong - Dong   Zhang ,  Juan   Cao ,  Tian   Xia ,  Wu   Liu ,  Jin - Tao   Li :  Web   Video   Geolo cation   by   Geotagged   Social   Resources .  IEEE   Trans .  Multimedia   14 ( 2 ):  456 - 470  ( timelabel ) 
+联系电话 
+phonelabel 
+工作地点 
+教 3 - 633 
+email 
+maillabel 
+备注 
+个人主页 :  liu wu . weebly . com 

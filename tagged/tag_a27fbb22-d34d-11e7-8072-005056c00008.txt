@@ -1,0 +1,126 @@
+ENGLISH 
+学院概况 
+学院简介 
+院长致辞 
+现任领导 
+院刊 
+冶金简报 
+历史沿革 
+联系方式 
+院系 设置 
+钢铁冶金系 
+有 色金属冶金系 
+物理化学系 
+生态科学 与 工程系 
+生态 与 循环实验室 
+稀贵金属实验室 
+特种熔炼 与 制备实验室 
+杰出校友 
+师资队伍 
+院士风采 
+系所检索 
+姓氏检索 
+荣誉称号 与 奖励 
+科学研究 
+学术梯队 
+科研成果 
+科研项目 
+教育教学 
+人才培养 
+招生就业 
+学生工作 
+信息 公开 
+学工新闻 
+学生 党建 
+学生服务 
+研究生工作 
+团学工作 
+品牌活动 
+冶金学子 
+全球合作 
+实验中心 
+实验室简介 
+仪器设备 
+实验室 安全 
+党建 活动 
+工会活动 
+首页  >  师资队伍  >  系所成员 
+学院概况 
+>    学院简介 
+>    院长致辞 
+>    现任领导 
+>    院刊 
+>    冶金简报 
+>    历史沿革 
+>    联系方式 
+院系 设置 
+>    钢铁冶金系 
+>    有 色金属冶金系 
+>    物理化学系 
+>    生态科学 与 工程系 
+>    生态 与 循环冶金教育部重点 实验室 
+>    高端金属材料特种 熔炼 与 制备北京市重点实验室 
+>    稀贵金属绿色回收 与 提取北京市重点实验室 
+杰出校友 
+>    杰出校友 
+师资队伍 
+>    院士风采 
+>    荣誉称号 与 奖励 
+>    系所检索 
+>    姓名检索 
+科学研究 
+>    学术梯队 
+>    科研成果 
+>    科研项目 
+教育教学 
+>    人才培养 
+>    招生就业 
+学生工作 
+>    信息 公开 
+>    学工新闻 
+>    学生 党建 
+>    就业指导 
+>    学生服务 
+>    品牌活动 
+>    冶金学子 
+全球合作 
+>    全球合作新闻 
+实验中心 
+>    实验室 安全 
+>    仪器设备 
+>    实验中心简介 
+党建 工会 
+>    党建 活动 
+>    工会活动 
+人物简介 
+姓          名 ： name_label 
+职          务 ： 系主任 ， 教授 / 博士生导师 
+电子邮件 ：  maillabel 
+办公电话 ：  phonelabel 
+传          真 ：  phonelabel 
+本科课程 ：   主讲 必修课 booklabel 的 动力学 部分 及 选修课 booklabel ， 参加 选修课 booklabel 的 教学 。 
+研究生课程 ：  参加 必修课 booklabel 的 教学 。 
+科研方向 ：   含 过渡 族 金属 冶金熔体 的 热力学性质   钒 钛 资源 高效 利用 的 物理化学   新型 功能 材料 的 制备 物理化学 
+个人简介 
+成就 及 业绩 
+【 教育 与 工作简历 】 
+timelabel - timelabel ， place_label 理工大学 ， 本科 
+timelabel - timelabel ， 北京科技大学 ， 博士 
+timelabel - timelabel ， 北京科技大学 ， 讲师 
+timelabel - timelabel ， 北京科技大学 ， 副教授 
+timelabel - timelabel ， 瑞典 皇家 工学院 ， 访问学者 
+timelabel - 今 ， 北京科技大学 ， 教授 
+【 主要学术成就 】 
+已 主持 完成 两项 国家 自然科学基金面上项目 、 一项 青年科学基金 项目 、 教育部中央高校基本 科研业务费项目 ， 目前 正 承担 一项 国家 自然科学基金重点项目 。 在 国际期刊发表 SCI / EI收录论文 30 余篇 ， 获 二项 授权国家 发明专利 。 针对 合金钢 冶炼 所 需 的 热力学 数据 非常 匮乏 的 现状 ， 系统研究 了 Nb 、 V 、 Ti 、 Cr 组元 在 冶金 熔渣 和 钢液 中 热力学 行为 ， 获得 了 一批 相关 的 基础 热力学 数据 。 针对 钒 、 钛 及 稀土 资源 的 高效 利用 ， 系统研究 了 含有 钒 、 钛 及 稀土 冶金 熔渣 体系 的 相平衡 关系 、 结晶 行为 ， 以及 钒 、 钛 、 Ce 在 熔渣 中 的 热力学 行为 。 获得 了 温度 、 氧分压 、 组成 等 因素 对 相关 体系 物理化学 行为 的 影响规律 。 鉴于 钒 、 钛 氧化物 （ VnO2n - 1 、 Tin O2n - 1 ） 在 功能 材料 领域 的 广阔 应用 前景 ， 进行 了 相关 氧化物 的 热力学 及 制备 过程 动力学研究 ， 获得 了 气 ／ 固 反应 制备 相关 氧化物 的 热力学 和 动力学 参数 。 
+代表性论著 ： 
+1 .  Baijun   Yan ,  Fan   Li ,  Hui   Wang ,  et   al .  Study   of   Chromium   Oxide   Activities   in   EAF   Slags .  Metallurgical   and   Materials   Transactions   B ,  Vol . 47B ,  timelabel ,  pp . 37 - 46 . 
+2 .  Daya   Wang ,  Baijun   Yan   and   Du   Sichen .  Deter min ation   of   Activities   of   Niobium   in   Cu - Nb   Melts   Con taining   Dilute   Nb .  Metallurgical   and   Materials   Transactions   B , Vol . 46B ,  timelabel ,  pp . 533 - 536 . 
+3 .  Baijun   Yan ,  Dongdong   Guo ,  Ze ngw u   Zhao ,  et   al .  Thermod yna mics   of   Mn   in   Cu - Mn   Melts .  Metallurgical   and   Materials   Transactions   B ,  Vol . 45B ,  timelabel ,  pp . 1175 - 1180 . 
+获奖 ： 
+1 .  name_label , name_label , name_label . 一种 高温 试验 用 的 双 坩埚 实验装置 . place_label . 发明专利 .  批准号 ： ZL   timelabel 10079670.3 ,  timelabel . 4 
+2 .  name_label , name_label . 一种 高温 金属 熔体 中 溶质 组元 活度 系数 的 测定方法 . place_label . 发明专利 .  申请号 ： timelabel 10229968.2 . 
+主要科研项目 / 业绩 ： 
+1 .  国家 自然科学基金重点项目 ， 低 品位 含钒 资源 高效 利用 的 物理化学 研究 （ 51534001 ）， 资助额度 ： 365 万 ， 起止年月 ： timelabel - timelabel ； 
+Copyright  ©  timelabel     北京科技大学冶金 与 生态工程学院         网站旧版 
+学院地址 ： 北京市海淀区学院路 30 号 冶金楼 
+联系电话 ： phonelabel      传真 ： phonelabel      邮编 ： 100083      E - mail : maillabel 

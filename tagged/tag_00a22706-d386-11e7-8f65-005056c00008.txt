@@ -1,0 +1,41 @@
+欢迎登录 
+主页 
+登录 
+CAS   登录 
+西安交通大学 教师个人主页   任   name_label 
+Welcome 
+论文发表 / Publi cation s 
+基本信息 
+name_label ,  男 ,  timelabel 年生 
+工学博士 ,  讲师 
+西安交通大学 ,  能源 与 动力工程学院 
+热流科学 与 工程系 
+Qin long   Ren ,  Ph . D . 
+Assistant   Profe sso r 
+Department   of   Thermo - Fluid   Science   and   Engineering 
+Xi ' an   Jiao tong   University 
+联系方式 
+Email : maillabel 
+Tel :( 029 ) 82663851 
+办公地点 ： 北 二楼 8815 
+通讯地址 ： place_label place_label 西路 28 号 ,  西安交通大学 ,  能源 与 动力工程学院 
+邮编 ： 710049 
+站点计数器 
+学习工作 和 经历 
+timelabel - 至今 ： 西安交通大学   能源 与 动力工程学院   热流科学 与 工程系 ,  讲师 
+timelabel - 至今 ： 西安交通大学   能源 与 动力工程学院   热流科学 与 工程系 ,  博士后 
+timelabel - timelabel ： 美国亚利桑那大学   航空 与 机械工程系 ,  博士 
+timelabel - timelabel ： 美国亚利桑那大学   航空 与 机械工程系 ,  硕士 
+timelabel - timelabel ： 西安交通大学   机械工程学院 ,  学士 
+研究 领域 
+多尺度 传热传质 / Mult isc ale   Heat   and   Mass   Transfer 
+微流控 设计 与 模拟 / Microfluidics   Design   and   Numerical   Modeling 
+清洁 能源 及其 储能 技术 / Clean   Energy   and   Energy   Storage 
+流固耦合 模拟 / Fluid - Solid   Interaction   Modeling 
+格子 玻尔兹曼 法 ,  沉浸 边界 法 ,  边界 元法 ,  显卡 计算 / Lattice   Boltzmann   Method ,  Immersed   Bo und ary   Method ,  Bo und ary   Element   Method ,  GPU   Computing 
+版权所有 ： 西安交通大学   站点设计 ： 网络信息中心   陕 ICP 备 05001571 号 
+IPhone版本下载 
+Android版本下载 
+欢迎您访问 我们 的 网站 ， 您 是 第 
+位 访客 
+推荐分辨率 1024 * 768 以上     推荐浏览器IE 7   Fi fef ox   以上 

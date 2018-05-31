@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=236" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="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" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;傅慧源</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/傅慧源.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;IEEE/ACM/CCF会员</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;物联网技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        多媒体技术</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;视频大数据、机器学习与模式识别、多媒体系统</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;傅慧源，男，博士，北京邮电大学计算机学院副教授。2014年在北京邮电大学获博士学位。主要研究方向为视频大数据、机器学习与模式识别、多媒体系统等。主持和参与多项国家自然科学基金、国家973项目、国家863项目和企业研发项目。近年来在视觉计算与多媒体系统等领域取得一系列创新性成果，在国际权威会议ACM&nbsp;Multimedia、IEEE&nbsp;ICME、IEEE&nbsp;ICASSP、IEEE&nbsp;ICIP、IEEE&nbsp;ICPR、ACM/IEEE&nbsp;ICDSC等，以及国际国内重要刊物Neurocomputing、Multimedia&nbsp;Tools&nbsp;and&nbsp;Applications、Pervasive&nbsp;and&nbsp;Mobile&nbsp;Computing、Mobile&nbsp;Information&nbsp;Systems、计算机学报等发表SCI或EI检索论文20余篇。曾担任多个国际学术会议和刊物的论文评阅人。已获4项软件著作权，并已申请20余项国家发明专利及2项国际发明专利。<br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;自2008年以来，作为项目负责人或主研人成功完成了多项国家级、省部级项目，以及多项企业合作项目。如国家973计划项目“物联网体系结构基础研究”、国家863计划项目“机动车辆行为过程快速获取与建模技术”、国家自然科学基金杰出青年项目“网络环境中多媒体计算”、国家物联网专项项目“基于物联网技术的智慧监狱系统”等。与华为技术有限公司、中兴通讯股份有限公司、浙江大华技术股份有限公司、亿阳信通股份有限公司、中国电信上海研究院、中国电子集团第六研究所等单位广泛开展产学研合作。目前主持的在研项目包括：国家自然科学基金重点项目（合作）“面向智慧城市的大规模信息处理与智能计算理论与技术”、国家自然科学基金项目“基于视频大数据分析的全天候监测场景理解技术研究”、北邮青年科研创新计划专项“敏感监控区域暴力事件实时高精度检测技术研究”等。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学优秀本科毕业设计论文指导教师奖（2016年）；<br>北京邮电大学计算机学院科研贡献奖（2016年）；<br>第17届IEEE国际多媒体年会（IEEE&nbsp;ICME）最佳学生论文奖（2016年）；<br>第8届ACM/IEEE国际分布式智能摄像会议（ACM/IEEE&nbsp;ICDSC）最佳论文奖亚军（2014年）。<br></td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">近5年发表部分代表性论文：<br>[1]&nbsp;Huiyuan&nbsp;Fu,&nbsp;Huadong&nbsp;Ma,&nbsp;Yinxin&nbsp;Liu,&nbsp;and&nbsp;Dawei&nbsp;Lu,“A&nbsp;Vehicle&nbsp;Classification&nbsp;System&nbsp;Based&nbsp;on&nbsp;Hierarchical&nbsp;Multi-SVMs&nbsp;in&nbsp;Crowded&nbsp;Traffic&nbsp;Scenes,”&nbsp;Neurocomputing,&nbsp;vol.&nbsp;211,&nbsp;pp:&nbsp;182-190,&nbsp;2016.&nbsp;<br>[2]&nbsp;Huiyuan&nbsp;Fu,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Hongtian&nbsp;Xiao,“Scene-adaptive&nbsp;Accurate&nbsp;and&nbsp;Fast&nbsp;Vertical&nbsp;Crowd&nbsp;Counting&nbsp;via&nbsp;Joint&nbsp;Using&nbsp;Depth&nbsp;and&nbsp;Color&nbsp;Information,”&nbsp;Multimedia&nbsp;Tools&nbsp;and&nbsp;Applications&nbsp;(MTAP),&nbsp;vol.&nbsp;73,&nbsp;no.&nbsp;1,&nbsp;pp:&nbsp;273-289,&nbsp;2014.&nbsp;<br>[3]&nbsp;Huiyuan&nbsp;Fu,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Liang&nbsp;Liu,&nbsp;“Specific-scene&nbsp;Oriented&nbsp;Pedestrian&nbsp;Detection&nbsp;in&nbsp;Visual&nbsp;Sensor&nbsp;Network,”&nbsp;China&nbsp;Communications,&nbsp;vol.&nbsp;9,&nbsp;no.&nbsp;6,&nbsp;pp:&nbsp;91-99,&nbsp;2012.<br>[4]&nbsp;Huiyuan&nbsp;Fu,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Hongtian&nbsp;Xiao,&nbsp;“Crowd&nbsp;Counting&nbsp;via&nbsp;Head&nbsp;Detection&nbsp;and&nbsp;Motion&nbsp;Flow&nbsp;Estimation”,&nbsp;ACM&nbsp;Multimedia&nbsp;(ACM&nbsp;MM),&nbsp;pp.&nbsp;877-880,&nbsp;Nov.&nbsp;2014.<br>[5]&nbsp;Huiyuan&nbsp;Fu&nbsp;and&nbsp;Huadong&nbsp;Ma,&nbsp;“Real-time&nbsp;Crowd&nbsp;Detection&nbsp;Based&nbsp;on&nbsp;Gradient&nbsp;Magnitude&nbsp;Entropy&nbsp;Model”,&nbsp;ACM&nbsp;Multimedia&nbsp;(ACM&nbsp;MM),&nbsp;pp.&nbsp;885-888,&nbsp;Nov.&nbsp;2014.&nbsp;<br>[6]&nbsp;Huiyuan&nbsp;Fu&nbsp;and&nbsp;Huadong&nbsp;Ma,&nbsp;“From&nbsp;Video&nbsp;to&nbsp;Text:&nbsp;Semantic&nbsp;Driving&nbsp;Scene&nbsp;Understanding&nbsp;Using&nbsp;a&nbsp;Coarse-to-fine&nbsp;Method,”&nbsp;IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Acoustics&nbsp;Speech&nbsp;and&nbsp;Signal&nbsp;Processing&nbsp;(ICASSP),&nbsp;pp.&nbsp;1393-1396,&nbsp;Mar.&nbsp;2012.<br>[7]&nbsp;Huiyuan&nbsp;Fu,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Hongtian&nbsp;Xiao,&nbsp;“Real-time&nbsp;Accurate&nbsp;Crowd&nbsp;Counting&nbsp;Based&nbsp;on&nbsp;RGB-D&nbsp;Information,”&nbsp;IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Image&nbsp;Processing&nbsp;(ICIP),&nbsp;pp.&nbsp;2685-2688,&nbsp;Oct.&nbsp;2012.<br>[8]&nbsp;Huiyuan&nbsp;Fu,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Shixin&nbsp;Wu,&nbsp;“Night&nbsp;Removal&nbsp;by&nbsp;Color&nbsp;Estimation&nbsp;and&nbsp;Sparse&nbsp;Representation,”&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Pattern&nbsp;Recognition&nbsp;(ICPR),&nbsp;pp.&nbsp;3656-3659,&nbsp;Nov.&nbsp;2012.<br>[9]&nbsp;Huiyuan&nbsp;Fu,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Anlong&nbsp;Ming,&nbsp;“EGMM:&nbsp;An&nbsp;Enhanced&nbsp;Gaussian&nbsp;Mixture&nbsp;Model&nbsp;for&nbsp;Detecting&nbsp;Moving&nbsp;Objects&nbsp;with&nbsp;Intermittent&nbsp;Stops,”&nbsp;IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Multimedia&nbsp;and&nbsp;Expo&nbsp;(ICME),&nbsp;pp.&nbsp;1-6,&nbsp;Jul.&nbsp;2011.&nbsp;<br>[10]&nbsp;Zheng&nbsp;Zhang,&nbsp;Huadong&nbsp;Ma,&nbsp;Huiyuan&nbsp;Fu,&nbsp;and&nbsp;Cheng&nbsp;Zhang,&nbsp;“Scene-free&nbsp;Multi-class&nbsp;Weather&nbsp;Classification&nbsp;on&nbsp;Single&nbsp;Images,”&nbsp;Neurocomputing,&nbsp;vol.&nbsp;207,&nbsp;pp:&nbsp;365-373,&nbsp;2016.&nbsp;<br>[11]&nbsp;Peiyan&nbsp;Yuan,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Huiyuan&nbsp;Fu,&nbsp;“Hotspot-Entropy&nbsp;Based&nbsp;Data&nbsp;Forwarding&nbsp;in&nbsp;Opportunistic&nbsp;Social&nbsp;Networks”,&nbsp;Pervasive&nbsp;and&nbsp;Mobile&nbsp;Computing&nbsp;(PMC),&nbsp;vol.&nbsp;16,&nbsp;pp.&nbsp;136-154,&nbsp;2015.<br>[12]&nbsp;Zheng&nbsp;Zhang,&nbsp;Huadong&nbsp;Ma,&nbsp;Huiyuan&nbsp;Fu,&nbsp;Liang&nbsp;Liu,&nbsp;and&nbsp;Cheng&nbsp;Zhang,&nbsp;“Outdoor&nbsp;Air&nbsp;Quality&nbsp;Level&nbsp;Inference&nbsp;via&nbsp;Surveillance&nbsp;Cameras,”&nbsp;Mobile&nbsp;Information&nbsp;Systems,&nbsp;pp:&nbsp;1-10,&nbsp;2015.&nbsp;<br>[13]&nbsp;Xinchen&nbsp;Liu,&nbsp;Wu&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Huiyuan&nbsp;Fu,&nbsp;“Large-scale&nbsp;vehicle&nbsp;re-identification&nbsp;in&nbsp;urban&nbsp;surveillance&nbsp;videos,”&nbsp;IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Multimedia&nbsp;and&nbsp;Expo&nbsp;(ICME),&nbsp;pp.&nbsp;1-6,&nbsp;Jul.&nbsp;2016.&nbsp;<br>[14]&nbsp;Dawei&nbsp;Lu,&nbsp;Huadong&nbsp;Ma,&nbsp;Zeyu&nbsp;Wang,&nbsp;Liang&nbsp;Liu,&nbsp;and&nbsp;Huiyuan&nbsp;Fu,&nbsp;“Automatically&nbsp;Stereoscopic&nbsp;Camera&nbsp;Control&nbsp;for&nbsp;3D&nbsp;Animation&nbsp;Production,”&nbsp;ACM&nbsp;Multimedia&nbsp;(ACM&nbsp;MM),&nbsp;pp.&nbsp;939-942,&nbsp;Nov.&nbsp;2015.<br>[15]&nbsp;Zheng&nbsp;Zhang,&nbsp;Huadong&nbsp;Ma,&nbsp;Huiyuan&nbsp;Fu,&nbsp;and&nbsp;Hao&nbsp;Huang,&nbsp;“Distributed&nbsp;Human&nbsp;Action&nbsp;Recognition&nbsp;via&nbsp;2D&nbsp;Conditional&nbsp;Random&nbsp;Field,”&nbsp;IEEE/ACM&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Distributed&nbsp;Smart&nbsp;cameras&nbsp;(IEEE/ACM&nbsp;ICDSC),&nbsp;pp.&nbsp;1-6,&nbsp;Nov.&nbsp;2014.<br></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;010-62282767</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学教三楼632</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;fhy@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

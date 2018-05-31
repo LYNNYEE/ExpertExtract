@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=71" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="MnrG4gkmo6IWf7P8B1X1RzkaKx5YUe2Ddit1yyTvibicHuSg1SAce/GTm/GfKFnGBJPSVTn1wXXF9pSeNKeFzrNoyH6Nv7NI+5KDyhF4XRkdV6bjvgfiLUUKU0Rv+rSS5nbWsOHF0Jln7m+/IVi31KpkZkUSz8Jcks7iIYpQh7yEldZSs9pWQ/0QAA1kGiu3YAAJb3LOTFbN54C4nBnO+l4BNnhzsz8B288Yb3XYJxmPFummJh9hyV87hAdvM6Crfcoza8k7YTgFFnCHIsqlZsURNsMsgq1xutIE9nOPRgKYg6U78JJMgO7mookY1RNw1AZ8OPHhxZbC3NOtAjpxMi3gmu1nAh+YkzGUQ1CuHocraVNIJwi/cVe8fOBLPtZbX5HTjLGajGJzKbaLiBmqH5If5Mh5NmJLVYxGPXXDXZ8znAGK" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;马跃</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/马跃.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;教师</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;全国高自考委专业委员会委员</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;网络技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=32" target="_blank">计算机网络</a>   <a href="showcourse.aspx?id=95" target="_blank">计算机网络实验</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;计算机网络、虚拟路由器技术</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;长期从事计算机网络的教学和科研工作。发表学术论文50余篇。主持和参加“八五”国家攻关项目“军用数据网数据后处理设备”、“军用数据网传真PAD”，“九五”国家攻关项目“军用数据网传真服务分系统”、863计划项目“广义上下文感知的自治化网络体系结构模型的研究”、“&nbsp;国家自然科学基金面上项目"基于遗传算法的智能化的动态服务选择研究”等。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;网络设备虚拟化关键技术研究</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;1991年1月邮电部科技成果3等奖</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">国内外核心期刊和学术会议上发表论文50余篇，其中SCI收录1篇，EI收录1篇。</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;13701000307</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学教3-623</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;mayue@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

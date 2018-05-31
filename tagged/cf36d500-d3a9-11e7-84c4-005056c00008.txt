@@ -1,0 +1,116 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="西电，西安电子科技大学，导师信息，教师，个人主页"> 
+<meta name="description" content="西安电子科技大学教师个人主页系统采用PHP和MySQL开源技术开发，目的是为西电教师提供一个展示个人学术研究与教学工作的平台，扩大学校在互联网上的影响力。本系统是由西电电子工程学院网络信息中心开发维护，得到信息化建设处大力支持。"> 
+<meta name="keywords" content="西电，西安电子科技大学，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>戴显英 | 个人信息 | 西安电子科技大学个人主页</title>
+<link href="/css/style_2.css" rel="stylesheet" type="text/css">
+					<link href="/css/basic.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+				<div class="topaction">	
+			<span><a href="http://meeting.xidian.edu.cn" title="学术信息网" target="_blank">学术信息网</a></span>	
+			<span><a href="http://www.xidian.cc" title="西电导航" target="_blank">西电导航</a></span>
+			<span><a href="/about.php" target="_blank">关于</a></span>
+			<span><a href="/help.php" target="_blank">使用说明</a></span>
+			<span><a href="/prisearch.php" target="_blank">搜索</a></span>
+			<span><a href="/index.php" target="_blank">系统首页</a></span>
+			<span><a href="/login.php" target="_blank">登录</a></span>		
+			<span><a href="/user/pageInfo.php" target="_blank">控制面板</a></span>		
+			<span><a href="javascript:addBookmark('http://web.xidian.edu.cn/xydai/index.html', '戴显英 | 个人信息 | 西安电子科技大学个人主页');">收藏</a></span>
+			<span><a href="/guestbook/index.php?u=xydai" style="color:#6BB228;" target="_blank">戴显英的留言板</a></span>
+			<div style="clear:both"></div>
+	</div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+    <div id="logo"><a href="/index.php" target="_blank"><img src="/img/style_2/logo.jpg" title="返回首页"></a></div>
+<!--导航-->
+    <div id="lead_1">
+        <ul id="leader">
+            <li><a href="index.html" target="_blank">戴显英的主页:</a></li><li><a href="index.html" target="_blank">个人信息</a></li><li><a href="research.html" target="_blank">科学研究</a></li><li><a href="paper.html" target="_blank">论文成果</a></li><li><a href="award.html" target="_blank">荣誉奖励</a></li><li><a href="team.html" target="_blank">科研团队</a></li><li><a href="teach.html" target="_blank">课程教学</a></li><li><a href="zhaosheng.html" target="_blank">招生信息</a></li>
+        </ul>
+    </div>
+</div>
+
+<!--中间-->
+<div id="middle">
+			<div id="dom0" style="margin:1px 0 0 0; float:left; width:250px; display:inline;"><div style="WIDTH: auto; HEIGHT: auto; TOP: 118px; LEFT: 131px" class="mo">
+<div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(0);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(0);"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t0">基本信息</span></div><!--ckstartn0--><div class="nr" id="n0"><p>
+	&nbsp;<img src="file:///C:DOCUME~1ADMINI~1LOCALS~1Tempmsohtmlclip11clip_image001.jpg"></p>
+<hr>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	<img alt="" src="/xydai/images/20150527_090749.JPG" style="width: 160px; height: 120px"></p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	&nbsp;</p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	戴显英　教授</p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	博导/硕导</p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	博士学科：微电子学与固体电子学</p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	硕士学科：微电子学与固体电子学/凝聚态物理　</p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	工作单位：微电子学院</p>
+</div><!--ckendn0--></div>
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 597px; LEFT: 99px" class="mo">
+<div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(3);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(3);"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t3">联系方式</span></div><!--ckstartn3--><div class="nr" id="n3"><p>
+	通信地址：陕西省西安市太白南路2号西安电子科技大学微电子学院397信箱</p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	电子邮箱：xydai@xidian.edu.cn</p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	办公电话：88204265</p>
+<p style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+	办公地点：北校区东大楼517A</p>
+</div><!--ckendn3--></div></div>
+			<div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;"><div style="WIDTH: auto; HEIGHT: auto; TOP: 149px; LEFT: 398px" class="mo">
+<div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(2);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(2);"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t2">个人简介</span></div><!--ckstartn2--><div class="nr" id="n2"><p>
+	1961年出生于陕西省西安市，籍贯四川省成都市。</p>
+<p>
+	1982年毕业于成都电讯工程学院（现电子科技大学）化学师资班、获理学学士学位，2012年在西安电子科技大学获微电子学与固体电子学工学博士学位。现任西安电子科技大学微电子学院教授、博士生与硕士生导师、院学位委员会委员，IEEE会员，中国电子学会高级会员，陕西省真空学会常务理事。</p>
+<p>
+	研究方向为硅基应变理论与技术、SiGe/Si材料与器件、半导体材料生长动力学与缺陷行为、化合物半导体材料等。</p>
+<p>
+	&nbsp;</p>
+</div><!--ckendn2--></div>
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 144px; LEFT: 655px" class="mo">
+<div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(1);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(1);"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t1">主要研究方向</span></div><!--ckstartn1-->
+<div id="n1" class="nr">
+<p>1）硅基应变理论与技术；2）新型半导体器件与集成电路技术；3）半导体材料生长动力学与缺陷行为；4）化合物半导体材料。</p></div><!--ckendn1--></div></div>
+			</div>
+
+<!--底部-->
+<div id="bottom">
+<span style="color:red;">版权声明:</span>未经西安电子科技大学以及个人主页教师本人许可不得复制,转载传播本主页内容或用于任何商业用途,如需转载请征得主页所有者同意,并附上主页链接.<br>
+<a href="/index.php" style="color:#6BB228;" target="_blank">西安电子科技大学个人主页</a>　<a href="/sitemap.xml" target="_blank">站点地图</a> | <!--teacher--> | <a href="/guestbook/index.php?u=xydai" style="color:#6BB228;" target="_blank">戴显英的留言板</a> | 更新日期 :2016-09-30 | <script src="http://s19.cnzz.com/stat.php?id=3154940&amp;web_id=3154940&amp;show=pic" language="JavaScript"></script><script src="http://c.cnzz.com/core.php?web_id=3154940&amp;show=pic&amp;t=z" charset="utf-8" type="text/javascript"></script><a href="http://www.cnzz.com/stat/website.php?web_id=3154940" target="_blank" title="站长统计"><img src="http://icon.cnzz.com/img/pic.gif" vspace="0" hspace="0" border="0"></a>
+ | <iframe src="/include/count.php?id=3301&amp;lg=0" scrolling="no" allowtransparency="true" style="vertical-align:middle" height="22px" frameborder="0"></iframe>
+<br>
+Copyright © 2011-2016 西安电子科技大学 版权所有 陕ICP备021284(05016169)　Powered by <a href="http://www.xidian.edu.cn/xxhjsc/index.htm" target="_blank">信息化建设处</a> &amp; <a href="http://see.xidian.edu.cn/nic" target="_blank">电院网络中心</a>
+</div>
+</div>
+<script>
+    function addBookmark(url, label) {  
+        if (document.all)  
+        {  
+            window.external.addFavorite(url, label);  
+        }  
+        else if (window.sidebar)  
+        {  
+            window.sidebar.addPanel(label, url, '');  
+        }  
+    }  
+</script>
+
+</body></html>

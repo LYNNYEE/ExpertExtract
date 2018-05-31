@@ -1,0 +1,582 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<title>程琳</title>
+<meta name="description" content="程琳，博士，教授，博导，男。1963年7月生，江苏人。  1987年 获同济大学学士学位；  1992年 武汉大学硕士学位；同年赴东南大学工作；  1995-1997年 中国国家教育部国际合作司 项目官员；  2002年 获日本京都大学博士学位；  2004年 日本东京大学生产技术研究所研究员。  &nbsp;&nbsp;&nbsp; 研究方向：交通规划、交通管理、优化理论与方法、交通经济  &amp;n">
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/89/89.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/17/23/style/105/105.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="23"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/01/fd/509/template509/style.css" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" href="/_upload/tpl/01/fd/509/template509/zoombox/zoombox.css">
+<script type="text/javascript" src="/_upload/tpl/01/fd/509/template509/extends/extends.js">
+</script><link rel="stylesheet" type="text/css" href="/_upload/tpl/01/fd/509/template509/extends/extends.css"><script type="text/javascript" src="/_upload/tpl/01/fd/509/template509/extends/libs/jquery.sudy.js"></script>
+</head>
+
+
+<body>
+<link custom="self" rel="stylesheet" type="text/css" href="/_upload/tpl/01/fd/509/template509/zoombox/zoombox.css">
+
+
+<div class="wrapper" id="header">
+    <div class="inner">
+        <div class="weixin">
+            <a href="/_upload/tpl/01/fd/509/template509/images/qrcode.jpg" id="weixin" target="_blank"><img src="/_upload/tpl/01/fd/509/template509/images/weixin.png"></a>
+            <div class="weixin-qrcode">
+                <img src="/_upload/tpl/01/fd/509/template509/images/qrcode.jpg">
+            </div>
+        </div>
+        <div class="logo" frag="面板1">
+            <div class="wp-window logo-window window-1" frag="窗口1" portletmode="simpleSiteAttri">
+                
+                    <a class="site-url" href="/main.htm" target="_blank"><img class="site-logo" src="/_upload/tpl/01/fd/509/template509/images/logo.jpg"></a>
+                
+            </div>
+        </div>
+        <div class="head">
+            <div class="wp-panel topnav-panel panel-2" frag="面板2">
+                <div class="wp-window topnav-window window-2 clearfix" frag="窗口2">
+                    <div id="wp_nav_w2"> 
+
+                        
+                        <ul class="wp-menu clearfix">
+                            
+                            <li class="menu-item i1">
+                                <a class="menu-link" href="http://tc.seu.edu.cn/main.htm" target="_blank">首页</a>
+                            </li>
+                            <li class="menu-item i2">
+                                <a class="menu-link" href="/jt_en" target="_blank">English</a>
+                            </li>
+                        </ul>
+                     
+ </div>
+                </div>
+            </div><!--搜索开始-->
+            <div class="wp-panel search-panel panel-3 clearfix" frag="面板3">
+                <div class="wp-window search-window window-3" frag="窗口3" portletmode="search">
+                    <form method="POST" action="/_web/search/doSearch.do?_p=YXM9MjMmdD01MDkmZD0xNjAyJnA9MyZmPTgyOSZhPTAmbT1TTiZ8Ym5uQ29sdW1uVmlydHVhbE5hbWU9ODI5Jg__" target="_blank" onsubmit="if ($('#keyword').val() === '请输入关键字') { $('#keyword').val(''); }">
+    <div class="wp_search">
+        <table>
+            <tbody><tr>
+                <td height="25px">
+                    <input id="keyword" name="keyword" style="width: 150px" class="keyword" value="请输入关键字" onfocus="if (this.value === '请输入关键字') { this.value = ''; }" onblur="if (this.value === '') { this.value = '请输入关键字'; }" type="text">
+                </td>
+                <td>
+                    <input name="btnsearch" class="search" value="" type="submit">
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+</form>
+                </div>
+            </div><!--//搜索结束-->
+        </div>
+    </div>
+</div>
+<div class="wrapper" id="nav">
+    <div class="inner main-nav-panel" frag="面板4">
+        <div class="navbox" frag="窗口4">
+            <div id="wp_nav_w4"> 
+
+                
+                <ul class="wp-menu clearfix">
+                    
+                    <li class="menu-item i1">
+                        <a class="menu-link" href="/831/list.htm" target="_blank">信息公告</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i1-1">
+                                <a class="sub-link" href="http://tc.seu.edu.cn/888/list.htm" target="_blank">党务公告</a>  
+                            </li>
+                            <li class="sub-item i1-2">
+                                <a class="sub-link" href="http://tc.seu.edu.cn/846/list.htm" target="_blank">院务公告</a>  
+                            </li>
+                            <li class="sub-item i1-3">
+                                <a class="sub-link" href="http://tc.seu.edu.cn/861/list.htm" target="_blank">人事通知</a>  
+                            </li>
+                            <li class="sub-item i1-4">
+                                <a class="sub-link" href="http://tc.seu.edu.cn/864/list.htm" target="_blank">科研通知</a>  
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i2">
+                        <a class="menu-link" href="/840/list.htm" target="_blank">学院动态</a>  
+                    </li>
+                    <li class="menu-item i3">
+                        <a class="menu-link" href="/841/list.htm" target="_blank">学院概况</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i3-1">
+                                <a class="sub-link" href="/842/list.htm" target="_blank">学院简介</a>  
+                            </li>
+                            <li class="sub-item i3-2">
+                                <a class="sub-link" href="/843/list.htm" target="_blank">历史发展</a>  
+                            </li>
+                            <li class="sub-item i3-3">
+                                <a class="sub-link" href="/844/list.htm" target="_blank">历任领导</a>  
+                            </li>
+                            <li class="sub-item i3-4">
+                                <a class="sub-link" href="/845/list.htm" target="_blank">现任领导</a>  
+                            </li>
+                            <li class="sub-item i3-5">
+                                <a class="sub-link" href="/846/list.htm" target="_blank">院务公告</a>  
+                            </li>
+                            <li class="sub-item i3-6">
+                                <a class="sub-link" href="/847/list.htm" target="_blank">机构设置</a>  
+                            </li>
+                            <li class="sub-item i3-7">
+                                <a class="sub-link" href="/848/list.htm" target="_blank">办公电话</a>  
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i4">
+                        <a class="menu-link" href="/849/list.htm" target="_blank">学科建设</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i4-1">
+                                <a class="sub-link" href="/850/list.htm" target="_blank">学科设置</a>  
+                            </li>
+                            <li class="sub-item i4-2">
+                                <a class="sub-link" href="/851/list.htm" target="_blank">学科介绍</a>  
+                            </li>
+                            <li class="sub-item i4-3">
+                                <a class="sub-link" href="/852/list.htm" target="_blank">211、985平台</a>  
+                            </li>
+                            <li class="sub-item i4-4">
+                                <a class="sub-link" href="/853/list.htm" target="_blank">学术交流</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i4-4-1">
+                                <a class="sub-link" href="/jtxyjlhdgkw2010w2014w/list.htm" target="_blank">交通学院交流活动概况...</a>  
+                            </li>
+                        </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i5">
+                        <a class="menu-link" href="/854/list.htm" target="_blank">师资队伍</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i5-1">
+                                <a class="sub-link" href="/855/list.htm" target="_blank">院士</a>  
+                            </li>
+                            <li class="sub-item i5-2">
+                                <a class="sub-link" href="/856/list.htm" target="_blank">千人计划</a>  
+                            </li>
+                            <li class="sub-item i5-3">
+                                <a class="sub-link" href="/857/list.htm" target="_blank">长江学者</a>  
+                            </li>
+                            <li class="sub-item i5-4">
+                                <a class="sub-link" href="/858/list.htm" target="_blank">教学名师</a>  
+                            </li>
+                            <li class="sub-item i5-5">
+                                <a class="sub-link" href="/859/list.htm" target="_blank">硕博导师</a>  
+                            </li>
+                            <li class="sub-item i5-6">
+                                <a class="sub-link" href="/861/list.htm" target="_blank">人事通知</a>  
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i6">
+                        <a class="menu-link" href="/862/list.htm" target="_blank">科学研究</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i6-1">
+                                <a class="sub-link" href="/863/list.htm" target="_blank">科研概况</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i6-1-1">
+                                <a class="sub-link" href="/lnkygk/list.htm" target="_blank">历年科研概况</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i6-2">
+                                <a class="sub-link" href="/864/list.htm" target="_blank">科研通知</a>  
+                            </li>
+                            <li class="sub-item i6-3">
+                                <a class="sub-link" href="/865/list.htm" target="_blank">科研项目</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i6-3-1">
+                                <a class="sub-link" href="/lnzyxmylb/list.htm" target="_blank">历年在研项目一览表</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i6-4">
+                                <a class="sub-link" href="/866/list.htm" target="_blank">科研成果</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i6-4-1">
+                                <a class="sub-link" href="/zyyjcgw1992w2010w/list.htm" target="_blank">重要研究成果</a>  
+                            </li>
+                            <li class="sub-item i6-4-2">
+                                <a class="sub-link" href="/lnkycgylb/list.htm" target="_blank">历年科研成果一览表</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i6-5">
+                                <a class="sub-link" href="/867/list.htm" target="_blank">学术著作</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i6-5-1">
+                                <a class="sub-link" href="/lnfbzylw/list.htm" target="_blank">历年发表主要论文</a>  
+                            </li>
+                            <li class="sub-item i6-5-2">
+                                <a class="sub-link" href="/lnzbcbjcwzz/list.htm" target="_blank">历年主编出版教材、专...</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i6-6">
+                                <a class="sub-link" href="/868/list.htm" target="_blank">发明专利</a>  
+                            </li>
+                            <li class="sub-item i6-7">
+                                <a class="sub-link" href="/869/list.htm" target="_blank">获奖项目</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i6-7-1">
+                                <a class="sub-link" href="/lnhjxmylb/list.htm" target="_blank">历年获奖项目一览表</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i6-8">
+                                <a class="sub-link" href="/871/list.htm" target="_blank">研究实验中心</a>  
+                            </li>
+                            <li class="sub-item i6-9">
+                                <a class="sub-link" href="/872/list.htm" target="_blank">产业服务</a>  
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i7">
+                        <a class="menu-link" href="/873/list.htm" target="_blank">本科生培养</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i7-1">
+                                <a class="sub-link" href="/874/list.htm" target="_blank">本科生培养通知</a>  
+                            </li>
+                            <li class="sub-item i7-2">
+                                <a class="sub-link" href="/875/list.htm" target="_blank">培养方案</a>  
+                            </li>
+                            <li class="sub-item i7-3">
+                                <a class="sub-link" href="/876/list.htm" target="_blank">课程大纲</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i7-3-1">
+                                <a class="sub-link" href="/877/list.htm" target="_blank">交通运输</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i7-4">
+                                <a class="sub-link" href="/878/list.htm" target="_blank">精品课程</a>  
+                            </li>
+                            <li class="sub-item i7-5">
+                                <a class="sub-link" href="/879/list.htm" target="_blank">教学管理</a>  
+                            </li>
+                            <li class="sub-item i7-6">
+                                <a class="sub-link" href="/880/list.htm" target="_blank">教学成果</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i7-6-1">
+                                <a class="sub-link" href="/lnbksfmzlwrjzzq/list.htm" target="_blank">历年本科生发明专利、...</a>  
+                            </li>
+                            <li class="sub-item i7-6-2">
+                                <a class="sub-link" href="/lnbksxkjshjylb/list.htm" target="_blank">历年本科生学科竞赛获...</a>  
+                            </li>
+                            <li class="sub-item i7-6-3">
+                                <a class="sub-link" href="/lnyxxslw/list.htm" target="_blank">历年优秀本科生毕业设...</a>  
+                            </li>
+                            <li class="sub-item i7-6-4">
+                                <a class="sub-link" href="/lnyxbkslw/list.htm" target="_blank">历年本科生发表论文</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i7-7">
+                                <a class="sub-link" href="/881/list.htm" target="_blank">SRTP项目</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i7-7-1">
+                                <a class="sub-link" href="/lngjjwsjwxjzdwwwwlxwysxmmd/list.htm" target="_blank">历年国家级、省级、校...</a>  
+                            </li>
+                            <li class="sub-item i7-7-2">
+                                <a class="sub-link" href="/tzgg/list.htm" target="_blank">通知公告</a>  
+                            </li>
+                            <li class="sub-item i7-7-3">
+                                <a class="sub-link" href="/cgzs/list.htm" target="_blank">成果展示</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i7-8">
+                                <a class="sub-link" href="/882/list.htm" target="_blank">系列讲座</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i7-8-1">
+                                <a class="sub-link" href="/tzgg_17539/list.htm" target="_blank">通知公告</a>  
+                            </li>
+                            <li class="sub-item i7-8-2">
+                                <a class="sub-link" href="/zysytssp/list.htm" target="_blank">专业素养提升视频</a>  
+                            </li>
+                            <li class="sub-item i7-8-3">
+                                <a class="sub-link" href="/yxnltssp/list.htm" target="_blank">研学能力提升视频</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i7-9">
+                                <a class="sub-link" href="/xzzq/list.htm" target="_blank">下载专区</a>  
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i8">
+                        <a class="menu-link" href="/883/list.htm" target="_blank">研究生培养</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i8-1">
+                                <a class="sub-link" href="/884/list.htm" target="_blank">研究生培养通知</a>  
+                            </li>
+                            <li class="sub-item i8-2">
+                                <a class="sub-link" href="/885/list.htm" target="_blank">培养方案</a>  
+                            </li>
+                            <li class="sub-item i8-3">
+                                <a class="sub-link" href="/886/list.htm" target="_blank">课程大纲</a>  
+                            </li>
+                            <li class="sub-item i8-4">
+                                <a class="sub-link" href="/pycg/list.htm" target="_blank">培养成果</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i8-4-1">
+                                <a class="sub-link" href="/lnyjsyxxwlw/list.htm" target="_blank">历年研究生优秀学位论...</a>  
+                            </li>
+                            <li class="sub-item i8-4-2">
+                                <a class="sub-link" href="/lndndxyxbsxwlwjjmd/list.htm" target="_blank">历年东南大学优秀博士...</a>  
+                            </li>
+                            <li class="sub-item i8-4-3">
+                                <a class="sub-link" href="/lngjgpyjsxm/list.htm" target="_blank">历年国家公派研究生项...</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i8-5">
+                                <a class="sub-link" href="/yjsgwglxtrk/list.htm" target="_blank">研究生工位管理系统入...</a>  
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i9">
+                        <a class="menu-link" href="/887/list.htm" target="_blank">党群工作</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i9-1">
+                                <a class="sub-link" href="/888/list.htm" target="_blank">党务公告</a>  
+                            </li>
+                            <li class="sub-item i9-2">
+                                <a class="sub-link" href="/889/list.htm" target="_blank">机构设置</a>  
+                            </li>
+                            <li class="sub-item i9-3">
+                                <a class="sub-link" href="/890/list.htm" target="_blank">支部建设</a>  
+                            </li>
+                            <li class="sub-item i9-4">
+                                <a class="sub-link" href="/891/list.htm" target="_blank">党务管理</a>  
+                            </li>
+                            <li class="sub-item i9-5">
+                                <a class="sub-link" href="/892/list.htm" target="_blank">工会工作</a>  
+                            </li>
+                            <li class="sub-item i9-6">
+                                <a class="sub-link" href="/lxyz/list.htm" target="_blank">两学一做</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i9-6-1">
+                                <a class="sub-link" href="/xsxjdx/list.htm" target="_blank">选树先进典型</a>  
+                            </li>
+                        </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i10">
+                        <a class="menu-link" href="/893/list.htm" target="_blank">学生工作</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i10-1">
+                                <a class="sub-link" href="/894/list.htm" target="_blank">学工概况</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i10-1-1">
+                                <a class="sub-link" href="/lnxsgzgk/list.htm" target="_blank">历年学生工作概况</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i10-2">
+                                <a class="sub-link" href="/895/list.htm" target="_blank">本科生管理通知</a>  
+                            </li>
+                            <li class="sub-item i10-3">
+                                <a class="sub-link" href="/896/list.htm" target="_blank">研究生管理通知</a>  
+                            </li>
+                            <li class="sub-item i10-4">
+                                <a class="sub-link" href="/897/list.htm" target="_blank">学生动态</a>  
+                            </li>
+                            <li class="sub-item i10-5">
+                                <a class="sub-link" href="/898/list.htm" target="_blank">品牌活动</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i10-5-1">
+                                <a class="sub-link" href="/xlslhzl/list.htm" target="_blank">新老生联欢资料</a>  
+                            </li>
+                            <li class="sub-item i10-5-2">
+                                <a class="sub-link" href="/wwwwystzl/list.htm" target="_blank">JOIN艺术团资料</a>  
+                            </li>
+                            <li class="sub-item i10-5-3">
+                                <a class="sub-link" href="/wwwwsyltzl/list.htm" target="_blank">JOIN素养论坛资料</a>  
+                            </li>
+                            <li class="sub-item i10-5-4">
+                                <a class="sub-link" href="/jqsscl/list.htm" target="_blank">激情四射材料</a>  
+                            </li>
+                            <li class="sub-item i10-5-5">
+                                <a class="sub-link" href="/blszl/list.htm" target="_blank">辩论赛资料</a>  
+                            </li>
+                            <li class="sub-item i10-5-6">
+                                <a class="sub-link" href="/hwybzdhzl/list.htm" target="_blank">红五月表彰大会资料</a>  
+                            </li>
+                            <li class="sub-item i10-5-7">
+                                <a class="sub-link" href="/ynlszl/list.htm" target="_blank">院内联赛资料</a>  
+                            </li>
+                            <li class="sub-item i10-5-8">
+                                <a class="sub-link" href="/jtkjdszl/list.htm" target="_blank">交通科技大赛资料</a>  
+                            </li>
+                            <li class="sub-item i10-5-9">
+                                <a class="sub-link" href="/aclxyh/list.htm" target="_blank">爱春蕾向阳花</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i10-6">
+                                <a class="sub-link" href="/899/list.htm" target="_blank">组织机构</a>  
+                            </li>
+                            <li class="sub-item i10-7">
+                                <a class="sub-link" href="/900/list.htm" target="_blank">优秀典型</a>  
+                            </li>
+                            <li class="sub-item i10-8">
+                                <a class="sub-link" href="/901/list.htm" target="_blank">学科竞赛</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i10-8-1">
+                                <a class="sub-link" href="/lnbksxkjshjmd/list.htm" target="_blank">历年本科生学科竞赛获...</a>  
+                            </li>
+                        </ul>
+                            </li>
+                            <li class="sub-item i10-9">
+                                <a class="sub-link" href="/902/list.htm" target="_blank">本科生对外交流</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i10-9-1">
+                                <a class="sub-link" href="/lncjjlqk/list.htm" target="_blank">历年出境交流情况</a>  
+                            </li>
+                        </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item i11">
+                        <a class="menu-link" href="/903/list.htm" target="_blank">招生就业</a>    <em class="menu-switch-arrow"></em>
+                        <ul class="sub-menu clearfix">
+                            
+                            <li class="sub-item i11-1">
+                                <a class="sub-link" href="/904/list.htm" target="_blank">就业信息</a>  
+                            </li>
+                            <li class="sub-item i11-2">
+                                <a class="sub-link" href="/905/list.htm" target="_blank">就业通知</a>  
+                            </li>
+                            <li class="sub-item i11-3">
+                                <a class="sub-link" href="/906/list.htm" target="_blank">专业介绍（就业）</a>  
+                            </li>
+                            <li class="sub-item i11-4">
+                                <a class="sub-link" href="/907/list.htm" target="_blank">本科招生</a>  
+                            </li>
+                            <li class="sub-item i11-5">
+                                <a class="sub-link" href="/908/list.htm" target="_blank">研究生招生</a>  
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+             
+ </div>
+        </div>
+    </div>
+</div>
+<div class="wrapper" id="banner">
+    <div class="inner">
+        <img src="/_upload/tpl/01/fd/509/template509/images/banner.jpg">
+    </div>
+</div>
+<div class="wrapper" id="container">
+    <div class="inner">
+        <div class="infobox" frag="面板5">
+            <div class="article" frag="窗口5" portletmode="simpleArticleAttri">
+                
+                    <h1 class="arti_title">
+                        程琳
+                    </h1>
+                    <p class="arti_metas">
+                        <span class="arti_publisher">发布者：单良</span><span class="arti_update">发布时间：2011-07-23</span><span class="arti_views">浏览次数：<span class="WP_VisitCount" url="/_visitcountdisplay?siteId=23&amp;type=3&amp;articleId=10278">8489
+</span></span>
+                    </p>
+                    <div class="entry">
+                        <div class="read">
+                            <div class="wp_articlecontent"><p class="STYLE1">程琳，博士，教授，博导，男。1963年7月生，江苏人。</p>  <p class="STYLE1">1987年 获同济大学学士学位；</p>  <p class="STYLE1">1992年 武汉大学硕士学位；同年赴东南大学工作；</p>  <p class="STYLE1">1995-1997年 中国国家教育部国际合作司 项目官员；</p>  <p class="STYLE1">2002年 获日本京都大学博士学位；</p>  <p class="STYLE1">2004年 日本东京大学生产技术研究所研究员。</p>  <p class="STYLE1">&nbsp;&nbsp;&nbsp;<strong> 研究方向：</strong>交通规划、交通管理、优化理论与方法、交通经济</p>  <p class="STYLE1">&nbsp;&nbsp;&nbsp;<strong>教学工作：</strong>正在为本科生讲授《交通工程基础》、《交通工程实习》，为研究生讲授<br>  《城 市交通网络分析》、《交通工程专业英语》；为本科生讲授过《道路交通系统规划与<br>  设计》、为研究生讲授过《交通工程理论》。</p>  <p class="STYLE1">&nbsp;&nbsp;&nbsp;<strong>科学研究项目：</strong></p>  <div class="STYLE1" align="center">  <table id="table1" width="480" cellspacing="0" cellpadding="0" border="1">      <tbody>          <tr>              <td width="177" valign="top">              <p>城市交通需求生成机理与瓶颈识别</p>              </td>              <td width="126" valign="top">              <p>国家<span xml:lang="EN-US" lang="EN-US">973</span>计划课题</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2006-2010</span></p>              </td>              <td width="68" valign="top">              <p>参与</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>城市交通系统组织优化与控制</p>              </td>              <td width="126" valign="top">              <p>国家<span xml:lang="EN-US" lang="EN-US">973</span>计划课题</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2006-2010</span></p>              </td>              <td width="68" valign="top">              <p>参与</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>城市交叉口规划设计及功能评价技术</p>              </td>              <td width="126" valign="top">              <p>国家科技支撑计划</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2006-2010</span></p>              </td>              <td width="68" valign="top">              <p>参与</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>城市综合交通系统规划与功能整合关键技术</p>              </td>              <td width="126" valign="top">              <p>国家科技支撑计划</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2006-2010</span></p>              </td>              <td width="68" valign="top">              <p>参与</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>城市综合交通网态势仿真与评估技术</p>              </td>              <td width="126" valign="top">              <p>国家<span xml:lang="EN-US" lang="EN-US">863</span>计划</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2007-2009</span></p>              </td>              <td width="68" valign="top">              <p>负责人</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>道路交通网络空间的拥堵瓶颈识别</p>              </td>              <td width="126" valign="top">              <p>国家自然科学基金</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2007-2009</span></p>              </td>              <td width="68" valign="top">              <p>负责人</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>城市土地利用与交通需求关系研究</p>              </td>              <td width="126" valign="top">              <p>国家<span xml:lang="EN-US" lang="EN-US">973</span>计划子题</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2006-2010</span></p>              </td>              <td width="68" valign="top">              <p>负责人</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>随机交通网络可靠性理论</p>              </td>              <td width="126" valign="top">              <p>国家自然科学基金</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2006-2008</span></p>              </td>              <td width="68" valign="top">              <p>负责人</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>不确定条件下的交通网络模型研究</p>              </td>              <td width="126" valign="top">              <p>江苏省人事厅启动基金</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2003-2004</span></p>              </td>              <td width="68" valign="top">              <p>负责人</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>最短路径提取方法及其统计特性研究</p>              </td>              <td width="126" valign="top">              <p>留学人员启动基金</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2002-2004</span></p>              </td>              <td width="68" valign="top">              <p>负责人</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>城市公共交通系统优化技术</p>              </td>              <td width="126" valign="top">              <p>科技部十五攻关项目</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2001-2003</span></p>              </td>              <td width="68" valign="top">              <p>参加</p>              </td>          </tr>          <tr>              <td width="177" valign="top">              <p>公交优先的内涵、外延和发展战略</p>              </td>              <td width="126" valign="top">              <p>江苏省建设厅</p>              </td>              <td width="99" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2005-2006</span></p>              </td>              <td width="68" valign="top">              <p>负责人</p>              </td>          </tr>      </tbody>  </table>  </div>  <p class="STYLE1"><strong>社会实践项目：</strong></p>  <div class="STYLE1" align="center">  <table id="table2" width="492" cellspacing="0" cellpadding="0" border="1">      <tbody>          <tr>              <td width="185" valign="top">              <p>南京新外滩交通影响分析</p>              </td>              <td width="114" valign="top">              <p>南京市</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2007</span></p>              </td>              <td width="79" valign="top">              <p>负责人</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>吴江市公路信息管理系统开发</p>              </td>              <td width="114" valign="top">              <p>吴江市人民政府</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2007-2008</span></p>              </td>              <td width="79" valign="top">              <p>负责人</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>潍坊市城市综合交通规划</p>              </td>              <td width="114" valign="top">              <p>潍坊市人民政府</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2006-2007</span></p>              </td>              <td width="79" valign="top">              <p>主持人</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>潍坊市道路交通管理规划</p>              </td>              <td width="114" valign="top">              <p>潍坊市人民政府</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2006-2007</span></p>              </td>              <td width="79" valign="top">              <p>参与</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>银川市道路交通管理规划</p>              </td>              <td width="114" valign="top">              <p>银川市交警支队</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2005</span></p>              </td>              <td width="79" valign="top">              <p>主持</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>铜陵市公路网规划</p>              </td>              <td width="114" valign="top">              <p>铜陵市交通局</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2004-2005</span></p>              </td>              <td width="79" valign="top">              <p>主持</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>公路交通环境与管理研究</p>              </td>              <td width="114" valign="top">              <p>吴江市交通局</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2004-2005</span></p>              </td>              <td width="79" valign="top">              <p>主持</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>徐州市道路交通管理规划</p>              </td>              <td width="114" valign="top">              <p>徐州市人民政府</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2003-2004</span></p>              </td>              <td width="79" valign="top">              <p>主持</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>吴江市道路交通管理规划</p>              </td>              <td width="114" valign="top">              <p>吴江市人民政府</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2002-2003</span></p>              </td>              <td width="79" valign="top">              <p>主持</p>              </td>          </tr>          <tr>              <td width="185" valign="top">              <p>吴江市城市综合交通规划</p>              </td>              <td width="114" valign="top">              <p>吴江市人民政府</p>              </td>              <td width="104" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2002-2003</span></p>              </td>              <td width="79" valign="top">              <p>主持</p>              </td>          </tr>      </tbody>  </table>  </div>  <p class="STYLE1">&nbsp;</p>  <p class="STYLE1"><strong>近年发表论文：</strong></p>  <div class="STYLE1" align="center">  <table id="table3" width="544" cellspacing="0" cellpadding="0" border="1">      <tbody>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>于春青等</p>              </td>              <td width="247">              <p>随机型用户均衡网络的选择率与敏感度分析</p>              </td>              <td width="130">              <p>中国公路学报</p>              </td>              <td width="46">              <p><span xml:lang="EN-US" lang="EN-US">2007</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>于春青等</p>              </td>              <td width="247">              <p>基于网络均衡的交叉口分流率计算方法研究</p>              </td>              <td width="130">              <p>西南交通大学学报</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2007</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>朱志坚等</p>              </td>              <td width="247">              <p>交通分配起点算法的实证研究</p>              </td>              <td width="130">              <p>系统工程理论与实践</p>              </td>              <td width="46">              <p><span xml:lang="EN-US" lang="EN-US">2007</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p><span xml:lang="EN-US" lang="EN-US">A skew gradient-based Newton method for traffic assignment with side constraints</span></p>              </td>              <td width="130">              <p>清华大学学报</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2007</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p>城市道路交通网络容量的建模</p>              </td>              <td width="130">              <p>管理工程学报</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2007</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>唐小勇<span xml:lang="EN-US" lang="EN-US">, </span>程琳等</p>              </td>              <td width="247">              <p>考虑转向延误的交通网络存储结构</p>              </td>              <td width="130">              <p>公路交通科技</p>              </td>              <td width="46">              <p><span xml:lang="EN-US" lang="EN-US">2007</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜</p>              </td>              <td width="247">              <p>拥堵道路交通网络均衡模型和乘子算法</p>              </td>              <td width="130">              <p>管理科学学报</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">Selecting Path Flow Pattern for Sensitivity Analysis of Capacitated Network of UE</span></p>              </td>              <td width="130">              <p align="left"><span xml:lang="EN-US" lang="EN-US">IFAC, Delft, Netherlands</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>范巍巍等</p>              </td>              <td width="247">              <p>公交优先的内涵、外延和发展战略</p>              </td>              <td width="130">              <p>城市公共交通</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p>求解容量制约下交通网络流模型的新梯度方法</p>              </td>              <td width="130">              <p>同济大学学报</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p>加强交通工程专业的理论教育 培养科学与工程并举的人才</p>              </td>              <td width="130">              <p>高教评估与发展</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">Selecting Path Flow Pattern for Sensitivity Analysis of Deterministic User Equilibrium</span></p>              </td>              <td width="130">              <p align="left"><span xml:lang="EN-US" lang="EN-US">AATT 2006, Chicago</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p>可变步长的投影梯度算法与交通网络流量分配</p>              </td>              <td width="130">              <p>系统工程学报</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>朱志坚<span xml:lang="EN-US" lang="EN-US">, </span>程琳</p>              </td>              <td width="247">              <p><span xml:lang="EN-US" lang="EN-US">OD</span>矩阵与<span xml:lang="EN-US" lang="EN-US">PA</span>矩阵辨析</p>              </td>              <td width="130">              <p>交通标准化</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>邢晓欢<span xml:lang="EN-US" lang="EN-US">, </span>程琳</p>              </td>              <td width="247">              <p>从常州市的交通治理看政府决策</p>              </td>              <td width="130">              <p>交通与运输</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>于春青<span xml:lang="EN-US" lang="EN-US">, </span>程琳</p>              </td>              <td width="247">              <p>环形交叉口的流量测定方法探讨</p>              </td>              <td width="130">              <p>交通标准化</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2006</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p>城市道路网络容量、交通规划和交通管理</p>              </td>              <td width="130">              <p>公路交通科技</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2005</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜</p>              </td>              <td width="247">              <p>随机交通网络可靠性理论</p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">NSFC</span>发展战略研讨会</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2005</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>王炜，程琳等</p>              </td>              <td width="247">              <p>缓解城市交通拥堵的基础理论</p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">NSFC</span>发展战略研讨会</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2005</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜</p>              </td>              <td width="247">              <p>用户均衡网络中的敏感度分析方法</p>              </td>              <td width="130">              <p>系统工程理论与实践</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2004</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>李强等</p>              </td>              <td width="247">              <p><span xml:lang="EN-US" lang="EN-US">Urban Street Network Capacity Reliability</span></p>              </td>              <td width="130">              <p>东南大学学报</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2004</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">Choice probability problem in stochastic assignment</span></p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">ICTTS 2004, Dalian</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2004</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>应江黔，程琳</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">A reliable routing algorithm with real time and historic information</span></p>              </td>              <td width="130">              <p>第<span xml:lang="EN-US" lang="EN-US">11</span>届世界<span xml:lang="EN-US" lang="EN-US">ITS</span>大会</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2004</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">Constrained Version of Newton Methods for Transport Network Equilibrium</span></p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">Transportation Research Board</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2004</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>饭田等</p>              </td>              <td width="247">              <p><span xml:lang="EN-US" lang="EN-US">Alternative Quasi-Newton Methods for Capacitated UE Assignment</span></p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">Trans. Res. Record</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2003</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p>社会剩余最大化条件下的道路拥挤收费研究</p>              </td>              <td width="130">              <p>交通运输系统工程与信息</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2003</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">Efficient implementation of bilevel model for OD matrix estimation</span></p>              </td>              <td width="130">              <p>日本土木计画学会年会</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2003</span></p>              <p align="center">&nbsp;</p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>饭田等</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">Travel Time Reliability based on Sensitivity of Capacitated User Equilibrium Flow</span></p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">ICTTS 2002, Guilin</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2002</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜</p>              </td>              <td width="247">              <p><span xml:lang="EN-US" lang="EN-US">Dial</span>交通量分配模型和选择概率问题的研究</p>              </td>              <td width="130">              <p>交通运输系统工程与信息</p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2002</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>王炜等</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">Alternative Quasi-Newton Methods for Capacitated UE Assignment</span></p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">Transportation Research Board</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2002</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>饭田等</p>              </td>              <td width="247">              <p align="left"><span xml:lang="EN-US" lang="EN-US">Alternative Projection Methods for Traffic Assignment and Sensitivity</span></p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">2th Japanese-Sino <br>              Optimization Meeting</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2002</span></p>              </td>          </tr>          <tr>              <td width="111">              <p>程琳<span xml:lang="EN-US" lang="EN-US">, </span>饭田等</p>              </td>              <td width="247">              <p><span xml:lang="EN-US" lang="EN-US">A Stochastic Flow-Dependent Model for Path Flow Estimation</span></p>              </td>              <td width="130">              <p><span xml:lang="EN-US" lang="EN-US">Journal of Infrastructure Planning Review</span></p>              </td>              <td width="46">              <p align="center"><span xml:lang="EN-US" lang="EN-US">2001</span></p>              </td>          </tr>      </tbody>  </table>  </div>  <p class="STYLE1"><strong>近年出版著作</strong></p>  <div class="STYLE1" align="center">  <table id="table4" width="537" cellspacing="0" cellpadding="0" border="1">      <tbody>          <tr>              <td width="106" valign="top">              <p>参与编写</p>              </td>              <td width="230" valign="top">              <p>交通系统分析</p>              </td>              <td width="136" valign="top">              <p>人民交通出版社</p>              </td>              <td width="133" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2007</span></p>              </td>          </tr>          <tr>              <td width="106" valign="top">              <p>参与编写</p>              </td>              <td width="230" valign="top">              <p>交通运输工程学</p>              </td>              <td width="136" valign="top">              <p>人民交通出版社</p>              </td>              <td width="133" valign="top">              <p><span xml:lang="EN-US" lang="EN-US">2004</span></p>              </td>          </tr>      </tbody>  </table>  </div>  <p class="STYLE1"><strong>社会兼职：</strong>《交通运输系统工程与信息》编委，《江苏物流》编委</p>  <p class="STYLE1"><strong>指导学生：</strong>指导硕士生<span xml:lang="EN-US" lang="EN-US">9</span>名，协助指导博士生<span xml:lang="EN-US" lang="EN-US">4</span>名</p>  <p class="STYLE1"><strong>奖励与荣誉：</strong></p>  <p class="STYLE1"><span xml:lang="EN-US" lang="EN-US">2007</span>年获东南大学研究生精品课程建设奖励；</p>  <p class="STYLE1"><span xml:lang="EN-US" lang="EN-US">2006</span>年获东南大学《城市交通网络分析》课程建设奖励；</p>  <p class="STYLE1"><span xml:lang="EN-US" lang="EN-US">2004</span>年获东南大学研究生双语教学奖励；</p>  <p class="STYLE1"><span xml:lang="EN-US" lang="EN-US">2005</span>年指导的本科生毕业设计获江苏省优秀论文奖；</p>  <p class="STYLE1"><span xml:lang="EN-US" lang="EN-US">2003-2005</span>指导优秀本科生一名.</p>  <div style="layout-grid:  15.6pt none" class="Section1">&nbsp;</div>  <p class="STYLE1">&nbsp;</p>  <p class="STYLE1"><strong>联系方式：</strong></p>  <p class="STYLE1">地址：江苏南京东南大学交通学院(210096)</p>  <p class="STYLE1">电话：025-83795649</p>  <p><a href="mailto:GISt@seu.edu.cn" target="_blank">Email：GISt@seu.edu.cn<br>  </a></p></div>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+        <table width="100%" height="50" cellspacing="0" cellpadding="0" border="0">
+            <tbody>
+                <tr>
+                    <td align="center">
+                        <script>function CloseWin()       
+{       
+window.opener=null;       
+window.open('','_self');       
+window.close();       
+}</script><input onclick="CloseWin()" style="cursor:hand" type="button">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div id="addweixin1" class="xpic ie6" style="margin-bottom: 0px;">
+    <table class="rta_01" width="60" border="0">
+        <tbody>
+            <tr>
+                <td>
+                    <a href="javascript:scroll(0,0)" id="sea_04" style=""><strong> </strong></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class="bottom">
+	<div class="bottom1">
+    	<div class="bottom_left">
+        	<p class="dizhi">江苏省南京市玄武区四牌楼2号</p>
+            <p class="youbian">210096</p>
+            <p class="e-mail">dndxjtxy@126.com</p>
+        </div>
+        <div class="bottom_right"></div>
+    </div>
+</div>
+<div class="wrapper" id="footer">
+    <div class="inner">
+        <div class="foot">
+            <p>
+                东南大学交通学院 江苏-南京©2014 School of Transportation SEU. 苏ICP备05063707
+            </p>
+        </div>
+    </div>
+</div><script type="text/javascript" src="/_upload/tpl/01/fd/509/template509/zoombox/zoombox.js"></script><script type="text/javascript" src="/_upload/tpl/01/fd/509/template509/js/custom.js"></script>
+
+
+
+
+ <img src="/_visitcount?siteId=23&amp;type=3&amp;articleId=10278" style="display:none" width="0" height="0"></body></html>

@@ -1,0 +1,469 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<title>沈宝龙</title>
+<meta name="description" content="                              基本信息                                                              姓名:沈宝龙              性别:男              党派: 致公党              职称:教授、博导              联系方式: 电话：025-52091077，E">
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/89/89.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/2b/43/style/133/133.css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="43"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link href="/_upload/tpl/04/8f/1167/template1167/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="container_page">
+  <div id="head">
+  	<div frag="面板100" style="width:200px; float:right;">
+    	  <div frag="窗口100">
+              
+           </div>
+        </div>
+        <div frag="面板110" style="float:right; text-align:right;">
+             <table height="20px"> 
+                 <tbody><tr>
+                    <td> <a class="logo_nav" href="http://www.seu.edu.cn" target="_blank"> 东南大学主页 </a> </td>
+                    <td class="logo_nav"> |</td>
+                    <td> <a class="logo_nav" href="http://smse.seu.edu.cn/cl_en" target="_blank"> English </a> </td>
+                    <td width="10px"> </td> 
+                 </tr>
+            </tbody></table>
+        </div>
+  </div>
+</div>
+  <div id="nav" frag="面板1">
+    <div frag="窗口1" style="width:1200px; text-align: center; margin: 0 auto">
+      
+<style type="text/css"> 
+#wp_nav_w1 .wp_nav {
+	margin: 0px; padding: 0px; text-align: center; display: block;
+}
+#wp_nav_w1 .wp_nav * {
+	margin: 0px; padding: 0px;
+}
+#wp_nav_w1 .wp_nav::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+#wp_nav_w1 .wp_nav .nav-item {
+	vertical-align: bottom; float: left; display: inline-block; position: relative;
+}
+#wp_nav_w1 .wp_nav .on {
+	z-index: 10;
+}
+#wp_nav_w1 .wp_nav .nav-item .mark {
+	left: 0px; top: 0px; width: 100%; height: 100%; display: block; position: absolute; z-index: 20; opacity: 0.8;
+}
+#wp_nav_w1 .wp_nav .nav-item a {
+	text-align: left; font-size: 16px; display: block; position: relative; z-index: 30;
+}
+#wp_nav_w1 .wp_nav .nav-item a.parent:hover {
+	color: rgb(255, 153, 0); font-size: 16px; background-color: rgb(102, 51, 102);
+}
+#wp_nav_w1 .wp_nav .nav-item a.parent {
+	font-size: 16px; background-color: rgb(102, 51, 102);
+}
+#wp_nav_w1 .wp_nav .nav-item a span.item-name {
+	padding: 5px 29px; line-height: 22px; display: inline-block; cursor: pointer;
+}
+#wp_nav_w1 .wp_nav .sub-nav {
+	border: 0px solid rgb(247, 110, 42); border-image: none; width: 100%; display: block; visibility: hidden; position: absolute; z-index: 40;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item {
+	white-space: nowrap;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item .mark {
+	background-position: 0% 0%; opacity: 0.8; background-attachment: scroll; background-repeat: repeat; background-size: auto; background-origin: padding-box; background-clip: border-box; background-color: rgb(233, 195, 247);
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a {
+	text-align: center; color: rgb(0, 0, 0); font-size: 13px; font-weight: normal; border-top-color: rgb(216, 225, 204); border-top-width: 1px; border-top-style: solid; min-width: 80px;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a.parent:hover {
+	background: rgb(255, 153, 0); color: rgb(242, 245, 247); font-size: 13px;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a.parent {
+	background: rgb(238, 238, 238); color: rgb(242, 242, 242); font-size: 13px;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a span.item-name {
+	padding: 5px 10px; line-height: 22px;
+}
+#wp_nav_w1 .wp_nav .nav-item a.parent:hover span.item-name {
+	
+}
+#wp_nav_w1 .wp_nav .nav-item a.parent span.item-name {
+	
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a.parent:hover span.item-name {
+	
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a.parent span.item-name {
+	text-decoration: none;
+}
+
+</style> 
+<div id="wp_nav_w1"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://smse.seu.edu.cn" title="首页" target="_blank"><span class="item-name">首页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="/2517/list.htm" title="学院概况" target="_blank"><span class="item-name">学院概况</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 80px; height: 198px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i2-1 " style="display: block; width: 100%;"> 
+                 <a href="/2518/list.htm" title="学院简况" target="_blank" style="display: block; width: auto;"><span class="item-name">学院简况</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-2 " style="display: block; width: 100%;"> 
+                 <a href="/2520/list.htm" title="机构设置" target="_blank" style="display: block; width: auto;"><span class="item-name">机构设置</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-3 " style="display: block; width: 100%;"> 
+                 <a href="/fzls/list.htm" title="发展历史" target="_blank" style="display: block; width: auto;"><span class="item-name">发展历史</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-4 " style="display: block; width: 100%;"> 
+                 <a href="/xkjs/list.htm" title="学科介绍" target="_blank" style="display: block; width: auto;"><span class="item-name">学科介绍</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-5 " style="display: block; width: 100%;"> 
+                 <a href="/clwh/list.htm" title="材料文化" target="_blank" style="display: block; width: auto;"><span class="item-name">材料文化</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-6 " style="display: block; width: 100%;"> 
+                 <a href="/lxzn/list.htm" title="联系指南" target="_blank" style="display: block; width: auto;"><span class="item-name">联系指南</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/2569/list.htm" title="公示公告" target="_blank"><span class="item-name">公示公告</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 80px; height: 99px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i3-1 " style="display: block; width: 100%;"> 
+                 <a href="/2570/list.htm" title="学院新闻" target="_blank" style="display: block; width: auto;"><span class="item-name">学院新闻</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2 " style="display: block; width: 100%;"> 
+                 <a href="/2571/list.htm" title="信息公告" target="_blank" style="display: block; width: auto;"><span class="item-name">信息公告</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-3 " style="display: block; width: 100%;"> 
+                 <a href="/rwfc/list.htm" title="人物风采" target="_blank" style="display: block; width: auto;"><span class="item-name">人物风采</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="/2580/list.htm" title="师资队伍" target="_blank"><span class="item-name">师资队伍</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 80px; height: 99px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i4-1 " style="display: block; width: 100%;"> 
+                 <a href="/ljrc/list.htm" title="领军人才" target="_blank" style="display: block; width: auto;"><span class="item-name">领军人才</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2 " style="display: block; width: 100%;"> 
+                 <a href="/szry/list.htm" title="教师简介" target="_blank" style="display: block; width: auto;"><span class="item-name">教师简介</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3 " style="display: block; width: 100%;"> 
+                 <a href="/kzjs_17714/list.htm" title="客座教授" target="_blank" style="display: block; width: auto;"><span class="item-name">客座教授</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="/2523/list.htm" title="科学研究" target="_blank"><span class="item-name">科学研究</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 107px; height: 231px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i5-1 " style="display: block; width: 100%;"> 
+                 <a href="/2524/list.htm" title="科研概况" target="_blank" style="display: block; width: auto;"><span class="item-name">科研概况</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-2 " style="display: block; width: 100%;"> 
+                 <a href="/2525/list.htm" title="研究方向" target="_blank" style="display: block; width: auto;"><span class="item-name">研究方向</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-3 " style="display: block; width: 100%;"> 
+                 <a href="/2526/list.htm" title="科研成果" target="_blank" style="display: block; width: auto;"><span class="item-name">科研成果</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-4 " style="display: block; width: 100%;"> 
+                 <a href="/2574/list.htm" title="学术交流" target="_blank" style="display: block; width: auto;"><span class="item-name">学术交流</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-5 " style="display: block; width: 100%;"> 
+                 <a href="/2527/list.htm" title="科研项目指南" target="_blank" style="display: block; width: auto;"><span class="item-name">科研项目指南</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-6 " style="display: block; width: 100%;"> 
+                 <a href="/kypt/list.htm" title="科研平台" target="_blank" style="display: block; width: auto;"><span class="item-name">科研平台</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-7 " style="display: block; width: 100%;"> 
+                 <a href="http://202.119.23.164:81/index.aspx" title="实验教学管理系统" target="_blank" style="display: block; width: auto;"><span class="item-name">实验教学管理...</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="/2529/list.htm" title="人才培养" target="_blank"><span class="item-name">人才培养</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 85px; height: 99px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i6-1 " style="display: block; width: 100%;"> 
+                 <a href="/2530/list.htm" title="本科生培养" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生培养</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-2 " style="display: block; width: 100%;"> 
+                 <a href="/2531/list.htm" title="研究生培养" target="_blank" style="display: block; width: auto;"><span class="item-name">研究生培养</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3 " style="display: block; width: 100%;"> 
+                 <a href="/2538/list.htm" title="博士后" target="_blank" style="display: block; width: auto;"><span class="item-name">博士后</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="/2593/list.htm" title="学生工作" target="_blank"><span class="item-name">学生工作</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 80px; height: 264px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i7-1 " style="display: block; width: 100%;"> 
+                 <a href="/2596/list.htm" title="班团风采" target="_blank" style="display: block; width: auto;"><span class="item-name">班团风采</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2 " style="display: block; width: 100%;"> 
+                 <a href="/xshd/list.htm" title="学生活动" target="_blank" style="display: block; width: auto;"><span class="item-name">学生活动</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-3 " style="display: block; width: 100%;"> 
+                 <a href="/2594/list.htm" title="日常事务" target="_blank" style="display: block; width: auto;"><span class="item-name">日常事务</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-4 " style="display: block; width: 100%;"> 
+                 <a href="/2603/list.htm" title="评奖评优" target="_blank" style="display: block; width: auto;"><span class="item-name">评奖评优</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-5 " style="display: block; width: 100%;"> 
+                 <a href="/2605/list.htm" title="学科竞赛" target="_blank" style="display: block; width: auto;"><span class="item-name">学科竞赛</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-6 " style="display: block; width: 100%;"> 
+                 <a href="/2606/list.htm" title="就业指南" target="_blank" style="display: block; width: auto;"><span class="item-name">就业指南</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-7 " style="display: block; width: 100%;"> 
+                 <a href="/2607/list.htm" title="下载区" target="_blank" style="display: block; width: auto;"><span class="item-name">下载区</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-8 " style="display: block; width: 100%;"> 
+                 <a href="/czsy/list.htm" title="材子神韵" target="_blank" style="display: block; width: auto;"><span class="item-name">材子神韵</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="/dqgz/list.htm" title="党群工作" target="_blank"><span class="item-name">党群工作</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 80px; height: 198px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i8-1 " style="display: block; width: 100%;"> 
+                 <a href="/djgz/list.htm" title="党建工作" target="_blank" style="display: block; width: auto;"><span class="item-name">党建工作</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2 " style="display: block; width: 100%;"> 
+                 <a href="/gh/list.htm" title="工会" target="_blank" style="display: block; width: auto;"><span class="item-name">工会</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-3 " style="display: block; width: 100%;"> 
+                 <a href="/ggw/list.htm" title="关工委" target="_blank" style="display: block; width: auto;"><span class="item-name">关工委</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-4 " style="display: block; width: 100%;"> 
+                 <a href="/tzgz/list.htm" title="统战工作" target="_blank" style="display: block; width: auto;"><span class="item-name">统战工作</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-5 " style="display: block; width: 100%;"> 
+                 <a href="/tw/list.htm" title="团委" target="_blank" style="display: block; width: auto;"><span class="item-name">团委</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-6 " style="display: block; width: 100%;"> 
+                 <a href="/tx/list.htm" title="退协" target="_blank" style="display: block; width: auto;"><span class="item-name">退协</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i9 "> 
+         <a href="/gzzd/list.htm" title="规章制度" target="_blank"><span class="item-name">规章制度</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 80px; height: 66px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i9-1 " style="display: block; width: 100%;"> 
+                 <a href="/xnwj/list.htm" title="校内文件" target="_blank" style="display: block; width: auto;"><span class="item-name">校内文件</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-2 " style="display: block; width: 100%;"> 
+                 <a href="/xywj/list.htm" title="学院文件" target="_blank" style="display: block; width: auto;"><span class="item-name">学院文件</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i10 "> 
+         <a href="/zp/list.htm" title="人才招聘" target="_blank"><span class="item-name">人才招聘</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 80px; height: 66px; top: 32px; left: 0px;"> 
+              
+             <li class="nav-item i10-1 " style="display: block; width: 100%;"> 
+                 <a href="/zpzd/list.htm" title="招聘制度" target="_blank" style="display: block; width: auto;"><span class="item-name">招聘制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-2 " style="display: block; width: 100%;"> 
+                 <a href="/ncjh/list.htm" title="纳才计划" target="_blank" style="display: block; width: auto;"><span class="item-name">纳才计划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+    </div>
+  </div>
+    <div frag="窗口101" style="width:1200px; margin: 0 auto">
+      <div class="articlecontent ">
+    
+        
+            
+                <p style="text-align:center;"><img style="float:none;" src="/_upload/article/images/e0/e1/e9012c4b41c8b4cb3fd9d445f0f1/1ba09769-5f93-4164-a6b6-a80faeb97154.jpg" sudyfile-attr="{'title':'DSC06846.jpg'}" data-layer="photo"></p><p><br></p>
+            
+        
+    
+</div>
+    </div>
+  <div id="display_content">
+    <div class="info" frag="面板21">
+      <div frag="窗口21" portletmode="simpleArticleAttri">
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+           <tbody><tr>
+              <td height="10"></td>
+            </tr>
+            <tr>
+              <td class="infotitle" height="30" align="center">沈宝龙</td>
+            </tr>
+             <tr>
+              <td class="infotitle_fu" height="20" align="center"></td>
+            </tr>
+             <tr>
+              <td height="10"></td>
+            </tr>
+            <tr>
+              <td height="1" bgcolor="#CCCCCC"></td>
+            </tr>
+          </tbody></table>
+          <table class="border2" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td height="31" align="center"> 发布时间：2013-10-22&nbsp;&nbsp; 浏览次数:<span class="WP_VisitCount" url="/_visitcountdisplay?siteId=43&amp;type=3&amp;articleId=83613">13350
+</span></td>
+            </tr>
+          </tbody></table>
+          <table class="article" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="article" valign="top"><div class="wp_articlecontent"><table style="width:751px;" width="850" cellspacing="0" cellpadding="5" bordercolor="#dddddd" border="0"><tbody><tr><td style="border-right-color:#000000;border-left-color:#000000;border-right-width:1px;border-left-width:1px;border-right-style:solid;border-left-style:solid;" colspan="3" height="28" bgcolor="#0066ff"><span class="STYLE1"><strong><span style="color:#ffffff;">基本信息</span></strong></span></td></tr><tr><td style="border-left-color:#000000;border-left-width:1px;border-left-style:solid;" width="17%" height="113" align="center"><strong><span style="color:#ffffff;"><img src="/_upload/article/67/1d/72bd0a774c90be54b81c085c9f48/7c176f4c-a80d-42b4-a8d0-1e56411d3071.jpg" width="150" height="180" border="0"></span></strong></td><td width="50%" height="113"><p style="line-height:2em;margin-bottom:0px;margin-top:0px;"><strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">&nbsp;姓名</span></strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">:沈宝龙</span></p><p style="line-height:2em;margin-bottom:0px;margin-top:0px;"><strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">&nbsp;性别</span></strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">:男</span></p><p style="line-height:2em;margin-bottom:0px;margin-top:0px;"><strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">&nbsp;党派</span></strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">: 致公党</span></p><p style="line-height:2em;margin-bottom:0px;margin-top:0px;"><strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">&nbsp;职称</span></strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">:教授、博导</span></p><p style="line-height:2em;margin-bottom:0px;margin-top:0px;"><strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">&nbsp;联系方式</span></strong><span style="font-family:'times new roman';font-size:12px;line-height:2em;">: 电话：025-52091077，Email：</span><a style="font-family:times new roman;text-decoration:underline;" href="mailto:blshen@seu.edu.cn" target="_blank"><span style="font-family:'times new roman';font-size:12px;line-height:2em;">blshen@seu.edu.cn</span></a>&nbsp;</p></td><td style="border-right-color:#000000;border-right-width:1px;border-right-style:solid;" width="33%" valign="top" height="113"><p><strong><span style="font-family:times new roman;font-size:12px;">研究方向</span></strong><span style="font-family:times new roman;font-size:12px;">:</span></p><p><span style="font-family:times new roman;font-size:12px;">1、铁磁性块体非晶合金磁学与力学性能研究</span><span><br><span style="font-family:times new roman;font-size:12px;">2、稀土基非晶合金磁热效应研究<br>3、高性能纳米晶软磁合金研究</span></span></p><p><span><span style="font-family:times new roman;font-size:12px;">详见：<a href="http://mmlab.seu.edu.cn" target="_blank">http：//mmlab.seu.edu.cn</a></span></span></p></td></tr><tr><td style="border-right-color:#000000;border-left-color:#000000;border-right-width:1px;border-left-width:1px;border-right-style:solid;border-left-style:solid;" colspan="3" height="28" bgcolor="#0066ff"><span class="STYLE1"><strong><span style="color:#ffffff;">个人简介</span></strong></span></td></tr><tr><td style="border-right-color:#000000;border-bottom-color:#000000;border-left-color:#000000;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;" colspan="3"><p style="line-height:2em;"><o:p></o:p></p><p class="MsoNormal" style="text-indent:32px;line-height:150%;text-align:left;margin-bottom:8px;"><span style="line-height:150%;font-family:仿宋;font-size:18px;">沈宝龙，工学博士、二级教授，国家杰出青年科学基金获得者。</span><span style="font-size:16px;line-height:150%;font-family:仿宋;"><span style="line-height:150%;font-family:仿宋;font-size:18px;">国际电子电工学会</span><span style="font-size:18px;" lang="EN-US">(IEEE)</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">会员（磁学分会）、美国化学会会员（物理化学</span><span style="font-size:18px;" lang="EN-US">Division</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">）。中国材料研究学会金属间化合物与非晶合金分会委员、中国金属学会非晶合金分会委员、非晶节能材料产业技术创新战略联盟理事。</span></span><span style="line-height:150%;font-family:仿宋;font-size:18px;" lang="EN-US">1985</span><span style="font-size:16px;line-height:150%;font-family:仿宋;"><span style="line-height:150%;font-family:仿宋;font-size:18px;">年</span><span style="font-size:18px;" lang="EN-US">7</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">月毕业于南京工学院（现东南大学）材料系，并分别于上海材料研究所、日本姬路工业大学获硕士、博士学位。</span><span style="font-size:18px;" lang="EN-US">1999</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">年</span><span style="font-size:18px;" lang="EN-US">3</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">月获工学博士学位后赴日本东北大学金属材料研究所从事非晶合金及纳米晶软磁合金的研究开发工作。</span><span style="font-size:18px;" lang="EN-US">2007</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">年</span><span style="font-size:18px;" lang="EN-US">6</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">月回国应聘至中科院宁波材料所，</span><span style="font-size:18px;" lang="EN-US">2012</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">年</span><span style="font-size:18px;" lang="EN-US">9</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">月加入东南大学材料学院。</span></span></p><p class="MsoNormal" style="text-indent:32px;line-height:150%;text-align:left;margin-bottom:8px;"><span style="font-size:16px;line-height:150%;font-family:仿宋;"><span style="line-height:150%;font-family:仿宋;font-size:18px;">作为课题负责人，在日工作期间承担了日本科学技术振兴机构（</span><span style="font-size:18px;" lang="EN-US">JST</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">）研究发展课题、文部科学省特定领域研究课题、及日本学术振兴会（</span><span style="font-size:18px;" lang="EN-US">JSPS</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">）基盘研究（</span><span style="font-size:18px;" lang="EN-US">C</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">）等项目。回国工作后，相继承担了国家</span><span style="font-size:18px;" lang="EN-US">863</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">计划（</span><span style="font-size:18px;" lang="EN-US">2</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">项）、国家火炬计划、国家自然科学基金杰出青年基金及面上基金、中科院重要方向性项目及装备研制计划等科研项目。领衔申报成功中科院磁性材料与器件重点实验室、浙江省磁性材料及其应用技术重点实验室、及浙江省磁性材料重点创新团队等平台与团队项目。目前承担国家自然科学基金面上及重点基金、军委科技委前沿探索主题项目等科研项目。</span></span></p><p class="MsoNormal" style="text-indent:32px;line-height:150%;text-align:left;margin-bottom:8px;"><span style="font-size:16px;line-height:150%;font-family:仿宋;"><span style="line-height:150%;font-family:仿宋;font-size:18px;">发表</span><span style="font-size:18px;" lang="EN-US">SCI</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">论文</span><span style="font-size:18px;" lang="EN-US">160</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">余篇，被引用</span><span style="font-size:18px;" lang="EN-US">3200</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">余次，</span><span style="font-size:18px;" lang="EN-US">H</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">指数</span><span style="font-size:18px;" lang="EN-US">29</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">。在相关国际会议上作邀请报告</span><span style="font-size:18px;" lang="EN-US">30</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">余次、并任分会主席多次。获日本科研成果奖</span><span style="font-size:18px;" lang="EN-US">2</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">项（</span><span style="font-size:18px;" lang="EN-US">1</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">项为第一完成人）。申请日本发明专利</span><span style="font-size:18px;" lang="EN-US">9</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">项（</span><span style="font-size:18px;" lang="EN-US">7</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">项已获授权），中国发明专利</span><span style="font-size:18px;" lang="EN-US">21</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">项（</span><span style="font-size:18px;" lang="EN-US">12</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">项已获授权）。</span></span></p><p class="MsoNormal" style="text-indent:32px;line-height:150%;text-align:left;margin-bottom:8px;"><span style="line-height:150%;font-family:仿宋;font-size:18px;">纳米晶软磁合金研究成果成功实现技术转移，助推相关合作企业顺利挂牌全国中小企业股份转让系统（新三板）。</span></p><p class="MsoNormal" style="text-indent:32px;line-height:150%;text-align:left;margin-bottom:8px;"><span style="font-size:16px;line-height:150%;font-family:仿宋;"><span style="line-height:150%;font-family:仿宋;font-size:18px;">先后入选中科院“百人计划”、浙江省“千人计划”（创新）、浙江省</span><span style="font-size:18px;" lang="EN-US">151</span><span style="line-height:150%;font-family:仿宋;font-size:18px;">人才工程培养人员导师库、江苏省双创计划（创业）、及国家“千人计划”（创业）。</span></span></p></td></tr></tbody></table></div></td>
+            </tr>
+          </tbody></table>
+        
+      </div>
+    </div>
+   <div class="display_right" frag="面板41">
+      
+     </div>
+   </div>
+  <div class="cr"></div>
+  <div id="foot" frag="面板01">
+    <table width="100%" height="120" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr>
+          <td width="100"> </td>
+          <td class="copyright" width="700"> Copyright © SCHOOL OF MATERIALS SCIENCE AND ENGINEERING<br> SOUTHEAST UNIVERSITY</td> 
+          <td width="100"> <img src="/_upload/tpl/04/8f/1167/template1167/images/weixin.jpg" alt="学院公众微信号" width="80" height="80"> </td>
+          <td width="300"></td> 
+        </tr> 
+    </tbody></table>    
+  </div>
+
+
+
+
+ <img src="/_visitcount?siteId=43&amp;type=3&amp;articleId=83613" style="display:none" width="0" height="0"></body></html>

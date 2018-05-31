@@ -1,0 +1,119 @@
+name_label 
+name_label ( timelabel 出生 )， 男 ， 博士 ， 教授 ， 博士生导师 。 
+办公电话 ： phonelabel ； 传真 ： phonelabel ； 电话 ： 13651234794 
+E - mail ： maillabel   或   maillabel 
+研究方向 ： 水处理 ， 具体 兴趣 包括 ： 环境微生物 分子 生态学 、 污泥 好 氧 颗粒化 技术 、 污水脱氮除磷 技术 、 生物 吸附 ( 染料 废水 、 重金属 废水 等 )、 环境 催化 等 。 
+欢迎 对 我们 的 研究 感兴趣 的 同学加入 我们 课题组 ， 根据 科研 需要 ， 可以 以 客座 、 考研 、 name_label 直博 等 形式 加盟 ！ 
+主要学术任职 ：  IWA ( 国际 水 协会 ) 会员 ；  booklabel ， booklabel ， booklabel ， booklabel 等国际期刊 的 审稿专家 。 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 等 中文核心期刊 审稿专家 。 
+工作经历 ： 
+timelabel 至今 ， 博士生导师 
+timelabel 至今 ， 北京工业大学环境 与 能源工程学院 ， 教授 
+timelabel - timelabel ， 北京工业大学环境 与 能源工程学院 ， 副教授 
+timelabel - timelabel ， 加拿大 UBC 和 SFU 大学 ， 培训 与 交流   timelabel - timelabel ： 
+北京工业大学环境 与 能源工程学院 ， 讲师 
+学习经历 ： 
+timelabel - timelabel ， 哈尔滨工业大学 ， 市政工程 专业 ， 博士 ， 导师 ： name_label   教授 。 
+博士论文 ： SBR 法 去除 有机物 、 脱 氮除磷 在线 模糊控制 的 基础研究 
+timelabel - timelabel ， 哈尔滨建筑大学 ， 水力学 与 河流 水体 动力学 ， 硕士 ， 导师 name_label 教授 
+timelabel - timelabel ， 哈尔滨建筑大学 ， 给水 排水 专业 ， 本科 
+教学 
+[ 1 ]  水质工程学 I ( 双语 教学 ， 本科课程 ) 
+[ 2 ]  水质工程学 II ( 本科课程 ) 
+[ 3 ]  废水 厌氧生物处理 的 理论 与 技术 ( 研究生课程 ) 
+科研 
+主持 的 科研项目 
+[ 1 ]  国家 自然科学基金面上项目 ( 51078007 , timelabel - timelabel )： 不同 污水 脱氮 工艺 中 AOA 和 AOB 的 种群 数量 和 组成 特征 ； 
+[ 2 ]  国家自然科学基金 青年基金项目 ( 50508001 ， timelabel - timelabel )： 间歇式 好氧颗粒污泥 反应器 的 快速 启动 和 稳定 维持 ； 
+[ 3 ]  北京市自然科学基金面上 项目 ( 811 timelabel ， timelabel - timelabel )： 污水 氨 氧化 过程 中古 菌 与 细菌 相对 贡献 的 研究 ； 
+[ 4 ]  北京市自然科学基金面上 项目 ( 808 timelabel ， timelabel - timelabel )： 新型 好 氧 往复 连续流 颗粒 污泥 反应器 的 基础研究 ； 
+[ 5 ] 北京工业大学 “ 京华 人才 ”， timelabel - 2015.12 
+[ 6 ] timelabel 年度 place_label 属 高等学校 人才 name_label 深化 计划 中 青年骨干 人才 ( P patentlabel ， timelabel - timelabel )： 农业废弃物 生物 吸附 去除 水中 染料 的 应用 基础研究 。 
+[ 6 ]  北京市教育委员会 计划面上项目 ( patentlabel ， timelabel - timelabel )： 内 循环 颗粒 污泥 床 硝化 后 实现 反 硝化 除 磷 的 基础研究 ； 
+[ 7 ]  北京市科技新星计划 A 类 ( timelabel ， timelabel - timelabel )。 
+参加 的 科研项目 ： 
+[ 1 ]  国家自然科学基金项目 ( 59778024 ， timelabel - timelabel )： 活性污泥 法 丝状 菌 污泥 膨胀 的 控制 与 防止 
+[ 2 ]  国家自然科学基金项目 ( 59878016 ， timelabel - timelabel )： SBR 法 的 在线 模糊 控制系统 
+[ 3 ]  国家 自然科学基金重点项目 ( 50138010 ， timelabel - timelabel )： 城市污水 处理系统 的 智能控制 理论 、 方法 和 技术 
+[ 4 ] " 863 计划 " 国家重大 科技专项项目 -" 水污染控制 技术 与 治理 工程 ： 城市污水 SBR 处理工艺 的 设备 成套 化 研究 ( projectlabel ， timelabel - timelabel ) 
+[ 5 ]  国家自然科学基金 --- 国际 ( 地区 ) 重大 合作项目 ( timelabel - timelabel )： 污水脱氮除磷 新理论 、 新工艺 及 过程 控制 
+发表 的 论文 及 主要著作 ： 
+译著 : 
+[ 1 ]  name_label , name_label   译 .  污水处理 系统 的 建模 、 诊断 和 控制 .  化学工业 出版社 , timelabel ( 64.5 万字 ) 
+编著 ： 
+[ 1 ]  环境科学 大辞典 ( 修订版 )， 编委 ， 7 万字 ， 负责 水污染控制 部分 ， 中国环境科学出版社 ， timelabel 
+[ 2 ]  name_label , 白雪 , name_label , name_label , name_label , name_label .  GB / T   26923 - timelabel , booklabel ， 中国标准出版社 ,  timelabel 
+发明专利 : 
+[ 1 ]  name_label ,  name_label ,  name_label ,  name_label ,  name_label .  一种 处理生活污水 亚 硝化 好氧颗粒污泥 的 培养 方法 :  timelabel 10082203.9 [ P ].  timelabel . 
+[ 2 ]  name_label ,  name_label ,  name_label ,  name_label ,  name_label .  生活 污水 常 低温 同时 脱 氮除磷 好氧颗粒污泥 的 培养 方法 :  timelabel 10082222.1 [ P ].  timelabel . 
+论文 :(*： 通讯作者 ) 
+1 )  He ,  Y .;  Gao ,  J .  F .*;  Feng ,  F .  Q .;  Liu ,  C .;  Peng ,  Y .  Z .;  Wang ,  S .  Y .,  The   comparative   stu dy   on   the   rapid   decolorization   of   azo ,  anthraqu ino ne   and   triphenylmethane   dyes   by   zero - val ent   iron .  Chemical   Engineering   Journal   timelabel ,  179 , ( 1 - 3 ),  8 - 18 . ( 封面论文 ， Cover   Paper ， SCI 、 EI 检索 ， SCI影响因子 ： 3.461 ) 
+2 )  Gao ,  J .  F .*;  Wang ,  J .  H .;  Yan g ,  C .;  Wang ,  S .  Y .;  Peng ,  Y .  Z .,  Binary   biosorption   of   A cid   Red   14   and   Reactive   Red   15   onto   a cid   treated   okara :  S imu l tan e ous   spectrophotometric   deter min ation   of   two   dyes   using   partial   least   s qua res   regression .  Chemical   Engineering   Journal   timelabel ,  171 , ( 3 ),  967 – 975 . ( SCI 、 EI 检索 ， SCI影响因子 ： 3.461 ) 
+3 )  Gao ,  J .  F .*;  Zhang ,  Q .;  Wang ,  J .  H .;  Wu ,  X .  L .;  Wang ,  S .  Y .;  Peng ,  Y .  Z .,  Con tributions   of   func tional   groups   and   extracellular   polymeric   sub sta nces   on   the   biosorption   of   dyes   by   aerobic   granules .  Bioresource   Technology   timelabel ,  102 , ( 2 ),  805 - 813 . ( SCI 、 EI 检索 ， SCI影响因子 ： 4.980 ) 
+4 )  Gao ,  J .  F .*;  Zhang ,  Q .;  Su ,  K .;  Wang ,  J .  H .,  Competitive   biosorption   of   Yellow   2G   and   Reactive   Brilliant   Red   K - 2G   onto   inactive   aerobic   granules :  S imu l tan e ous   deter min ation   of   two   dyes   by   first - order   de riv ative   spectrophotome try   and   iso therm   stu dies .  Bioresource   Technology   timelabel ,  101 , ( 15 ),  5793 - 5801 . ( SCI 、 EI 检索 ， SCI影响因子 ： 4.365 ) 
+5 )  Gao ,  J .  F .*;  Zhang ,  Q .;  Su ,  K .;  Chen ,  R .  N .;  Peng ,  Y .  Z .,  Biosorption   of   A cid   Yellow   17   from   aque ous   solution   by   non - living   aerobic   granular   sludge .  Journal   of   Hazard ous   Materials   timelabel ,  174 , ( 1 - 3 ),  215 - 225 . ( SCI 、 EI 检索 ， SCI影响因子 ： 3.723 ， ESI 高 被 引论文 ， timelabel place_label 百篇 最具 影响 国际 学术论文 ， 截止 timelabel ， 被 引 37 次 ) 
+6 )  Gao ,  J .  F .*;  Wang ,  J .  H .;  Yuan ,  Q .;  Yan g ,  C .;  Wang ,  S .  Y .;  Peng ,  Y .  Z .,  Utilization   of   agri cul tural   waste   chestnut   shell   for   the   remo val   of   Reactive   Brilliant   Red   K - 2G   from   aque ous   solution .  Desa lina tion   and   Water   Treatment   timelabel ,  36 ( 1 - 3 ):  141 - 151 . ( SCI检索 ) 
+7 )  Gao ,  J .  F .*;  Wang ,  J .  H .;  Wu ,  X .  L .;  Zhang ,  Q .;  Peng ,  Y .  Z .,  Protonated   spent   mus hroom   sub strate   as   a   potential   low - cost   biosorbent   for   the   remo val   of   Reactive   Red   15   from   aque ous   solutions .  Fresenius   Env iron mental   Bulletin   timelabel ,  20 , ( 1 ),  51 - 62 . ( SCI检索 ) 
+8 )  Gao ,  J .  F .*;  Chen ,  R .  N .;  Su ,  K .;  Zhang ,  Q .;  Peng ,  Y .  Z .,  Inactive   aerobic   granules   as   biosorbent   for   the   remo val   of   anio nic   azo   dye   A cid   Red   14   from   aque ous   solution : Isotherms , kinetics   and   thermod yna mics .  Fresenius   Env iron mental   Bulletin   timelabel ,  18 , ( 9A ),  1681 - 1691 . ( SCI检索 ) 
+9 )  Peng ,  Y .  Z .;  Gao ,  J .  F .;  Wang ,  S .  Y .;  Sui ,  M .  H .,  Use   of   pH   as   fu zzy   con trol   parameter   for   nitrifi cation   und er   different   alkalinity   in   SBR   process .  Water   Science   and   Technology   timelabel ,  47 , ( 11 ),  77 - 84 . ( SCI 、 EI 检索 )( 第一 作者 为 导师 ) 
+10 )  Peng ,  Y .  Z .;  Gao ,  J .  F .;  Wang ,  S .  Y .;  Sui ,  M .  H .,  Use   pH   and   ORP   as   fu zzy   con trol   parameters   of   denitrifi cation   in   SBR   process .  Water   Science   and   Technology   timelabel ,  46 , ( 4 - 5 ),  131 - 137 . ( SCI 、 EI 检索 )( 第一 作者 为 导师 ) 
+11 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  颗粒 活性炭 对 SBR 反应器 中 好氧颗粒污泥 培养 的 影响研究 .  应用 基础 与 工程科学学报   timelabel ,  20 , ( 3 ),  345 - 354 . ( EI 检索 ) 
+12 )  name_label *;  name_label ;  name_label ;  name_label ,  好氧颗粒污泥 在 酸性 红 14 废水 中 的 形成 及 降解 酸性 红 14 机理 的 初步 研究 .  安全 与 环境学报   timelabel ,  11 , ( 1 ),  25 - 29 . 
+13 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  不同 储存 方法 对 好氧颗粒污泥 恢复 的 影响 .  应用 基础 与 工程科学学报   timelabel ,  pp   408 - 415 . ( EI 检索 ) 
+14 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  底物 种类 和 浓度 对 好氧颗粒污泥 丝状 菌 膨胀 的 影响 .  北京工业大学学报   timelabel ,  pp   1027 - 1032 . ( EI 检索 ) 
+15 )  name_label *;  name_label ;  name_label ;  name_label ,  好氧颗粒污泥 对 酸性 红 B 的 生物 吸附 模型研究 .  安全 与 环境学报   timelabel ,  10 , ( 1 ),  25 - 30 . 
+16 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  同步 脱 氮除磷 好氧颗粒污泥 形成 与 反应 机制 的 研究 .  环境科学   timelabel ,  31 , ( 04 ),  1021 - 1029 . 
+17 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  好氧颗粒污泥 同时 脱 氮除磷 实时控制 的 研究 .  中国环境科学   timelabel ,  30 , ( 02 ),  180 - 185 . ( EI 检索 ) 
+18 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ;  name_label ,  连续 进水 对 好氧颗粒污泥 稳定 维持 的 影响 .  环境科学学报   timelabel ,  30 , ( 07 ),  1377 - 1383 . 
+19 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ;  name_label ,  不同 碳源 培养 的 成熟 好氧颗粒污泥 的 分形 表征 .  环境科学   timelabel ,  31 , ( 08 ),  1871 - 1876 . 
+20 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ;  name_label ,  好氧颗粒污泥 对 水溶液 中 酸性 淡黄 2G 的 生物 吸附 .  环境化学   timelabel ,  29 , ( 06 ),  1127 - 1134 . 
+21 )  name_label ;  name_label *;  name_label ;  name_label ;  name_label ,  好氧颗粒污泥 同步 脱 氮除磷 的 常温 启动 和 低温 维持 .  环境科学   timelabel ,  30 , ( 10 ),  2995 - 3001 . 
+22 )  name_label *;  name_label ;  name_label ;  name_label ,  好氧颗粒污泥 生物 吸附 酸性 红 B 的 试验研究 .  安全 与 环境学报   timelabel ,  9 , ( 6 ),  50 - 54 . 
+23 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  间歇式 除 磷 好氧颗粒污泥 反应器 的 快速 启动 .  环境工程   timelabel ,  26 , ( 01 ),  15 - 18 . 
+24 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  三维 荧光 光谱 结合 化学分析 评价 胞外 多聚 物 的 提取 方法 .  环境化学   timelabel ,  27 , ( 05 ),  662 - 668 . 
+25 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  SBR 反应器 排水 高度 与 直径 比对 污泥 好 氧 颗粒化 的 影响 .  中国环境科学   timelabel ,  28 , ( 06 ),  512 - 516 . ( EI 检索 ) 
+26 )  name_label *,  沉淀 时间 及 生物膜 对 实际 生活 污水 形成 好 氧 硝化 颗粒 污泥 的 影响 .  环境科学   timelabel ,  28 , ( 06 ),  1245 - 1251 . ( EI 检索 ) 
+27 )  name_label *;  name_label ;  name_label ,  booklabel 视频 教学系统 的 制作 和 初步 应用 .  中国现代教育装备   timelabel ,, ( 03 ),  35 - 37 . 
+28 )  name_label *;  name_label ;  name_label ,  处理 实际 生活 污水 短程 硝化 好氧颗粒污泥 的 快速 培养 .  环境科学学报   timelabel ,  27 , ( 10 ),  1604 - 1611 . 
+29 )  name_label *;  name_label ;  name_label ,  有机 碳源 对 低 碳氮比 生活 污水 好氧脱 氮 的 影响 .  安全 与 环境学报   timelabel ,  5 , ( 06 ),  11 - 15 . 
+30 )  name_label *;  name_label ;  name_label ,  污水生物处理 模糊控制 的 研发 现状 .  环境科学 与 技术   timelabel ,  27 , ( 01 ),  90 - 93 . 
+31 )  name_label *;  name_label ;  name_label ,  人工神经网络 和 专家系统 在 污水生物处理 系统 中 的 应用 .  环境污染 与 防治   timelabel ,  26 , ( 01 ),  31 - 32 , 38 . 
+32 )  name_label *;  name_label ;  name_label ,  以 pH 作为 SBR 法 硝化 过程 模糊控制 参数 的 基础研究 .  应用 与 环境生物学报   timelabel ,  9 , ( 05 ),  549 - 553 . 
+33 )  name_label *;  name_label ;  name_label ,  SBR 法反 硝化 过程 模糊 控制器 的 设计 和 碳源 投加 方式 的 选择 .  环境科学学报   timelabel ,  23 , ( 06 ),  733 - 737 . 
+34 )  name_label *;  name_label ;  name_label ,  温度 对 亚硝酸 型 硝化 / 反 硝化 的 影响 .  高技术 通讯   timelabel ,  12 , ( 12 ),  88 - 93 . 
+35 )  name_label *;  name_label ;  name_label ,  SBR 法反 硝化 模糊控制 参数 pH 和 ORP 的 变化规律 .  环境科学   timelabel ,  23 , ( 01 ),  39 - 44 . ( EI 检索 ) 
+36 )  name_label *;  name_label ;  name_label ,  DO 和 ORP 与 SBR 法 硝化 反 硝化 的 相关 关系 .  哈尔滨建筑大学 学报   timelabel ,  35 , ( 01 ),  61 - 65 , 93 . 
+37 )  name_label *;  name_label ;  name_label ,  SBR 法 去除 有机物 、 硝化 和 反 硝化 过程 中 pH 变化规律 .  环境工程   timelabel ,  19 , ( 05 ),  21 - 24 . 
+38 )  name_label *;  name_label ;  name_label ;  name_label ,  不同 碳源 及 投量 对 SBR 法反 硝化 速率 的 影响 .  给水 排水   timelabel ,  27 , ( 05 ),  55 - 58 . 
+39 )  name_label *;  name_label ;  name_label ;  name_label ;  name_label ,  以 DO 、 ORP 、 pH 控制 SBR 法 的 脱 氮 过程 .  place_label 给水 排水   timelabel ,  17 , ( 04 ),  6 - 11 . ( EI 检索 ) 
+40 )  name_label ;  name_label ;  name_label ,  模糊控制 在 污水生物处理 系统 中 的 应用 .  环境科学学报   timelabel ,  21 , ( S1 ),  143 - 148 . ( 第一 作者 为 导师 ) 
+41 )  name_label ;  name_label ;  name_label ,  活性污泥 法 动力学模型 的 研究 与 发展 .  给水 排水   timelabel ,  26 , ( 08 ),  15 - 19 . ( 第一 作者 为 导师 ) 
+培养 的 硕士 ： 
+[ 1 ]  已 毕业 ： name_label ( timelabel 级 )； name_label ( timelabel 级 )； name_label ( timelabel 级 )； name_label ( timelabel 级 )； name_label ( timelabel 级 )  name_label 、 name_label 获 北京工业大学 “ 科技之星 ( 1 / 10 )”； name_label 、 name_label 、 name_label 、 name_label 连续 四年 获 北京工业大学 优秀硕士学位论文 ； name_label 、 name_label 获 北京工业大学优秀 硕士 毕业生 。 
+[ 2 ]  在读 ： name_label ( timelabel 级 )； name_label ( timelabel 级 )； name_label ( timelabel 级 ) 
+教学 ： 
+[ 1 ]  讲授 过 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 等 10 门 本科生课程 ； 
+[ 2 ]  1 门 研究生课程 : booklabel 。 
+[ 3 ]  指导本科毕业论文 41 人 ， 指导硕士研究生 8 人 ( 已 毕业 5 人 )。 
+[ 4 ]  timelabel ， booklabel 北京工业大学 第三批 双语 教学 立项 ， 至今 已经 讲授 8 年 。 
+[ 5 ]  主持 完成 北京工业大学 教育教学研究 重点项目 booklabel ， 共 摄制 了 16 个 place_label 的 视频 教学系统 。 
+[ 6 ]  培养 的 3 名 本科生 ( name_label 、 和阳 、 冯 放晴 ) 获 校优秀 毕业论文 ； 1 人获 北京市优秀毕业生 ( 和阳 ) 
+[ 7 ]  指导 2 名 本科生 ( 冯 放晴 、 name_label ) 获 timelabel 、 timelabel 国家大学生创新性实验 计划项目 。 
+[ 8 ]  指导 5 名 本科生 ( 和阳 、 name_label 、 name_label 、 name_label 、 name_label ) 主持 北京工业大学 星火计划 。 
+获奖 
+[ 1 ]  作为 主讲教师 ( 第 2 )， booklabel ， timelabel 年获国家精品 视频 公开课 ； 
+[ 2 ]  作为 主讲教师 ， booklabel 于 timelabel 年获批 北京市精品课程 ， timelabel 年获批 国家级精品课程 。 
+[ 3 ]  作为 骨干成员 ， timelabel ，“ 水污染控制工程 教学团队 ” 被 评为 国家级教学团队 ； 
+[ 4 ]  作为 骨干 ，“ 水污染控制 与 水资源 可持续 利用 团队 ” 获 timelabel place_label 属市 管 高等学校 人才 name_label 计划 学术创新团队 称号 。 
+[ 5 ]  作为 主要 完成 人 ( 第 5 )， timelabel booklabel 获 place_label 高等教育教学成果奖 （ 一等奖 ）。 
+[ 6 ] 北京工业大学 timelabel 年教学优秀奖 （ 个人 ），  JX patentlabel - 23 
+[ 7 ] timelabel 北京工业大学 优秀硕士论文指导 教师 （ 指导硕士 name_label ）。 
+[ 8 ] timelabel 北京工业大学 优秀硕士论文指导 教师 （ 指导硕士 name_label ）。 
+[ 9 ] timelabel 北京工业大学 优秀硕士论文指导 教师 （ 指导硕士 name_label ）。 
+[ 10 ] timelabel 北京工业大学 优秀硕士论文指导 教师 （ 指导硕士 name_label ）。 
+[ 11 ] timelabel 获 北京工业大学优秀 教育教学成果奖 特等奖 ； 
+[ 12 ]  timelabel 获 北京市教育教学成果奖 ( 高等教育 ) 一等奖 。 
+[ 13 ]  timelabel ， 北京工业大学 第六届 青年教师教学基本功 比赛 ( 理工 组 ) 校级 三等奖 。 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

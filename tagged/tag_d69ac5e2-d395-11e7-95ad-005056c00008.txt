@@ -1,0 +1,70 @@
+欢迎登录 
+主页 
+登录 
+CAS   登录 
+西安交通大学 教师个人主页   蔺   杰 
+个人信息 
+科学研究 
+论文发表 
+学术任职 与 交流 
+奖励荣誉 
+人才培养 
+科研团队 
+基本信息 
+选项 
+添加 到 任何   Web   站点 
+name_label   副教授 （ 硕导 ） 
+计算机科学 与 技术 系 
+电子 与 place_label 
+( 西 一楼 - 818 ) 
+教育背景 
+西安交通大学 
+计算机科学 与 技术 系 
+工学学士学位 （ timelabel ） 
+西安交通大学 
+计算机科学 与 技术 系 
+工学博士学位 （ timelabel ） 
+联系方式 
+通信地址 
+西安交通大学 
+电子 与 place_label 
+计算机科学 与 技术 系 
+（ place_label 西路 28 号 ， 710049 ） 
+电子邮箱 
+maillabel 
+maillabel 
+当前 时间 
+站点计数器 
+我 的 新闻 
+英国 爱丁堡大学 Taku   Komura 副教授 来访 
+timelabel - 25 
+美国 Tow son 大学 Chao   Lu 教授 来访 
+timelabel - 22 
+name_label 雪斌 、 name_label 、 name_label 同学 顺利 通过 博士学位论文答辩 ！ 
+timelabel - 24 
+课题组 获得 西安交通大学 timelabel 基本 业务费 前沿 与 综合 交叉 类 项目资助 
+timelabel - 06 
+课题组论文 被 SCI期刊 IEEE   IoT   Journal 接收 
+timelabel - 06 
+招生信息 （ 硕士生 / 本科实习生 ） 
+课题组 常年 招收 计算机 、 通信 、 物 联网 方向 研究生 ， 以及 学 有 余力 的 本科实习生 。 
+欢迎 对 科研 有 浓厚兴趣 ， 具有 相关 背景 及 较 强 编程能力 / 数学功底 的 学生 申请 ！ 
+个人简历 
+name_label ， timelabel 生 ， 博士 ， 副教授 / 硕士生导师 。 timelabel 获得 西安交通大学 工学博士学位 ， 同年留校任教 。 timelabel 至 timelabel 于 美国 乔治 华盛顿大学 进行 访学 研究 。 主要 从 事物联网 数据处理 及 网络安全 方面 研究 。 主持 参与 国家自然科学基金 2 项 以及 省部级项目 5 项 ， 并 在 IEEE   TC , TPDS ,  ICDCS , ICC 等 国际知名期刊 会议上发表学术 论文 30 余篇 ， 其中 SCI检索 10 余篇 ， EI 检索 20 余篇 。 
+学习工作经历 
+timelabel 至今 ， 西安交通大学计算机 科学 与 技术 系 ， 副教授 ， 硕士生导师 ； 
+timelabel 至 timelabel ， 西安交通大学控制 科学 与 工程系 ， 博士后 
+timelabel 至 timelabel ， 美国 The   George   Washington   University ， 访问学者 ； 
+timelabel 至 timelabel ， 西安交通大学计算机 科学 与 技术 系 ， 讲师 ， 硕士生导师 ； 
+timelabel 至 timelabel ， 西安交通大学计算机 科学 与 技术 系 ， 博士研究生 （ name_label ）； 
+timelabel 至 timelabel ， 西安交通大学计算机 科学 与 技术 系 ， 本科 ； 
+研究 领域 
+无线传感器网络 安全 
+Cyber - Physical   System 安全 （ 物联网安全 ） 
+智能电网 通信安全 （ 集中 在 数据完整性 保护 ） 
+版权所有 ： 西安交通大学   站点设计 ： 网络信息中心   陕 ICP 备 05001571 号 
+IPhone版本下载 
+Android版本下载 
+欢迎您访问 我们 的 网站 ， 您 是 第 
+位 访客 
+推荐分辨率 1024 * 768 以上     推荐浏览器IE 7   Fi fef ox   以上 

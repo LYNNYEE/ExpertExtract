@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=232" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="SsFjvaL4CZdC3Z98W+WOiC5klbyxdsopxk/20ror5burb1hlAusnd+LNQR5ZtijdSAqWRF+VVw5pAXdXPQH+yTYmXjSGMzmFMouBXf9f2F0rGhT1guWGnQ/i1NKstvtvBRrAv5QYYIDzL6updCsmglHB0oLpXxeEQJ+fCP7L0TcAOKjVwtASI+BcDms1vZkl5isBtCcK1X/whxeiZVkdjAh2cjWhOee/eli49RZVV90OC3PVE1IehSo8jz6JN5AXyfUZyNEsov+st57r30e1Y00TXtE=" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;段鹏瑞</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/段鹏瑞.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;教师</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;物联网技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        现代交换原理、物联网技术、物联网工程实践</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;多媒体传感网、通信软件与VoIP</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长期从事计算机通信的教学与科研工作，先后负责了《北京移动无线网络优化专家辅助系统》、《VOIP&nbsp;IPPBX综合接入网关与大容量TG中继网关》、《CTI2000智能电话业务平台》、《长城遗址保存状态智能感知关键技术研究—远程可靠传输技术机制研究》等多个项目。作为主研人员，参加了国家重大专项《泛在网络下多终端协同的网络控制平台及关键技术》、国家科技支撑项目《南水北调中线水质预警监测示范工程》。&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;在科研工作，开发了NO.7信令、PRI信令、中国一号信令的协议栈，开发了H.248、MGCP、H.323、SIP等VOIP协议。研发了集成接入设备IAD、中继网关TG、综合接入网关IPPBX等交换设备，并应用于国内公用通信网、银行、公安、电力、邮政等专用通信网。同时，产品出口到北美、俄罗斯、印度、欧洲等地，应用部署于国外的通信网络。<br><br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;<br>国家自然科学基金：物联网绿色节能理论与关键技术<br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">发表论文十余篇，参与编写教材三部。</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教三楼632</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;dpr@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

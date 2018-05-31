@@ -1,0 +1,100 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="西电，西安电子科技大学，导师信息，教师，个人主页"> 
+<meta name="description" content="西安电子科技大学教师个人主页系统采用PHP和MySQL开源技术开发，目的是为西电教师提供一个展示个人学术研究与教学工作的平台，扩大学校在互联网上的影响力。本系统是由西电电子工程学院网络信息中心开发维护，得到信息化建设处大力支持。"> 
+<meta name="keywords" content="西电，西安电子科技大学，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>朱守平 | 个人信息 | 西安电子科技大学个人主页</title>
+<link href="/css/style_1.css" rel="stylesheet" type="text/css">
+					<link href="/css/basic.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+				<div class="topaction">	
+			<span><a href="http://meeting.xidian.edu.cn" title="学术信息网" target="_blank">学术信息网</a></span>	
+			<span><a href="http://www.xidian.cc" title="西电导航" target="_blank">西电导航</a></span>
+			<span><a href="/about.php" target="_blank">关于</a></span>
+			<span><a href="/help.php" target="_blank">使用说明</a></span>
+			<span><a href="/prisearch.php" target="_blank">搜索</a></span>
+			<span><a href="/index.php" target="_blank">系统首页</a></span>
+			<span><a href="/login.php" target="_blank">登录</a></span>		
+			<span><a href="/user/pageInfo.php" target="_blank">控制面板</a></span>		
+			<span><a href="javascript:addBookmark('http://web.xidian.edu.cn/zhushouping/index.html', '朱守平 | 个人信息 | 西安电子科技大学个人主页');">收藏</a></span>
+			<span><a href="/guestbook/index.php?u=zhushouping" style="color:#6BB228;" target="_blank">朱守平的留言板</a></span>
+			<div style="clear:both"></div>
+	</div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+    <div id="logo"><a href="/index.php" target="_blank"><img src="/img/style_1/logo.jpg" title="返回首页"></a></div>
+<!--导航-->
+    <div id="lead_1">
+        <ul id="leader">
+            <li><a href="index.html" target="_blank">朱守平的主页:</a></li><li><a href="index.html" target="_blank">个人信息</a></li><li><a href="research.html" target="_blank">科学研究</a></li><li><a href="paper.html" target="_blank">论著专利</a></li><li><a href="teach.html" target="_blank">课程教学</a></li><li><a href="forstudent.html" target="_blank">招生信息</a></li><li><a href="zhaopin.html" target="_blank">招聘信息</a></li>
+        </ul>
+    </div>
+</div>
+
+<!--中间-->
+<div id="middle">
+			<div id="dom0" style="margin:1px 0 0 0; float:left; width:250px; display:inline;"><div class="mo" style="HEIGHT: auto; WIDTH: auto; LEFT: 131px; TOP: 118px">
+<div style="display:none;"><span onclick="removeProc(this);" class="dragBottom"><img title="删除栏目" src="http://web.xidian.edu.cn/img/delete.png"></span><span onclick="ckeditorOnloadFun(0);" class="dragBottom"><img title="编辑栏目" src="http://web.xidian.edu.cn/img/edit.png"></span><span onclick="rename(0);" class="dragBottom"><img title="栏目标题" src="http://web.xidian.edu.cn/img/rename.png"></span></div>
+<div class="drag"><span id="t0">基本信息</span></div><!--ckstartn0-->
+<div id="n0" class="nr">
+<p><img style="HEIGHT: 200px; WIDTH: 148px" alt="" src="http://web.xidian.edu.cn/zhushouping/images/20110712_112041.jpg"></p>
+<p style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">朱守平　教授</p>
+<p style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">硕士、博士研究生导师</p>
+<p style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">所在学院：生命科学技术学院</p></div><!--ckendn0--></div>
+<div class="mo" style="HEIGHT: auto; WIDTH: auto; LEFT: 99px; TOP: 597px">
+<div style="display:none;"><span onclick="removeProc(this);" class="dragBottom"><img title="删除栏目" src="http://web.xidian.edu.cn/img/delete.png"></span><span onclick="ckeditorOnloadFun(3);" class="dragBottom"><img title="编辑栏目" src="http://web.xidian.edu.cn/img/edit.png"></span><span onclick="rename(3);" class="dragBottom"><img title="栏目标题" src="http://web.xidian.edu.cn/img/rename.png"></span></div>
+<div class="drag"><span id="t3">联系方式</span></div><!--ckstartn3-->
+<div id="n3" class="nr">
+<p>通信地址：西安市长安区西沣路266号</p>
+<p style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">电子邮箱：<a href="mailto:spzhu@xidian.edu.cn" target="_blank">spzhu@xidian.edu.cn</a></p>
+<p style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">办公地点：西安电子科技大学南校区G404</p></div><!--ckendn3--></div></div>
+			<div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;"><div class="mo" style="HEIGHT: auto; WIDTH: auto; LEFT: 398px; TOP: 149px">
+<div style="display:none;"><span onclick="removeProc(this);" class="dragBottom"><img title="删除栏目" src="../img/delete.png"></span><span onclick="ckeditorOnloadFun(2);" class="dragBottom"><img title="编辑栏目" src="../img/edit.png"></span><span onclick="rename(2);" class="dragBottom"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t2">个人简介</span></div><!--ckstartn2-->
+<div id="n2" class="nr">
+<p><span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;1980年生于河北昌黎。分别于2004年、2007年在西安电子科技大学获得生物医学工程专业学士学位、信号与信息处理专业硕博士学位，于2010年在中科院自动化研究所获得模式识别与智能系统专业博士学位。2010年7月回西安电子科技大学参加工作，2010年9月至2011年03月到希腊电子结构域激光研究所从事博士后研究。2012年6月晋升副教授，2015年入选西安电子科技大学首批“工程型菁英人才”，2017年7月晋升教授。</span></p>
+<p><span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;近年来的研究工作主要围绕多模态影像系统开发和成像方法研究展开，以主持人获得国家重点研发计划项目、国家自然科学基金面上项目、国家自然科学基金青年项目，北京市自然科学基金项目子课题资助各1项，同时参与国家重大科研仪器专项子课题研制，科研经费充足。作为硬件系统研发团队的主要负责人，先后参与了自发荧光分子影像系统、micro-CT系统、光学分子影像与micro-CT双模态系统，小动物光学-PET-CT 多模态成像系统、光学投影断层成像系统、新型X射线发光成像系统的开发工作，其中micro-CT成像系统已实现产业化推广，同时与西京医院、西安交通大学生命科学技术学院、陕西师范大学、西安市红会医院等科研单位建立的深入的合作关系。在IEEE Trans Med Imaging，Applied Physics Letters，Medical Physics，Biomedical Optics Express等业界主流期刊发表论文多篇，授权发明专利5项（第一发明人），获教育部高等学校科学研究优秀成果奖科技进步二等奖1项(第3完成人)，获陕西高等学校科学技术二等奖(第2完成人)1项。</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div><!--ckendn2--></div>
+<div class="mo" style="HEIGHT: auto; WIDTH: auto; LEFT: 655px; TOP: 144px">
+<div style="display:none;"><span onclick="removeProc(this);" class="dragBottom"><img title="删除栏目" src="../img/delete.png"></span><span onclick="ckeditorOnloadFun(1);" class="dragBottom"><img title="编辑栏目" src="../img/edit.png"></span><span onclick="rename(1);" class="dragBottom"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t1">主要研究方向</span></div><!--ckstartn1-->
+<div id="n1" class="nr">
+<p><span class="style4">☆ 多模态分子影像<br>☆ 新型影像系统研发</span></p>
+<p><span class="style4">☆ 医学三维重建与GPU加速</span></p>
+<p><span class="style4"><span class="style4">☆ Micro-CT成像、micro-PET成像，荧光/光学三维成像</span></span></p>
+<p>&nbsp;</p></div><!--ckendn1--></div></div>
+			</div>
+
+<!--底部-->
+<div id="bottom">
+<span style="color:red;">版权声明:</span>未经西安电子科技大学以及个人主页教师本人许可不得复制,转载传播本主页内容或用于任何商业用途,如需转载请征得主页所有者同意,并附上主页链接.<br>
+<a href="/index.php" style="color:#6BB228;" target="_blank">西安电子科技大学个人主页</a>　<a href="/sitemap.xml" target="_blank">站点地图</a> | <!--teacher--> | <a href="/guestbook/index.php?u=zhushouping" style="color:#6BB228;" target="_blank">朱守平的留言板</a> | 更新日期 :2017-09-15 | <script src="http://s19.cnzz.com/stat.php?id=3154940&amp;web_id=3154940&amp;show=pic" language="JavaScript"></script><script src="http://c.cnzz.com/core.php?web_id=3154940&amp;show=pic&amp;t=z" charset="utf-8" type="text/javascript"></script><a href="http://www.cnzz.com/stat/website.php?web_id=3154940" target="_blank" title="站长统计"><img src="http://icon.cnzz.com/img/pic.gif" vspace="0" hspace="0" border="0"></a>
+ | <iframe src="/include/count.php?id=3015&amp;lg=0" scrolling="no" allowtransparency="true" style="vertical-align:middle" height="22px" frameborder="0"></iframe>
+<br>
+Copyright © 2011-2016 西安电子科技大学 版权所有 陕ICP备021284(05016169)　Powered by <a href="http://www.xidian.edu.cn/xxhjsc/index.htm" target="_blank">信息化建设处</a> &amp; <a href="http://see.xidian.edu.cn/nic" target="_blank">电院网络中心</a>
+</div>
+</div>
+<script>
+    function addBookmark(url, label) {  
+        if (document.all)  
+        {  
+            window.external.addFavorite(url, label);  
+        }  
+        else if (window.sidebar)  
+        {  
+            window.sidebar.addPanel(label, url, '');  
+        }  
+    }  
+</script>
+
+</body></html>

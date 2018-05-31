@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=51" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="Gpr72uA3RCImL677xBmq7ClxepotQc0QCVzrOKF33lPqECkkigRZhW1URu59R1ExZ6901kDwWTIcF++jKAa6Zuw9sTylt5A8C/jmwB4e+dey2uCMLzHG5eeBv95it1M+zdHxS2nnIvd+Z4uGltEkJD19AkFKwhYTzIFWvAJio16w06KcMyXMTPYRZDIa5TGtDgOT/j0tAECPiNABUnVKF2JNMEd55obWTmG4HQAsyFtIGH7j" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;叶文</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/叶文.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;计算机应用技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        操作系统，数据库系统原理，算法设计与分析，移动计算</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;移动通信软件，网络优化，通信网络智能控制</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;1997年至今，在北京邮电大学计算机学院工作。具有多年移动通信系统、移动通信网络优化技术研究开发经历。<br>曾先后参加中国普天信息产业集团、东方通信股份有限公司的第2代、第3代CDMA移动通信网络基站子系统的开发工作。<br>近年来，一直从事移动通信网络优化技术、移动通信软件研发及应用工作，在2G/3G/4G移动通信网络优化方面积累了较为丰富的经验。<br>作为主研人员，参加工信部新一代宽带无线移动通信网重大专项&nbsp;“TD-LTE网络优化工具开发”，完成子课题“面向场景的TD-LTE参数优化配置”；与广东省电信工程有限公司、华为技术有限公司等多家单位合作，完成多项网络优化关键技术和软件系统开发，如网络覆盖干扰分析、网络软容量实时控制、CDMA网络优化平台、天馈参数自动核查、移动数据业务建模分析、室内外移动定位、数据业务热点分析，部分成果应用于广东、辽宁等地移动通信网络运维。<br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;作为主研人员，完成科研项目“电信与多媒体服务网格”，负责其中网络优化网格开发及应用。该成果获得2008年度中国电子学会电子信息科学技术奖二等奖，本人排名第三。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px"></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;010-62282633</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学教三楼916/918</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;yewen@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

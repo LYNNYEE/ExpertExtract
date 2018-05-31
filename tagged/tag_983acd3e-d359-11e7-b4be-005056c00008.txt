@@ -1,0 +1,48 @@
+教师个人信息 
+姓名 
+name_label 
+性别 
+男 
+职务 
+学术兼职 
+中国计算机学会会员 
+老师类型 
+硕导 
+所属中心 
+物 联网 技术 中心 
+职称 
+副教授 
+承担课程 
+物 联网 技术 导论 ， 物 联网 信息处理 ， 计算机图形学 
+研究方向 
+大 数据分析 与 管理 ， 云计算 ， 多媒体信息处理 
+个人介绍 
+name_label ， 男 ， 博士 ， 北京邮电大学 计算机学院副教授 。 timelabel 在 北京邮电大学 获博士学位 ， 曾 在 美国 IIT 进行 访问研究 。 主要研究方向 为 大 数据分析 与 管理 、 云计算 、 多媒体信息处理 。 主持 和 参与 多 项国家自然科学基金 、 国家 973 项目 、 国家 863 项目 和 企业研发项目 。 在 大数据 、 云计算 和 网络 多媒体系统 等 方面 取得 一 系列创新性成果 ， 在 IEEE   Transactions 、 IEEE   INFOCOM 、 IEEE   Bigdata 、 IEEE   Cloud 等 国际 国内 权威 刊物 和 会议上发表论文 10 余篇 ， 负责 和 参与 制定 多项 ITU （ 国际电信联盟 ） 标准 。 曾 担任 多个 国际学术会议 和 刊物 的 论文评阅人 。 
+承担课题 
+主持 ： 
+国家自然科学基金青年 项目 “ 物 联网 环境 下 视频大数据 处理 平台 设计理论 与 关键技术 研究 ”； 
+教育部博士点 学科 专项科研基金 课题 “ 面向 物 联网 视频 数据中心 的 大数据 分布式计算 理论研究 ”； 
+国家 863 计划项目子课题 “ 基于 深度学习 的 大数据 语义 分析 技术 ”（ 合作 ）； 
+参与 ： 
+国家重点基础研究 发展计划 （ 973 计划 ） 项目 “ 物联网体系结构 基础研究 ”； 
+国家自然科学基金 杰出青年项目 “ 网络 环境 中 多媒体计算 ”； 
+工信 部物 联网 发展 专项资金 项目 “ 基于 视频大数据 处理 平台 的 城市 公共 智能 安防 系统 的 研究 与 应用 示范  ”； 
+北京市教委共建项目 “ 视频 数据中心 关键技术 研究 ”。 
+获奖 和 成果 
+timelabel 年度中国 人工智能 学会 优秀博士学位论文 提名奖 。 
+发表论文 
+代表性论文 ： 
+[ 1 ]  Haitao   Zhang ,  Hua dong   Ma ,  Xian gyang   Li ,  Shaojie   Tan g , “ In - Network   Estimation   with   Delay   Con straints   in   Wireless   Sensor   Networks ”,  IEEE   Transactions   on   Parallel   and   Distributed   Systems  ( IEEE   TPDS ),  Vol .  24 ,  No .  2 ,  pp .  368 - 380 ,  Feb .  timelabel . 
+[ 2 ]  Haitao   Zhang ,  Shaojie   Tan g ,  Xian gyang   Li ,  Hua dong   Ma , “ Tracking   and   Identif yin g   Burglar   using   Collaborative   Sensor - Camera   Networks ”,  the   31st   A nnu al   IEEE   International   Con ference   on   Computer   Commu nic ations - Mini   Con ference  ( IEEE   INFOCOM   timelabel ),  Mar .  timelabel ,  pp .  2596 - 2600 . 
+[ 3 ]  Haitao   Zhang ,  Hua dong   Ma ,  Xian g - Yan g   Li ,  Shaojie   Tan g ,  Xia ohua   Xu , “ Energy - Efficient   Scheduling   with   Delay   Con straints   for   Wireless   Sensor   Networks :  A   Cal cul us - Based   Perspective ”,  Computer   Commu nic ations ,  vol .  35 ,  no .  16 ,  Sep .  timelabel ,  pp .  timelabel - timelabel . 
+[ 4 ]  Haitao   Zhang ,  Hua dong   Ma ,  Xian gyang   Li , “ Estimate   Aggregation   with   Delay   Con straints   in   Multihop   Wireless   Sensor   Networks ”,  ACM / IEEE   International   Con ference   on   Cyber - Physical   Systems  ( ACM / IEEE   ICCPS   timelabel ),  Apr .  timelabel ,  pp .  184 - 193 . 
+[ 5 ]  Haitao   Zhang ,  Hua dong   Ma , “ In - Network   Puncturing   for   Delay - Efficient   Rate   Con trol   of   Distributed   Video   Coding   in   Wireless   Video   Sensor   Networks ”,  China   Commu nic ations ,  Vol .  9 ,  no .  6 ,  timelabel ,  pp .  45 - 54 . 
+[ 6 ]  Xia omeng   Zhao ,  Hua dong   Ma ,  Haitao   Zhang ,  Yi   Tan g ,  Guang pin g   Fu , “ Metadata   Extraction   and   Correction   for   Large - Scale   Tr aff ic   Surveillance   Videos ”,  The   IEEE   International   Con ference   on   Big   Data   timelabel  ( IEEE   BigData   timelabel ),  timelabel . 
+[ 7 ]  Xia omeng   Zhao ,  Hua dong   Ma ,  Haitao   Zhang ,  Yi   Tan g ,  Yue   Kou , “ HVPI :  Ext end ing   Hadoop   to   Support   Video   Analytic   Appli cation s ”,  IEEE   8th   International   Con ference   on   Cloud   Computing  ( IEEE   Cloud   timelabel ). 
+联系电话 
+（ 010 ） 62282767 
+工作地点 
+教三 632 
+email 
+maillabel 
+备注 

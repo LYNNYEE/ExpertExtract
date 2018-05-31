@@ -1,0 +1,522 @@
+<html><head><title>韩伟-西安电子科技大学人文学院</title><meta name="keywords" content="西安电子科技大学人文学院,韩伟">
+<meta name="description" content="基本概况																																							姓&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;名：韩伟									毕业学校：兰州大学									职称/职务：教授（博士生导师）、系主任									办公地点：人...">
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta name="description" content="（通讯员 焦路）清风送爽，秋雨蒙蒙，9月5日早8时，人文学院14级汉语言文学、哲学专业共二十五名同学，在院长助理马得林、院长助理穆宏浪、实习指导老师张玉、余博的陪同下，乘"><link rel="stylesheet" type="text/css" href="../../dfiles/16225/templets/default/css/style.css"><script type="text/javascript" src="../../dfiles/16225/templets/default/js/jquery1.42.min.js"></script><script type="text/javascript" src="../../dfiles/16225/templets/default/js/jquery.superslide.2.1.1.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323069754754525a554303070000 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1017,'/content.jsp',1803,1393987749)</script>
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=419946"></script><link rel="stylesheet" href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=6aba13f0.css"></head>
+<body>
+<div class="header">
+<div class="header_wrap">
+<div class="top_right">
+<div class="homepage"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>    <a href="http://www.xidian.edu.cn" target="_blank">学校主页</a>
+</div>
+<div class="search_box">
+
+
+
+
+
+<form action="../../ssjgy.jsp?wbtreeid=1017" method="post" name="a189689a" onsubmit="return subsearchdataa189689a()" style="display: inline;">
+  <input name="Find" value="find" type="hidden"><input name="entrymode" value="1" type="hidden"><input id="INTEXT2" name="INTEXT2" value="" type="hidden"><input name="news_search_code" type="hidden">
+ 
+                <span id="intextspana189689a"></span>
+                <iframe id="intextframea189689a" src="about:blank" scrolling="no" style="position:absolute;top:0px;left:0px;display:none;" frameborder="0"></iframe>
+                <input name="INTEXT" class="search_txt" value="" placeholder="请输入关键词" type="text">
+           
+                    <div style="position: absolute;z-index: 10;right: 3px;top: 8px;">
+                    <input src="../../dfiles/16225/templets/default/images/search_btn.png" type="image"></div>
+
+          
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa189689a()
+{ 
+    if(document.a189689a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa189689a(document.a189689a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script language="JavaScript" src="../../_dwr/engine.js"></script>
+    <script language="JavaScript" src="../../_dwr/util.js"></script>
+    <script language="JavaScript" src="../../_dwr/interface/NewsSearchDWR.js"></script>
+    <script language="JavaScript" src="/system/resource/js/vsb_news_search.js"></script>
+    <script language="JavaScript" src="/system/resource/js/vsb_news_search_entry.js"></script>  
+    <script language="JavaScript" src="/system/resource/js/language.js"></script>
+    <script language="JavaScript" src="/system/resource/js/base64.js"></script>
+    <script language="JavaScript" src="/system/resource/js/formfunc.js"></script>    
+    
+    <script>    
+    news_searcha189689a = new vsb_news_search();
+    news_searcha189689a.isShowCode=false;
+    news_searcha189689a.tooltipid = 'tooltipa189689a';
+    news_searcha189689a.apptag = 'intextspana189689a';
+    news_searcha189689a.frametag = 'intextframea189689a';
+    news_search_entrya189689a = new vsb_news_search_entry();
+    news_search_entrya189689a.formname = "a189689a";
+    news_search_entrya189689a.news_search_obj = news_searcha189689a; 
+    news_search_entrya189689a.querytxtsize = 155
+    news_search_entrya189689a.yzmts ="您的查询过于频繁，请输入验证码后继续查询";
+    news_search_entrya189689a.qdstyle ="";
+    news_search_entrya189689a.qdname = "确定";
+    news_search_entrya189689a.qxstyle = "";
+    news_search_entrya189689a.qxname = "取消";
+    news_search_entrya189689a.showstr='请输入查询验证码！';    
+    function checkDataa189689a(formname)
+    {    
+        return news_search_entrya189689a.checkdata(formname)   
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div></div></div></div>
+<div class="navigation">
+<ul id="nav" class="nav clearfix">
+
+
+
+<li class="nLi on" id="t0">
+
+
+<h3><a href="../../index.htm" target="_blank">首页</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../xygk.htm" target="_blank">学院概况</a></h3>
+	<ul class="sub">
+
+			<li><a href="../../xygk/xyjj.htm" target="_blank">学院简介</a> </li>
+						
+		
+			<li><a href="../../xygk/xyld.htm" target="_blank">学院领导</a> </li>
+						
+		
+			<li><a href="../../xygk/xybgs.htm" target="_blank">学院办公室</a> </li>
+						
+		
+			<li><a href="../../xygk/xgbgs.htm" target="_blank">学工办公室</a> </li>
+						
+					</ul>
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../szdw.htm" target="_blank">师资队伍</a></h3>
+	<ul class="sub">
+
+			<li><a href="../../szdw/zxx.htm" target="_blank">哲学系</a> </li>
+						
+		
+			<li><a href="../../szdw/zwx.htm" target="_blank">中文系</a> </li>
+						
+		
+			<li><a href="../../szdw/ysx.htm" target="_blank">艺术系</a> </li>
+						
+		
+			<li><a href="../../szdw/lsx.htm" target="_blank">历史系</a> </li>
+						
+		
+			<li><a href="../../szdw/smkxysmjyyjzx.htm" target="_blank">生命科学与生命教育研究中心</a> </li>
+						
+		
+			<li><a href="../../szdw/gdjyyjs.htm" target="_blank">高等教育研究所 </a> </li>
+						
+					</ul>
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../xkjs.htm" target="_blank">学科建设</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../jxky.htm" target="_blank">教学科研</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../dqgz1.htm" target="_blank">党群工作</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../xsgz.htm" target="_blank">学生工作</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../glzd.htm" target="_blank">管理制度</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../rczp.htm" target="_blank">人才招聘</a></h3>
+	
+				</li>
+
+</ul><script>
+				$(function(){
+					var tid=$("#tid").val();
+					if(tid==""){
+						$("#t0").addClass("cur");
+					}else{
+						$("#t"+tid).addClass("cur");
+					}
+				})
+			</script><script id="jsID" type="text/javascript">
+				jQuery("#nav").slide({ 
+					type:"menu",// 效果类型，针对菜单/导航而引入的参数（默认slide）
+					titCell:".nLi", //鼠标触发对象
+					targetCell:".sub", //titCell里面包含的要显示/消失的对象
+					effect:"slideDown", //targetCell下拉效果
+					delayTime:300 , //效果时间
+					triggerTime:0, //鼠标延迟触发时间（默认150）
+				});
+			</script></div>
+<div class="subbanner"></div>
+<div class="page_wrap">
+<div class="page_left">
+<div class="position">    西安电子科技大学人文学院:
+                        <a href="../../index.htm" target="_blank">首页</a>
+                &gt;&gt;
+                <a href="../../szdw.htm" target="_blank">师资队伍</a>
+                &gt;&gt;
+                <a href="../../szdw/zwx.htm" target="_blank">中文系</a>
+                &gt;&gt;
+                正文
+</div>
+<div class="page_main">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1803,'1393987749','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="page_main">
+
+<form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+
+    <div class="page_tit">韩伟</div>
+    <div class="page_info">
+						<div class="page_info_left">作者：&nbsp;&nbsp;&nbsp;&nbsp;时间：2017-09-21</div>
+						<div class="bdsharebuttonbox bdshare-button-style0-16" data-bd-bind="1511810853615">
+							<span style="float: left;">分享到：</span>
+							<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+							<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+							<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+							<a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+							<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+							<a href="#" class="bds_more" data-cmd="more"></a>
+						</div>
+						<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+					</div>
+
+
+
+
+
+    
+    <div class="page_body"><div id="vsb_content"><div class="v_news_content">
+<div class="tabbody">
+							<div class="tabtit">
+								基本概况
+							</div>
+							<div class="tabinfo">
+								<div class="tabpic"><img src="/__local/8/04/CD/B345B86FD9CC4C220CD773F59F8_66E26FE4_C748.jpg?e=.jpg"></div>
+								<div class="tabdesc">
+									<p>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：韩伟</p>
+									<p>毕业学校：兰州大学</p>
+									<p>职称/职务：教授（博士生导师）、系主任</p>
+									<p>办公地点：人文学院135室</p>
+									<p>研究方向：中国语言文学，主要研究方向为文艺学、中国现当代文学</p>
+									<p>电子邮件：ldhanwei@163.com</p>
+								</div>
+							</div>
+							<div class="tabtit">
+								研究项目
+							</div>
+							<div class="tabinfo">
+								1、获得第43批博士后基金一等资助，编号：20080430060。（5万）<br>
+2、获得第二批博士后基金特别资助，项目编号：200902177。（10万）<br>
+3、主持国家社科基金，项目编号：09CZW067，项目名称：《&lt; 格萨尔&gt;文学人类学研究》。（8万）<br>
+4、主持甘肃省高等学校基本科研业务费项目。（10万）<br>
+5、陕西省第二批“人文英才”支持计划项目。（8万）
+							</div>
+							<div class="tabtit">
+								获奖情况
+							</div>
+							<div class="tabinfo">
+								1、获得第七届全国当代少数民族文学评论奖（颁奖日期：2009年11月10日。）<br>
+2、获得2010年甘肃省高校社科成果奖二等奖。<br>
+3、获得第十二次甘肃省社科优秀成果奖三等奖。<br>
+4、获得2012年甘肃省高校社科成果奖一等奖。<br>
+5、获得2014年甘肃省高校社科成果奖一等奖。
+							</div>
+							<div class="tabtit">
+								教学工作
+							</div>
+							<div class="tabinfo">
+								为本科生开设：《美学》、《中国现代文学史》<br>
+为硕士研究生开设：《美学原理》<br>
+为博士生开设：《管理文化研究专题》
+							</div>
+							<div class="tabtit">
+								发表代表性论著
+							</div>
+							<div class="tabinfo">
+								一、论文：<br>
+1、《&lt; 格萨尔&gt;史诗的音乐性解读》，《青海民族学院学报》2003年第2期。<br>
+2、《&lt; 大漠祭&gt;的生态审美解读》，《小说评论》2003年第1期。(CSSCI)<br>
+3、《史的构建与精神文化的巡礼》，《中国藏学》2004年第4期。(CSSCI)<br>
+4、《智者的镜像：雷达批评论》，《小说评论》2004年第5期。(CSSCI)<br>
+5、《雷达批评精神风骨》，《文艺报》2004、10、19。人大书报复印资料《中国现当代文<br>
+学研究》2004年第12期全文转载。<br>
+6、《缺失理性的高蹈批评——韩石山&lt; 鲁研界里无高手&gt;的批判》，《榆林学院学报》<br>
+2004年第4期。<br>
+7、《&lt; 格萨尔&gt;史诗母题研究》，《西藏研究》2005年第1期。(CSSCI)<br>
+8、《&lt; 格萨尔&gt;史诗的原始特征》，《甘肃联合大学学报》2005年第1期。<br>
+9、《生存状态的描绘与西部精神的展示——评雪漠的长篇小说&lt; 大漠祭&gt;》，《唐都学刊》<br>
+2005年第1期。<br>
+10、《&lt; 格萨尔&gt;史诗幻变母题研究》，《廊坊师范学院学报》2005年第2期。<br>
+11、《&lt; 格萨尔&gt;原型的独特内涵》，《中国人民大学学报》2005年第3期，人大复印资料<br>
+《中国古代、近代文学研究》2005年第10期全文转载。(CSSCI)<br>
+12、《民间艺术的开掘与西部风度的呈现》，《中国音乐学》2005年第2期。(CSSCI)<br>
+13、《从文学看和谐社会之构建》，《唐都学刊》2005年第4期，人大复印资料《社会主<br>
+义论丛》2005年第11期全文转载。<br>
+14、《哲理散文与散文的哲学意蕴》，《甘肃社会科学》2006年第2期。(CSSCI)<br>
+15、《清代“西调”研究述论》，《民族艺术》2007年第4期。(CSSCI)<br>
+16、《“西曲”与陕西曲子再议》，《交响》2008年第1期。(CSSCI)<br>
+17、《&lt; 格萨尔&gt;史诗的文学意义》，《民族文学研究》2008年第2期。(CSSCI)<br>
+18、《&lt; 格萨尔&gt;生命美学思想论》，《中国藏学》2008年第2期。(CSSCI)<br>
+19、《新世纪以来的文学批评》，《甘肃社会科学》2009年第2期。人大复印资料《文艺<br>
+理论》2009年第8期全文转载。(CSSCI)<br>
+20、《论&lt; 格萨尔&gt;史诗的巫术文化内涵》，《西藏研究》2009年第2期。(CSSCI)<br>
+<br>
+21、《重识异彩：李健吾批评论》，《南方文坛》2009年第3期。(CSSCI)<br>
+22、《&lt; 格萨尔&gt;史诗原型系统》，《青海社会科学》2009年第4期，人大复印资料<br>
+《中国古代、近代文学研究》2010年第1期全文转载。(CSSCI)<br>
+23、《文学回归自身与走向自觉的文学批评》，《中国社会科学院研究生院学报》2009年<br>
+第4期。人大复印资料《文艺理论》2009年第11期转载。《高等学校文科学术文摘》<br>
+2009年第5期转摘。(CSSCI)<br>
+24、《重建中国当代文学批评的价值体系》，《文学评论》2009年第5期。(CSSCI)<br>
+25、《美学视野下的理论体系建构》，《甘肃联合大学学报》2009年第5期。<br>
+26、《论&lt; 格萨尔&gt;史诗的仪式性》，《西藏研究》2009年第6期。(CSSCI)<br>
+27、《政治解冻与文学批评生命的获得》，《西北师大学报》2010年第2期。人大复印资<br>
+料《文艺理论》2010年第8期全文转载。(CSSCI)<br>
+28、《激情的介入与诗意地拯救》，《中国社会科学院研究生院学报》2010年第2期。(CSSCI)<br>
+29、《人性的拷问与理想的憧憬》，《小说评论》2010年第3期。(CSSCI)<br>
+30、《敦煌艺术及其再生研究》，《文艺研究》2010年第4期。(CSSCI)<br>
+31、《价值重识：马列文论资源及其中国化》，《新视野》2010年第3期。(CSSCI)<br>
+32、《数字：&lt; 格萨尔&gt;史诗象征系统的一个典型》，《青海社会科学》2010年第4期。(CSSCI)<br>
+33、《原型与&lt; 格萨尔&gt;传唱》，《中国藏学》2010年第4期。(CSSCI)<br>
+34、《原型与&lt; 格萨尔&gt;文本》，《青海社会科学》2011年第2期。(CSSCI)<br>
+35、《媒体时代的文学批评》，《中国社会科学院研究生院学报》2011年第3期。人大<br>
+复印资料《文艺理论》2011年第8期转载。(CSSCI)<br>
+36、《返观与重构：经典重拍的冷思考》，《北京联合大学学报》2011年第2期。(CSSCI)<br>
+37、《意义的发现：历史文化与诗性情怀》，《当代文坛》2011年第6期。(CSSCI)<br>
+38、《文学经典：一个必不可少的参照系》，《甘肃社会科学》2012年第1期。(CSSCI)<br>
+39、《重塑中国文学的思想性》，《西北师大学报》2012年第2期。人大复印资料《中国现当代文学研究》2012年第7期全文转载。(CSSCI)<br>
+40、《文学批评的价值坚守与批评家的责任意识》，《小说评论》2012年第2期。人大<br>
+复印资料《文艺理论》2012年第7期全文转载。(CSSCI)<br>
+41、《观念、方法与学术思想的内在张力》，《甘肃联合大学学报》2013年第1期。<br>
+42、《当代马列文论研究的“瓶颈”问题》，《甘肃社会科学》2013年第3期。人大复<br>
+<br>
+印资料《文艺理论》2013年第8期全文转载。《新华文摘》2013年第17期，论点摘编。<br>
+43、《科学性：文学批评的立法原则》，《中国社会科学报》2013年8月2日文学B01。<br>
+44、《民族关系研究的深化与突破》，《甘肃联合大学学报》2013年第6期。<br>
+45、《“民国性”：民国文学研究的应有内涵》，《西北师大学报》2014年第2期。(CSSCI)<br>
+46、《现实与隐喻：诗意的理解与哲性的沉思》，《小说评论》2014年第2期。(CSSCI)<br>
+47、《民国文学：一种新的研究范式在崛起》，《甘肃社会科学》2014年第4期。(CSSCI)<br>
+48、《高建群小说创作论》，《小说评论》2014年第4期。(CSSCI)<br>
+49、《人性思考的焦灼与生命意义的彰显》，《兰州学刊》2014年第11期。(CSSCI)<br>
+50、《小说的难度》，《北京联合大学学报》2014年第4期。(CSSCI)<br>
+51《文学地理学如何获得新生？》，《中国社会科学报》2015年4月13日。<br>
+52、《文学地理学的问题意识与范式革新》，《兰州学刊》2015年第6期。(CSSCI)<br>
+53、《浮华与虚无：问题视域中的奢侈品文学》，《甘肃社会科学》2015年第6期。<br>
+《中国社会科学文摘》2016年第5期转载。(CSSCI)<br>
+54、《论徐兆寿的小说&lt; 荒原问道&gt;》，《中国现代文学研究丛刊》2015年第12期。(CSSCI)<br>
+55、《问题意识的转变与研究方法的更新——寻找中国现代文学研究新的学术生长点》，<br>
+《西北师大学报》2016年第1期。(CSSCI)<br>
+56、《当代诗歌的经典化生成问题》，《中国诗歌》2016年第2期。<br>
+57、《文学何为与柳青文学创作的启示》，《小说评论》2016年第2期。(CSSCI)<br>
+58、《回望先锋：文学与记忆》，《兰州学刊》2016年第3期。(CSSCI)<br>
+59、《从现代文学研究到民国文学研究：观念转变与范式变革》，《陕西师范大学学报》<br>
+2016年第3期。(CSSCI)<br>
+60、《当代文学的时代诉求》，《光明日报》2016年6月13日第13版。<br>
+61、《“生命的真实”与“心灵的悸动”——陈忠实散文创作论》，《当代作家评论》<br>
+2016年第4期。(CSSCI)<br>
+62、《柳青文学的意义》，《兰州学刊》2016年第7期。(CSSCI)<br>
+63、《论农民工题材小说的“城市时空体”——以巴赫金时空体理论为价值关照》，<br>
+《甘肃社会科学》2016年第6期。(CSSCI)<br>
+二、著作：<br>
+1、《中国现当代文学通史》（合作，撰写其中《新时期小说创作》，约10万字），兰州：<br>
+敦煌文艺出版社，2006年版。<br>
+<br>
+2、《穿越时空的生命韵律》（与程金城合著），中国人民大学出版社2010年版。<br>
+3、《文学的理想与精神》（专著），敦煌文艺出版社2010年版。<br>
+
+							</div>
+						</div>
+					</div><table>
+				
+			
+</table></div></div><div id="div_vote_id"></div>
+        
+   
+</form></div>
+</div></div>
+<div class="page_right">
+<div class="page_right_p1">师资队伍</div>
+<div class="page_right_nav">
+<ul>
+<li class="gray">    </li><li><a href="../../szdw/zxx.htm" target="_blank">—哲学系</a></li>
+    <li><a href="../../szdw/zwx.htm" target="_blank">—中文系</a></li>
+    <li><a href="../../szdw/ysx.htm" target="_blank">—艺术系</a></li>
+    <li><a href="../../szdw/lsx.htm" target="_blank">—历史系</a></li>
+    <li><a href="../../szdw/smkxysmjyyjzx.htm" target="_blank">—生命科学与生命教育研究中心</a></li>
+    <li><a href="../../szdw/gdjyyjs.htm" target="_blank">—高等教育研究所 </a></li>
+</ul></div>
+<div class="page_right_ad">    
+
+
+<img src="../../dfiles/16225/templets/default/images/ad.png">
+
+
+
+
+
+
+
+</div></div></div>
+<div class="clear"></div>
+<div class="footer">
+<div class="footer_wrap">
+<div class="footer_part">
+<div class="footer_part_tit">联系我们</div><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p class="footer_p footer_tel">+86-29-81891388、81891298</p> 
+<p class="footer_p footer_email">rwxy@xidian.edu.cn</p> 
+<p class="footer_p footer_add">西安市西沣路兴隆段226号南校区信远楼2区</p> 
+<p class="footer_p footer_zip">710100</p></div>
+<div class="footer_part">
+<div class="footer_part_tit">友情链接</div>
+<div class="footer_part2_list">    <a href="http://www.xidian.edu.cn/xywh1.htm" target="_blank">校园文化</a> 
+    <a href="http://202.117.121.139/tysfrz/caslogin.aspx" target="_blank">财务系统</a> 
+    <a href="http://job.xidian.edu.cn/index.html" target="_blank">西电就业网</a> 
+    <a href="http://yz.xidian.edu.cn/" target="_blank">研究生招生</a> 
+    <a href="http://zncc.xidian.edu.cn/" target="_blank">终南文化书院</a> 
+    <a href="http://meeting.xidian.edu.cn/" target="_blank">西电学术信息网</a> 
+    <a href="http://web.xidian.edu.cn/" target="_blank">个人主页</a> 
+    <a href="http://kxdd.xidian.edu.cn/" target="_blank">学风建设</a> 
+    <a href="http://zsb.xidian.edu.cn/index.html" target="_blank">本科招生</a> 
+    <a href="http://xdyx.xidian.edu.cn/" target="_blank">迎新系统</a> 
+    <a href="http://www.rwxy.tsinghua.edu.cn/" target="_blank">清华大学人文学院</a> 
+    <a href="http://phi.ruc.edu.cn/" target="_blank">人大哲学院</a> 
+</div></div>
+<div class="footer_part3">
+    
+
+<div class="footer_part_tit"></div>
+<div class="footer_part3"><img src="../../images/1-16122613325U19.jpg"> </div>
+
+</div></div></div>
+<div class="cpy">
+<div class="cpy">
+<div class="cpy_wrap">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="57%" align="left"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>Copyright © 2017 rwxy.xidian.edu.cn All right Reserved 西安电子科技大学人文学院版权所有</p></td>
+<td width="43%" align="left">
+
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="../../_dwr/interface/PageCounterDWR.js"></script>
+<table width="1%" align="center">
+    <tbody><tr>
+    <td valign="middle" nowrap="" align="center">
+
+        <span>统计：</span>
+        
+        <span class="fontstyle189839" id="a189839" name="a189839">123609</span>
+    
+    </td>    
+    </tr>
+</tbody></table>
+<script>
+function getvisittimeform189839()
+{		PageCounterDWR.getVisittime('1393987749','1017','TOTAL_COUNTER','112973','6',callbackdataform189839);
+}
+function callbackdataform189839(data)
+{
+	document.getElementById("a189839").innerHTML = data; 
+}
+getvisittimeform189839();
+</script></td></tr></tbody></table></div></div></div>
+
+
+</body></html>

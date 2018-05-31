@@ -1,0 +1,189 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>友情链接-北京化工大学生命科学与技术学院</title>
+<link href="../css/base.css" type="text/css" rel="stylesheet">
+<link href="../css/style.css" type="text/css" rel="stylesheet">
+<!--IE6透明代码-->
+<!--[if IE 6]>
+<script src="../js/pngAlaph.js"></script>
+<script>
+DD_belatedPNG.fix('.logo, img');
+</script>
+<![endif]-->
+</head>
+
+<body>
+
+
+
+  <div class="header">
+   <div class="top">
+     <div class="top_nav">
+       <a href="../wzdt/index.htm" class="nobg" target="_blank">网站地图</a><span>|</span>
+       <a href="../lxwm/index.htm" target="_blank">联系我们</a><span>|</span>
+       <a href="http://en.life.buct.edu.cn/" target="_blank">English</a>
+     </div>
+     <div class="logo">
+      <a href="#" class="logo_link">
+        <img src="../images/logo_02.png" alt="">  
+      </a>
+    </div>
+    <div class="search">
+     <form name="dataForm" action="/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+      <input name="siteID" value="206" type="hidden">
+      <input class="notxt" value="站内搜索" name="query" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}" onclick="if(this.value=='站内搜索'){this.value='';this.form.keywords.style.color='#3c98cc'}" type="text">
+      <input class="notxt1" name="Submit" value="" type="submit">
+    </form>
+  </div>
+</div>
+<div class="nav">
+  <ul id="nav">
+    <li> <a href="../index.htm" target="_blank">首&nbsp;页</a> </li>
+
+       <li><a href="../xyjs/xyjj/index.htm" target="_blank">学院介绍</a>   
+          <div class="subNav">
+        <dl>
+                   <dd><a href="../xyjs/xyjj/index.htm" target="_blank">学院简介</a></dd>
+                  <dd><a href="../xyjs/xyld/index.htm" target="_blank">学院领导</a></dd>
+                  <dd><a href="../xyjs/zzjg/index.htm" target="_blank">组织机构</a></dd>
+                  <dd><a href="../xyjs/xybgs/index.htm" target="_blank">院办公室</a></dd>
+                </dl>
+      </div>
+    </li>
+            <li><a href="../dzjs/gkhd/index.htm" target="_blank">党政建设</a>   
+          <div class="subNav">
+        <dl>
+                   <dd><a href="../dzjs/gkhd/index.htm" target="_blank">工会活动</a></dd>
+                  <dd><a href="../dzjs/djdt/index.htm" target="_blank">党建动态</a></dd>
+                </dl>
+      </div>
+    </li>
+            <li><a href="../xkjs/xkjj/index.htm" target="_blank">学科建设</a>   
+          <div class="subNav">
+        <dl>
+                   <dd><a href="../xkjs/xkjj/index.htm" target="_blank">学科简介</a></dd>
+                  <dd><a href="../xkjs/bsd/index.htm" target="_blank">博硕点</a></dd>
+                  <dd><a href="../xkjs/zyjs/index.htm" target="_blank">专业介绍</a></dd>
+                  <dd><a href="../xkjs/xzbg/index.htm" target="_blank">学术报告</a></dd>
+                </dl>
+      </div>
+    </li>
+            <li><a href="../kxyj/js/index.htm" target="_blank">科学研究</a>   
+          <div class="subNav">
+        <dl>
+                   <dd><a href="../kxyj/js/index.htm" target="_blank">介绍</a></dd>
+                  <dd><a href="../kxyj/kyjg/index.htm" target="_blank">科研机构</a></dd>
+                  <dd><a href="../kxyj/kyfx/index.htm" target="_blank">科研方向</a></dd>
+                  <dd><a href="../kxyj/kycg/index.htm" target="_blank">科研成果</a></dd>
+                  <dd><a href="../kxyj/jzfwyzh/index.htm" target="_blank">技术服务与转化</a></dd>
+                </dl>
+      </div>
+    </li>
+            <li><a href="../szdw/szgk/index.htm" target="_blank">师资队伍</a>   
+          <div class="subNav">
+        <dl>
+                   <dd><a href="../szdw/szgk/index.htm" target="_blank">师资概况</a></dd>
+                  <dd><a href="../szdw/jsml/index.htm" target="_blank">教师名录</a></dd>
+                  <dd><a href="../szdw/jsfc/index.htm" target="_blank">教师风采</a></dd>
+                </dl>
+      </div>
+    </li>
+            <li><a href="../jxjw/jxcg/index.htm" target="_blank">教学教务</a>   
+          <div class="subNav">
+        <dl>
+                   <dd><a href="../jxjw/jxcg/index.htm" target="_blank">教学成果</a></dd>
+                  <dd><a href="../jxjw/jpkc/index.htm" target="_blank">精品课程</a></dd>
+                  <dd><a href="http://lab.life.buct.edu.cn/" target="_blank">生物类教学实验中心</a></dd>
+                </dl>
+      </div>
+    </li>
+            <li><a href="../xsgz/bks/index.htm" target="_blank">学生工作</a>   
+          <div class="subNav">
+        <dl>
+                   <dd><a href="../xsgz/bks/index.htm" target="_blank">本科生</a></dd>
+                  <dd><a href="../xsgz/yjs/index.htm" target="_blank">研究生</a></dd>
+                </dl>
+      </div>
+    </li>
+         <li><a href="../rczp/index.htm" target="_blank">人才招聘</a> </li>
+  </ul>
+<!--        下拉菜单效果 结束         --> 
+
+</div>
+</div>
+
+<div class="subPage">
+	<!--<div class="pageBanner">
+    	    	<img src="../images/banner.jpg" width="1000" height="200" />
+    </div>-->
+    <div class="Bread">
+    	 您目前的位置：                 <a href="../index.htm" target="_blank">首页</a>»
+        友情链接
+    </div>
+    <div class="pageList">
+    	<div class="articleList articleList2">
+                <div class="listTitle listTitle2">
+                   <h2>友情链接</h2>
+                </div>
+                <ul>
+
+                                    <li><span>[2016-06-02]</span><a href="http://www.buct.edu.cn" target="_blank">北京化工大学</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.most.gov.cn/" target="_blank">中华人民共和国科学技术部</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.moe.edu.cn/" target="_blank">中华人民共和国教育部</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.jiaowu.buct.edu.cn" target="_blank">北京化工大学教务处</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.moe.edu.cn" target="_blank">教育部</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.pku.edu.cn" target="_blank">北京大学</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.tsinghua.edu.cn" target="_blank">清华大学</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.bit.edu.cn" target="_blank">北京理工大学</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.bnu.edu.cn" target="_blank">北京师范大学</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.nju.edu.cn" target="_blank">南京大学</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.tju.edu.cn" target="_blank">天津大学</a></li>
+                                    <li><span>[2016-06-02]</span><a href="http://www.sdu.edu.cn" target="_blank">山东大学</a></li>
+                
+                </ul>
+         </div>
+       
+   <div class="page">
+
+          <div>
+
+<form name="pageForm" action="" method="post">
+          共12条，分1页，当前第1页 
+          <a href="index.htm" target="_blank">最前页</a> 
+          <a href="index.htm" target="_blank">上一页</a>
+          <a href="index.htm" target="_blank">下一页</a>
+          <a href="index.htm" target="_blank">最后页</a> 
+          转到
+            <select style="width:43px; heihgt:18px; line-height:18px;" name="page" onchange="javascript:PageFormSubmit()">
+              <option value="index.htm" selected="">1</option>
+            </select>
+            页 
+</form>
+<script language="JavaScript">
+
+function PageFormSubmit()
+{
+document.location.href=document.pageForm.page.options[document.pageForm.page.selectedIndex].value;
+}
+</script>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+  <div class="copyRight">
+    Copyright@北京化工大学 生命科学与技术学院      地址：北京市朝阳区北三环东路15号     邮编：100029<br>
+    电话：010-64431335  邮箱：news@buct.edu.cn
+  </div>
+</div>
+<script type="text/javascript" src="../js/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
+<script type="text/javascript">
+    Nav('#nav');  
+</script>
+
+</body></html>

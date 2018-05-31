@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=44" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="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" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;罗红</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/201709DD114553罗红.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;女</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;物联网技术中心主任</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;计算机学院学术委员会成员，国际学院学术委员会成员</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;博导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;物联网技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        物联网技术 物联网综合实践<a href="showcourse.aspx?id=67" target="_blank">通信原理</a>   <a href="showcourse.aspx?id=70" target="_blank">现代交换原理</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;物联网系统，感知数据分析与处理</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;毕业于北京邮电大学计算机科学与技术学院计算机应用专业，获工学博士学位。现为计算机学院教授，博士生导师。长期从事计算机应用和网络领域的科研和教学工作。主讲研究生课程“物联网技术”、本科生课程“物联网综合实践”、“通信原理”、“交换原理”，指导研究生多名。2004-2005年到美国德州大学阿灵顿分校做访问学者，2008-2009年到芬兰赫尔辛基理工大学做访问教授。<br>目前主要从事物联网、区块链、大数据分析与挖掘方面的研究工作。作为负责人和主研人完成20多项国家自然科学基金、973项目、863项目、重大专项和部委级研究项目，近年来在无线传感器网络和物联网关键技术方面做出一系列创新的研究成果，在IEEE&nbsp;Transactions&nbsp;on&nbsp;Mobile&nbsp;Computing，IEEE&nbsp;Transactions&nbsp;on&nbsp;Computers，IEEE&nbsp;Transactions&nbsp;On&nbsp;Parallel&nbsp;Distributed&nbsp;System，IEEE&nbsp;Network等国内外期刊和学术会议上已发表论文近百篇，SCI、EI收录50余篇，文章他引百余次。申请相关专利多项。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;在研课题：<br>2018.1-2021.12:&nbsp;国家自然科学基金面上项目“物联网实时信息搜索与服务技术的研究”&nbsp;<br>2017.1-2020.12:&nbsp;国家自然科学基金面上项目“数据供应链模型及关键技术研究”&nbsp;<br>2016.1-2020.12:&nbsp;国家自然科学基金重点项目“物联网绿色节能理论与关键技术”&nbsp;<br>2014-2017:&nbsp;国家自然科学基金面上项目“物联网服务资源管理与调度技术的研究”<br>以及企事业合作项目</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;CCF优秀博士论文奖，&nbsp;<br>教育部新世纪优秀人才</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">代表性论文：<br><br>1.	Peng&nbsp;Li,&nbsp;Hong&nbsp;Luo*,&nbsp;Tin-Yu&nbsp;Wu,&nbsp;Mohammad&nbsp;S.&nbsp;Obaidat.&nbsp;“QoS&nbsp;Prediction&nbsp;Method&nbsp;for&nbsp;Data&nbsp;Supply&nbsp;Chain&nbsp;based&nbsp;on&nbsp;Context”,&nbsp;IEEE&nbsp;ICC&nbsp;2017,&nbsp;pp.649-655.<br>2.	Peng&nbsp;Li,&nbsp;Hong&nbsp;Luo*,&nbsp;Yan&nbsp;Sun,&nbsp;Xin-Ming&nbsp;Li,&nbsp;“Similarity&nbsp;search&nbsp;algorithm&nbsp;over&nbsp;data&nbsp;supply&nbsp;chain&nbsp;based&nbsp;on&nbsp;key&nbsp;points”,&nbsp;BigCom&nbsp;2016,&nbsp;Jul.&nbsp;2016,&nbsp;best&nbsp;paper&nbsp;running&nbsp;up&nbsp;award<br>3.	Huaibo&nbsp;Sun,&nbsp;Hong&nbsp;Luo*,&nbsp;Tin-Yu&nbsp;Wu,&nbsp;Mohammad&nbsp;S.&nbsp;Obaidat.&nbsp;''A&nbsp;PSNR-Controllable&nbsp;Data&nbsp;Hiding&nbsp;Algorithm&nbsp;Based&nbsp;on&nbsp;LSBs&nbsp;Substitution'',&nbsp;IEEE&nbsp;Globecom&nbsp;2015,&nbsp;Dec.&nbsp;2015,&nbsp;San&nbsp;Diego,&nbsp;USA.<br>4.	Hong&nbsp;Luo,&nbsp;Jialong&nbsp;Mi,&nbsp;Yan&nbsp;Sun,&nbsp;“Fastest&nbsp;Path&nbsp;in&nbsp;Time&nbsp;Varying&nbsp;Wireless&nbsp;Sensor&nbsp;Networks”,&nbsp;Journal&nbsp;of&nbsp;Internet&nbsp;Technology,&nbsp;Vol.15,&nbsp;No.2,&nbsp;March&nbsp;2014,&nbsp;pp.185-196<br>5.	Yan&nbsp;Sun,&nbsp;Hong&nbsp;Luo*,&nbsp;and&nbsp;S.&nbsp;K.&nbsp;Das,&nbsp;“A&nbsp;Trust-based&nbsp;Framework&nbsp;for&nbsp;Fault-tolerant&nbsp;Data&nbsp;Aggregation&nbsp;in&nbsp;Wireless&nbsp;Multimedia&nbsp;Sensor&nbsp;Networks”,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Dependable&nbsp;and&nbsp;Secure&nbsp;Computing,Vol.&nbsp;9,&nbsp;No.&nbsp;6,&nbsp;pp.&nbsp;785-797,&nbsp;Nov-Dec&nbsp;2012<br>6.	Hong&nbsp;LUO,&nbsp;Huixiang&nbsp;TAO,&nbsp;Huadong&nbsp;Ma,&nbsp;Sajal&nbsp;K.&nbsp;DAS,&nbsp;“Data&nbsp;Fusion&nbsp;with&nbsp;Desired&nbsp;Reliability&nbsp;in&nbsp;Wireless&nbsp;Sensor&nbsp;Networks”,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Parallel&nbsp;and&nbsp;Distributed&nbsp;Systems,&nbsp;Apr.2011<br>7.	Hong&nbsp;LUO,&nbsp;Yonghe&nbsp;LIU,&nbsp;Sajal&nbsp;K.&nbsp;DAS,&nbsp;“Distributed&nbsp;Algorithm&nbsp;for&nbsp;Enroute&nbsp;Aggregation&nbsp;Decision&nbsp;in&nbsp;Wireless&nbsp;Sensor&nbsp;Networks”,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Mobile&nbsp;Computing,&nbsp;Vol.8&nbsp;No.1&nbsp;Jan.2009<br>8.	Hong&nbsp;LUO,&nbsp;Yonghe&nbsp;LIU,&nbsp;Sajal&nbsp;K.&nbsp;DAS,&nbsp;“Routing&nbsp;Correlated&nbsp;Data&nbsp;with&nbsp;Fusion&nbsp;Cost&nbsp;in&nbsp;Wireless&nbsp;Sensor&nbsp;Networks”,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Mobile&nbsp;Computing,&nbsp;Vol.5&nbsp;No.11&nbsp;Nov.2006,&nbsp;p:1620-1631<br>9.	Hong&nbsp;LUO,&nbsp;Jun&nbsp;LUO,&nbsp;Yonghe&nbsp;LIU,&nbsp;Sajal&nbsp;K.&nbsp;DAS,&nbsp;“Adaptive&nbsp;Data&nbsp;Fusion&nbsp;for&nbsp;Energy&nbsp;Efficient&nbsp;Routing&nbsp;in&nbsp;Wireless&nbsp;Sensor&nbsp;Networks”,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Computers,&nbsp;Vol.55&nbsp;No.10&nbsp;Oct.2006,&nbsp;<br>10.	Hong&nbsp;LUO,&nbsp;Yonghe&nbsp;LIU,&nbsp;Sajal&nbsp;K.&nbsp;DAS，&nbsp;“Routing&nbsp;Correlated&nbsp;Data&nbsp;in&nbsp;Wireless&nbsp;Sensor&nbsp;Networks:&nbsp;A&nbsp;Survey”，IEEE&nbsp;NETWORK&nbsp;Magazine,&nbsp;21(6),&nbsp;Nov/Dec&nbsp;2007,&nbsp;p:&nbsp;40-47</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;010-62282195</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北邮教3楼902室</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;luoh@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

@@ -1,0 +1,450 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>于景华_在其他部门/单位工作仍在理学院招生的教师名录_北京化工大学理学院</title>
+  <link href="../../../css/2015css/css.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="../../../js/2015js/jquery-1.11.1.min.js"></script>
+
+  <script type="text/javascript">
+    window.onload = function(){
+           $(".fuli").mouseenter(
+                    function(){
+                        $(this).addClass("cur").children(".menu").show().parent().siblings(".fuli").children(".menu").hide();
+                    }
+                );
+            $(".fuli").mouseleave(
+                    function(){
+                        $(this).removeClass("cur").children(".menu").hide();
+                    }
+                );
+           
+      
+    }
+  </script>
+
+</head>
+
+<body>
+
+  
+<div class="header">
+    <div class="logo">
+      <a href="http://en.sci.buct.edu.cn" target="_blank"></a>
+    </div>
+    <div class="nav">
+      <ul>
+        <li class="fuli shu">
+          <a href="../../../index.htm" target="_blank">学院首页</a>
+        </li>
+						
+		
+		         <li class="fuli">
+		          <a href="../../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../../xygk/xyjj/index.htm" target="_blank">学院简介</a>
+              </li>
+			                <li>
+               <a href="../../../xygk/xrld/index.htm" target="_blank">现任领导</a>
+              </li>
+			                <li>
+               <a href="../../../xygk/zzjg/index.htm" target="_blank">组织机构</a>
+              </li>
+			                <li>
+               <a href="../../../xygk/xssz/index.htm" target="_blank">系所设置</a>
+              </li>
+			                <li>
+               <a href="../../../xygk/ywyk/index.htm" target="_blank">院委员会</a>
+              </li>
+			                <li>
+               <a href="../../../xygk/xyry/index.htm" target="_blank">学院荣誉</a>
+              </li>
+			                <li>
+               <a href="../../../xygk/lrml/index.htm" target="_blank">历任名录</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../../djsz/ydwgzdt/index.htm" target="_blank">党群工作</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../../djsz/ydwgzdt/index.htm" target="_blank">院党委工作动态</a>
+              </li>
+			                <li>
+               <a href="../../../djsz/ztjyhd/index.htm" target="_blank">专题教育活动</a>
+              </li>
+			                <li>
+               <a href="../../../djsz/xygkzj/index.htm" target="_blank">学院工会之家</a>
+              </li>
+			                <li>
+               <a href="../../../djsz/bksdjsz/index.htm" target="_blank">本科生党建思政</a>
+              </li>
+			                <li>
+               <a href="../../../djsz/yjsdjsz/index.htm" target="_blank">研究生党建思政</a>
+              </li>
+			                <li>
+               <a href="http://106.38.59.199/" target="_blank">北京市党建系统</a>
+              </li>
+			                <li>
+               <a href="http://www.bjyouth.net" target="_blank">团市委共青云</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../ysfc/index.htm" target="_blank">师资队伍</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../ysfc/index.htm" target="_blank">院士风采</a>
+              </li>
+			                <li>
+               <a href="../../msmj/index.htm" target="_blank">名师名家</a>
+              </li>
+			                <li>
+               <a href="../index.htm" target="_blank">教师名录</a>
+              </li>
+			                <li>
+               <a href="../../jxtd/index.htm" target="_blank">教学团队</a>
+              </li>
+			                <li>
+               <a href="../../przy/index.htm" target="_blank">聘任职员</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../../xzyj/kygk/index.htm" target="_blank">科学研究</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../../xzyj/kygk/index.htm" target="_blank">科研概况</a>
+              </li>
+			                <li>
+               <a href="../../../xzyj/cgsj/index.htm" target="_blank">科研成果</a>
+              </li>
+			                <li>
+               <a href="../../../xzyj/jdtd/index.htm" target="_blank">科研团队</a>
+              </li>
+			                <li>
+               <a href="../../../xzyj/cgzh/index.htm" target="_blank">成果转化</a>
+              </li>
+			                <li>
+               <a href="../../../xzyj/gjjl/index.htm" target="_blank">国际交流</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../../bksjy/zysz/index.htm" target="_blank">本科生教育</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../../bksjy/zysz/index.htm" target="_blank">专业设置</a>
+              </li>
+			                <li>
+               <a href="../../../bksjy/sjjx/index.htm" target="_blank">实践教学</a>
+              </li>
+			                <li>
+               <a href="../../../bksjy/jxcg/index.htm" target="_blank">教学成果</a>
+              </li>
+			                <li>
+               <a href="../../../bksjy/jpkc/index.htm" target="_blank">精品课程</a>
+              </li>
+			                <li>
+               <a href="../../../bksjy/zdxk/index.htm" target="_blank">重点学科</a>
+              </li>
+			                <li>
+               <a href="../../../bksjy/bksxsgz/index.htm" target="_blank">本科生学生工作</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../../yjsjy/xwsyd/index.htm" target="_blank">研究生教育</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../../yjsjy/xwsyd/index.htm" target="_blank">学位授予点</a>
+              </li>
+			                <li>
+               <a href="../../../yjsjy/dsxxjj1/index.htm" target="_blank">导师信息简介</a>
+              </li>
+			                <li>
+               <a href="../../../yjsjy/zsfsgz/index.htm" target="_blank">招生复试工作</a>
+              </li>
+			                <li>
+               <a href="../../../yjsjy/pyxggz/index.htm" target="_blank">培养相关工作</a>
+              </li>
+			                <li>
+               <a href="../../../yjsjy/xwxggz/index.htm" target="_blank">学位相关工作</a>
+              </li>
+			                <li>
+               <a href="../../../yjsjy/yjsxsgz/index.htm" target="_blank">研究生学生工作</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		 		 <li class="fuli">
+		
+          <a href="../../../xsyd/index.htm" target="_blank">学生园地</a>
+		  
+          <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../../xsyd/byjyxx/index.htm" target="_blank">毕业就业信息</a>
+              </li>
+			                <li>
+               <a href="../../../xsyd/yjsbyjy/index.htm" target="_blank">研究生毕业就业</a>
+              </li>
+			                <li>
+               <a href="../../../xsyd/yjsxsk/index.htm" target="_blank">研究生学生会</a>
+              </li>
+			                <li>
+               <a href="../../../xsyd/bksxsk/index.htm" target="_blank">本科生学生会</a>
+              </li>
+			                <li>
+               <a href="../../../xsyd/qtxszz/index.htm" target="_blank">其他学生组织</a>
+              </li>
+			                <li>
+               <a href="../../../xsyd/yxjtfc/index.htm" target="_blank">优秀集体风采</a>
+              </li>
+			                <li>
+               <a href="../../../xsyd/xjgrsj/index.htm" target="_blank">先进个人事迹</a>
+              </li>
+			                <li>
+               <a href="../../../xsyd/ljbybhy/index.htm" target="_blank">历届毕业班合影</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+		 
+       		
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../../zszp/yrczp/index.htm" target="_blank">招生招聘</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../../zszp/yrczp/index.htm" target="_blank">院人才招聘</a>
+              </li>
+			                <li>
+               <a href="http://www.goto.buct.edu.cn/" target="_blank">本科生招生</a>
+              </li>
+			                <li>
+               <a href="http://graduate.buct.edu.cn/html/class_list/5/index.aspx" target="_blank">研究生招生</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../../zlxz/dwgzl/index.htm" target="_blank">资料下载</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../../zlxz/dwgzl/index.htm" target="_blank">党务工作类</a>
+              </li>
+			                <li>
+               <a href="../../../zlxz/gkgzl/index.htm" target="_blank">工会工作类</a>
+              </li>
+			                <li>
+               <a href="../../../zlxz/jxjwl/index.htm" target="_blank">教学教务类</a>
+              </li>
+			                <li>
+               <a href="../../../zlxz/kyxml/index.htm" target="_blank">科研项目类</a>
+              </li>
+			                <li>
+               <a href="../../../zlxz/bydbl/index.htm" target="_blank">毕业答辩类</a>
+              </li>
+			                <li>
+               <a href="../../../zlxz/xsgzl/index.htm" target="_blank">学生工作类</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		               
+      </ul>
+    </div>
+  </div>  <div class="content1">
+    <div class="inner">
+      <div class="lcon">
+        
+        <div class="bread">
+          当前位置：
+                           <a href="../../../index.htm" target="_blank">首页</a>»
+                 <a href="../../index.htm" target="_blank">师资队伍</a>»
+                 <a href="../index.htm" target="_blank">教师名录</a>»
+        在其他部门/单位工作仍在理学院招生的教师名录
+        </div>
+        <div class="lf_list">
+          <h3>教师名录</h3>
+          <ul>
+                        <li>
+              <a href="../yjhxx1/index.htm" target="_blank">有机化学系</a>
+            </li>
+			            <li>
+              <a href="../wjhxx1/index.htm" target="_blank">无机化学系</a>
+            </li>
+			            <li>
+              <a href="../wlhxx1/index.htm" target="_blank">物理化学系</a>
+            </li>
+			            <li>
+              <a href="../fxhxx1/index.htm" target="_blank">分析化学系</a>
+            </li>
+			            <li>
+              <a href="../yyhxx1/index.htm" target="_blank">应用化学系</a>
+            </li>
+			            <li>
+              <a href="../xyjg_20150410113600890008/index.htm" target="_blank">化学生物学系</a>
+            </li>
+			            <li>
+              <a href="../jdhxs1/index.htm" target="_blank">近代化学研究所</a>
+            </li>
+			            <li>
+              <a href="../syzx1/index.htm" target="_blank">化学实验教学中心</a>
+            </li>
+			            <li>
+              <a href="../sxx1/index.htm" target="_blank">数学学部</a>
+            </li>
+			            <li>
+              <a href="../wlx1/index.htm" target="_blank">物理学部</a>
+            </li>
+			            <li>
+              <a href="../xyjg/index.htm" target="_blank">学院机关</a>
+            </li>
+			            <li>
+              <a href="index.htm" target="_blank">在其他部门/单位工作仍在理学院招生的教师名录</a>
+            </li>
+			          </ul>
+        </div>
+        <div class="rt_list">
+          <h2>在其他部门/单位工作仍在理学院招生的教师名录</h2>
+          <div class="box_list">
+            <h3>于景华</h3>
+                                                                            <div class="zuozhe">  		      时间：2015-04-08    阅读次数：<script src="/cms/web/count.jsp?articleID=56908"></script></div>
+            <div class="wz_art">
+              <br>
+<br>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">于景华：女，副教授、硕士生导师。中共党员</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">电话：</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">010-</font></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">电子邮箱：</span><span style="font-size: 11pt" lang="EN-US"><a href="mailto:yujh1@mail.buct.edu.cn" target="_blank"><font face="Times New Roman" color="#136ec2">yujh1@mail.buct.edu.cn</font></a></span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US"><o:p><font size="3" face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: Wingdings; mso-fareast-font-family: 黑体" lang="EN-US">v </span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 黑体">行政职务：</span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: Wingdings; mso-fareast-font-family: 黑体" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt; font-family: 宋体" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 22pt; mso-char-indent-count: 2.0"><span style="font-size: 11pt; font-family: 宋体">北京化工大学图书馆&nbsp; 副主任<span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 22pt; mso-char-indent-count: 2.0"><span style="font-size: 11pt; font-family: 宋体" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: Wingdings; mso-fareast-font-family: 黑体" lang="EN-US">v </span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 黑体">教育经历：</span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt" lang="EN-US"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt; mso-pagination: widow-orphan" align="left"><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">东北师范大学</span><span style="font-size: 11pt; mso-font-kerning: 0pt" lang="EN-US"><span style="mso-spacerun: yes"><font face="Times New Roman">&nbsp;&nbsp; </font></span></span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">大学本科</span><span style="font-size: 11pt; mso-font-kerning: 0pt" lang="EN-US"><span style="mso-spacerun: yes"><font face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></span></span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">获理学学士学位</span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt; mso-pagination: widow-orphan" align="left"><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">北京科技大学</span><span style="font-size: 11pt; mso-font-kerning: 0pt" lang="EN-US"><span style="mso-spacerun: yes"><font face="Times New Roman">&nbsp;&nbsp; </font></span></span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">硕士研究生</span><span style="font-size: 11pt; mso-font-kerning: 0pt" lang="EN-US"><font face="Times New Roman"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun: yes">&nbsp;&nbsp;</span></font></span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">获理学硕士学位</span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">北京化工大学</span><span style="font-size: 11pt; mso-font-kerning: 0pt" lang="EN-US"><span style="mso-spacerun: yes"><font face="Times New Roman">&nbsp;&nbsp; </font></span></span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">博士研究生</span><span style="font-size: 11pt; mso-font-kerning: 0pt" lang="EN-US"><font face="Times New Roman"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun: yes">&nbsp;&nbsp;</span></font></span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">获工学博士学位</span><span style="font-size: 11pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt" lang="EN-US"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt; font-family: Wingdings; mso-fareast-font-family: 黑体" lang="EN-US"><span style="font-size: 16pt; font-family: Wingdings; mso-fareast-font-family: 黑体" lang="EN-US"><strong>v</strong> </span><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 黑体">工作经历：</span></b></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt" lang="EN-US"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">1989.7-1999.7 <span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;</span></font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">原化工部北京化工管理干部学院</span><span style="font-size: 11pt" lang="EN-US"><span style="mso-spacerun: yes"><font face="Times New Roman">&nbsp; </font></span></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">讲师</span><span style="font-size: 11pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">1999.9</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">－至今</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman"><span style="mso-spacerun: yes">&nbsp; </span><span style="mso-spacerun: yes">&nbsp;&nbsp;</span></font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">北京化工大学</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun: yes">&nbsp;</span><span style="mso-spacerun: yes">&nbsp;&nbsp;</span><span style="mso-spacerun: yes">&nbsp;</span><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun: yes">&nbsp;&nbsp;</span><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span><span style="mso-spacerun: yes">&nbsp;</span></font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">副教授</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman"><span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt" lang="EN-US"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt 27.5pt; text-indent: -27.5pt; mso-char-indent-count: -2.5"><span style="font-size: 11pt" lang="EN-US"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt; mso-pagination: widow-orphan" align="left"><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: Wingdings; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-fareast-font-family: 黑体" lang="EN-US">v</span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 黑体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: Wingdings" lang="EN-US"><span style="mso-spacerun: yes">&nbsp; </span></span></b><b style="mso-bidi-font-weight: normal"><span style="border-left-width: 1pt; font-size: 16pt; font-family: 黑体; border-right-width: 1pt; border-top-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; padding-bottom: 0cm; border-bottom-color: windowtext; padding-top: 0cm; padding-left: 0cm; border-right-color: windowtext; padding-right: 0cm; border-top-width: 1pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体; mso-border-alt: none windowtext 0cm">主要研究领域：</span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt; mso-pagination: widow-orphan" align="left"><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt; text-indent: 22pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan" align="left"><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">主要研究领域是有机化学和无机—有机杂化材料制备等。作为项目负责人承担过新疆自治区重点项目</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">1</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">项，攀枝花市科技学技术三等奖</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">1</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">项。</span><span style="font-size: 11pt; mso-font-kerning: 0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt; mso-pagination: widow-orphan" align="left"><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt 40.15pt; text-indent: -40.15pt; mso-char-indent-count: -2.5"><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: Wingdings; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-fareast-font-family: 黑体" lang="EN-US">v</span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 黑体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: Wingdings" lang="EN-US"><span style="mso-spacerun: yes">&nbsp; </span></span></b><b style="mso-bidi-font-weight: normal"><span style="border-left-width: 1pt; font-size: 16pt; font-family: 黑体; border-right-width: 1pt; border-top-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; padding-bottom: 0cm; border-bottom-color: windowtext; padding-top: 0cm; padding-left: 0cm; border-right-color: windowtext; padding-right: 0cm; border-top-width: 1pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体; mso-border-alt: none windowtext 0cm">代表性论文：<span lang="EN-US"><o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt 27.5pt; text-indent: -27.5pt; mso-char-indent-count: -2.5"><span style="font-size: 11pt" lang="EN-US"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt 8.15pt; text-indent: -11pt; mso-char-indent-count: -1.0; mso-para-margin-left: -.27gd; mso-para-margin-top: 0cm; mso-para-margin-right: -2.85pt; mso-para-margin-bottom: .0001pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">1.Synthesis, Structure and Magnetic Properties of One Dimensional Polymer [Co(N3)2(dps)H2O]n,Chinese Jounal of Inorganic Chimistry,2010,26.<o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt 8.15pt; text-indent: -11pt; mso-char-indent-count: -1.0; mso-para-margin-left: -.27gd; mso-para-margin-top: 0cm; mso-para-margin-right: -2.85pt; mso-para-margin-bottom: .0001pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">2.Syntheses, Crystal Structures and Thermal Stabilities of [Cu(bpp)2(bpdc)(H2O)2]n?2nH2O and [Cu(bpp)2]n·n(tdc)·7.5nH2O, Chinese Journal Chemistry, 2008,26.<o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt 2.65pt; text-indent: -5.5pt; mso-char-indent-count: -.5; mso-para-margin-left: -.27gd; mso-para-margin-top: 0cm; mso-para-margin-right: -2.85pt; mso-para-margin-bottom: .0001pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">3.Hydrothermal Synthesis, Crystal Structures and Optical Properties of [M(en)3?(ndt)?H2O ( M=NiⅡ, CoⅡ, MnⅡ; ndt=1,5-naphthalenedithiol ), Chinese Journal Chemistry, 2006,24.<o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt 8.15pt; text-indent: -11pt; mso-char-indent-count: -1.0; mso-para-margin-left: -.27gd; mso-para-margin-top: 0cm; mso-para-margin-right: -2.85pt; mso-para-margin-bottom: .0001pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">4. Synthesis, Crystal Structure and Optical Properties of a Novel Organic-inorganic Hybrid Material[Ag(bpp)]2(tdc)?8H2O,Chinese Jounal of Inorganic Chimistry,2006,22.<o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt 8.15pt; text-indent: -11pt; mso-char-indent-count: -1.0; mso-para-margin-left: -.27gd; mso-para-margin-top: 0cm; mso-para-margin-right: -2.85pt; mso-para-margin-bottom: .0001pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">5.</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">配位聚合物晶体</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">[Ag2(bpy)2H2O ](tdc) ?6H2O</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">的制备</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">,</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">结构和光吸收性能</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">(bpy=4,<st1:chmetcnv w:st="on" unitname="’" sourcevalue="4" hasspace="False" negative="False" numbertype="1" tcsc="0">4’</st1:chmetcnv>-bipyridine, tdc=thiophene-2,5-dicarboxylate), </font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">北化学报</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">, 2006, 33.<o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt 8.15pt; text-indent: -11pt; mso-char-indent-count: -1.0; mso-para-margin-left: -.27gd; mso-para-margin-top: 0cm; mso-para-margin-right: -2.85pt; mso-para-margin-bottom: .0001pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">6. </font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">新型无机</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">-</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">有机杂化材料</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">Mo8O26(H2bpy) 2</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">的合成、结构及性能研究</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">(bpy=4,4′-bipyridine), </font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">北化学报</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">, 2007,34.<o:p></o:p></font></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt 8.15pt; text-indent: -11pt; mso-char-indent-count: -1.0; mso-para-margin-left: -.27gd; mso-para-margin-top: 0cm; mso-para-margin-right: -2.85pt; mso-para-margin-bottom: .0001pt"><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">7.</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'">《有机化学》，参编</span><span style="font-size: 11pt" lang="EN-US"><font face="Times New Roman">10</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'">万字，国家级精品教材。</span><span style="font-size: 11pt; mso-hansi-font-family: 宋体" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt"><span style="font-size: 11pt; font-family: 黑体; mso-hansi-font-family: 宋体" lang="EN-US">8</span><span style="font-size: 11pt; font-family: 宋体" lang="EN-US">.</span><span style="font-size: 11pt; font-family: 宋体">《有机化学》北京市精品课。</span><span style="font-size: 11pt; font-family: 黑体; mso-hansi-font-family: 宋体" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt 27.5pt; text-indent: -27.5pt; mso-char-indent-count: -2.5"><span style="font-size: 11pt; mso-hansi-font-family: 宋体" lang="EN-US"><font face="Times New Roman">9.</font></span><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'">《有机化学》，主编，国家级精品教材。</span><span style="font-size: 11pt; color: black; mso-bidi-font-weight: bold" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm -2.85pt 0pt; text-indent: 11pt; mso-char-indent-count: 1.0; mso-para-margin-left: -.27gd; mso-para-margin-top: 0cm; mso-para-margin-right: -2.85pt; mso-para-margin-bottom: .0001pt"><span style="font-size: 11pt; font-family: 黑体; mso-hansi-font-family: 宋体" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: Wingdings; mso-fareast-font-family: 黑体" lang="EN-US">v </span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 黑体">招生专业：</span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span style="font-size: 11pt" lang="EN-US"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 22pt; mso-char-indent-count: 2.0"><span style="font-size: 11pt; font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">应用化学和有机化学</span><span style="font-size: 11pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 22pt; mso-char-indent-count: 2.0"><span style="font-size: 11pt" lang="EN-US"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt 28.5pt; text-indent: -28.5pt; mso-list: l0 level1 lfo1; mso-pagination: widow-orphan; tab-stops: list 28.5pt" align="left"><span style="border-left-width: 1pt; font-size: 16pt; font-family: Wingdings; border-right-width: 1pt; border-top-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; padding-bottom: 0cm; border-bottom-color: windowtext; padding-top: 0cm; padding-left: 0cm; border-right-color: windowtext; padding-right: 0cm; border-top-width: 1pt; mso-bidi-font-family: Wingdings; mso-font-kerning: 0pt; mso-fareast-font-family: Wingdings; mso-border-alt: none windowtext 0cm" lang="EN-US"><span style="mso-list: Ignore">v<span style="font: 7pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight: normal"><span style="border-left-width: 1pt; font-size: 16pt; font-family: 黑体; border-right-width: 1pt; border-top-color: windowtext; border-bottom-width: 1pt; border-left-color: windowtext; padding-bottom: 0cm; border-bottom-color: windowtext; padding-top: 0cm; padding-left: 0cm; border-right-color: windowtext; padding-right: 0cm; border-top-width: 1pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体; mso-border-alt: none windowtext 0cm">招生要求：<span lang="EN-US"><o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt; mso-pagination: widow-orphan" align="left"><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 0cm 0cm 0pt; mso-pagination: widow-orphan" align="left"><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp; </span><span style="mso-spacerun: yes">&nbsp;</span></span><span style="font-size: 11pt; font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">理论基础坚实，动手能力强，勤奋踏实，善于思考，积极进取<span lang="EN-US"><o:p></o:p></span></span></p>
+<br>
+<br>
+<br>
+            </div>
+			          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+<div class="footer">
+    <div class="inner">
+      <p>Copyright @ 2015  北京化工大学理学院  地址：北京市朝阳区北三环东路15号无机楼215-218室 </p>
+      <p>邮编：100029 总访问量：<span><script src="/cms/modules/channelVisitLog.jsp?parentID=5856"></script></span>   
+
+    </p></div>
+  </div><script src="/cms/web/writeLog.jsp?channelID=6199"></script>  <script src="/cms/web/writeLog.jsp?articleID=56908"></script>
+
+</body></html>

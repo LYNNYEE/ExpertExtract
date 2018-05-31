@@ -1,0 +1,71 @@
+name_label 
+一 、 基本情况 
+工学博士 ， 教授 ， 博士生导师 ， 现任北京工业大学 环境 与 能源工程学院 科研副院长 ， 环境科学 与 工程 一 级学科硕士点 责任教授 。 
+本科毕业 于 复旦大学 ， 博士毕业 于 哈尔滨工业大学 ， 先后 在 哈尔滨工业大学 （ 原 哈尔滨建筑大学 ） 和 日本东京大学 进行 博士后研究 ， timelabel 至今 在 北京工业大学环境 与 能源工程学院 环境工程专业 任教 。 
+timelabel 入选北京市科技新星 计划 、 timelabel 入选 北京市高校中青年骨干 教师培养计划 、 timelabel 年入选北京市 留学人员 科技 活动 择优 资助计划 、 timelabel 年入选北京市 新世纪百千万人才 工程 、 timelabel 入选 首届 place_label  “ 长城 学者 ” 培养计划 。 
+二 、 主要研究方向 
+水污染控制 
+污染控制 化学 与 技术 
+环境 催化 
+三 、 科研成果 
+1 、 作为 负责人主持 的 部分 科研项目 
+作为 负责人 主持国家自然科学基金 、 国家 “ 863 计划 ” 课题 等 国家 及 省部级科研项目 20 name_label ： 
+（ 1 ） place_label “ 长城 学者 ” 培养计划 ： 水中 持久性 氯 酚类 污染物 的 无毒 无害化 降解 研究 ， timelabel - 2015.12 
+（ 2 ） 国家自然科学基金 ： 碳纳米管 修饰 载 钯 催化 电极 的 制备 及 氯 酚类 污染物 的 电化学 还原 脱氯 - 无机 化 降解 ， timelabel - 2016.12 
+（ 3 ） 国家自然科学基金 ： 基于 表面 活性剂 - 聚 吡咯 复合膜 修饰 电极 的 五氯酚 的 水 相脱 氯 ， timelabel - 2013.12 
+（ 4 ） 国家自然科学基金 ： 水溶液 介质 中 多氯 代 有机 污染物 的 电催化 还原 脱氯 ， timelabel - 2011.12 
+（ 5 ） 高等学校 博士学科 点 专项科研基金 ： 基于 CNTs - PPy - 表面 活性剂 修饰 载 钯 催化 电极 的 2 , 4 - 二氯 酚 的 水 相脱 氯 ， timelabel - 2014.12 
+（ 6 ） 教育部留学回国人员 基金 ： 强化 超临界水 氧化 法 降解 有机 氯化物 的 研究 ，  timelabel - timelabel 
+（ 7 ） 北京市自然科学基金 ： 基于 载 Pd 多孔 催化 电极 的 CPs 的 脱氯 降解 ， timelabel - 2013.12 
+（ 8 ） 北京市自然科学基金 ： 氯代 有机 污染物 在 超临界水 中 的 强化 脱氯 ， timelabel - timelabel ， 
+（ 9 ） place_label 新世纪百千万人才 培养资助项目 ： 基于 碳纳米管 修饰 多孔 催化 电极 的 五氯酚 的 水 相脱 氯 研究 ， timelabel - 2014.12 
+（ 10 ） place_label 留学人员 科技 活动 择优 资助项目 ： 电催化 还原 脱氯用 载 钯 修饰 电极 的 制备 与 表征 ， timelabel - timelabel 
+2 、 代表性论文 
+已发表学术论文 80 余篇 ， 近期 发表 的 部分 代表性论文如下 ： 
+( 1 )  Zh iron g   Sun ,  X uef eng   Wei ,  Yan bo   Han ,  Shan   Tong , 
+Xian g   Hu .  Complete   dechlorination   of   2 , 4 - dichloroph eno l   in   aque ous   solution   on   palladium / polymeric   pyrrole - cetyl   trime thy l   ammonium   bromide / foam - nic kel   composite   electrode . 
+Journal   of   Hazard ous   Materials 
+,  timelabel ,  244 - 245 :  287 - 294  （ SCI ,  IF   4.173 ） 
+( 2 )  Zh iron g   Sun ,  Kun   Wang ,  X uef eng   Wei ,  Shan   Tong ,  Xian g   Hu .  Electrocatalytic   hydrodehalogenation   of   2 , 4 - dichloroph eno l   in   aque ous   solution   on   palladium - nic kel   bimetallic   electrode   synthesized   with   surfac tan t   as sis tan ce . 
+International   Journal   of   Hydrogen   Energy 
+,  timelabel ,  37 ( 23 ):  17862 - 17869 （ SCI ,  IF   4.054 ） 
+( 3 )  Zh iron g   Sun ,  X uef eng   Wei ,  Xian g   Hu ,  Kun   Wang ,  Haitao   Shen .  Electrocatalytic   dechlorination   of   2 , 4 - dichloroph eno l   in   aque ous   solution   on   palladium   loaded   meshed   ti tan ium   electrode   modified   with   polymeric   pyrrole   and   surfac tan t . 
+Colloids   and   Surfaces   A :  Physicochemical   and   Engineering   Aspects 
+,  timelabel ,  414 :  314 - 319 （ SCI ,  IF   2.236 ） 
+( 4 )  Takahashi   Fumitake ,  Sun   Zh iron g ,  Fukushi   Kensuke ,  Oshima   Yoshito ,  Yamamoto   Kazuo .  Catalytic   oxidation   of   acetic   a cid   over   sodium   ti tan ate   synthesized   hydrothermally   in   supercritical   water . 
+The   Journal 
+of   Supercritical   Fluids 
+,  timelabel ,  61 :  126 - 133  （ SCI ,  IF   2.860 ） 
+( 5 )  Zh iron g   Sun ,  Yan bo   Han ,  Ming   Gao ,  X uef eng   Wei ,  Xian g   Hu .  Cetyl   Trime thy l   Ammonium   Bromide - As sis ted   Electrochemical   Preparation   of   Palladium - Nickel   Bimetallic   Electrode . 
+International   Journal   of   Electrochemical   Science 
+,  timelabel ,  6 ( 11 ):  5626 - 5638 （ SCI ,  IF   3.729 ） 
+( 6 )  Zh iron g   Sun ,  Lin   Ma ,  Xian g   Hu .  Preparation   and   characterization   of   Pd / PPy - SDS / foam - Ni   and   Pd / PPy - CTAB / foam - Ni   electrodes   with   high   electroactive   surface   area . 
+Journal   of 
+Solid 
+State   Electroche mist ry 
+,  timelabel ,  15 ( 3 ): 493 - 501 （ SCI ， IF   2.131 ） 
+( 7 )  Zh iron g   Sun ,  Hui   Ge ,  Xian g   Hu ,  Yongzhen   Peng .  Preparation   of   foam - nic kel   composite   electrode   and   its   appli cation   to   2 , 4 - dichloroph eno l   dechlorination   in   aque ous   solution . 
+Separation   and   Purifi cation   Technology 
+,  timelabel ,  72 ( 2 ):  133 - 139  （ SCI ,  IF   2.879 ） 
+( 8 )  Zh iron g   Sun ,  Hui   Ge ,  Xian g   Hu ,  Yongzhen   Peng .  Electrocatalytic   dechlorination   of   chloroform   in   aque ous   solution   on   palladium / ti tan ium   electrode . 
+Chemical   Engineering  &  Technology 
+， timelabel ,  32 ( 1 ):  134 - 139 （ SCI ） 
+( 9 )  SUN   Zh iron g ， LI   Bao hua ， HU   Xian g ,  SHI   Min ， PENG   Yongzhen .  Electrochemical   dechlorination   of   chloroform   in   neu tral   aque ous   solution   on   palladium / foam - nic kel   and   palladium / polymeric   pyrrole   film / foam - nic kel   electrodes . 
+Journal   of   Env iron mental   Sciences 
+,  timelabel ,  20 ( 3 ):  268 - 272 （ SCI ） 
+( 10 ) Zh iron g   Sun ,  Fumitake   Takahashi ,  Yu   Odaka ,  Kensuke   Fukushi ,  Yoshito   Oshima ,  and   Kazuo   Yamamoto .  Effects   of   potassium   alkalis   and   sodium   alkalis   on   the   dechlorination   of   o - chloroph eno l   in   supercritical   water . 
+Chemosphere 
+,  timelabel ,  66  ( 1 ):  151 - 157 （ SCI ,  IF   2.739 ） 
+3 、 专利 
+作为 第一 发明人 授权 发明专利 7 项 。 
+4 、 获得 的 奖励 与 成果 
+获得 国家 发明 四等奖 1 项 （ 第 2 完成 人 ）、 航天工业 总公司 科技进步二等奖 1 项 （ 第 2 完成 人 ）、 place_label 高等教育教学成果 一等奖 2 项 ， 是 “ 水污染控制工程 ” 国家级教学团队 主要成员 、“ 水质工程学 ” 和 “ 环境保护概论 ” 两门 国家精品课程 的 主讲教师 。 
+四 、 人才培养 
+招生 对象 ： 硕士生 、 博士生 
+五 、 联系方式 
+电话 ： phonelabel 、 phonelabel 
+E - mail ： maillabel 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

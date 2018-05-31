@@ -1,0 +1,427 @@
+<html><head><title>张玉-西安电子科技大学人文学院</title><meta name="keywords" content="西安电子科技大学人文学院,张玉">
+<meta name="description" content="基本概况																																							姓&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;名：张玉									毕业学校：上海交通大学									职称/职务：讲师									办公地点：信远2区121办公室		...">
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta name="description" content="（通讯员 焦路）清风送爽，秋雨蒙蒙，9月5日早8时，人文学院14级汉语言文学、哲学专业共二十五名同学，在院长助理马得林、院长助理穆宏浪、实习指导老师张玉、余博的陪同下，乘"><link rel="stylesheet" type="text/css" href="../../dfiles/16225/templets/default/css/style.css"><script type="text/javascript" src="../../dfiles/16225/templets/default/js/jquery1.42.min.js"></script><script type="text/javascript" src="../../dfiles/16225/templets/default/js/jquery.superslide.2.1.1.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323069754754525a554303070000 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1017,'/content.jsp',1804,1393987749)</script>
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=419946"></script><link rel="stylesheet" href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=6aba13f0.css"></head>
+<body>
+<div class="header">
+<div class="header_wrap">
+<div class="top_right">
+<div class="homepage"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>    <a href="http://www.xidian.edu.cn" target="_blank">学校主页</a>
+</div>
+<div class="search_box">
+
+
+
+
+
+<form action="../../ssjgy.jsp?wbtreeid=1017" method="post" name="a189689a" onsubmit="return subsearchdataa189689a()" style="display: inline;">
+  <input name="Find" value="find" type="hidden"><input name="entrymode" value="1" type="hidden"><input id="INTEXT2" name="INTEXT2" value="" type="hidden"><input name="news_search_code" type="hidden">
+ 
+                <span id="intextspana189689a"></span>
+                <iframe id="intextframea189689a" src="about:blank" scrolling="no" style="position:absolute;top:0px;left:0px;display:none;" frameborder="0"></iframe>
+                <input name="INTEXT" class="search_txt" value="" placeholder="请输入关键词" type="text">
+           
+                    <div style="position: absolute;z-index: 10;right: 3px;top: 8px;">
+                    <input src="../../dfiles/16225/templets/default/images/search_btn.png" type="image"></div>
+
+          
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa189689a()
+{ 
+    if(document.a189689a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa189689a(document.a189689a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script language="JavaScript" src="../../_dwr/engine.js"></script>
+    <script language="JavaScript" src="../../_dwr/util.js"></script>
+    <script language="JavaScript" src="../../_dwr/interface/NewsSearchDWR.js"></script>
+    <script language="JavaScript" src="/system/resource/js/vsb_news_search.js"></script>
+    <script language="JavaScript" src="/system/resource/js/vsb_news_search_entry.js"></script>  
+    <script language="JavaScript" src="/system/resource/js/language.js"></script>
+    <script language="JavaScript" src="/system/resource/js/base64.js"></script>
+    <script language="JavaScript" src="/system/resource/js/formfunc.js"></script>    
+    
+    <script>    
+    news_searcha189689a = new vsb_news_search();
+    news_searcha189689a.isShowCode=false;
+    news_searcha189689a.tooltipid = 'tooltipa189689a';
+    news_searcha189689a.apptag = 'intextspana189689a';
+    news_searcha189689a.frametag = 'intextframea189689a';
+    news_search_entrya189689a = new vsb_news_search_entry();
+    news_search_entrya189689a.formname = "a189689a";
+    news_search_entrya189689a.news_search_obj = news_searcha189689a; 
+    news_search_entrya189689a.querytxtsize = 155
+    news_search_entrya189689a.yzmts ="您的查询过于频繁，请输入验证码后继续查询";
+    news_search_entrya189689a.qdstyle ="";
+    news_search_entrya189689a.qdname = "确定";
+    news_search_entrya189689a.qxstyle = "";
+    news_search_entrya189689a.qxname = "取消";
+    news_search_entrya189689a.showstr='请输入查询验证码！';    
+    function checkDataa189689a(formname)
+    {    
+        return news_search_entrya189689a.checkdata(formname)   
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div></div></div></div>
+<div class="navigation">
+<ul id="nav" class="nav clearfix">
+
+
+
+<li class="nLi on" id="t0">
+
+
+<h3><a href="../../index.htm" target="_blank">首页</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../xygk.htm" target="_blank">学院概况</a></h3>
+	<ul class="sub">
+
+			<li><a href="../../xygk/xyjj.htm" target="_blank">学院简介</a> </li>
+						
+		
+			<li><a href="../../xygk/xyld.htm" target="_blank">学院领导</a> </li>
+						
+		
+			<li><a href="../../xygk/xybgs.htm" target="_blank">学院办公室</a> </li>
+						
+		
+			<li><a href="../../xygk/xgbgs.htm" target="_blank">学工办公室</a> </li>
+						
+					</ul>
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../szdw.htm" target="_blank">师资队伍</a></h3>
+	<ul class="sub">
+
+			<li><a href="../../szdw/zxx.htm" target="_blank">哲学系</a> </li>
+						
+		
+			<li><a href="../../szdw/zwx.htm" target="_blank">中文系</a> </li>
+						
+		
+			<li><a href="../../szdw/ysx.htm" target="_blank">艺术系</a> </li>
+						
+		
+			<li><a href="../../szdw/lsx.htm" target="_blank">历史系</a> </li>
+						
+		
+			<li><a href="../../szdw/smkxysmjyyjzx.htm" target="_blank">生命科学与生命教育研究中心</a> </li>
+						
+		
+			<li><a href="../../szdw/gdjyyjs.htm" target="_blank">高等教育研究所 </a> </li>
+						
+					</ul>
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../xkjs.htm" target="_blank">学科建设</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../jxky.htm" target="_blank">教学科研</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../dqgz1.htm" target="_blank">党群工作</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../xsgz.htm" target="_blank">学生工作</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../glzd.htm" target="_blank">管理制度</a></h3>
+	
+				</li>
+
+
+
+
+
+<li class="nLi hline" id="t1">
+
+
+<h3><a href="../../rczp.htm" target="_blank">人才招聘</a></h3>
+	
+				</li>
+
+</ul><script>
+				$(function(){
+					var tid=$("#tid").val();
+					if(tid==""){
+						$("#t0").addClass("cur");
+					}else{
+						$("#t"+tid).addClass("cur");
+					}
+				})
+			</script><script id="jsID" type="text/javascript">
+				jQuery("#nav").slide({ 
+					type:"menu",// 效果类型，针对菜单/导航而引入的参数（默认slide）
+					titCell:".nLi", //鼠标触发对象
+					targetCell:".sub", //titCell里面包含的要显示/消失的对象
+					effect:"slideDown", //targetCell下拉效果
+					delayTime:300 , //效果时间
+					triggerTime:0, //鼠标延迟触发时间（默认150）
+				});
+			</script></div>
+<div class="subbanner"></div>
+<div class="page_wrap">
+<div class="page_left">
+<div class="position">    西安电子科技大学人文学院:
+                        <a href="../../index.htm" target="_blank">首页</a>
+                &gt;&gt;
+                <a href="../../szdw.htm" target="_blank">师资队伍</a>
+                &gt;&gt;
+                <a href="../../szdw/zwx.htm" target="_blank">中文系</a>
+                &gt;&gt;
+                正文
+</div>
+<div class="page_main">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1804,'1393987749','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="page_main">
+
+<form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+
+    <div class="page_tit">张玉</div>
+    <div class="page_info">
+						<div class="page_info_left">作者：&nbsp;&nbsp;&nbsp;&nbsp;时间：2017-09-21</div>
+						<div class="bdsharebuttonbox bdshare-button-style0-16" data-bd-bind="1511810852173">
+							<span style="float: left;">分享到：</span>
+							<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+							<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+							<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+							<a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+							<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+							<a href="#" class="bds_more" data-cmd="more"></a>
+						</div>
+						<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+					</div>
+
+
+
+
+
+    
+    <div class="page_body"><div id="vsb_content"><div class="v_news_content">
+<div class="tabbody">
+							<div class="tabtit">
+								基本概况
+							</div>
+							<div class="tabinfo">
+								<div class="tabpic"><img src="/__local/2/52/7E/7871BD07C8258E5A818FE28F873_70085E00_80FF.jpg?e=.jpg"></div>
+								<div class="tabdesc">
+									<p>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：张玉</p>
+									<p>毕业学校：上海交通大学</p>
+									<p>职称/职务：讲师</p>
+									<p>办公地点：信远2区121办公室</p>
+									<p>研究方向：外国文学、比较文学与世界文学、网络文学</p>
+									<p>电子邮件：zhangyu985@qq.com</p>
+								</div>
+							</div>
+							<div class="tabtit">
+								研究项目
+							</div>
+							<div class="tabinfo">
+								1、《〈周礼〉礼器神话与中国礼制话语研究》（参与），2013年，国家社科基金项目。
+							</div>
+							<div class="tabtit">
+								获奖情况
+							</div>
+							<div class="tabinfo">
+								论文《关于“四重证据法”之学术考察——从国学到文学人类学》在第六届中国文学人类学年会青年论文评选中获优秀奖。
+							</div>
+							<div class="tabtit">
+								教学工作
+							</div>
+							<div class="tabinfo">
+								主要承担《外国文学史》及《比较文学与世界文学》这两门课程的教学任务。
+							</div>
+							<div class="tabtit">
+								发表代表性论著
+							</div>
+							<div class="tabinfo">
+								1、《关于“四重证据法”之学术考察——从国学到文学人类学》，《百色学院学报》2011年第1期，第一作者，被引用1次。<br>
+2、《神话历史：介于祠堂与神庙之间——秦晋两地扶苏“故事”的人类学考察》，《百色学院学报》2014年第6期，第一作者。<br>
+3、《鹿：中国审美文化的重要元素——从“N级编码”理论看中国的鹿文化》，《马克思主义美学》2015年第1期，第一作者，（CSSCI）。&nbsp;<br>
+4、《历史研究的两个层次与历史存在的四种形态》，《社会科学家》2015年第6期，第一作者，（CSSCI），被引用1次。&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+5、《当代奇幻文学的神话学解析》，《兰州学刊》2015年第9期，第一作者，（CSSCI）。<br>
+6、《作为文学思潮的先锋文学》，《兰州学刊》2016年第3期，第一作者，（CSSCI）。
+							</div>
+						</div>
+					</div><table>
+				
+			
+</table></div></div><div id="div_vote_id"></div>
+        
+   
+</form></div>
+</div></div>
+<div class="page_right">
+<div class="page_right_p1">师资队伍</div>
+<div class="page_right_nav">
+<ul>
+<li class="gray">    </li><li><a href="../../szdw/zxx.htm" target="_blank">—哲学系</a></li>
+    <li><a href="../../szdw/zwx.htm" target="_blank">—中文系</a></li>
+    <li><a href="../../szdw/ysx.htm" target="_blank">—艺术系</a></li>
+    <li><a href="../../szdw/lsx.htm" target="_blank">—历史系</a></li>
+    <li><a href="../../szdw/smkxysmjyyjzx.htm" target="_blank">—生命科学与生命教育研究中心</a></li>
+    <li><a href="../../szdw/gdjyyjs.htm" target="_blank">—高等教育研究所 </a></li>
+</ul></div>
+<div class="page_right_ad">    
+
+
+<img src="../../dfiles/16225/templets/default/images/ad.png">
+
+
+
+
+
+
+
+</div></div></div>
+<div class="clear"></div>
+<div class="footer">
+<div class="footer_wrap">
+<div class="footer_part">
+<div class="footer_part_tit">联系我们</div><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p class="footer_p footer_tel">+86-29-81891388、81891298</p> 
+<p class="footer_p footer_email">rwxy@xidian.edu.cn</p> 
+<p class="footer_p footer_add">西安市西沣路兴隆段226号南校区信远楼2区</p> 
+<p class="footer_p footer_zip">710100</p></div>
+<div class="footer_part">
+<div class="footer_part_tit">友情链接</div>
+<div class="footer_part2_list">    <a href="http://www.xidian.edu.cn/xywh1.htm" target="_blank">校园文化</a> 
+    <a href="http://202.117.121.139/tysfrz/caslogin.aspx" target="_blank">财务系统</a> 
+    <a href="http://job.xidian.edu.cn/index.html" target="_blank">西电就业网</a> 
+    <a href="http://yz.xidian.edu.cn/" target="_blank">研究生招生</a> 
+    <a href="http://zncc.xidian.edu.cn/" target="_blank">终南文化书院</a> 
+    <a href="http://meeting.xidian.edu.cn/" target="_blank">西电学术信息网</a> 
+    <a href="http://web.xidian.edu.cn/" target="_blank">个人主页</a> 
+    <a href="http://kxdd.xidian.edu.cn/" target="_blank">学风建设</a> 
+    <a href="http://zsb.xidian.edu.cn/index.html" target="_blank">本科招生</a> 
+    <a href="http://xdyx.xidian.edu.cn/" target="_blank">迎新系统</a> 
+    <a href="http://www.rwxy.tsinghua.edu.cn/" target="_blank">清华大学人文学院</a> 
+    <a href="http://phi.ruc.edu.cn/" target="_blank">人大哲学院</a> 
+</div></div>
+<div class="footer_part3">
+    
+
+<div class="footer_part_tit"></div>
+<div class="footer_part3"><img src="../../images/1-16122613325U19.jpg"> </div>
+
+</div></div></div>
+<div class="cpy">
+<div class="cpy">
+<div class="cpy_wrap">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="57%" align="left"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>Copyright © 2017 rwxy.xidian.edu.cn All right Reserved 西安电子科技大学人文学院版权所有</p></td>
+<td width="43%" align="left">
+
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="../../_dwr/interface/PageCounterDWR.js"></script>
+<table width="1%" align="center">
+    <tbody><tr>
+    <td valign="middle" nowrap="" align="center">
+
+        <span>统计：</span>
+        
+        <span class="fontstyle189839" id="a189839" name="a189839">123609</span>
+    
+    </td>    
+    </tr>
+</tbody></table>
+<script>
+function getvisittimeform189839()
+{		PageCounterDWR.getVisittime('1393987749','1017','TOTAL_COUNTER','112973','6',callbackdataform189839);
+}
+function callbackdataform189839(data)
+{
+	document.getElementById("a189839").innerHTML = data; 
+}
+getvisittimeform189839();
+</script></td></tr></tbody></table></div></div></div>
+
+
+</body></html>

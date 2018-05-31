@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=176" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="eighA3r/GZloG4NCAV6eFTipS4PmQ6XvxDvHyMyzEJhXB9Q84fnb+p0D8iWgszbAjw/T3sYDIeVHCVthl3CXuVCesSueiVm7KO3OucjkGyRPNOp8tf6WU26Gfp71OkFEzyPsVCch5dRlmk+E+UAIDBbM0mnqppPeVCkiNBpdQnv98m/hrfIGyP5YlEQxeHz80DxYxgABjr50UaX2XJzjZMG9pjht5aQe89bcGr48KfSvwzFpWutLQZTp8sc5/8IE8VefWek+SXEK8xGAvm70pEUWrSpsMq4AxccaRZzgmaNA6m2l2dxB41l1fkafsu5/3T/Qo54rSmViwc0iZJdLkbFRyO8=" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;蒋砚军</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/蒋砚军.JPG" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;教师</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;网络技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=32" target="_blank">计算机网络</a>   <a href="showcourse.aspx?id=71" target="_blank">UNIX编程环境 </a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;计算机网络及应用</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;1991年始在北京邮电大学计算机学院工作，赴日本OKI系统开发中心参加计算机辅助软件工程工具的研究和开发一年，后从事教学科研工作至今。上世纪90年代初期，主要从事X.25分组交换网络和传真数据网的研究工作，科研成果应用于多家金融，水利，证券，国防等单位；90年代后期主要从事路由器系统的研制及相关应用项目的开发。2002年之后，在计算机网络方面，参与航空电信网路由器的研制，负责路由协议部分；在分布式系统方面，参与“电信与多媒体服务网格系统”，负责网格进程间通信G-MPI机制和基于工作流技术的网格任务调度系统的研究与开发，为人脸识别、视频点播、移动网络优化、电信数据挖掘等多个面向通信和多媒体领域的应用系统提供了平台支撑。现从事计算机网络和操作系统方面的教学和科研工作，主要从事分布式系统，网络协议，嵌入式操作系统和嵌入式通信设备的研制等方面工作。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;目前承担的课题有：&nbsp;移动互联网原始实时数据码流的日志生成与检索；使用GPU技术和Hadoop技术并行数据挖掘；民航空中交通指挥系统专用电话交换机QSIG信令测试仪研制；雷达情报数据通信及情报信息在Windows/iPad上的展示</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;&nbsp;已完成的科研项目，有三项获得省部级奖励。“航空电信网路由器”，“电信与多媒体服务网格系统”，“传真数据网设备（FPAD）”分别获得民航总局，中国电子学会，信息产业部颁发的一等奖，二等奖和三等奖。完成了嵌入式系统，路由器以及其他计算机网络应用型工程项目和产品型项目多项，质量稳定，在实际生产环境中得到应用。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">发表论文十几篇，出版教材一部</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;jiangyanjun0718@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

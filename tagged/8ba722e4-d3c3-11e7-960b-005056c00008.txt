@@ -1,0 +1,155 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="title" content="西南交通大学教师个人主页"> 
+<meta name="description" content="西南交通大学教师个人主页是为教职员工提供展示其教学和科研信息的平台"> 
+<meta name="keywords" content="交大，西南交通大学，西南交大，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>西南交通大学教师个人主页</title>
+
+				<link href="CSS/default.css" rel="stylesheet" type="text/css">
+				<style type="text/css">
+				body,td,th {
+	font-family: "宋体";
+}
+                body {
+	background-image: url();
+}
+                </style>
+</head>
+<body>
+		<div class="toplink">		
+        <span><a href="http://homepage.swjtu.edu.cn/UserWeb/Login.aspx" target="_blank">登录</a></span>
+		<span><a href="http://homepage.swjtu.edu.cn/Home/list.aspx?type=help" target="_blank">帮助</a></span>
+        <span><a href="http://homepage.swjtu.edu.cn" target="_blank">返回首页</a></span>
+      	<span><a href="http://www.swjtu.edu.cn" title="西南交通大学" target="_blank">交大主页</a></span>
+		<div style="clear:both"></div>
+       </div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+   <div id="logo"></div>
+<!--导航-->
+</div>
+    <div id="lead">
+        <ul id="navigate">
+            <li><a href="index.htm" target="_blank">我的主页:</a></li>
+            <li><a href="index.htm" target="_blank">个人信息                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </a></li>
+            <li><a href="research.htm" target="_blank">科学研究</a></li><li><a href="paper.htm" target="_blank">论文成果</a></li><li><a href="award.htm" target="_blank">荣誉奖励</a></li><li><a href="team.htm" target="_blank">实验室建设</a></li><li><a href="teach.htm" target="_blank">课程教学</a></li><li><a href="zhaosheng.htm" target="_blank">招生信息</a></li><li><a href="english.htm" target="_blank">English</a></li>
+        </ul>
+    </div>
+
+<!--中间-->
+<div id="middle">
+			<div id="middle_left" style="margin:1px 0 0 0; float:left; width:230px; display:inline;"> 
+			<div class="module" style="LEFT: 131px; WIDTH: auto; TOP: 118px; HEIGHT: auto">
+
+<div class="subject"><span id="t0">基本信息</span></div>
+<div class="detail">
+<p align="center"><img src="images/舒泽亮_副本.jpg" alt="photo" width="188" height="250"></p>    
+
+  <p id="current"><strong>舒泽亮&nbsp; </strong></p>
+  <p>教授、博士研究生导师</p>
+  <p>专业：电力电子与电力传动</p>
+<p>工作单位：电气工程学院</p>
+</div>
+			</div>
+<div class="module" style="LEFT: 99px; WIDTH: auto; TOP: 597px; HEIGHT: auto">
+<div class="subject"><span id="t3">联系方式</span></div>
+<div class="detail" id="n3">
+<p>通信地址：</p>
+<p>成都市西南交通大学电气工程学院</p>
+<p>电子邮箱：shuzeliang@swjtu.edu.cn</p>
+<p>办公地点：</p>
+<p>牵引动力实验区 国家轨道交通电气化与自动化工程技术研究中心 NEEC楼 105/102实验室 </p>
+</div></div></div><div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;">
+			<div class="module" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+
+<div class="subject"><span id="t2">个人简介</span></div><!--ckstartn2-->
+<div class="detail" id="n2"> 
+   <p>舒泽亮，教授，博士研究生导师。1979年5月生，分别于2002和2007年西南交通大学电气工程学院获工学学士和博士学位，并分别于2009和2013年破格晋升为副教授和教授，是IEEE高级会员。</p>
+   <p>&nbsp;</p>
+   <p>主要从事电力电子技术及应用研究，包括：多电平变流器技术、同相供电变换器、电力电子变压器技术、APF和STATCOM等FACTS装置及电力电子应用中的数字信号处理技术等，在多电平变化器拓扑和优化控制方面具有较多积累，面向无功谐波补偿、车载电力电子变压器、贯通式同相供电等应用研究较深入。</p>
+  <p>&nbsp;</p>
+  <p>主持国家自然科学基金青年、青年-面上连续项目、博士点新教师基金等，主研参与3项“十一五”国家科技支撑计划、2项“863”课题和1项铁道部科研开发计划等。发表学术论文五十余篇，包括《IEEE  Trans. on Industrial Electronics》、《IEEE  Trans. on Power Electronics》、《IET Power Electronics》等专业顶级期刊十余篇。其中，SCI检索论文单篇论文最高被引用41次；EI检索论文被引用159次。申请（授权）国家发明专利、实用新型和软件著作权等40余项。</p>
+  <p>&nbsp;</p>
+</div><!--ckendn2--></div>
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+
+<div class="subject"><span id="t1">主要研究方向</span></div><!--ckstartn1-->
+<div class="detail">
+<p>电力电子技术及应用
+      </p><blockquote>
+        <blockquote>
+          <p>包括：多电平变换装置在电力电子变压器、同相供电、APF、STATCOM等系统及电力电子应用中的数字信号处理技术。  </p>
+          <p>&nbsp;</p>
+        </blockquote>
+</blockquote>
+</div><!--ckendn1--></div>
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+  <div class="subject">学术兼职</div>
+  <!--ckstartn1-->
+  <div class="detail">
+    <p>IEEE  Trans. on Power Electronics、IEEE Trans. on Industrial  Electronics、 IEEE Trans. on Industry Applications、IET Power Electronics等期刊的特邀审稿人。 </p>
+    <p>&nbsp;</p>
+  </div>
+  <!--ckendn1-->
+</div>
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+  <div class="subject">工作与学习简历</div>
+  <!--ckstartn1-->
+  <div class="detail">
+    <table width="690" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td width="101"><p align="right">2013-今 </p></td>
+        <td width="31">&nbsp;</td>
+        <td width="558"><p> 西南交通大学电气工程学院，教授 </p></td>
+      </tr>
+      <tr>
+        <td width="101"><p align="right">2009-2013</p></td>
+        <td width="31">&nbsp;</td>
+        <td width="558"><p>西南交通大学电气工程学院，副教授 </p></td>
+      </tr>
+      <tr>
+        <td width="101"><p align="right">2008-2009</p></td>
+        <td width="31">&nbsp;</td>
+        <td width="558"><p>西南交通大学电气工程学院，讲师 </p></td>
+      </tr>
+      <tr>
+        <td width="101"><p align="right">2002-2007</p></td>
+        <td width="31">&nbsp;</td>
+        <td width="558"><p>西南交通大学电气工程学院硕博连读, 师从连级三教授、郭育华副教授，获工学博士学位</p></td>
+      </tr>
+      <tr>
+        <td width="101"><p align="right">1998-2002</p></td>
+        <td width="31">&nbsp;</td>
+        <td width="558"><p>西南交通大学电气工程学院，本科，获电气工程及其自动化学士学位</p></td>
+      </tr>
+    </tbody></table>
+<p>&nbsp;</p>
+  </div>
+  <!--ckendn1-->
+</div>
+<div class="subject"></div>
+<!--ckstartn1-->
+<div class="detail">
+  <p align="center"><a href="mailto:shuzeliang@swjtu.edu.cn" target="_blank">欢迎您Email联系 shuzeliang@swjtu.edu.cn   <img src="file:///C|/Users/mailt/Desktop/飞信_副本.png" width="142" height="88"></a>&nbsp;</p>
+  <p align="center">&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<!--ckendn1--></div></div>
+	<label for="q"></label>
+</div>
+
+<!--底部-->
+<div id="bottom">
+Copyright © 2011   http://inc.swjtu.edu.cn   西南交通大学信息网络中心 
+<br>
+</div>
+
+
+</body></html>

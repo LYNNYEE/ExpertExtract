@@ -1,0 +1,405 @@
+<html><head>
+   <title>西北农林科技大学 动物科技学院</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+  <link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+
+
+<style type="text/css"></style><script charset="utf-8" src="//s.yunshipei.com/javascript/sm.min.js" async=""></script></head><body>
+
+<!--顶部开始-->
+
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/e370dbe18cc1944dd895c7af5fb1c761/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
+  <title>西北农林科技大学 动物科技学院</title>
+
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+ 
+
+<link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+<script src="../../js/jquery1.42.min.js" type="text/javascript"></script>
+<script src="../../js/jquery.superslide.2.1.1.js" type="text/javascript"></script>
+<style>
+
+body {background: #E9E6E6;}
+
+*{font-family:宋体}
+
+.cont {margin: 1px 25px;color:#000;}
+.cont p{line-height:26px;text-indent: 0em;margin-bottom: 10px;font-size:14px;}
+.cont p img{text-indent: 0;margin: 0 auto;}
+.cont table{margin:0 auto;}
+.sort_rightcont2 h1{color: #0c600c;}
+#contenttable td{font-size:14px;padding:15px 0px;}
+#contenttable th{padding:10px 0;}
+#contenttable .fontstrong{font-weight:bold}
+		
+		
+		img{ border:0;  }
+		a{ text-decoration:none; color:#333;  }
+
+		/* 本例子css */
+		.slideBox{ width:1180px; height:130px; overflow:hidden; position:relative; border:1px solid #ddd;  }
+		.slideBox .hd{ height:15px; overflow:hidden; position:absolute; right:5px; bottom:5px; z-index:1; }
+		.slideBox .hd ul{ overflow:hidden; zoom:1; float:left; margin-top:10px; }
+		.slideBox .hd ul li{ float:left; margin-right:2px;  width:8px; height:8px; line-height:14px; text-align:center; background:#fff; cursor:pointer; }
+		.slideBox .hd ul li.on{ background:#f00; color:#fff; }
+		.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+		.slideBox .bd li{ zoom:1; vertical-align:middle; }
+		.slideBox .bd img{ width:1180px; height:130px; display:block;  }
+
+		/* 下面是前/后按钮代码，如果不需要删除即可 */
+		.slideBox .prev,
+		.slideBox .next{ position:absolute; left:3%; top:50%; margin-top:-25px; display:block; width:32px; height:40px; background:url(images/slider-arrow.png) -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+		.slideBox .next{ left:auto; right:3%; background-position:8px 5px; }
+		.slideBox .prev:hover,
+		.slideBox .next:hover{ filter:alpha(opacity=100);opacity:1;  }
+		.slideBox .prevStop{ display:none;  }
+		.slideBox .nextStop{ display:none;  }
+
+		
+</style>
+
+<div class="head">
+<script type="text/javascript" language="javascript">
+    //加入收藏
+        function AddFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }   
+        }
+    }
+    //设为首页
+    function SetHome(url){
+ 
+        if (document.all) {
+ 
+            document.body.style.behavior='url(#default#homepage)';
+ 
+               document.body.setHomePage(url);
+ 
+        }else{
+ 
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+    <div class="header">
+        <div class="head_right">    
+            <div style="width: 305px;height:45px;"><p><a href="http://dkxy.nwsuaf.edu.cn/english/" )="" target="_blank" "="">English</a> | <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a> | <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>| <a href="../../lxwm/index.htm" target="_blank">联系我们</a></p></div>
+            
+            <div>
+                <span class="sousou">
+<form name="dataForm" action="http://cms2.nwsuaf.edu.cn/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+     <input name="siteID" value="77" type="hidden">
+                        <input name="query" class="search_input" style="height:20px;width:175px;float: left;margin-left:15px;border-left: 2px solid #c1c0be;border-bottom: 2px solid #c1c0be;border-top: 2px solid #c1c0be;" value="请输入关键字" onclick="javascript:if (this.value=='请输入关键字'){this.value=''}" type="text">
+                        <input value="" name="Submit" class="so_btn" style="height:24px;width:55px;float:right;margin-right:85px;border:0; background:url(../../images/bg_search.png);" type="Submit">     
+                    </form>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<!--顶部结束-->
+
+
+<!--导航开始-->
+<div class="nav">
+          <div id="nav">
+                  <ul>
+                <li><a class="link" href="../../index.htm" target="_blank">首页</a></li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../zjrc/index.htm" target="_blank">师资队伍</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xkjs/xkjj/index.htm" target="_blank">学科建设</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../bksjy/zyjj/index.htm" target="_blank">本科生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../yjsjy/bsd/index.htm" target="_blank">研究生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../kytg/kytgjf/index.htm" target="_blank">科研推广</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../hzjl/xzjl/index.htm" target="_blank">合作交流</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../dqgz/dwjg/index.htm" target="_blank">党群工作</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xsgl/zzjg/index.htm" target="_blank">学生管理</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../crjy/hsjy/index.htm" target="_blank">成人教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygz/xyhd/index.htm" target="_blank">校友工作</a>
+                                </li>
+                                
+                
+            </ul>
+          </div>
+        </div>
+
+<!--导航结束-->
+
+<!--articlehome开始-->
+<div class="sort_main">
+
+	<div class="sort_left">
+	
+		<div class="sort_lefthead"><dt>师资队伍</dt></div>
+		<div class="sort_leftcont">
+			<ul>
+							<a href="../zjrc/index.htm" target="_blank"><li style="width:178px;height:32px;">专家人才</li></a>
+							<a href="index.htm" target="_blank"><li style="width:178px;height:32px;">教授、研究员</li></a>
+							<a href="../fjsfyjy/index.htm" target="_blank"><li style="width:178px;height:32px;">副教授、副研究员</li></a>
+							<a href="../js/index.htm" target="_blank"><li style="width:178px;height:32px;">讲师</li></a>
+							<a href="../wpzj/index.htm" target="_blank"><li style="width:178px;height:32px;">外聘专家</li></a>
+						</ul>
+		</div>
+
+	</div>
+
+
+
+
+	<div class="sort_right2">
+	
+		<div class="sort_righthead2"><dt>现在的位置:                  <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        教授、研究员
+</dt></div>
+		
+		<div class="sort_rightcont2">
+			
+				<h1 style="color: #0c600c;font-size:16px;">蓝贤勇</h1>
+				   <h2 style="font-size: 14px;color: #3d66aa;"> </h2>
+				<h2>                                  发布日期：2016-05-18  浏览次数： <script src="/cms/web/count.jsp?articleID=304588"></script>7153</h2>
+                               <div class="line" style="margin-top:10px;"></div>
+				<div class="cont" style="color:#000;margin: 1px 25px;">
+					　　<div class="media"></div>
+						<div class="flashpaper"></div>  
+							   <p>　　<img onclick="window.open('../../images/content/2016-09/20160919084639724395_1.jpg')" src="../../images/content/2016-09/20160919084639724395.jpg" style="float:right; height:209px; width:142px"></p>
+
+<p>　　1、基本信息</p>
+
+<p>　　蓝贤勇，男，1979年10月生，<a name="OLE_LINK10">江西赣州（南康）</a>人，博士、教授、博士生导师。<a name="OLE_LINK21">获</a><a name="OLE_LINK11">陕西省青年科技新星（</a>2011）、<a name="OLE_LINK13">学校</a>“青年学术骨干支持计划”（2009）、西北农林科技大学博士毕业研究生第一届“优秀学<a name="OLE_LINK15">术论文校长专项基金一等奖</a>”（2007）等称号，<a name="OLE_LINK41">被评为学校“先进科技工作者”（</a>2008），获陕西省“三秦人才津贴”。1997～2001年本科就读于西北民族学院（现西北民族大学），2001<a name="OLE_LINK1">～</a>2004年硕士就读于西北农林科技大学，2004～2007年博士就读于西北农林科技大学（其中2005.3～2006.3在北京地坛医院传染病研究所进行博士联合培养）。2008.7<a name="OLE_LINK23">～</a>2008.10在美国Wake Forest University做访问学者；2011.11<a name="OLE_LINK30">～</a>2012.11在美国University of Wisconsin-Madison动物科学系做博士后（访问学者）。</p>
+
+<p>　　<a name="OLE_LINK38">现为国家自然科学基金</a>项目(NSF<a name="OLE_LINK232">C)</a>一审函评专家、<a name="OLE_LINK290">教育部学位中心-</a><a name="OLE_LINK290">学位论文优秀论文通讯评议专家；</a><a name="OLE_LINK44">Small Ruminant Research</a>、<a name="OLE_LINK49">Scient</a><a name="OLE_LINK45">ific Reports</a><a name="OLE_LINK46">、</a>Animal、PLoS One、<a name="OLE_LINK36">Gene</a>、Genome、Journal of Assisted Reproduction and Genetics、《畜牧兽医学报》、《农业生物技术学报》和《西北农林科技大学学报》（自然科学版）等国内外杂志审稿人；《中国牛业科学》英文编辑（2014年至今）；中国畜禽遗传标记学分会理事；中国养牛学分会会员、中国养羊学分会会员、中国畜牧兽医学会会员、中国动物遗传育种学分会会员。</p>
+
+<p>　　2、研究方向</p>
+
+<p>　　动物表观遗传学研究（如：牛羊长<a name="OLE_LINK58">链非编码</a>lncRNA、环状circRNA、miRNA、<a name="OLE_LINK54">可变剪切</a>、基因印迹、DNA甲基化）；</p>
+
+<p>　　动物遗传资源与生物技术育种研究与应用（如：牛、羊等反刍动物）。</p>
+
+<p>　　3、开设课程</p>
+
+<p>　　2007年至今，一直承担本科生《动物遗传学》、《动物基因工程》等课程教学工作；<a name="OLE_LINK236">博、硕士研究生《分子遗传学》、《动物细胞遗传学》、《蛋白质组学》和《遗传育种研究专题》等课程。主讲</a><a name="OLE_LINK65">本科生课程《动物遗传学》（排名第3</a><a name="OLE_LINK65">）（</a>2009年被评为教育部国家精<a name="OLE_LINK67">品课程</a>、2016年获批教育部国家精品资源共享课），所在团队于2010年被评为“陕西省动物遗传学教学团队”（<a name="OLE_LINK74">负责人陈宏教授</a>）。获<a name="OLE_LINK75">学校</a>首届微课教学比赛三等奖（2015）、学校第五届青年教师讲课比赛农学大组第5名（校级三等奖，2010）、学院讲课比赛一等奖（2010），被聘为学校教学发展中心教学培训员（聘期：2015.6-2017.6）。</p>
+
+<p>　　已协助指导博/硕士研究生9届；独立指导学术型硕士研究生<a name="OLE_LINK57">3</a>届（2014/2015/2016届，2人次获<a name="OLE_LINK52">研究生</a><a name="OLE_LINK53">“</a>国家奖学金”），指导在读研究生9名（<a name="OLE_LINK39">学术型研究生7人/专业学位研究生1人/外国留学生</a>1名）<a name="OLE_LINK40">（</a>3人次获<a name="OLE_LINK64">研究生</a>“<a name="OLE_LINK51">国家奖学金</a>”）。此外，指导研究生获“大北农杯”2016年第一届全国农林院校研究生学术科技作品竞赛二等奖（杨青/张思欢/曹修凯）。</p>
+
+<p>　　4、学术成果</p>
+
+<p>　　<a name="OLE_LINK59">一直从事动物表观遗传修饰、动物遗传资源与家畜育种研究</a>与应用工作，在“<a name="OLE_LINK78">动物基因组与基因功能研究</a>”实验室，开展牛羊基因组的遗传学与表观遗学机制研究<a name="OLE_LINK90">，已在</a><a name="OLE_LINK84">实验室</a>建立了多种DNA标记技术体系（如：RMAPD；ME；MP）、DNA甲基化检测体系，首次提出了甲基化修饰程度评价的新指标-甲基化共享率（MSR）并建立了在线甲基化分析网站（<a href="http://www.msrcall.com/" target="_blank">www.msrcall.com</a>），建立了非编码RNA机制研究体系。主持国家自然科学基金（面上项目）2项<a name="OLE_LINK117">、副主持国家自然科学基金</a>1项，主持陕西省“青年科技新星基金等3项。作为骨干成员<a name="OLE_LINK82">，</a>参加国家肉牛牦牛产业技术体系（CARS-38）项目（岗位专家陈宏（2009-2015）/雷初朝（2016-）团队）。<a name="OLE_LINK93">获</a>陕西省科学技术一等奖等省级奖励4项，获省级成果鉴定2项，获首届“吴常信院士”动物遗传育种基金会优秀论文奖（2009年）等优秀论文奖励；获批国家发明专利3项<a name="OLE_LINK102">（排名第</a>1）、国家授权计算机软件著作权4项（排名第1）。<a name="OLE_LINK91">发表第一作者或通讯作者</a>SCI论文50余篇、一级学报论文10余篇，分布在Journal of Dairy Science(SCI Top期刊)、Animal Genetics、Scientific Reports、Frontiers in Geneti<a name="OLE_LINK95">cs</a>、PLoS One、Journal of Applied Genetics、Biochemical Genetics、Small Ruminant Research、Prion、Gene、Canadian Journal of Animal Science和Journal of Integrative Agriculture等23个国际期刊，以及 《遗传学报》 （现为Journal of Genetics and Genomics）、《中国农业科学》、《畜牧兽医学报》和《农业生物技术学报》等国内期刊。</p>
+
+<p>　　4.1.主持<a name="OLE_LINK104">科研</a>项目</p>
+
+<p>　　<a name="OLE_LINK252">&nbsp;[1]</a>国家自然科学基金（面上项目）：<a href="http://www.scientistin.com/user/project/info.do?project=31672400" target="_blank">牛脂肪细胞增殖分化过程中关键候选lncRNA BADLNRs</a><a href="http://www.scientistin.com/user/project/info.do?project=31672400" target="_blank">的功能及其调控机制研究</a>（No.31672400）</p>
+
+<p>　　[2]<a name="OLE_LINK113">国家自然科学基金（面上项目）</a>：奶山羊HPA轴关键基因甲基化修饰的时空特征及其与SNP共调控泌乳性能研究（No.31172184）</p>
+
+<p>　　<a name="OLE_LINK120">&nbsp;[3]</a>陕西<a name="OLE_LINK123">省青</a>年科技新星<a name="OLE_LINK247">基金</a>：奶山羊垂体发育相关重要基因表观遗传修饰与DNA变异共调控泌乳性能研究（No.201<a name="OLE_LINK119">1kjxx64</a>）</p>
+
+<p>　　[4]陕西省留学人员科技活动择优资助项目：奶山羊乳腺泌乳生理相关甲基化DNA与miRNA的鉴定及其功能研究（2014-YD）</p>
+
+<p>　　[5]陕西省自然科学基金：奶山羊HPA轴相关重要基因调控泌乳性能的遗传效应研究（No.2011JQ3009）</p>
+
+<p>　　<a name="OLE_LINK245">&nbsp;[6]</a>生物育种能力建设与产业化专项子课题：夏南牛选育提高及其推广（2014生物育种能力建设与产业化专项)</p>
+
+<p>　　<a name="OLE_LINK127">&nbsp;[7]</a>陕西省陕西省科技统筹创新工程计划项目子课题：肉牛杂种优势利用及产业化推广（2014KTZB02-02-02-02）</p>
+
+<p>　　<a name="OLE_LINK249">[8]</a>中央高校基本科研业务费专项资金（科技创新一般项目）：西农莎能奶山羊泌乳生理相关microRNA的筛选与靶基因验证（QN2011102<a name="OLE_LINK130">）</a></p>
+
+<p>　　<a name="OLE_LINK164">&nbsp;&nbsp;&nbsp; 4.2</a> 主要学术论文（<a name="OLE_LINK183">第一作者、</a>#并列第一作者<a name="OLE_LINK17">或</a>*通讯作者）</p>
+
+<p>　　<a name="OLE_LINK2">&nbsp;[1]</a> Qing Yang, Hailong Yan, Jie Li, Han Xu, Ke Wang, Haijing Zhu, Hong Chen, Lei Qu, Xianyong Lan*. A novel 14-bp duplicated deletion within goat GHR gene is significantly associated with growth traits and litter size. Animal Genetics, 2017, early online, DOI: 10.1111/age.12551 (SCI收录，JCR1区).</p>
+
+<p>　　[2] Zhuanjian Li#, Xianyong Lan#, Ruili Han, Jing Wang, Yongzhen Huang, Jiajie Sun, Wenjiao Guo, Hong Chen. miR-2478 inhibits TGFβ1 expression by targeting the transcriptional activity region downstream of the TGFβ1 promoter in dairy goats. Scientific Reports,2017,7:42627；DOI:10.1038/srep42627(2017)( #并列第一作者；IF="5.228，中科院二区，JCR1区）.</p>
+
+<p>　　[3] Lin Ma, Qiaomei Qin, Qing Yang, Meng Zhang, Haiyu Zhao, Chuanying Pan, Chuzhao Lei, Hong Chen, Xianyong Lan*. Associations of six SNPs of POU1F1-PROP1-PITX1-SIX3 pathway genes with growth traits in two Chinese indigenous goat breeds, Annals of Animal Science, 2017；DOI:10.1515/aoas-2016-0066 (published online early: https://www.degruyter.com/printahead/j/aoas) (SCI收录).</p>
+
+<p>　　[4] Qing Yang, Sihuan Zhang, Xiukai Cao, Liangliang Liu, Chuzhao Lei, Xinglei Qi, Fengpeng Lin, Weidong Qu, Xingshan Qi, Hong Chen*, Xianyong Lan*. Application of mathematical expectation (ME) strategy on detecting the low frequency mutation: An example for&nbsp;<a name="OLE_LINK221">evaluating 14 bp indel of the PRNP gene 3</a>’UTR in four Chinese indigenous cattle breeds. Prion,2016，10(5): 409-419 (SCI收录).</p>
+
+<p>　　[5] Sihuan Zhang, Hanfang Cai, Qing Yang, Tao Shi, Chuanying Pan, Chuzhao Lei, Ruihua Dang, Hong Chen, Xianyong Lan*. Novel alternative splicing transcripts identification and expression analysis of bovine TMEM95 gene. Gene, 2016, 575 (2): 531-536 (SCI 收录).</p>
+
+<p>　　[6] Fengyan Zhou#, Qing Yang#, Chuzhao Lei, Hong Chen*, Xianyong Lan*. Relationship between genetic variants of POU1F1,PROP1,IGFBP3 genes and milk performance in Guanzhong dairy goats. Small Ruminant Research, 2016, 140:40-45<a name="OLE_LINK243">(</a>JCR 2区, SCI收录).</p>
+
+<p>　　<a name="OLE_LINK262">[7]</a> Sihuan Zhang#, Xianfeng Wu#, Chuanying Pan, Chuzhao Lei, Ruihua Dang, Hong Chen, Xianyong Lan*. Identification of novel isoforms of dairy goat EEF1D and their mRNA expression characterization. Gene, 2016,581(1):14-20 (SCI 收录).</p>
+
+<p>　　<a name="OLE_LINK152">[8] Meng Zhang, Chuanying Pan, Chuzhao Lei, Hong Chen*, XY Lan*. Exploration of the genetic variations of iPSC</a>–related Nanog gene and their effects on phenotypic traits in cattle. Archives of Animal Breeding (Arch. Anim. Breed.), 2016, 59, 351-361（SCI 收录）</p>
+
+<p>　　[9] Sihuan Zhang, Yonglong Dang, Qingfeng Zhang, Qiaomei Qin, Chuzhao Lei, Hong Chen, Xianyong Lan*. Tetra-primer amplification refractory mutation system PCR (T-ARMS-PCR) rapidly identified a critical missense mutation (P236T) of bovine ACADVL gene significantly affecting growth traits. Gene, 2015, 559:184-188 (SCI收录)</p>
+
+<p>　　[10]Yunyun Jin, Hanfang Cai, Jiming Liu, Fengpeng Lin, Xinglei Qi, Yueyu Bai, Chuzhao Lei, Hong Chen*, and Xianyong Lan*. The 10-bp reduplication insertion/deletion (indel) variants of Pax7 gene and its association with growth traits in cattle. Archives of Animal Breeding (Arch. Anim. Breed.), 2016，59, 469-476 (SCI收录）</p>
+
+<p>　　[11] Jia Wenchao, Wu Xianfeng, Li Xiangcheng, Xia Tian, Hong Chen, Chuanying Pan, Xianyong Lan*. Novel genetic variants associated with mRNA expression of STAT3 gene significantly affected goat growth traits, 2015, Small Ruminant Research, 2015,129: 25-36 (JCR 2区, SCI 收录)</p>
+
+<p>　　[12] Xiaoyan Zhang, Xianfeng Wu, Wenchao Jia, Chuanying Pan, Xiangcheng Li, Chuzhao Lei, Hong Chen, Xianyong Lan*. Novel nucleotide variations, haplotypes structure and associations with growth related traits of goat AT motif-Binding factor (ATBF1) gene. Asian-Australasian Journal of Animal Sciences, 2015, 28(10): 1394-1406 ( SCI 收录）.</p>
+
+<p>　　[13] Gaofeng Pei#, Pei Gao#, Haonan Li, Tao Liang, Feng Wang, Chuanying Pan, Hong Chen, Xianyong Lan*. DNA methylation pattern of estrogen receptor alpha (ERα) gene promoter region and its influence on lactation performance in dairy goats. The Journal of Animal &amp; Plant Sciences,2015, 25(3): 798-808 (#第一作者为本科生，SCI收录).</p>
+
+<p>　　[14] Wu XF, Jia WC, Zhang JJ, Li XC, Pan CY, Lei CZ, Chen H, Dang RH, Lan XY*. Determination of the novel genetic variants of goat STAT5A gene and their effects on body measurement traits in two Chinese native breeds. Small Ruminant Research, 2014, 121:232-243 （SCI 收录，JCR 2区）</p>
+
+<p>　　<a name="OLE_LINK167">&nbsp;[15] HY Zhao, XF Wu, HF Cai, CY Pan, CZ Lei, H Chen, XY Lan*. Genetic variants and effects on milk traits of the caprine paired-like homeodomain transcription factor 2</a>（PITX2） gene in dairy goats. Gene, 2013, 532（2）：203-210（SCI 收录）</p>
+
+<p>　　[16] Pan C, Jia W, Wu X, Zhao H, Liu S, Lei C, Lan X*, Chen H. DNA methylation profile of caprine Dnmt3b gene and its influence on growth traits.<a name="OLE_LINK4">The Journal of Animal &amp; Plant Sciences</a>, 2013, 23 (2): 380-387 (SCI 收录)</p>
+
+<p>　　<a name="OLE_LINK178">&nbsp;[17] Lan X, Cretney EC, Kropp J, Khateeb K, Berg M, Peñagaricano F, Magness R, Radunz A* and Khatib H*. Maternal diet during pregnancy induces gene expression and DNA methylation changes in fetal tissues in sheep. Front. Genet., 2013,4:49.</a>（<a name="OLE_LINK5">被</a>SCI论文引用18次，涉及Human Genetics (IF="5.138)," Journal of Nutritional Biochemistry<a name="OLE_LINK149">&nbsp;(IF=4.668</a>), Clinical Epigenetics (IF="4.327)," BMC Genomics(3.986), Nutrients (IF="3.759)," PloS One、Reproductive Toxicology,Genetics Selection Evolution, Journal of Animal Science等13个国际期刊）</p>
+
+<p>　　<a name="OLE_LINK19">[18] Lan XY, Peñagaricano F, Dejung L, Weigel KA, Khatib H*. A missense mutation in the PROP1 (prophet of Pit 1) gene affects male fertility and milk production traits in the US Holstein population. Journal of Dairy Science, 2013, 96(2):1255-1257 (</a>Top期刊, 2012年中科院一区SCI，IF="2.566)（被SCI论文引用12次，涉及Plos Genetics (2014 IF="7.528)," Journal of Dairy Science (2004 IF="2.508)," Reproduction Fertility and Development, BMC Genetics等7个国际期刊）</p>
+
+<p>　　<a name="OLE_LINK268">[19]</a>Zhuanjian Li#, Xianyong Lan#, Wenjiao Guo, Jiajie Sun, Yongzhen Huang, Jing Wang, Tinghua Huang, Chuozhao Lei, Xingtang Fang, Hong Chen*. Comparative Transcriptome Profiling of Dairy Goat MicroRNAs from Dry Period and Peak Lactation Mammary Gland Tissues. PLoS ONE, 2012, 7(12): e52388 (#并列第一作者, 中科院二区SCI；JCR1区, 2011 IF="4.0092).</p>
+
+<p>　　<a name="OLE_LINK271">&nbsp;[20]</a>X.Y. Lan#, H.Y. Zhao#, Z.J. Li, A.M. Li, C.Z Lei, H. Chen**, C.Y. Pan. A novel 28-bp insertion–deletion polymorphism within goat PRNP gene and its association with production traits in Chinese native breeds. Genome, 2012,55(7):547-552 (#并列第一作者, SCI 收录)</p>
+
+<p>　　[21] Xianyong Lan#, Yongtao Huai#, Chuanying Pan, Jing Wang, Yongzhen Huang, Chuzhao Lei, Hong Chen* .Novel genetic variants of sine oculis homeobox homolog 3 gene are associated with body weight and average daily gain in Bos taurus. Genes &amp; Genomics, 2011, 33(6): 665-671 (SCI收录) .</p>
+
+<p>　　<a name="OLE_LINK277">&nbsp;[22]</a>Xianyong Lan, Xinsheng Lai, Zhuanjian Li, Jing Wang, Chuzhao Lei,Hong Chen**. Effects of genetic variability of the caprine homeobox transcription factor HESX1 gene on performance traits. Molecular Biology Reports,2010, 37:441-449 (SCI收录)</p>
+
+<p>　　<a name="OLE_LINK224">&nbsp;[23] XY Lan</a>, CY Pan, YW Guo, S Hua, J Wang, YB Liu, S.R. Hu, C.Z. Lei, H. Chena. Twelve novel SNPs of the goat POU1F1 gene and their associations with cashmere traits. Small Ruminant Research,2009,85:116-121 （SCI收录， JCR 2区）</p>
+
+<p>　　<a name="OLE_LINK280">&nbsp;[24]</a>XY Lan, CY Pan, H Chen, CZ Lei, FY Li, HY Zhang, YS Ni. Association of novel SNP of goat Prolactin （PRL） gene with cashmere traits. Journal of Applied Genetics.2009, 50（1）：51-54. （SCI收录）。</p>
+
+<p>　　[25] Jing Yongjie#, Xianyong Lan#, Chen Hong*, Liangzhi Zhang, Chunlei Zhang, Chuanying Pan, Mijie Li, Gang Ren, Tianbao Wei, Miao Zhao. Three novel single nucleotide polymorphisms (SNPs) of the LHX3 gene in bovine.<a name="OLE_LINK3"> Journal of Biosciences</a>, 2008, 33 (5): 673–679. (#并列第一作者, SCI收录).</p>
+
+<p>　　[26] XY Lan, CY Pan, H Chen*, CZ Lei, LS Hua, XB Yang, GY Qiu, RF Zhang, YZ Lun. (2007). DdeI Polymorphism in Coding Region of Goat POU1F1 Gene and Its Association with Production Traits. Asian-Aust. J Anim Sci., 20 (9): 1342-1348. (SCI收录).</p>
+
+<p>　　[27] Lan XY, Pan CY, Chen H*, Zhang CL, Zhang AL, Zhang L, Li JY, Lei CZ. (2007).A MspI PCR-RFLP detecting a silent SNP at alpha-lactalbumin gene in goat. Czech Journal of Animal Science, 52 (5): 138-142 (SCI收录).</p>
+
+<p>　　[28] Lan XY, Pan CY, Chen H*, Lei CZ. (2007).A DdeI PCR-RFLP detecting genetic variation of goat POU1F1 gene. Canadian Journal of Animal Science, 87(1): 13-14. (SCI收<a name="OLE_LINK171">录</a>) .</p>
+
+<p>　　<a name="OLE_LINK175">&nbsp;[29] XY Lan, CY Pan , H Chen*, CZ Lei, SQ Liu, YB Zhang, LJ Min, J Yu, JY. Li, M Zhao, S.R. Hu. 2007. The HaeIII and XspI PCR-RFLPs detecting polymorphisms at the goat IGFBP-3 locus. Small Ruminant Research, 73: 283-286 (SCI</a>收, JCR 2区).</p>
+
+<p>　　[30] XY Lan, CY Pan, H Chen*, CL Zhang, JY Li, M Zhao, CZ Lei, AL Zhang, L Zhang. (2007).An AluI PCR-RFLP detecting a silent allele at the goat POU1F1 locus and its association with production traits. Small Ruminant Research, 73：8-12.(SCI收录, JCR 2区)<a name="OLE_LINK22">（截止2017.2.20日，被SCI</a>论文引用76次，位于该杂志目前发表所有论文中排名第33名（前0.75%），涉及Small Ruminant Research, Journal of Applied Genetics等19个国际期刊）.</p>
+
+<p>　　[31]周凤燕，杨青，朱熙春，蓝贤勇*，陈宏，雷初朝.环化RNA的形成机制、分子特征及生物学功能. 农业生物技术学报，2017,25(3)：485-501.（一级学报）</p>
+
+<p>　　<a name="OLE_LINK189">&nbsp;[32]</a> 贾文超<a name="OLE_LINK286">#</a>, 刘亮亮#, 吴贤锋, 赵钊艳, 王珂, 王毛, 高静, 王立强, 陈宏, 潘传英,<a name="OLE_LINK190">蓝贤勇*</a>.山羊STAT3基因克隆、生物信息学分析及甲基化修饰研究. 畜牧兽医学报，2016，47(3):457-466（一级学报）</p>
+
+<p>　　<a name="OLE_LINK287">&nbsp;[33]</a> 张晓燕#, 赵海谕#, 张思欢, 雷初朝, 陈 宏, 蓝贤勇*. 奶山羊垂体同型框转录因子2基因（PITX2）分子克隆、序列分析及其mRNA表达规律. 农业生物技术学报, 2015, 23(7): 905-917<a name="OLE_LINK197">（一</a><a name="OLE_LINK195">级学报</a>）</p>
+
+<p>　　<a name="OLE_LINK289">&nbsp;[34]</a> 蓝贤勇，陈 宏*，田智泉，刘少卿，张永斌. LALBA基因SNP与内蒙古白绒山羊经济性状的关联. 遗传, 2008, 30 (2): 169-174 (一级学报).</p>
+
+<p>　　<a name="OLE_LINK200">[35]</a> 蓝贤勇, 张黎颖, 成 军,<a href="http://s.wanfangdata.com.cn/Paper.aspx?q=Ã¤Â½ÂÃ¨ÂÂ:" target="_blank">袁菊</a>，<a href="http://s.wanfangdata.com.cn/Paper.aspx?q=Ã¤Â½ÂÃ¨ÂÂ:" target="_blank">陶明亮</a>，<a href="http://s.wanfangdata.com.cn/Paper.aspx?q=Ã¤Â½ÂÃ¨ÂÂ:" target="_blank">洪源</a>，<a href="http://s.wanfangdata.com.cn/Paper.aspx?q=Ã¤Â½ÂÃ¨ÂÂ:" target="_blank">毛羽</a>，<a href="http://s.wanfangdata.com.cn/Paper.aspx?q=Ã¤Â½ÂÃ¨ÂÂ:" target="_blank">陈宏</a>.<a name="OLE_LINK199">HCV E2</a>蛋白结合蛋白基因E2BP3剪切体的基因克隆化及生物信息学分析. 中华传染病杂志, 2007, 25 (2 ): 91-93.<a name="OLE_LINK203">（一级学报）</a></p>
+
+<p>　　[36] 蓝贤勇, 成 军, 陈 宏, 张黎颖, 陶明亮, 伦永志, 洪源, 郭江.人类HBxAg 蛋白反式激活基因5的克隆、原核表达及其蛋白纯化研究. 西北农林科技大学学报(自然科学版), 2007, 35(9): 15-19.</p>
+
+<p>　　[37] 蓝贤勇, 陈 宏, 潘传英, 张永德. 西农萨能奶山羊随机微卫星扩增多态DNA(RMAPD)与经济性状的相<a name="OLE_LINK202">关性</a>. 畜牧兽医学报, 2006, 37 (6): 523-529<a name="OLE_LINK209">.</a>（一级学报）</p>
+
+<p>　　[38] 蓝贤勇, 陈 宏, 潘传英,雷初朝;张永德;于姣<a name="OLE_LINK205">山羊FSHR</a>基因第10外显子的PCR-SSCP检测及其序列分析.农业生物技术学报, 2006, 14 (4) : 484-488.（一级学报）</p>
+
+<p>　　[39] 蓝<a name="OLE_LINK210">贤</a>勇, 陈 宏, 张永德, 孙维斌, 雷初朝. 一种新的分子标记方法——随机微卫星扩增多态DNA(RMAPD).遗传, 2006, 28 (1):78-84. （一级学报）</p>
+
+<p>　　[40] 陈 宏#*, 蓝贤勇#, 李瑞彪, 雷初朝, 孙维斌, 张润锋,郑元林,朱必才.<a name="OLE_LINK206">CSN1S2</a>、CSN3和β-lg基因对西农萨能奶山羊产奶性能的影响.遗传学报, 2005, 32 (8): 804-810. (#并列第一作者；导师第一)（一级学报）</p>
+
+<p>　　[41] 蓝贤勇, 陈 宏, 潘传英, 李瑞彪,李向臣,房兴堂. CSN3、CSN1S2和<a name="OLE_LINK69">β-1g</a>基因多态与西农萨能奶山羊产羔数的相关性研究. 中国农业科学, 2005,11 (38): 2333-2338.<a name="OLE_LINK259">（一级学报）</a></p>
+
+<p>　　<a name="OLE_LINK226">&nbsp;[42]</a> 蓝贤勇, 陈 宏, 张润锋, <a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã§ÂÂ°Ã§ÂÂÃ§ÂÂ&amp;scode=09121589;09297332;00083989;00025479;09134606;09120299;09175570;09174007;09174096;" target="_blank">田燚</a>, <a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã¥Â¼Â&nbsp;Ã¦Â°Â¸Ã¥Â¾Â·&amp;scode=09121589;09297332;00083989;00025479;09134606;09120299;09175570;09174007;09174096;" target="_blank">张永德</a>, <a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã¦ÂÂ¿Ã¥ÂÂ´Ã¥ÂÂ&amp;scode=09121589;09297332;00083989;00025479;09134606;09120299;09175570;09174007;09174096;" target="_blank">房兴唐</a>, <a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã¥Â­ÂÃ§Â»Â´Ã¦ÂÂ&amp;scode=09121589;09297332;00083989;00025479;09134606;09120299;09175570;09174007;09174096;" target="_blank">孙维斌</a>, <a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã©ÂÂ·Ã¥ÂÂÃ¦ÂÂ&amp;scode=09121589;09297332;00083989;00025479;09134606;09120299;09175570;09174007;09174096;" target="_blank">雷初朝</a>, <a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã¨ÂÂ¡Ã¦Â²ÂÃ¨ÂÂ£&amp;scode=09121589;09297332;00083989;00025479;09134606;09120299;09175570;09174007;09174096;" target="_blank">胡沈荣</a>. 西农萨能奶山羊CSN1S2基因多态与产奶量、体尺指标相关分析.畜牧兽医学报, 2005, 36 (4):318-322. （一级学报）</p>
+
+<p>　　[43] 蓝贤勇, 陈 宏, 张润锋,<a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã§ÂÂ°Ã§ÂÂ&amp;scode=09120299;09174007;10209508;00083989;09121589;09174096;09139869;10209895;" target="_blank">田燚</a>,<a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã©ÂÂ·Ã¥ÂÂÃ¦ÂÂ&amp;scode=09120299;09174007;10209508;00083989;09121589;09174096;09139869;10209895;" target="_blank">雷初朝</a>,<a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã¦Â½ÂÃ¤Â¼Â&nbsp;Ã¨ÂÂ±&amp;scode=09120299;09174007;10209508;00083989;09121589;09174096;09139869;10209895;" target="_blank">潘传英</a>,<a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã§Â½ÂÃ¥ÂÂ&amp;scode=09120299;09174007;10209508;00083989;09121589;09174096;09139869;10209895;" target="_blank">罗军</a>,<a href="http://epub.cnki.net/kns/popup/knetsearchNew.aspx?sdb=CJFQ&amp;sfield=Ã¤Â½ÂÃ¨ÂÂ&amp;skey=Ã¨ÂÂ¡Ã¦Â²ÂÃ¨ÂÂ£&amp;scode=09120299;09174007;10209508;00083989;09121589;09174096;09139869;10209895;" target="_blank">胡沈荣</a>. 5个山羊品种CSN1S2基因的<a name="OLE_LINK70">Alw</a>26I酶切多态性分析. 遗传, 2005, 27(3): 363-366.（一级学报）.</p>
+
+<p>　　<a name="OLE_LINK144">&nbsp;&nbsp;&nbsp; 4.3</a>主要奖励</p>
+
+<p>　　<a name="OLE_LINK143">&nbsp;[1]</a>中国黄牛经济性状重要基因发掘、分子标记开发及其育种应用，获2014年陕西省科学技术一等奖 （排名第4）</p>
+
+<p>　　<a name="OLE_LINK25">&nbsp;[2]</a>奶牛分子遗传特征及其与产乳性状关系研究，获2007年首届淮海科技二等奖（排名第6）</p>
+
+<p>　　[3]中国荷斯坦奶牛生产性状的分子遗传特征研究，获2007年江苏省科技进步三等奖（排名第6）</p>
+
+<p>　　[4]山羊生产性状的遗传特征研究，获2011年江苏科学技术三等奖（排名第3）</p>
+
+<p>　　[5]CSN3、CSN1S2和β-1g基因多态与西农萨能奶山羊产羔数的相关性研究，获2007年陕西省第10届自然科学优秀学术论文奖三等奖（*并列第一作者）</p>
+
+<p>　　[6]山羊关键转录因子基因遗传变异及其与经济性状的关系，获2009年获第一届吴常信院士动物遗传育种奖之“优秀论文奖”（吴常信动物遗传育种奖励专项基金）.</p>
+
+<p>　　4.4国家授权的主要专利与软件著作权（第一名序）</p>
+
+<p>　　[1] 蓝贤勇,贾文超,潘传英,陈宏,雷初朝,徐铁山.一种检测山羊STAT3基因单核苷酸<a name="OLE_LINK26">多态性的方法及其应用（授权国家发明专利号:Z.L.201410130751.5)</a></p>
+
+<p>　　[2] 蓝贤勇，赵海谕，潘传英，姜兴武，陈 宏，雷初朝.一种奶山羊PITX2基因单核苷酸多态性的检测方法及其应用（授权专利号：ZL201210153944.3）</p>
+
+<p>　　[3] 蓝贤勇，陈宏，潘传英.一种检测山羊催乳素基因单核苷酸多态性的PCR-RFLP方法（授权专利号：ZL200710017973.6）</p>
+
+<p>　　[4] 蓝贤勇，刘亮亮，潘传英, 陈 宏, 雷初朝.表观遗传学MSR计算软件[简称：MSRCalculator] V1.0（登记号：2015SR017227，证书号：软著登字第0904309号)</p>
+
+<p>　　[5] 蓝贤勇、刘亮亮、潘传英、陈宏、雷初朝. 遗传多样性指标分析软件( V1.0版本）[GDI calculator]（软著登记号：2015SR192517, 证书号：软著登字第1079603号）</p>
+
+<p>　　[6] 蓝贤勇、刘亮亮、潘传英、张思欢、陈宏、雷初朝. 基因加性效应和显性效应计算软件[GADE Calculator](软著登记号：2015SR202298, 证书号：软著登字第1089384号)</p>
+
+<p>　　[7] 蓝贤勇、刘亮亮、杨青、陈宏、雷初朝、潘传英.等位基因低频突变检测分析软件[DALMP](软著登记号：2015SR207180, 证书号：软著登字第1094266号).</p>
+
+<p>　　5、联系方式</p>
+
+<p>　　通信地址：陕西杨凌西农路22号西北农林科技大学动物科技学院动科楼248室</p>
+
+<p>　　邮编：712100</p>
+
+<p>　　Email:<a href="mailto:lan342@126.com" target="_blank">lan342@126.com</a>；lanxianyong79@nwsuaf.edu.cn.</p>
+
+<p>　　（更新时间2017.2.21）</p>
+
+				</div>
+
+
+
+
+		</div>
+	
+	</div>
+	<div style="clear:both;"></div>
+</div>
+<!--articlehome结束-->
+
+<script src="/cms/web/writeLog.jsp?articleID=304588"></script>
+<!--foot开始-->
+
+<div class="foot">
+	<div style="width:105px;float:left;  margin-top: 30px;
+  padding-left: 103px;;">
+						<p style="text-align: center;"><a href="../../sydbwxewm/297978.htm" target="_blank" title="西北农林科技大学动物科技学院微信公众平台"><img src="../../images/content/2016-03/20160329200002940113.jpg" width="40" height="40" border="0"></a></p>
+						 		
+		<!--<p style="text-align:center;;margin-top:10px;"><a href="/sydbwxewm/297978.htm" target="_blank" title="$article.name">动科学院微信平台</a></p>-->
+	</div>
+	<div style="float:left;">
+		<p style="text-align:center;padding-top:30px;">版权所有 :  西北农林科技大学动物科技学院&nbsp;&nbsp;
+地址：陕西省杨凌农业高新技术产业示范区西农路22号&nbsp;&nbsp;&nbsp;邮编：712100 </p>
+		<p style="text-align:center;padding-top:10px;">主管领导：王力  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;网管员：阮鹏<font style="color:#FF6600"> &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;总访问量：<script src="/cms/web/channelVisitLog.jsp?channelID=3352"></script>234786次</font></p>
+	</div>
+	<script src="/cms/web/writeLog.jsp?siteID=77&amp;channelID=3352"></script>
+</div>
+
+<!--foot结束-->
+
+
+ 
+</body></html>

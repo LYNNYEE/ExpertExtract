@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=175" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="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" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;孙岩</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/sunyan.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;女</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;博导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;物联网技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        物联网技术、物联网综合实践、通信原理、现代交换原理</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;物联网技术，大数据分析与管理，区块链</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;毕业于北京邮电大学计算机科学与技术学院计算机应用专业，获工学博士学位。现为计算机学院教授，博士生导师，中国计算机学会高级会员，IEEE和ACM会员。长期从事计算机应用和网络领域的科研和教学工作。指导博士和硕士研究生多名。<br>目前主要从事物联网、区块链、大数据分析与挖掘方面的研究工作。作为负责人和主研人完成20多项国家自然科学基金、973项目、863项目、省部级研究项目以及企业合作项目。近年来物联网和大数据关键技术方面做出一系列创新的研究成果，在IEEE&nbsp;TC,&nbsp;TETC,&nbsp;THMS,&nbsp;TDSC,&nbsp;ISJ,&nbsp;PMC等国内外期刊和学术会议上已发表论文50余篇，SCI、EI收录30余篇，文章他引60余次。申请相关专利多项。<br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;主持：<br>国家自然科学基金面上项目“数据供应链模型及关键技术研究”；<br>国家自然科学基金面上项目“无线多媒体感知反应网络信息质量保障的关键技术研究”；<br>国家自然科学基金面上项目“基于SoC的智能感知节点关键技术的研究”；<br>参与：<br>国家重点基础研究发展计划（973计划）项目“物联网体系结构基础研究”；&nbsp;<br>国际科技合作计划“中芬基于LivingLab的智慧设计创新网络平台研发与应用示范”。<br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;第一完成人设计并开发的物联网综合实验箱，在教育部主办的第三届高等学校自制实验教学仪器设备评选中获得优秀奖。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">代表性论文：<br>(1)Yan&nbsp;Sun#,&nbsp;Tin-Yu&nbsp;Wu,&nbsp;Xin-ming&nbsp;Li,&nbsp;Mohsen&nbsp;Guizani.&nbsp;"A&nbsp;Rule&nbsp;Verification&nbsp;System&nbsp;for&nbsp;Smart&nbsp;Buildings".&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Emerging&nbsp;Topics&nbsp;in&nbsp;Computing,&nbsp;2017,&nbsp;Volume:5,&nbsp;Issue:3,&nbsp;Page(s):367-379.<br>(2)Yan&nbsp;Sun#,&nbsp;TIN-Yu&nbsp;Wu,&nbsp;Guotao&nbsp;Zhao,&nbsp;Mohsen&nbsp;Guizani.&nbsp;"Efficient&nbsp;Rule&nbsp;Engine&nbsp;for&nbsp;Smart&nbsp;Building&nbsp;Systems",&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Computers,&nbsp;JUN,2015,&nbsp;Volume:64,&nbsp;Issue:6,&nbsp;Page(s):1658-1669.<br>(3)Yan&nbsp;Sun#,&nbsp;Xukai&nbsp;Wang,&nbsp;Hong&nbsp;Luo,&nbsp;Xiangyang&nbsp;Li.&nbsp;"Conflict&nbsp;Detection&nbsp;Scheme&nbsp;Based&nbsp;on&nbsp;Formal&nbsp;Rule&nbsp;Model&nbsp;for&nbsp;Smart&nbsp;Building&nbsp;Systems",&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Human-Machine&nbsp;Systems,&nbsp;APR,&nbsp;2015,&nbsp;Volume:45,&nbsp;Issue:2,&nbsp;Page(s):215-227.<br>(4)Yan&nbsp;Sun#,&nbsp;Hong&nbsp;Luo,&nbsp;Das,&nbsp;S.K,&nbsp;“A&nbsp;Trust-Based&nbsp;Framework&nbsp;for&nbsp;Fault-Tolerant&nbsp;Data&nbsp;Aggregation&nbsp;in&nbsp;Wireless&nbsp;Multimedia&nbsp;Sensor&nbsp;Networks”,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Dependable&nbsp;and&nbsp;Secure&nbsp;Computing,&nbsp;2012,&nbsp;Volume:&nbsp;9&nbsp;,&nbsp;Issue:&nbsp;6&nbsp;,&nbsp;Page(s):&nbsp;785&nbsp;–&nbsp;797.<br>(5)Yan&nbsp;Sun#,&nbsp;Tin-Yu&nbsp;Wu,&nbsp;Xinwei&nbsp;Liu,&nbsp;and&nbsp;Mohsen&nbsp;Guizani,&nbsp;“Multi-layered&nbsp;Impact&nbsp;Evaluation&nbsp;Model&nbsp;for&nbsp;Attacking&nbsp;Missions”,&nbsp;IEEE&nbsp;SYSTEM&nbsp;JOURNAL,&nbsp;2016,&nbsp;Volume:10,&nbsp;Issue:4,&nbsp;Page(s):1304-1315.<br>(6)Yan&nbsp;Sun#,&nbsp;Tin-Yu&nbsp;Wu,&nbsp;Xiaoqiong&nbsp;Ma,&nbsp;Han-Chieh&nbsp;Chao.&nbsp;"Modeling&nbsp;and&nbsp;verifying&nbsp;EPC&nbsp;network&nbsp;intrusion&nbsp;system&nbsp;based&nbsp;on&nbsp;timed&nbsp;automata",&nbsp;Pervasive&nbsp;and&nbsp;Mobile&nbsp;Computing,&nbsp;Dec,2015,&nbsp;Volume:24,&nbsp;Page(s):61-76.<br>(7)Yan&nbsp;Sun#,&nbsp;Ruosi&nbsp;Wang,&nbsp;Xinming&nbsp;Li.&nbsp;"A&nbsp;Distributed&nbsp;Rule&nbsp;System&nbsp;for&nbsp;Smart&nbsp;Building",&nbsp;Adhoc&nbsp;&amp;&nbsp;Sensor&nbsp;Wireless&nbsp;Networks,&nbsp;2015,&nbsp;Volume:29,&nbsp;Issue:&nbsp;1-4,&nbsp;Page(s):1-29.<br>(8)Yan&nbsp;Sun#,&nbsp;Shaoju&nbsp;Tang,&nbsp;Hong&nbsp;Luo,&nbsp;“Advanced&nbsp;Gateway&nbsp;Based&nbsp;on&nbsp;FPGA&nbsp;for&nbsp;Smart&nbsp;Home”,&nbsp;AD&nbsp;HOC&nbsp;&amp;&nbsp;SENSOR&nbsp;WIRELESS&nbsp;NETWORKS,&nbsp;Vol.22,&nbsp;No.1-2,&nbsp;Sep.&nbsp;2014,pp.&nbsp;135-156<br>(9)Yan&nbsp;Sun#,&nbsp;Xiaoqiong&nbsp;Ma,&nbsp;Hong&nbsp;Luo,&nbsp;“A&nbsp;General&nbsp;Description&nbsp;Schema&nbsp;of&nbsp;&nbsp;Services&nbsp;for&nbsp;WSNs”,&nbsp;Chinese&nbsp;Journal&nbsp;of&nbsp;Electronics,&nbsp;Vol.23,&nbsp;No.3,&nbsp;July&nbsp;2014,&nbsp;pp.&nbsp;604-610.<br><br></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;010-62282195</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北邮教3楼902室</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;sunyan@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

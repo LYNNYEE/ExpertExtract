@@ -1,0 +1,127 @@
+name_label 
+一 、 个人简介 
+timelabel － 至今      北京工业大学 数理学院教授 ， 自 timelabel 起为 博士生导师 
+timelabel 年 － timelabel    place_label 佐贺 大学 理工 学部 数学 科学系 副教授 
+timelabel 年 － timelabel 年    place_label 佐贺 大学 研究生院 ， 理学博士 
+二 、 研究方向 
+1 、 集值 随机 过程 与 随机 分析 、 随机 微分方程 及 应用 
+2 、 概率统计 方法 在 经济 、 金融 中 的 应用 
+3 、 非可加 测度 理论 、 不 精确 概率 理论 、 非线性 期望 理论 及其 在 经济 、 金融 中 的 应用 
+三 、 获奖 与 荣誉 
+1 .  2004 年获教育部 提名 国家 科学技术 奖 自然科学奖二等奖 ， 独立 完成 ， 获奖项目 名称 ： 集值 与 模糊集 值 随机变量 的 极限理论 。 
+2 .  timelabel 入选 首批 “ 新世纪百千万人才 工程 ” 国家级人选 。 
+3 .  timelabel 获国务院颁发 的 政府特殊津贴 。 
+4 .  timelabel 在 维也纳 ， timelabel 在 name_label ， timelabel 在 place_label 分别 获国际 会议 最佳论文奖 。 
+5 .  timelabel 年入选北京市 创新人才 
+四 、 学术服务 
+1 .  Editorial   Board   Member ,  International   Journal   of   Stochastic   Analy sis . 
+2 .  Editorial   Board   Member ,  International   Journal   of   Approximate   Rea son ing . 
+3 .  Editorial   Board   Member ,  International   Journal   of   Intelligent   Technologies   and   Applied   Statistics . 
+4 . “ Mathematical   Reviews ” 特约 评论员 . 
+5 .“ 北京工业大学学报 ” 编委 
+五 、 出版物 
+（ 一 ） 专著 与 编辑 的 书 
+1 .          Limit   Theorems   and   Appli cation s   of   Set - Valued   and   Fu zzy   Set - Valued   Ran dom   Variables ，  Kluwer   Academic   Publishers ,  timelabel  ( monograph ,  with   Y .  Ogura   and   V .  Kre ino vich ) 
+2 .          An   Introduction   of   Set - Valued   Stochastic   Processes ,  Chinese   Scientific   Press ,  timelabel  ( monograph ,  with   W .  Zhang ,  Z .  Wang   and   Y .  Gao ) 
+3 .          Soft   Methods   for   Integrated   Uncertainty   Modeling ,  Springer ,  timelabel  ( International   Con ference   Proceeding   edited   with   J .  La wry ,  E .  Miranda ,  A .  Bugarin ,  M . A .  Gil ,  and   O .  Hryniewicz ) 
+4 .           Non linear   Mathematics   for   Uncertainty   and   its   Appli cation s ,  Springer ,  timelabel  ( International   Con ference   proceeding   edited   with   X .  Wang ,  Y .  Okazaki ,  J .  Ka wab e   and   T .  Murofushi ,  L .  Guan ) 
+（ 二 ） 代表性论文 
+（ 1 ）        J .  Zhang ,  S .  Li   and   R .  Son g ,  Quasi - station ary   and   Quasi - ergodicity   of   general   Markov   processes , 
+Science   China   Mathematics  , 
+timelabel  ( online ),  DOI :  10.1007 / s11425 - 014 - 4835 - x  , ( SCI ) 
+（ 2 ）        H .  Wang   and   S .  Li ,  Some   properties   and   con vergence   theorems   of   set - val ued   Choquet   integrals , 
+Fu zzy   Sets   and   Systems , 
+Vol . 219 ( timelabel ), 89 - 97 . ( SCI , EI  ) 
+（ 3 ）        J .  Zhang   and   S .  Li ,  Maximal  ( mini mal )  con ditional   expectation   and   European   option   pricing   with   ambigu ous   return   rate   and   volatility , 
+International   Journal   of   Approximate   Rea son ing , 
+Vol . 54  ( timelabel )  393 - 403 . ( SCI , EI ) 
+（ 4 ）        H .  Wang   and   S .  Li ,  Ambigu ous   risk   aversion   und er   capacity , 
+International   Journal   of   Uncertainty ,  Fuzziness   and   K now ledge - Based   Systems , 
+Vol .  20 ( 1 ),   91 - 103  ( SCI , EI ) 
+（ 5 ）        S .  Li ,  J .  Li   and   X .  Li ,  Stochastic   integral   with   respect   to   set - val ued   s qua re   integrable   martingales , 
+J .  Math .  Anal .  Appl ., 
+Vol .  370  ( timelabel ),  659 - 671 . ( SCI ) 
+（ 6 ）        J .  Li ,  S .  Li   and   Y .  Ogura ,  Strong   solution   of   Ito   type   set - val ued   stochastic   differential   e qua tion , 
+Acta   Mathematica   Sin ica ,  English   Series , 
+Vol . 26 , ( timelabel ),  1739 -  1748 . ( SCI )<？/ font > 
+（ 7 ）        Y .  Ogura ,  S .  Li   and   X .  Wang ,  Large   and   moderate   deviations   of   random   upper   semi - con tinu ous   func tions , 
+Stoch .  Anal .  Appl . 
+,  Vol .  28  ( timelabel ),  350 - 376 . ( SCI ) 
+（ 8 ）        S .  Li   and   W .  Yan g ,  Capacities ,  set - val ued   random   variables   and   laws   of   large   num bers   for   capacities , 
+Integrated   Uncertainty   Management   and   Appli cation s 
+( eds .  by   V . N .  Huynh ,  Y .  Nakamori ,  J .  La wry   and   M .  I nui guchi ),  Springer .  timelabel ,  127 - 238 . ( EI ) 
+（ 9 ）        J .  Zhang   and   S .  Li ,  The   po rtf olio   selection   problem   with   random   inter val  - val ued   return   rates , 
+International   Journal   of   Innovative   Computing ,  Information   and   Con trol 
+,  Vol . 5  ( timelabel ),  2847 - 2856 . ( SCI ) 
+（ 10 ）    J .  Li   and   S .  Li ,  Aumann   type   set - val ued   Lebesgue   integral   and   representation   theorem , 
+International   Journal   of   Comp uta tional   Intelligence   Systems 
+,  Vol .  2 ,  No . 1  ( timelabel ),  83 - 90 . ( SCI ,  EI ) 
+（ 11 ）    J .  Zhang ,  S .  Li ,  I .  Mitoma   and   Y .  Okazaki ,  On   the   solution   of   set - val ued   stochastic   differential   e qua tion   in   M - type   2   Banach   space , 
+Tohoku   Mathematical   Journal , 
+Vol .  61 ( timelabel ),  417 - 440 .( SCI ) 
+（ 12 ）    J .  Zhang ,  S .  Li ,  I .  Mitoma   and   Y .  Okazaki ,  On   set - val ued   stochastic   integrals   in   an   M - type   2   Banach   space , 
+J .  Math .  Anal .  Appl ., 
+Vol . 350  ( timelabel )， 216 – 233 ( SCI ). 
+（ 13 ）    J .  Li   and   S .  Li ,  Set - val ued   stochastic   Lebesgue   integral   and   representation   theorems , 
+International   Journal   of   Comp uta tional   Intelligence   Systems 
+,  Vol .  1 ,  No . 2  ( timelabel ),  177 - 187 . ( SCI , EI ) 
+（ 14 ）    X .  Li   and   S .  Li ,  The   modified   Dp - metric   space   of   fu zzy   set - val ued   random   variables   and   its   appli cation   to   variances , 
+International   Journal   of   Innovative   Computing ,  Information   and   Con trol 
+,  Vol . 4  ( timelabel ),  1647 - 1659 . ( SCI ) 
+（ 15 ）    L .  Guan ,  S .  Li   and   Y .  Ogura ,  A   strong   law   of   large   num bers   of   fu zzy   set - val ued   random   variables   with   slowly   var yin g   weights , 
+International   J .  Automation   and   Con trol , 
+Vol .  2 ,  Nos .  2 / 3  ( timelabel ),  365 - 375 . ( EI ) 
+（ 16 ）    S .  Li   and   L .  Guan ,  Decomposition   and   representation   theorem   of   set - val ued   amarts , 
+International   Journal   of   Approximate   Rea son ing , 
+Vol .  46  ( timelabel ) ,  35 - 46 . ( SCI , EI ) 
+（ 17 ）    S .  Li   and   L .  Guan ,  Fu zzy   set - val ued   Gaussian   processes   and   Brow nian   motions , 
+Information   Sciences , 
+177 ( timelabel ),  3251 - 3259 . ( SCI ,  EI ) 
+（ 18 ）    S .  Li   and   A .  Ren ,  Representation   theorems ,  set - val ued   and   fu zzy   set - val ued   Ito   integral , 
+Fu zzy   Sets   and   Systems , 
+158  ( timelabel ),  949 - 962 
+. 
+( SCI ,  EI ) 
+（ 19 ）    S .  Li   and   Y .  Ogura ,   Strong   laws   of   large   num bers   for   indep end ent   fu zzy   set - val ued   random   variables , 
+Fu zzy   Sets   and   Systems , 
+Vol . 157  ( timelabel ),  2569 - 2578 . ( SCI ,  EI ) 
+（ 20 ）    S .  Li   and   J .  Zhang ,  A   general   method   for   con vergence   theorems   of   fu zzy   set - val ued   random   variables   and   its   appli cation s   to   martingales   and   uniform   amarts , 
+International 
+Journal   of   Uncertainty ,  Fuzziness   andK now ledge – Based   Systems , 
+Vol . 13  ( timelabel ),  243 - 253 . ( SCI ,  EI ) 
+（ 21 ）    X .  Yan g   and   S .  Li ,  The   Dp   metric   space   of   set - val ued   random   variables   and   its   appli cation   to   covariances , 
+International   Journal   of   Innovative   Computing ,  Information   and   Con trol 
+,  Vol . 1 ,  No . 1  ( timelabel )  73 - 82 . ( SCI ) 
+（ 22 ）    S .  Li   and   Y .  Ogura ,  Martingale   Con vergence   Theorem   for   the   Fu zzy   Valued   Ran dom   Variables   in   the   Sense   of   Ext end ed   Hau sdorff   Metric , 
+Fu zzy   Sets   and   Systems 
+,  Vol . 135 ,  No . 3  ( timelabel ), 391 - 399  ( SCI ,  EI ) 
+（ 23 ）    S .  Li   and   Y .  Ogura ,  Central   limit   theorems   for   generalized   set - val ued   random   variables , 
+J .  Math .  Anal .  Appl . 
+Vol .  285 , ( timelabel ),  250 - 263  ( SCI ) 
+（ 24 ）    Y .  Ogura   and   S .  Li ,  Separability   for   graph   con vergence   of   sequences   of   Fu zzy   Valued   Ran dom   Variables ， 
+Fu zzy   Sets   and   Systems 
+,  Vol . 123 （ timelabel ）, 19 - 27   ( SCI ,  EI ) 
+（ 25 ）    S .  Li ,  Y .  Ogura   and   H .  Nguyen ,  Gaussian   processes   and   martingales   for   fu zzy   val ued   random   variables   with   con tinu ous   parameter , 
+Information   Sciences 
+,  Vol .  133 , （ timelabel  ( SCI ,  EI ) 
+（ 26 ）    S .  Li ,  Y .  Ogura   and   D .  Rale scu ,  Set   defuz zif i cation   and   Choquet   integral ， 
+International 
+Journal   ofUncertainty ,  Fuzziness   and   K now ledge  – Based   Systems 
+,  Vol .  9 ,  No . 1 （ timelabel ）,  1 - 12  ( SCI ,  EI ) 
+（ 27 ）    S .  Li   and   Y .  Ogura ,  Con vergence   of   set   val ued   and   fu zzy   val ued   martingales , 
+Fu zzy   Sets   and   Systems 
+， Vol . 101 ,  No . 3  ( timelabel ),  453 - 461   ( SCI ,  EI ) 
+（ 28 ）    S .  Li   and   Y .  Ogura ,  Con vergence   of   set   val ued   sub -  and   super - martingales   in   the   Kuratow ski -- Mosco   Sense , 
+The   Annals   of   Probability 
+,  Vol . 26 ,  No . 3  ( timelabel ),  1384 - 1402  ( SCI ) 
+（ 29 ）    Fu zzy   Line ar   Regression   Analy sis   of   Fu zzy   Valued   Variables , 
+Fu zzy   Sets   and   Systems 
+,  Vol .  36  ( timelabel ),  125 - 136 . ( SCI ,  EI ). 
+四 、 联系方式 
+地址 ： place_label place_label place_label 100 号 ， 北京工业大学 应用 数理 学院 
+电话 ： phonelabel （ 208 ） 
+E - mail :  maillabel 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

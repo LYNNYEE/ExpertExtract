@@ -1,0 +1,419 @@
+<html><head>
+   <title>西北农林科技大学 动物科技学院</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+  <link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+
+
+<style type="text/css"></style><script charset="utf-8" src="//s.yunshipei.com/javascript/sm.min.js" async=""></script></head><body>
+
+<!--顶部开始-->
+
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/e370dbe18cc1944dd895c7af5fb1c761/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
+  <title>西北农林科技大学 动物科技学院</title>
+
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+ 
+
+<link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+<script src="../../js/jquery1.42.min.js" type="text/javascript"></script>
+<script src="../../js/jquery.superslide.2.1.1.js" type="text/javascript"></script>
+<style>
+
+body {background: #E9E6E6;}
+
+*{font-family:宋体}
+
+.cont {margin: 1px 25px;color:#000;}
+.cont p{line-height:26px;text-indent: 0em;margin-bottom: 10px;font-size:14px;}
+.cont p img{text-indent: 0;margin: 0 auto;}
+.cont table{margin:0 auto;}
+.sort_rightcont2 h1{color: #0c600c;}
+#contenttable td{font-size:14px;padding:15px 0px;}
+#contenttable th{padding:10px 0;}
+#contenttable .fontstrong{font-weight:bold}
+		
+		
+		img{ border:0;  }
+		a{ text-decoration:none; color:#333;  }
+
+		/* 本例子css */
+		.slideBox{ width:1180px; height:130px; overflow:hidden; position:relative; border:1px solid #ddd;  }
+		.slideBox .hd{ height:15px; overflow:hidden; position:absolute; right:5px; bottom:5px; z-index:1; }
+		.slideBox .hd ul{ overflow:hidden; zoom:1; float:left; margin-top:10px; }
+		.slideBox .hd ul li{ float:left; margin-right:2px;  width:8px; height:8px; line-height:14px; text-align:center; background:#fff; cursor:pointer; }
+		.slideBox .hd ul li.on{ background:#f00; color:#fff; }
+		.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+		.slideBox .bd li{ zoom:1; vertical-align:middle; }
+		.slideBox .bd img{ width:1180px; height:130px; display:block;  }
+
+		/* 下面是前/后按钮代码，如果不需要删除即可 */
+		.slideBox .prev,
+		.slideBox .next{ position:absolute; left:3%; top:50%; margin-top:-25px; display:block; width:32px; height:40px; background:url(images/slider-arrow.png) -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+		.slideBox .next{ left:auto; right:3%; background-position:8px 5px; }
+		.slideBox .prev:hover,
+		.slideBox .next:hover{ filter:alpha(opacity=100);opacity:1;  }
+		.slideBox .prevStop{ display:none;  }
+		.slideBox .nextStop{ display:none;  }
+
+		
+</style>
+
+<div class="head">
+<script type="text/javascript" language="javascript">
+    //加入收藏
+        function AddFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }   
+        }
+    }
+    //设为首页
+    function SetHome(url){
+ 
+        if (document.all) {
+ 
+            document.body.style.behavior='url(#default#homepage)';
+ 
+               document.body.setHomePage(url);
+ 
+        }else{
+ 
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+    <div class="header">
+        <div class="head_right">    
+            <div style="width: 305px;height:45px;"><p><a href="http://dkxy.nwsuaf.edu.cn/english/" )="" target="_blank" "="">English</a> | <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a> | <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>| <a href="../../lxwm/index.htm" target="_blank">联系我们</a></p></div>
+            
+            <div>
+                <span class="sousou">
+<form name="dataForm" action="http://cms2.nwsuaf.edu.cn/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+     <input name="siteID" value="77" type="hidden">
+                        <input name="query" class="search_input" style="height:20px;width:175px;float: left;margin-left:15px;border-left: 2px solid #c1c0be;border-bottom: 2px solid #c1c0be;border-top: 2px solid #c1c0be;" value="请输入关键字" onclick="javascript:if (this.value=='请输入关键字'){this.value=''}" type="text">
+                        <input value="" name="Submit" class="so_btn" style="height:24px;width:55px;float:right;margin-right:85px;border:0; background:url(../../images/bg_search.png);" type="Submit">     
+                    </form>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<!--顶部结束-->
+
+
+<!--导航开始-->
+<div class="nav">
+          <div id="nav">
+                  <ul>
+                <li><a class="link" href="../../index.htm" target="_blank">首页</a></li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../zjrc/index.htm" target="_blank">师资队伍</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xkjs/xkjj/index.htm" target="_blank">学科建设</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../bksjy/zyjj/index.htm" target="_blank">本科生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../yjsjy/bsd/index.htm" target="_blank">研究生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../kytg/kytgjf/index.htm" target="_blank">科研推广</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../hzjl/xzjl/index.htm" target="_blank">合作交流</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../dqgz/dwjg/index.htm" target="_blank">党群工作</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xsgl/zzjg/index.htm" target="_blank">学生管理</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../crjy/hsjy/index.htm" target="_blank">成人教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygz/xyhd/index.htm" target="_blank">校友工作</a>
+                                </li>
+                                
+                
+            </ul>
+          </div>
+        </div>
+
+<!--导航结束-->
+
+<!--articlehome开始-->
+<div class="sort_main">
+
+	<div class="sort_left">
+	
+		<div class="sort_lefthead"><dt>师资队伍</dt></div>
+		<div class="sort_leftcont">
+			<ul>
+							<a href="../zjrc/index.htm" target="_blank"><li style="width:178px;height:32px;">专家人才</li></a>
+							<a href="index.htm" target="_blank"><li style="width:178px;height:32px;">教授、研究员</li></a>
+							<a href="../fjsfyjy/index.htm" target="_blank"><li style="width:178px;height:32px;">副教授、副研究员</li></a>
+							<a href="../js/index.htm" target="_blank"><li style="width:178px;height:32px;">讲师</li></a>
+							<a href="../wpzj/index.htm" target="_blank"><li style="width:178px;height:32px;">外聘专家</li></a>
+						</ul>
+		</div>
+
+	</div>
+
+
+
+
+	<div class="sort_right2">
+	
+		<div class="sort_righthead2"><dt>现在的位置:                  <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        教授、研究员
+</dt></div>
+		
+		<div class="sort_rightcont2">
+			
+				<h1 style="color: #0c600c;font-size:16px;">姚军虎</h1>
+				   <h2 style="font-size: 14px;color: #3d66aa;"> </h2>
+				<h2>                                  发布日期：2015-10-16  浏览次数： <script src="/cms/web/count.jsp?articleID=217726"></script>3606</h2>
+                               <div class="line" style="margin-top:10px;"></div>
+				<div class="cont" style="color:#000;margin: 1px 25px;">
+					　　<div class="media"></div>
+						<div class="flashpaper"></div>  
+							   <p><img onclick="window.open('../../images//content/2015-10/20151016165611627291_1.jpg')" src="../../images//content/2015-10/20151016165611627291.jpg" style="float:right; height:218px; width:150px"></p>
+
+<p>　<strong>　1．基本信息</strong></p>
+
+<p>　　姚军虎，男，1962年2月生，陕西宝鸡人，博士，教授，博士研究生导师。1980-1987年本科、硕士就读于西北农业大学，硕士毕业后留校任教，1995-1998年在四川农业大学攻读博士学位。</p>
+
+<p>　　兼任西北农林科技大学动物科技学院院长、国务院第七届畜牧学科评议组成员、第四届全国畜牧学科高峰论坛秘书长、中国畜牧兽医学会动物营养学分会常务理事、陕西省饲料产业技术创新战略联盟理事长、宝鸡市政府农业顾问。</p>
+
+<p>　　<strong>2．研究方向</strong></p>
+
+<p>　　反刍动物营养。</p>
+
+<p>　　<strong>3．开设课程</strong></p>
+
+<p>　　本科生《动物营养学》、《饲料学》。主讲的《动物营养学》2006年被评为陕西省精品课程、2012年获批陕西省教学团队，主讲的《动物营养与低碳健康养殖》2013年被列为国家级精品视频公开课。</p>
+
+<p>　　主讲研究生《动物营养研究进展》、《动物营养学研究方法》。</p>
+
+<p>　　<strong>4．学术成果</strong></p>
+
+<p>　　<strong>4.1主持项目(2010年以后)</strong></p>
+
+<p>　　[1]&nbsp;陕西省饲料工程技术研究中心，陕西省“13115”科技创新工程技术研究中心项目（2010ZDGC-02），2010-2011,100万元。</p>
+
+<p>　　[2]&nbsp;高效环保型奶牛养殖关键技术的合作研究,&nbsp;科技部国际科技合作与交流专项（2010DFB34230）,2011-2013,257万元。</p>
+
+<p>　　[3]&nbsp;Bio-efficacy of Three Heat Steady Phytase in Broiler and Correlation with in Vitro Phosphorus Release Estimation，Research Trial Agreement between NWAFU and NOVUS，2010-2011,5万元。</p>
+
+<p>　　[4]&nbsp;生态环保饲料生产关键技术研发与集成示范---蛋鸡低排放饲料配制关键技术研发与产业化示范，科技支撑计划(2011BAD26B03-3)，2011-2015，10万元。</p>
+
+<p>　　[5]&nbsp;一次注射法研究肉鸡内源氨基酸损失量的变化规律及其调控机制，国家自然科学基金(31172223)，2012-2015，58万元。</p>
+
+<p>　　[6]&nbsp;西北和青藏地区优质牧草丰产栽培及草畜耦合技术集成与产业化示范，国家科技支撑计划（2011BAD17B05），2011-2015，20万元。</p>
+
+<p>　　[7]&nbsp;奶牛围产期和泌乳高峰期营养需要量参数及配套精细饲养工艺与调控技术研究，国家科技支撑计划（2012BAD12B02），2012-2016，100万元。</p>
+
+<p>　　[8]&nbsp;奶山羊产业技术研究与试验示范，公益性行业（农业）科研专项经费（201103038），2011-2015，15万元。</p>
+
+<p>　　[9]&nbsp;高效绿色畜禽饲料添加剂研发及集成，陕西省科技统筹创新工程计划项目（2011KTCQ02-02），2011-2012，50万元。</p>
+
+<p>　　[10]&nbsp;超大规模蛋鸡养殖绿色饲料营养控制与绿色饲料产品关键技术研究与示范，陕西省科技统筹创新工程（2011KTDZ02-01-01），2011-2013，57万元。</p>
+
+<p>　　[11]&nbsp;农区肉牛非粮健康养殖模式构建与示范，国家科技支撑计划（2012BAD39B05-2），2012-2016，30万元。</p>
+
+<p>　　[12]&nbsp;陕西省饲料产业技术创新战略联盟，陕西省科技厅项目（2012KTLM-11），2012-2013，30万元。</p>
+
+<p>　　[13]&nbsp;反刍动物等畜禽防病用有机酸、天然与工程化活菌制剂创制与产业化，国家科技支撑计划（2013BAD10B02-04），2013-2015，60万元。</p>
+
+<p>　　[14]&nbsp;羊绿色饲料开发与健康养殖技术，陕西省科技统筹创新工程项目（2013KTZB02-02-02），2013-2016，10万元。</p>
+
+<p>　　[15]&nbsp;功能性氨基酸调控奶牛胰腺酶表达和分泌的信号传导网络，国家自然科学基金（31472122），2015-2018，90万元。</p>
+
+<p>　　[16]&nbsp;物理有效中性洗剂纤维(peNDF)的测定，陕西省质量技术监督局地方标准修订项目（SDBXM46-2014），2014-2016。</p>
+
+<p>　　[17]&nbsp;饲料原料及产品质量控制集成研究与推广，陕西省科技统筹创新工程项目（2015KTCL02-10），2015-2017，30万元。</p>
+
+<p>　　[18]羊产业绿色低碳日粮的研制与示范 ,农业部重大农技推广服务试点项目，2016,40万元。</p>
+
+<p>　　<strong>4.2&nbsp;主要期刊论文（2012-2015年度）</strong></p>
+
+<p>　　[1] Liu L, Qin DK, Wang XF, Feng Y, Yang XJ, Yao JH. Effect of immune stress on growth pe1rformance and energy metabolism in broiler chickens. &nbsp;Food and Agricultural Immunology ,&nbsp;2015, 26(2):194-203.</p>
+
+<p>　　[2] Liu L, Shen J, Zhao C, Wang XF, Yao JH, Yang XJ. Dietary Astragalus &nbsp;polysaccharide alleviated immunological stress in broilers exposed to lipopolysaccharide. International Journal of Biological Macromolecules ,&nbsp;2015, 72:624-632.</p>
+
+<p>　　[3] Wang XF, Li YL, Shen J, Wang SY, Yao JH, Yang XJ. Effect of Astragalus polysaccharide and its sulfated derivative on growth performance and immune condition of lipopolysaccharide-treated broilers.&nbsp; International journal of biological macromolecules ,&nbsp;2015, 76, 188-194.</p>
+
+<p>　　[4] &nbsp;K. Liu, Y. Liu, S. M. Liu, M. Xu, Z. P. Yu, X. Wang, Y. C. Cao, and J. H. Yao. Relationships between leucine and the pancreatic exocrine function for improving starch digestibility in ruminants. &nbsp;Journal of Dairy Science , 2015, 98: 2576-2582.</p>
+
+<p>　　[5] &nbsp;Xiaofei Wang, Qinqin Zhou, Jing Shen, Junhu Yao, and Xiaojun Yang. Effect of different doses of Newcastle disease vaccine immunization on growth performance, plasma variables and immune response of broilers. &nbsp;Journal of Animal Science and Biotechnology, &nbsp;2015,6(3):317-321.</p>
+
+<p>　　[6] 胡如久，汪菲，李晶，姚军虎*，杨小军*. 一次注射<sup>15</sup>N-亮氨酸示踪法检测鸡内源氨基酸损失量适宜参数的研究. 动物营养学报，2015,&nbsp;27（10）:3047-3056.</p>
+
+<p>　　[7] &nbsp;Li, F., Yang, X. J., Cao, Y. C., Li, S. X., Yao, J. H*.,&nbsp;Li, Z. J., Sun, F. F. Effects of dietary effective fiber to rumen degradable starch ratios on the risk of sub-acute ruminal acidosis and rumen content fatty acids composition in dairy goat. Animal Feed Science and Technology, &nbsp;2014, 189: 54-62.</p>
+
+<p>　　[8] Li, F., Cao, Y.C., Liu, N.N., Yang, X.J., Yao, J.H*.,&nbsp;Yan, D.B. Subacute ruminal acidosis challenge changed in situ degradability of feedstuffs in dairy goats. Journal of Dairy Science, 2014, 97: 5101-5109.</p>
+
+<p>　　[9]&nbsp;Li, F., Li, Z.J., Li, S.X., Ferguson, J. D., Cao, Y.C., Yao, J. H*.,&nbsp;Sun, F. F., Wang, X., Yang, T. Effect of dietary physically effective fiber on ruminal fermentation and the fatty acid profile of milk in dairy goats. Journal of D airy S cience , 2014, 97(4):2281-2290.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[10] Wang X,F.,&nbsp;Shen, J., Li, S.Z., Yang, X. J., Yao, J. H*.&nbsp;Sulfated Astragalus polysaccharide regulates the inflammatory reaction in LPS-infected broiler chicks. In ternational J ournal of B iological M acromolecules , 2014, 69: 146-150.</p>
+
+<p>　　[11] Yu Z P, Xu M, Wang F, Liu, K., Yao, J. H*.,&nbsp;Wu,&nbsp;Z.,&nbsp;Qin, D.K., Sun, F. F.&nbsp;Effect of duodenal infusion of leucine and phenylalanine on intestinal enzyme activities and starch digestibility in goats. Livestock Science , 2014, 162: 134-140.</p>
+
+<p>　　[12] Liu,&nbsp;L., Qin,&nbsp;D.K., Wang,&nbsp;X.F., Feng, Y., Yang, X. J., Yao, J. H*.&nbsp;Effect of immune stress on growth performance and energy metabolism in broiler chickens. Food and Agricultural Immunology, &nbsp;2014: 1-10.</p>
+
+<p>　　[13] 姚军虎*, 李飞, 李发弟, 孙菲菲. 反刍动物有效纤维评价体系及需要量. 动物营养学报, 2014, 26(10): 3168-3174.</p>
+
+<p>　　[14] 孙菲菲, 曹阳春, 李生祥, 韩金涛, 姚军虎*. 胆碱对奶牛围产期代谢的调控. 动物营养学报, 2014, 26（1）：26-33.</p>
+
+<p>　　[15]&nbsp;曹力, 杨小军, 刘南南, 李宗军, 孙菲菲, 武晓红, 姚军虎*. L.fermentum1 .2029&nbsp;对坏死性肠炎肉鸡回肠上皮紧密连接蛋白表达的影响. 中国兽医学报, 2014, 34（1）：127-130.</p>
+
+<p>　　[16] 李飞, 徐明, 曹阳春, 孙菲菲, 杨昕涧, 姚军虎*, 李东清 . &nbsp;Meta分析方法优化泌乳奶牛日粮碳水化合物平衡指数. 畜牧兽医学报，2014, 45（9）：1457-1466.</p>
+
+<p>　　[17]&nbsp;刘婵娟, 赵向辉, 李朝云, 曹阳春, 汪菲, 姚军虎*. 日粮非纤维性碳水化合物来源对体外瘤胃发酵和养分利用的影响. 西北农林科技大学学报: 自然科学版, 2014, 42(3): 28-33.</p>
+
+<p>　　[18]&nbsp;Z. P. Yu, M. Xu, K. Liu,&nbsp;J. H. Yao, H. X. Yu and F. Wang. Leucine markedly &nbsp;&nbsp;regulates pancreatic exocrine secretion in&nbsp;goats.&nbsp; Journal of Animal Physiology and Anima l &nbsp;Nutrition , &nbsp;2014, 98（1）:169-177.</p>
+
+<p>　　[19]&nbsp;F. Li , L. M. Zhang , X. H. Wu , C. Y. Li , X. J. Yang , Y. Dong , A. Lemme ,J. C. Han , and J. H. Yao&nbsp;. 2013. Effects of metabolizable energy and balanced&nbsp;protein on egg production, quality, and components of Lohmann Brown laying hens. &nbsp;J. Appl. Poult. Res . 22 :36–46.</p>
+
+<p>　　[20] A. M. Fouad, H. K. El-Senousey, X. J. Yang and J. H. Yao. &nbsp;2013. &nbsp;Dietary L-arginine supplementation reduces abdominal fat&nbsp;content by modulating lipid metabolism in broiler chickens.&nbsp; Animal, &nbsp;7, 8：1239-1245.</p>
+
+<p>　　[21]&nbsp;F. Li, Y. Liu, R. Q. Yin, X. J. Yang, J. H.Yao, F. F. Sun, G. J. Li, Y. R. Liu, &nbsp;&nbsp;&nbsp;Y. J. Sun. 2013. Nitrogen-Corrected True Metabolizable Energy and Amino Acid Digest&nbsp;&nbsp;&nbsp;ibility of Chinese Corn Distillers Dried Grains with Solubles in Adult Cecectomized Ro&nbsp;&nbsp;&nbsp;osters. Asian-Aust. J. Anim . Sci. , 26(6): 838-844.</p>
+
+<p>　　[22] Z. P. Yu, M. Xu, J. H. Yao<sup>※</sup>, K. Liu, F. Li, Y. Liu, F. Wang, F. F. Sun and N. N. Liu. 2013. Regulation of pancreatic exocrine secretion in goats: differential effects of short- and long-term duodenal phenylalanine treatment. Journal of Animal Physiology and Animal Nutrition , 97（3）：431-438.</p>
+
+<p>　　[23]刘南南，姚军虎. 2013. 营养素和激素对乳蛋白合成过程中哺乳动物雷帕霉素靶蛋白信号通路调节作用的研究进展. 动物营养学报，25 (6）：1158-1163.</p>
+
+<p>　　[24] ZHAO Xiang-hui, LIU Chan-juan, LI Chao-yun and YAO Jun-hu. 2013. Effects of Neutral Detergent Soluble Fiber and Sucrose Supplementation on&nbsp;Ruminal Fermentation, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microbial Synthesis, and Populations of Ruminal&nbsp;Cellulolytic Bacteria Using the Rumen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simulation Technique (RUSITEC). Journal of Integrative Agriculture ，2013, 12(8): 1471-1480.</p>
+
+<p>　　[25]&nbsp;Xiaofei Wang, Siyu Wang, Yulong Li, Fei Wang, Xiaojun Yang, Junhu Yao. &nbsp;2013. Sulfated Astragalus polysaccharide can regulate the inflammatory reaction induced by LPS in Caco2 cells. International Journal of Biological Macromolecules ，60：248-252 .</p>
+
+<p>　　[26] 刘烨，刘凯，徐明，吕长荣，曹阳春，姚军虎. 2013. 十二指肠灌注亮氨酸对奶牛胰腺淀粉酶分泌的影响. 动物营养学报，25 (8）：1783-1788.</p>
+
+<p>　　[27]&nbsp;胡如久，王影，王潇，杨婷，陈思，杨小军，姚军虎. 2013. 葡萄籽提取物对蛋鸡生产性能和蛋黄胆固醇含量的影响. 动物营养学报，25 (9）：2074-2081.</p>
+
+<p>　　[28]&nbsp;Xiaofei Wang, Yulong Li, Xiaojun Yang, Junhu Yao. 2013. &nbsp;Astragalus polysaccharide reduces inflammatory response by decreasing permeability of LPS-infected Caco2 cells. International Journal of Biological Macromolecules ，61：347-352.</p>
+
+<p>　　[29]&nbsp;姚军虎. 2013. 反刍动物碳水化合物高效利用的综合调控. 饲料工业，34（17）：1-12.</p>
+
+<p>　　[30]&nbsp;刘婵娟，赵向辉，徐明，曹阳春，杨婷，姚军虎. 2013. 基于CPMDairy的几种我国常用奶牛饲料原料聚类分析. 动物营养学报，25（10）：2325-2336.</p>
+
+<p>　　[31]&nbsp;Y.C. Cao, Y. Gao, M. Xu, N.N. Liu, X.H. Zhao, C.J. Liu, Y. Liu, J.H. Yao. 2013. Effect of ADL to aNDF ratio and ryegrass particle length on chewing, ruminal fermentation, and in situ degradability in goats. Animal Feed Science and Technology &nbsp;，186 (2013) 112–119</p>
+
+<p>　　[32]&nbsp;Zhao, X. H., C. J. Liu, Y. Liu, C. Y. Li, and J. H. Yao. 2013. Effects of replacing dietary starch with neutral detergent-soluble fibre on ruminal fermentation, microbial synthesis and populations of ruminal cellulolytic bacteria using the rumen simulation technique (RUSITEC). Journal of Animal Physiology and Animal Nutrition &nbsp;,97:1161-1169.</p>
+
+<p>　　[33]&nbsp;Funing Wang, Lin Lu,&nbsp;Sufen Li,&nbsp;Songbai Liu, Liyang Zhang, Junhu Yao<sup>※</sup>,&nbsp;Xugang Luo. 2012. &nbsp;Relative Bioavailability of Manganese Proteinate&nbsp;for Broilers Fed a Conventional Corn–Soybean&nbsp;Meal Diet. &nbsp;Biol Trace Elem Res ., 2012, 146:181-186.</p>
+
+<p>　　[34]&nbsp;Y. Feng, X. J. Yang,&nbsp;Y. B. Wang&nbsp;, W.&nbsp;L.&nbsp;Li, Y. Liu, R.Q.Yin and J. H. Yao<sup>※</sup>. 2012.&nbsp;Effects of immune stress on performance parameters, intestinal enzyme activity&nbsp;and <a name="OLE_LINK7">mRNA</a> expression of intestinal transporters in broiler chickens. Asian-Aust.Anim.Sci ., 25(5):701-707.</p>
+
+<p>　　[35] 张林，张海军，武书庚，岳洪源，姚军虎<sup>※</sup>，齐广海. &nbsp;2012. 单色光间歇性刺激鸡胚对肉仔鸡胸肉生长及肉品质的影响. 中国农业科学，45（5）：951-9579</p>
+
+<p>　　[36]&nbsp;Xiaojun YANG, Lelun ZHONG, Xiaofang AN, Nan ZHANG, Limin ZHANG, Jincheng HAN, Junhu YAO<sup>※</sup>, Charron COTE and Yajing SUN. 2011.&nbsp;Effects of diets supplemented with zinc and manganese on performance and related parameters in laying hens. Animal Science Journal , 2012, 83,474-481.</p>
+
+<p>　　[37]&nbsp;Li Cao, Xiaojun Yang, Feifei Sun, Chanjuan Liu and&nbsp;Junhu Yao<sup>※</sup>. 2012. Lactobacillus Strain with High Adhesion Stimulates&nbsp;Intestinal Mucin Expression in Broiler.&nbsp; J. Poult. Sci ., 49: 273-281.</p>
+
+<p>　　[38] &nbsp;Jincheng Han, Yin Liu, Junhu Yao<sup>※</sup>, Jiaqing Wang, Hongxia Qu, Yongfeng Yan,Jie Yue, Jinlong Ding, Zitao Shi and Xianshun Dong. 2012. Dietary Calcium Levels Reduce the Efficacy of One Alpha-Hydroxycholecalciferol in Phosphorus-Deficient Diets of Broilers. J. Poult. Sci ., 49: 34-38.</p>
+
+<p>　　[40]&nbsp;L. Zhang , H. J. Zhang , X. Qiao , H. Y. Yue , S. G. Wu , J. H. Yao<sup>※</sup>&nbsp;, and G. H. Qi. 2012.&nbsp;Effect of monochromatic light stimuli during embryogenesis on muscular&nbsp;growth, chemical composition, and meat quality of breast muscle in male broilers. Poult . &nbsp;Sci ., 91 :1026-1031&nbsp;.</p>
+
+<p>　　[41]&nbsp;Cao Li , X. J. Yang , Z. J. Li , F. F. Sun , X. H. Wu , and J. H. Yao<sup><a name="OLE_LINK3">※</a></sup>. 2012.&nbsp;Reduced lesions in chickens with Clostridium perfringens-induced&nbsp;necrotic enteritis by Lactobacillus fermentum 1.2029 . &nbsp;&nbsp; Poult . &nbsp;Sci .,&nbsp;91 :&nbsp;3065-3071.</p>
+
+<p>　　[42]&nbsp;<a name="OLE_LINK5">冯焱，</a>杨小军*，胡雄兵，刘烨，尹瑞卿，覃定奎，姚军虎<sup>※</sup>. &nbsp;2012. 免疫应激对肉鸡肠道微生物区系的影响. 农业生物技术学报，20(7): 807-814.</p>
+
+<p>　　[43]&nbsp;赵向辉，刘婵娟，刘烨，李朝云，姚军虎<sup>※</sup>&nbsp;.日粮可降解蛋白与非纤维性碳水化合物对人工瘤胃发酵、微生物合成以及纤维分解菌菌群的影响. 中国农业科学，2012, 45（22）：4668-4677.</p>
+
+<p>　　[44]&nbsp;A.M. Fouad, H.K. El-Senousey, X.J. Yang and J.H. Yao.&nbsp;2012.&nbsp;Role of Dietary L-Arginine in Poultry Production. International Journal of Poultry Science ,11 (11): 718-729.</p>
+
+<p>　　[45]&nbsp;Xiao-Hong Wu,Ye Liu, lin Zhang, Fei Li, Fei wang, Li Cao, Xiao-Jun Yang, Jun-Hu Yao. 2012. Effect of Natural Vitamin E level and Duration of Supplementation on Growth Performance, Breast Meat Quality and Oxidative Stability of Broilers. J. Anim. Vet Adv. 11(18):3268-3275.</p>
+
+<p>　<strong>　4.3 奖励</strong></p>
+
+<p>　　[1] 姚军虎（第一位，FCG-2012-2-115-01）. 2010. 高效绿色饲料生产关键技术研究与示范.全国农牧渔业丰收奖农业技术推广成果二等奖。</p>
+
+<p>　　[2] 2013年度宝钢优秀教师奖。</p>
+
+<p>　　[3]&nbsp;姚军虎（第二位，13-3-13-R2）. 2013.&nbsp;蛋鸡高效绿色饲料生产关键技术研发与推广. 陕西省科学技术奖三等奖。</p>
+
+<p>　　[4] 2008、2010、2015学校优秀教师。</p>
+
+<p>　　<strong>4.4专利</strong></p>
+
+<p>　　[1] 姚军虎.奶牛精准营养管理系统，2013.03,中国,授权号：2013SR026769.</p>
+
+<p>　　[2] 姚军虎.奶牛体况评分软件，2012.08,中国,授权号：2012SR124182.</p>
+
+<p>　　[3] 姚军虎，刘凯，刘烨，徐明.一种牛用手术护理栏，2015.02,中国,授权号：ZL201320206406.6.</p>
+
+<p>　　[4] 曹阳春，姚军虎，孙菲菲，杨红建.一种新型反刍动物饲料,2015.02,中国,授权号：201310232289.5.</p>
+
+<p>　　[5] 徐明，杜莎，张博，姚军虎.一种圆筒式TMR分析筛，2012.12,中国,授权号：ZL201220024443.0.</p>
+
+<p>　　[6]曹阳春，姚军虎，王腊梅，徐秀容，王砀砀，孙菲菲，魏筱诗.一种自动饲料供给装置，2015.07,中国,授权号：ZL201520104236.X.</p>
+
+<p>　　[7] 曹阳春，姚军虎，王腊梅，王砀砀，李宗军，孙菲菲，魏筱诗，任豪，杨昕涧，郑立新.一种奶牛饲养舍，2016.02,中国,授权号：ZL201520782103.8.</p>
+
+<p>　　<strong>5．联系方式</strong></p>
+
+<p>　　通讯地址：陕西杨凌西农路22号.西北农林科技大学动物科技学院</p>
+
+<p>　　邮编：712100</p>
+
+<p>　　联系电话：029-87092102（办）</p>
+
+<p>　　Email:yaojunhu2008@nwsuaf.edu.cn, <a href="mailto:yaojunhu2004@sohu.com" target="_blank">yaojunhu2004@sohu.com</a>。</p>
+
+<p>　　</p>
+
+				</div>
+
+
+
+
+		</div>
+	
+	</div>
+	<div style="clear:both;"></div>
+</div>
+<!--articlehome结束-->
+
+<script src="/cms/web/writeLog.jsp?articleID=217726"></script>
+<!--foot开始-->
+
+<div class="foot">
+	<div style="width:105px;float:left;  margin-top: 30px;
+  padding-left: 103px;;">
+						<p style="text-align: center;"><a href="../../sydbwxewm/297978.htm" target="_blank" title="西北农林科技大学动物科技学院微信公众平台"><img src="../../images/content/2016-03/20160329200002940113.jpg" width="40" height="40" border="0"></a></p>
+						 		
+		<!--<p style="text-align:center;;margin-top:10px;"><a href="/sydbwxewm/297978.htm" target="_blank" title="$article.name">动科学院微信平台</a></p>-->
+	</div>
+	<div style="float:left;">
+		<p style="text-align:center;padding-top:30px;">版权所有 :  西北农林科技大学动物科技学院&nbsp;&nbsp;
+地址：陕西省杨凌农业高新技术产业示范区西农路22号&nbsp;&nbsp;&nbsp;邮编：712100 </p>
+		<p style="text-align:center;padding-top:10px;">主管领导：王力  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;网管员：阮鹏<font style="color:#FF6600"> &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;总访问量：<script src="/cms/web/channelVisitLog.jsp?channelID=3352"></script>234793次</font></p>
+	</div>
+	<script src="/cms/web/writeLog.jsp?siteID=77&amp;channelID=3352"></script>
+</div>
+
+<!--foot结束-->
+
+
+ 
+</body></html>

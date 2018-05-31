@@ -1,0 +1,82 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<meta name="title" content="交大，西南交通大学，导师信息，教师，个人主页"> 
+<meta name="description" content="西南交通大学教师个人主页系统是为交大教师提供一个展示个人学术研究与教学工作的平台，扩大学校在互联网上的影响力。本系统是由西南交通大学信息网络中心开发维护。"> 
+<meta name="keywords" content="交大，西南交通大学，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>个人主页 | 个人信息 | 西南交通大学个人主页系统</title>
+<link href="CSS/style_2.css" rel="stylesheet" type="text/css">
+				<link href="CSS/basic.css" rel="stylesheet" type="text/css">
+
+
+</head>
+<body>
+		<div class="topaction">		
+        <span><a href="#">登录</a></span>
+		<span><a href="#">帮助</a></span>
+        <span><a href="#">返回首页</a></span>
+        <span><a href="#">加入收藏夹</a></span>
+		<span><a href="http://www.swjtu.edu.cn" title="西南交通大学" target="_blank">交大主页</a></span>
+		<div style="clear:both"></div>
+</div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+    <div id="logo"><a href="#"><!--<img src="img/style_2/logo.jpg" title="返回首页" />--></a></div>
+<!--导航-->
+    <div id="lead_1">
+        <ul id="leader">
+            <li><a href="index.htm" target="_blank">我的主页:</a></li><li><a href="index.htm" target="_blank">个人信息</a></li><li><a href="research.htm" target="_blank">科学研究</a></li><li><a href="paper.htm" target="_blank">论文成果</a></li><li><a href="award.htm" target="_blank">荣誉奖励</a></li><li><a href="team.htm" target="_blank">科研团队</a></li><li><a href="teach.htm" target="_blank">课程教学</a></li><li><a href="zhaosheng.htm" target="_blank">招生信息</a></li><li><a href="english.htm" target="_blank">English</a></li>
+        </ul>
+    </div>
+</div>
+
+<!--中间-->
+<div id="middle">
+			<div id="dom0" style="margin:1px 0 0 0; float:left; width:250px; display:inline;"> <div class="mo" style="LEFT: 131px; WIDTH: auto; TOP: 118px; HEIGHT: auto">
+
+<div class="drag"><span id="t0">基本信息</span></div><!--ckstartn0-->
+<div class="nr" id="n0">
+<p><img style="WIDTH: 220px; HEIGHT: 191px" alt="" src="images/photo.jpg"></p>
+<p style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">陆可 工学博士 副教授</p>
+<p style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">硕士生导师</p>
+<p style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">博士学科：电力电子与电力传动</p>
+<p style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">工作单位：电气工程学院</p></div><!--ckendn0--></div>
+<div class="mo" style="LEFT: 99px; WIDTH: auto; TOP: 597px; HEIGHT: auto">
+<div class="drag"><span id="t3">联系方式</span></div><!--ckstartn3-->
+<div class="nr" id="n3">
+<p>通信地址：四川省成都市二环路北一段111号，邮编：610031</p>
+<p style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">电子邮箱：luke@swjtu.cn</p>
+<p style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">办公电话：028-87601013</p>
+<p style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">办公地点：西南交通大学电气工程学院电力电子与电力传动实验室</p></div><!--ckendn3--></div></div>
+
+			<div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;">
+			<div class="mo" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+
+<div class="drag"><span id="t2">个人简介</span></div><!--ckstartn2-->
+<div class="nr" id="n2">
+<p>陆可，博士，副教授，浙江宁波人。2009年获得西南交通大学电气系统控制与信息技术专业工学博士学位，同年留校工作。2011年起任西南交通大学电气工程学院副教授，同年聘为硕士生导师。2014年赴日本横滨国立大学公派访问。主要从事于电力电子与电力传动领域的研究工作，主持和主研“十一五”国家科技支撑计划重点项目、国家自然科学基金项目、教育部高等学校博士学科点专项科研基金项目、中央高校基本科研业务费专项资金重大项目、西南交通大学轨道交通国家实验室项目等工作。在《自动化学报》、《中国电机工程学报》、《电工技术学报》等相关专业的权威性刊物发表学术论文多篇，其中EI检索6篇。</p>
+<p>&nbsp;</p></div><!--ckendn2--></div>
+<div class="mo" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+
+<div class="drag"><span id="t1">主要研究方向</span></div><!--ckstartn1-->
+<div class="nr" id="n1">
+<p>（1）电力电子技术及其应用</p>
+<p>（2）电力传动控制系统</p>
+<p>（3）智能控制系统</p>
+<p>（4）系统状态估计和参数辨识</p>
+</div><!--ckendn1--></div></div>
+			</div>
+
+<!--底部-->
+<div id="bottom">
+Copyright © 2011   http://inc.swjtu.edu.cn   西南交通大学信息网络中心 
+<br>
+</div>
+</div>
+
+</body></html>

@@ -1,0 +1,596 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="IE=7.0000" http-equiv="X-UA-Compatible">
+<title>教授_北京工商大学食品学院</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="../../css/spxy2011423.css">
+<link rel="stylesheet" type="text/css" href="../../css/menu.css">
+<link rel="stylesheet" type="text/css" href="../../css/DefaultSkin.css">
+<script src="../../js/prototype.js"></script>
+<script src="../../js/scriptaculous.js"></script><script type="text/javascript" src="http://spxy.btbu.edu.cn/js/util.js"></script><script type="text/javascript" src="http://spxy.btbu.edu.cn/js/effects.js"></script><script type="text/javascript" src="http://spxy.btbu.edu.cn/js/dragdrop.js"></script><script type="text/javascript" src="http://spxy.btbu.edu.cn/js/controls.js"></script>
+<script src="../../js/checklogin.js"></script>
+<script type="text/javascript" src="../../js/unitpngfix.js"></script><script type="text/javascript" id="ct" defer="defer" src="javascript:void(0)"></script>
+<script language="JavaScript" type="text/JavaScript" src="../../js/menu.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="../../js/stm31.js"></script><style>
+.st_tbcss,.st_tdcss,.st_divcss,.st_ftcss{border:none;padding:0px;margin:0px;}
+</style></head><body onmousemove="HideMenu()" class="SpHead"><font id="st_gl0"></font><font id="st_gl1"></font><font id="st_gl2"></font><font id="st_gl3"></font><font id="st_gl4"></font><font id="st_gl5"></font><font id="st_gl6"></font><font id="st_gl7"></font><font id="st_gl8"></font><font id="st_gl9"></font>
+
+
+
+
+<script type="text/javascript">
+//当前栏目的样式
+function getClass(oParent,sClass)
+		{
+			var aEle = oParent.getElementsByTagName('*');
+			var aResult = [];
+			var i = 0;
+			for(i=0;i<aEle.length;i++)
+			{
+				if(aEle[i].className==sClass)
+				{
+					aResult.push(aEle[i]);
+				}
+			}
+			return aResult;
+		}
+window.onload=function()
+		{
+            var oDivCl_menu=document.getElementById('Cl_menu');
+			var aClass =getClass(oDivCl_menu, 'childclass');
+			var NowHref=document.location.href;
+			var i = 0;
+			for(i=0;i<aClass.length;i++)
+			{   
+			    var oHref=aClass[i].href;
+				if(NowHref==oHref)
+				  {				
+				 	  aClass[i].className='childclassN';
+				  }
+				else
+				  {
+					  aClass[i].className='childclass';
+				   }
+			}
+		}
+</script>
+<!--菜单 -->
+
+<div class="SpHead_top PublicWidth">
+  <link rel="stylesheet" type="text/css" href="../../css/spxy2011423.css">
+  <div class="SpHead_logo"></div>
+  <div class="SpHead_right">
+    <div class="SpLanguage">
+<a href="../../index.htm" target="_blank">中文</a>
+<a href="../../english/index.htm" target="_blank">ENGLISH</a>
+<a href="http://www.btbu.edu.cn" target="_blank">学校首页</a>
+</div>
+    <div class="SpClear"></div>
+<div class="SpSearch">
+    <div class="sea_box">
+                    <form name="dataForm" class="search" action="http://www.btbu.edu.cn/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+                        <input name="siteID" value="55" type="hidden">
+                        <input class="notxt" value="关键字" name="query" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}" onclick="if(this.value==''){this.value='';this.form.keywords.style.color='#323232'}" type="text">
+                        <input class="notxt1" name="Submit" value="" type="submit">
+                    </form>
+                </div>  </div></div>
+</div>
+<div class="SpClear"></div>
+<!--菜单 -->
+<div class="nav">
+  <ul id="nav">
+    <li><a class="hover" href="../../index.htm" target="_blank">学院首页</a>
+		 <div class="sonnav">
+        <dl>
+						<dd><a href="../../xysy/xydt/index.htm" title="学院动态" target="_blank">学院动态</a></dd>
+						<dd><a href="../../xysy/xytz/index.htm" title="学院通知" target="_blank">学院通知</a></dd>
+						<dd><a href="../../xysy/zlxz/index.htm" title="资料下载" target="_blank">资料下载</a></dd>
+						<dd><a href="../../xysy/itrz/index.htm" target="_blank">IFT认证</a></dd>
+        </dl>
+      </div>
+	</li>
+	
+    <li id="mu1"><a href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+      <div class="sonnav">
+        <dl>
+         			<dd><a href="../../xygk/xyjj/index.htm" title="学院简介" target="_blank">学院简介</a></dd>
+						<dd><a href="../../xygk/xyld/index.htm" title="学院领导" target="_blank">学院领导</a></dd>
+						<dd><a href="../../xygk/zzjg/index.htm" title="组织机构" target="_blank">组织机构</a></dd>
+						<dd><a href="../../xygk/zyyxksz/index.htm" title="专业与学科设置" target="_blank">专业与学科设置</a></dd>
+			        </dl>
+      </div>
+    </li>
+    <li id="mu2"><a href="../../jgsz/index.htm" target="_blank">机构设置</a>
+      <div class="sonnav">
+        <dl>
+           			<dd><a href="../../jgsz/spkxygcx/index.htm" title="食品科学与工程系" target="_blank">食品科学与工程系</a></dd>
+						<dd><a href="../../jgsz/yyhxx/index.htm" title="应用化学系" target="_blank">应用化学系</a></dd>
+						<dd><a href="../../jgsz/hjkxygcx/index.htm" title="环境科学与工程系" target="_blank">环境科学与工程系</a></dd>
+						<dd><a href="../../jgsz/swgcx/index.htm" title="生物工程系" target="_blank">生物工程系</a></dd>
+						<dd><a href="../../jgsz/hgjys/index.htm" title="化工教研室" target="_blank">化工教研室</a></dd>
+						<dd><a href="../../jgsz/bjsys/index.htm" title="北京实验室" target="_blank">北京实验室</a></dd>
+						<dd><a href="../../jgsz/gczx/index.htm" title="工程中心" target="_blank">工程中心</a></dd>
+						<dd><a href="../../jgsz/zdsys/index.htm" title="重点实验室" target="_blank">重点实验室</a></dd>
+						<dd><a href="../../jgsz/qjscjzzx/index.htm" title="清洁生产技术中心" target="_blank">清洁生产技术中心</a></dd>
+						<dd><a href="../../jgsz/xybgs/index.htm" title="学院办公室" target="_blank">学院办公室</a></dd>
+			        </dl>
+      </div>
+    </li>
+    <li id="mu3"><a href="../../xkzy/xkjs/index.htm" target="_blank">学科专业</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../xkzy/xkjs/index.htm" title="学科建设" target="_blank">学科建设</a></dd>
+						<dd><a href="../../xkzy/zysz/index.htm" title="专业设置" target="_blank">专业设置</a></dd>
+			        </dl>
+      </div>
+	</li>
+    <li id="mu4"><a href="../index.htm" target="_blank">师资队伍</a>
+		 <div class="sonnav">
+        <dl>
+         		 					 					 					 			<dd><a href="../dszy/index.htm" title="导师资源" target="_blank">导师资源</a></dd>
+								 			<dd><a href="../ysjs/index.htm" title="院士介绍" target="_blank">院士介绍</a></dd>
+								 			<dd><a href="../spkxygcx1/index.htm" title="食品科学与工程系" target="_blank">食品科学与工程系</a></dd>
+								 			<dd><a href="../yyhxx1/index.htm" title="应用化学系" target="_blank">应用化学系</a></dd>
+								 			<dd><a href="../hgjys1/index.htm" title="化工教研室" target="_blank">化工教研室</a></dd>
+								 			<dd><a href="../hjkxygcx1/index.htm" title="环境科学与工程系" target="_blank">环境科学与工程系</a></dd>
+								 			<dd><a href="../swgcx1/index.htm" title="生物工程系" target="_blank">生物工程系</a></dd>
+						        </dl>
+      </div>
+	</li>
+    <li id="mu5"><a href="../../jxgl/index.htm" target="_blank">教学管理</a>
+	</li>
+    <li id="mu6"><a href="../../kxyj/index.htm" target="_blank">科学研究</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../kxyj/xmsbyys/index.htm" title="项目申报" target="_blank">项目申报</a></dd>
+						<dd><a href="../../kxyj/kyxm/index.htm" title="在研项目" target="_blank">在研项目</a></dd>
+						<dd><a href="../../kxyj/kycg/index.htm" title="科研成果" target="_blank">科研成果</a></dd>
+						<dd><a href="../../kxyj/tszl/index.htm" title="图书资料" target="_blank">图书资料</a></dd>
+						<dd><a href="http://ctnzsp.btbu.edu.cn" title="十三五项目" target="_blank">十三五项目</a></dd>
+			        </dl>
+      </div>
+	</li>
+	 <li id="mu6"><a href="../../sysyaq/index.htm" target="_blank">实验室与安全</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../sysyaq/sysjj/index.htm" title="实验室简介" target="_blank">实验室简介</a></dd>
+						<dd><a href="../../sysyaq/gzzd/index.htm" title="规章制度" target="_blank">规章制度</a></dd>
+						<dd><a href="../../sysyaq/yqzx/index.htm" title="仪器中心" target="_blank">仪器中心</a></dd>
+						<dd><a href="../../sysyaq/aqjc/index.htm" title="安全检查" target="_blank">安全检查</a></dd>
+						<dd><a href="../../sysyaq/hxfycz/index.htm" title="化学废液处置" target="_blank">化学废液处置</a></dd>
+						<dd><a href="../../sysyaq/lxspljs2/index.htm" title="良乡食品楼建设" target="_blank">良乡食品楼建设</a></dd>
+			        </dl>
+      </div>
+	</li>
+    <li id="mu7"><a href="../../xstd/index.htm" target="_blank">学生天地</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../xstd/txzz/index.htm" title="团学组织" target="_blank">团学组织</a></dd>
+						<dd><a href="../../xstd/zmxy/index.htm" title="知名校友" target="_blank">知名校友</a></dd>
+						<dd><a href="../../xstd/yxxz/index.htm" title="优秀学长" target="_blank">优秀学长</a></dd>
+						<dd><a href="../../xstd/xshd/index.htm" title="学生活动" target="_blank">学生活动</a></dd>
+						<dd><a href="../../xstd/pjpy/index.htm" title="评奖评优" target="_blank">评奖评优</a></dd>
+						<dd><a href="http://spxy.btbu.edu.cn/zsjy/index.htm" title="招生就业" target="_blank">招生就业</a></dd>
+						<dd><a href="../../xstd/glzd/index.htm" title="管理制度" target="_blank">管理制度</a></dd>
+						<dd><a href="../../xstd/fdybzrgz/index.htm" title="辅导员班主任工作" target="_blank">辅导员班主任工作</a></dd>
+						<dd><a href="../../xstd/xlyz/index.htm" title="心灵驿站" target="_blank">心灵驿站</a></dd>
+			        </dl>
+      </div>
+	</li>
+    <li id="mu8"><a href="#">党群工作</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../dqgz/zzgk/index.htm" title="食品学院党委概况" target="_blank">食品学院党委概况</a></dd>
+						<dd><a href="../../dqgz/gzdt/index.htm" title="工作动态" target="_blank">工作动态</a></dd>
+						<dd><a href="../../dqgz/zbjs/index.htm" title="支部建设" target="_blank">支部建设</a></dd>
+						<dd><a href="../../dqgz/xxzl/index.htm" title="“两学一做”学习教育专区" target="_blank">“两学一做”学习教育专区</a></dd>
+						<dd><a href="../../dqgz/jgzj/index.htm" title="教工之家" target="_blank">教工之家</a></dd>
+			        </dl>
+      </div>
+	</li>
+    <li id="mu9"><a href="../../dbkdsptjj/index.htm" target="_blank">躲不开的食品添加剂</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../dbkdsptjj/gzpj/index.htm" title="公众评价" target="_blank">公众评价</a></dd>
+						<dd><a href="../../dbkdsptjj/kpnr/index.htm" title="科普内容" target="_blank">科普内容</a></dd>
+						<dd><a href="../../dbkdsptjj/zthd/index.htm" title="专题活动" target="_blank">专题活动</a></dd>
+			        </dl>
+      </div>
+	</li>
+    
+  </ul>
+</div>
+<script>
+	var oNav = document.getElementById('nav');
+	var aLi = oNav.getElementsByTagName('li');
+	
+	for(var i=0;i<aLi.length;i++)
+	{
+		aLi[i].onmouseover = function ()
+		{
+			this.className = 'on';
+		};
+		aLi[i].onmouseout = function ()
+		{
+			this.className = '';
+		};
+	};
+</script><!--头部结束 -->
+
+<!--网站横幅开始 -->
+<div class="PublicWidth SpBanners">
+<span class="SpBannersA">教授</span> <img src="../../images/20141126162500436706.jpg"></div>
+<!--网站横幅结束 -->
+
+<div class="SpBody">
+  <!--当前位置 -->
+  <div class="PublicWidth SpNowWhere">您现在的位置：&nbsp;
+  		<a href="../../index.htm" target="_blank">首页</a>
+	
+ &nbsp;&gt;&gt;&nbsp; 				<a href="index.htm" target="_blank">师资队伍</a>
+			
+ &nbsp;&gt;&gt;&nbsp; <a href="index.htm" target="_blank">教授</a></div>
+  <!--中间内容开始-->
+  <table class="PublicWidth SpClassMiddle" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+      <tr>
+        <td class="SpLeftNav TableBorderRight TableBorderTop" width="275" valign="top" align="left">
+			  <!--左栏开始 -->
+			  
+<div class="SpTitleBg"><img src="../../images/lmdh.gif" border="0"> </div>
+			  <div id="Cl_menu" class="SpClassNav">
+			  																																																	&nbsp;<a class="childclass" href="../dszy/index.htm" target="_blank">导师资源</a><br>
+																																	&nbsp;<a class="childclass" href="../ysjs/index.htm" target="_blank">院士介绍</a><br>
+																																	&nbsp;<a class="childclass" href="../spkxygcx1/index.htm" target="_blank">食品科学与工程系</a><br>
+																																	&nbsp;<a class="childclass" href="../yyhxx1/index.htm" target="_blank">应用化学系</a><br>
+																																	&nbsp;<a class="childclass" href="../hgjys1/index.htm" target="_blank">化工教研室</a><br>
+																																	&nbsp;<a class="childclass" href="../hjkxygcx1/index.htm" target="_blank">环境科学与工程系</a><br>
+																																	&nbsp;<a class="childclass" href="../swgcx1/index.htm" target="_blank">生物工程系</a><br>
+																				 </div>			  <!--左栏结束 -->
+		</td>
+        <td class="TableBorderTop SpChannleRight" valign="top" align="left">
+          <div class="Spjlmb">
+		  <!--
+		   			 -->
+			 <!--
+			 			  -->
+			
+              <div class="linheighta">
+			  	
+						  <p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt; text-align: center;"><img src="../../images/content/2015-08/20150820163600785529.jpg" alt="" width="147" height="196"></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:
+&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+宋体;color:#00B050;mso-font-kerning:0pt">田红玉</span></b><b><span style="font-size:11.0pt;mso-bidi-font-family:宋体;
+color:#00B050;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">1972.2 </span><span style="font-size: 11pt; font-family: 宋体;">出生</span><span style="font-size: 11pt;"> </span><span style="font-size: 11pt; font-family: 宋体;">湖北仙桃市人</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt; font-family: 宋体;">北京工商大学食品学院应用化学系</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt; font-family: 宋体;">教授</span><span style="font-size: 11pt;"> </span><span style="font-size: 11pt; font-family: 宋体;">博士</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:
+&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+宋体;color:#00B050;mso-font-kerning:0pt">个人简历</span></b><b><span style="font-size:11.0pt;mso-bidi-font-family:宋体;color:#00B050;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">2001</span><span style="font-size: 11pt; font-family: 宋体;">年在中科院化学所获博士学位。</span><span style="font-size: 11pt;" lang="EN-US">2002-2003</span><span style="font-size: 11pt; font-family: 宋体;">年在美国迈阿密大学和佐治亚理工学院做博士后研究。</span><span style="font-size: 11pt;" lang="EN-US">2004</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt;" lang="EN-US">1</span><span style="font-size: 11pt; font-family: 宋体;">月回北京工商大学工作，现为食品学院教授，博士生导师，主要讲授《有机合成》、《有机化学的光谱方法》及《有机反应机理》等课程。主要研究方向为食用香料合成、手性食用香料不对称合成等。作为项目负责人主持了北京市教委、北京市优秀人才、国家自然科学基金、国家科技部支撑计划等多项项目的研究。在国内外专业期刊上发表论文</span><span style="font-size: 11pt;" lang="EN-US">50</span><span style="font-size: 11pt; font-family: 宋体;">多篇，独立编著了《手性香料及其不对称合成》。</span><span style="font-size: 11pt; font-family: 宋体;">作为负责人完成的项目“重要食品香料绿色制备技术”</span><span style="font-size: 11pt;" lang="EN-US">2014</span><span style="font-size: 11pt; font-family: 宋体;">年获得教育部科学技术进步奖二等奖，排名第一</span><span style="font-size: 11pt; font-family: 宋体;">。</span><span style="font-size: 11pt;" lang="EN-US">2013</span><span style="font-size: 11pt; font-family: 宋体;">年入选北京市属高等学校高层次人才引进与培养三年行动计划中的</span><span style="font-size: 11pt;" lang="EN-US">“</span><span style="font-size: 11pt; font-family: 宋体;">长城学者</span><span style="font-size: 11pt;" lang="EN-US">”</span><span style="font-size: 11pt; font-family: 宋体;">培养计划项目</span><span style="font-size: 11pt; font-family: 宋体;">。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:
+&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+宋体;color:#00B050;mso-font-kerning:0pt">主讲课程</span></b><b><span style="font-size:11.0pt;mso-bidi-font-family:宋体;color:#00B050;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt; font-family: 宋体;">主要讲授《有机合成》、《有机化学中的光谱方法》及《有机反应机理》等课程。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:
+&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+宋体;color:#00B050;mso-font-kerning:0pt">主要研究领域</span></b><b><span style="font-size:11.0pt;mso-bidi-font-family:宋体;color:#00B050;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt; font-family: 宋体;">主要研究领域有机合成、香料化学等。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:
+&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+宋体;color:#00B050;mso-font-kerning:0pt">主要学术成果（课题、论文、获奖、专利等）</span></b><b><span style="font-size:11.0pt;mso-bidi-font-family:宋体;color:#00B050;
+mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt; font-family: 宋体;">主持的科研项目及人才培养项目</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">(1)</span><span style="font-size: 11pt; font-family: 宋体;">北京市教育委员会科技发展计划面上项目（</span><span style="font-size: 11pt;" lang="EN-US">KM200510011007</span><span style="font-size: 11pt; font-family: 宋体;">），手性香料</span><span style="font-size: 11pt; font-family: Symbol;" lang="EN-US">g</span><span style="font-size: 11pt;" lang="EN-US">-</span><span style="font-size: 11pt; font-family: 宋体;">内酯类化合物的不对称合成研究，</span><span style="font-size: 11pt;" lang="EN-US">8</span><span style="font-size: 11pt; font-family: 宋体;">万元，</span><span style="font-size: 11pt;" lang="EN-US">2005.1-2006.12</span><span style="font-size: 11pt; font-family: 宋体;">。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">(2)</span><span style="font-size: 11pt; font-family: 宋体;">北京市优秀人才培养计划项目（</span><span style="font-size: 11pt;" lang="EN-US">20051D0500308</span><span style="font-size: 11pt; font-family: 宋体;">），磷脂与</span><span style="font-size: 11pt;" lang="EN-US">Maillard</span><span style="font-size: 11pt; font-family: 宋体;">反应相互作用研究，</span><span style="font-size: 11pt;" lang="EN-US">2</span><span style="font-size: 11pt; font-family: 宋体;">万元，</span><span style="font-size: 11pt;" lang="EN-US">2006.1-2007.12</span><span style="font-size: 11pt; font-family: 宋体;">。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">(3)</span><span style="font-size: 11pt; font-family: 宋体;">留学回国人员科研启动基金项目，手性含硫香料</span><span style="font-size: 11pt; font-family: Symbol;" lang="EN-US">b</span><span style="font-size: 11pt;" lang="EN-US">-</span><span style="font-size: 11pt; font-family: 宋体;">巯基伯醇及其衍生物的立体选择性合成研究，</span><span style="font-size: 11pt;" lang="EN-US">2</span><span style="font-size: 11pt; font-family: 宋体;">万元，</span><span style="font-size: 11pt;" lang="EN-US">2006.1-2007.12<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">(4)</span><span style="font-size: 11pt; font-family: 宋体;">北京市属高等学校人才强教计划</span><span style="font-size: 11pt;" lang="EN-US">“</span><span style="font-size: 11pt; font-family: 宋体;">中青年骨干人才培养计划</span><span style="font-size: 11pt;" lang="EN-US">”</span><span style="font-size: 11pt; font-family: 宋体;">项目手性含硫食品香料不对称合成研究</span><span style="font-size: 11pt;" lang="EN-US">10</span><span style="font-size: 11pt; font-family: 宋体;">万元，</span><span style="font-size: 11pt;" lang="EN-US">2010.1-2012.12 </span><span style="font-size: 11pt; font-family: 宋体;">（</span><span style="font-size: 11pt;" lang="EN-US">PHR201008244</span><span style="font-size: 11pt; font-family: 宋体;">）</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">(5)</span><span style="font-size: 11pt; font-family: 宋体;">国家自然科学基金项目（</span><span style="font-size: 11pt;" lang="EN-US">31071610</span><span style="font-size: 11pt; font-family: 宋体;">），手性偶姻类食品香料化合物立体结构与香气特征关系研究，</span><span style="font-size: 11pt;" lang="EN-US">40</span><span style="font-size: 11pt; font-family: 宋体;">万元，</span><span style="font-size: 11pt;" lang="EN-US">2011.1-2013.12</span><span style="font-size: 11pt; font-family: 宋体;">。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">(6)</span><span style="font-size: 11pt; font-family: 宋体;">国家十二五支撑计划项目（</span><span style="font-size: 11pt;" lang="EN-US">2011BAD23B01</span><span style="font-size: 11pt; font-family: 宋体;">），食品香料香精制备关键技术研究及产业化，</span><span style="font-size: 11pt;" lang="EN-US">714</span><span style="font-size: 11pt; font-family: 宋体;">万元，</span><span style="font-size: 11pt;" lang="EN-US">2011.1-2015.12</span><span style="font-size: 11pt; font-family: 宋体;">。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">(7)</span><span style="font-size: 11pt; font-family: 宋体;">国家自然科学基金项目（</span><span style="font-size: 11pt;" lang="EN-US">31271932</span><span style="font-size: 11pt; font-family: 宋体;">），手性含硫食品香料立体异构体香气特性及天然组成研究，</span><span style="font-size: 11pt;" lang="EN-US">85</span><span style="font-size: 11pt; font-family: 宋体;">万元，</span><span style="font-size: 11pt;" lang="EN-US">2013.1-2016.12</span><span style="font-size: 11pt; font-family: 宋体;">。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt;" lang="EN-US">(8)</span><span style="font-size: 11pt; font-family: 宋体;">北京市属高等学校高层次人才引进与培养计划项目（</span><span style="font-size: 11pt;" lang="EN-US">CIT&amp;TCD20140306</span><span style="font-size: 11pt; font-family: 宋体;">），</span><span style="font-size: 11pt;" lang="EN-US">300</span><span style="font-size: 11pt; font-family: 宋体;">万元，</span><span style="font-size: 11pt;" lang="EN-US">2014.1-2016.12</span><span style="font-size: 11pt; font-family: 宋体;">。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size: 11pt; font-family: 宋体;">近</span></b><b><span style="font-size: 11pt;" lang="EN-US">5</span></b><b><span style="font-size: 11pt; font-family: 宋体;">年以第一作者或通讯作者发表的</span></b><b><span style="font-size: 11pt;" lang="EN-US">SCI</span></b><b><span style="font-size: 11pt; font-family: 宋体;">收录论文及授权专利</span></b><b><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(1)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">TIAN Hong-yu*, SUN Bao-guo, TANG Li-wei, YE Hong-lin. Application of Sharpless Asymmetric Epoxidation on Preparation of Optically Active Flavors 3-Methylthiohexanal and 5(6)-Butyl-1,4-dioxan-2-one. Flavour and Fragrance Journal, 2011, 26(1), 65-69. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(2)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Hong-yu Tian*, Hong-lin Ye, Bao-guo Sun, Ya-ling Wang, Synthesis of 2-hydroxy-5-methyl-3-hexanone[J], Journal of Chemical Research, 2011, 35(1): 51-52. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(3)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Hong-yu Tian*, Hong-lin Ye, Bao-guo Sun, Ya-ling Wang, Enantioselective synthesis of 2-hydroxy-5-methyl-3-hexanone[J], Journal of Chemical Research, 2011, 35(4): 202-204.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(4)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Hong-yu Tian*, Hong-lin Ye, Bao-guo Sun, Yu-Ping Liu, Ming-quan Huang and Hai-tao Chen. Synthesis and characteristic odour of optically active 3-hydroxy-4-phenyl-2-butanone. Flavour and Fragrance Journal, 2011, 26(6): 385-388. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(5)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">LIU Yong-guo, GONG Xiu-qin, TIAN Hong-yu*, SUN Bao-guo. Preparation of 2-Hexyl-4-acetoxytetrafuran. Journal of Chemical Research, 2012, 36(6):333-335. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><a name="OLE_LINK2"></a><a name="OLE_LINK1"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(6)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Liu Yongguo, Chen Kai, Li Chen, Zhang Shuo, Chen Haitao, Tian Hongyu*, &amp; Sun Baoguo. Preparation and characteristic odour of optically active 3-hydroxy-2-octanone.&nbsp; Flavour and Fragrance Journal, 2012, 27(5), 393-396.</span></a><span style="font-size: 11pt;" lang="EN-US"> <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(7)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Yi-feng Dai, Hong-yu Tian*, Bao-guo Sun, Yu-mei Sun, Hai-tao Chen, Xiao-yu Liu. Efficient synthesis of the odourant, 2-nonen-4-olide. Journal of Chemical Research, 2012, 36(8):495-496.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(8)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Sen Liang, Bao-guo Sun, Hong-yu Tian*, Ya-ling Wang, Yu-mei Sun. A highly enantioselective synthesis of the odourant, 3-hydroxy-4-phenylbutan-2-one. Journal of Chemical Research, 2013, 37(2):105-106.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(9)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Yong-guo Liu, Bao-guo Sun, Hong-yu Tian*, Tian-ge Huang, Lei-qiang Zhi, Jie Jin, Yan-mei Huang. <a name="OLE_LINK4"></a><a name="OLE_LINK3">Detection and enantiomeric distribution of 2-hydroxy-5-methyl-3-hexanone and 3-hydroxy-5-methyl-2-hexanone in commercial eucalyptus honey, Flavour and Fragrance Journal, 2013, 28(5): 327-332.<o:p></o:p></a></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(10)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Yifeng Dai, Baoguo Sun, Shaoxiang Yang, Yongguo Liu, Hongyu Tian*, Junqiang Shao. Preparation and Odour of cis- and trans-2-Methyltetrahydrofuran-3-thiol acetates. Journal of Chemical Research, 2014, 38(4):236-239.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(11)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Sen Liang, Baoguo Sun, Shaoxiang Yang, Yongguo Liu, Hongyu Tian*, Yuping Liu, and Haitao Chen. Preparation and Odor Properties of (S)-3-Mercapto-1-heptyl Acetate. Journal of Chemical Research, 2014, 38(6):343-346.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(12)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Guoying Zhang, Xiuqin Gong, Shaoxiang Yang, Baoguo Sun, Yongguo Liu, Hongyu Tian*. Preparation and Odor Properties of the Four Stereoisomers of 2-Hexyl-4-acetoxytetrahydrofuran, Flavour and Fragrance Journal, 2014, 29: 249-254.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(13)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Yifeng Dai, Junqiang Shao, Shaoxiang Yang, Baoguo Sun, Yongguo Liu, Ting Ning, and Hongyu Tian*. Enantioselective Syntheses and Sensory Properties of 2</span><span style="font-size: 11pt; font-family: 'MS Mincho';">？</span><span style="font-size: 11pt;" lang="EN-US">Methyltetrahydrofuran-3-thiol Acetates. J. Agric. Food Chem., 2015, 63(2), 464−468.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;mso-char-indent-count:2.0;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt;" lang="EN-US">(14)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt;" lang="EN-US">Shaoxiang Yang, Wei Gong, Baoguo Sun, Yongguo Liu, Hongyu Tian*. Synthesis of a New Odourant, 2-Mercapto-4-heptanol Journal of Chemical Research, 2015, 39(4):184-186.<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">(15)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt; font-family: 宋体;">专利名称：一种</span><span style="font-size: 11pt; font-family: Symbol;" lang="EN-US">a</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">-(2-</span><span style="font-size: 11pt; font-family: 宋体;">甲基</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">-3-</span><span style="font-size: 11pt; font-family: 宋体;">呋喃硫基</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">)</span><span style="font-size: 11pt; font-family: 宋体;">酮类香料化合物的制备方法</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">发明人：田红玉；刘玉平；陈海涛；孙宝国；黄明泉</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">ZL201010123137.8<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利申请日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2010</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">3</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">12</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">授权公告日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2012</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">02</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">01</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利权人：北京工商大学</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">(16)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt; font-family: 宋体;">专利名称：一种</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2-</span><span style="font-size: 11pt; font-family: 宋体;">己基</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">-4-</span><span style="font-size: 11pt; font-family: 宋体;">乙酰氧基四氢呋喃的高产率的制备方法</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">发明人：田红玉；孙宝国；陈海涛；张时彦；张力昂；张迅；张适适；刘永国；黄明泉</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利公布号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">CN102675261A<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利申请日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2012</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">3</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">15</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">ZL201210067613.8<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">授权公告日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2014</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">05</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">07</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利权人：北京工商大学</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;"> </span><span style="font-size: 11pt; font-family: 宋体;">滕州瑞元香料有限公司</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">(17)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt; font-family: 宋体;">专利名称：一种高产率简便的</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2-</span><span style="font-size: 11pt; font-family: 宋体;">己基</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">-4-</span><span style="font-size: 11pt; font-family: 宋体;">乙酰氧基四氢呋喃的制备方法</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">发明人：田红玉；孙宇梅；张时彦；张力昂；张迅；张适适；孙宝国；陈海涛；黄明泉</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利公布号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">CN102675263A<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利申请日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2012</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">5</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">31</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">ZL201210173135.9<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">授权公告日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2014</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">05</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">07</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利权人：北京工商大学</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;"> </span><span style="font-size: 11pt; font-family: 宋体;">滕州瑞元香料有限公司</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">(18)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt; font-family: 宋体;">专利名称：一种简便的</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2-</span><span style="font-size: 11pt; font-family: 宋体;">己基</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">-4-</span><span style="font-size: 11pt; font-family: 宋体;">乙酰氧基四氢呋喃的制备方法</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">发明人：田红玉；孙宝国；陈海涛；张时彦；张力昂；张迅；张适适；刘永国；黄明泉</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利申请号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">201210067609.1<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利申请日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2012</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">3</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">15</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">ZL201210067609.1<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">授权公告日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2014</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">08</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">06</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利权人：北京工商大学</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;"> </span><span style="font-size: 11pt; font-family: 宋体;">滕州瑞元香料有限公司</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">(19)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt; font-family: 宋体;">专利名称：一种光学活性的</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">3-</span><span style="font-size: 11pt; font-family: 宋体;">羟基</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">-2-</span><span style="font-size: 11pt; font-family: 宋体;">辛酮的制备方法</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">发明人：田红玉；孙宇梅；张时彦；张力昂；张迅；张适适；孙宝国；陈海涛；黄明泉</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利公布号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">CN102701931A<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利申请日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2012</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">5</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">31</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">ZL201210173338.8<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利权人：北京工商大学</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;"> </span><span style="font-size: 11pt; font-family: 宋体;">滕州瑞元香料有限公司</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:0cm;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;mso-list:l0 level1 lfo1;
+layout-grid-mode:char;mso-layout-grid-align:none"><!--[if !supportLists]--><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">(20)<span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span><!--[endif]--><span style="font-size: 11pt; font-family: 宋体;">专利名称：一种简便的</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">3-</span><span style="font-size: 11pt; font-family: 宋体;">巯基</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">-1-</span><span style="font-size: 11pt; font-family: 宋体;">庚基乙酸酯的制备方法</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">发明人：田红玉；孙宝国；刘永国；张时彦；张力昂；张迅；张适适；刘玉平；黄明泉；杨绍祥；梁森</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利申请号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">201310279505.1<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利公布号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">CN103304456A<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利申请日：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">2013</span><span style="font-size: 11pt; font-family: 宋体;">年</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">7</span><span style="font-size: 11pt; font-family: 宋体;">月</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">5</span><span style="font-size: 11pt; font-family: 宋体;">日</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利号：</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US">ZL201310279505.1<o:p></o:p></span></p>
+<p class="MsoListParagraph" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:
+7.8pt;margin-left:18.0pt;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;
+mso-para-margin-bottom:.5gd;mso-para-margin-left:18.0pt;text-indent:22.0pt;
+line-height:17.0pt;mso-line-height-rule:exactly;layout-grid-mode:char;
+mso-layout-grid-align:none"><span style="font-size: 11pt; font-family: 宋体;">专利权人：北京工商大学</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;"> </span><span style="font-size: 11pt; font-family: 宋体;">滕州瑞元香料有限公司</span><span style="font-size: 11pt; font-family: 'Times New Roman', serif;" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size: 11pt; font-family: 宋体;">获奖</span></b><b><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left">&nbsp;</p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size: 11pt; font-family: 宋体;">田红玉，刘玉平，孙宝国，张时彦，卫洁，曾程初，张力昂，张迅，张适适，李新，黄明泉，郑福平，刘永国，陈海涛，梁森</span><span style="font-size: 11pt;" lang="EN-US">. </span><span style="font-size: 11pt; font-family: 宋体;">重要食品香料绿色制备技术，</span><span style="font-size: 11pt;" lang="EN-US">2014</span><span style="font-size: 11pt; font-family: 宋体;">年教育部科学技术进步奖二等奖（证书编号</span><span style="font-size: 11pt;" lang="EN-US">2013-277</span><span style="font-size: 11pt; font-family: 宋体;">）。</span><span style="font-size: 11pt;" lang="EN-US"><o:p></o:p></span></p><br>
+							
+              </div>
+			  
+            </div>
+          
+          <!--右边栏目结束 --></td>
+      </tr>
+    </tbody>
+  </table>
+  <!--中间内容结束-->
+  <div class="SpKsdh2">
+  </div>
+</div>
+<div class="SpBottom PublicWidth">
+  
+ <div class="SpBottomLeft" align="center">
+    <ul>
+      <li>版权归 <a href="http://spxy.btbu.edu.cn/" target="_blank">北京工商大学食品学院</a> 所有
+      </li><li>地址：北京市海淀区阜成路33号 电话: 68985456 邮箱：<a href="mailto:spxy@pub.btbu.edu.cn" target="_blank">spxy@pub.btbu.edu.cn</a>
+      </li><li> 
+<!--
+总访问量：<script src="/cms/modules/channelVisitLog.jsp?parentID=3405"></script>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+今日访问量:<script src="/cms/modules/btbutodaychannelVisitLog.jsp?parentID=3405"></script>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+ </li>
+    </ul>
+  </div>  </div>
+
+</body></html>

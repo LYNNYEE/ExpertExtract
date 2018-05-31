@@ -1,0 +1,76 @@
+<html><head>
+<title>中国地质大学(北京)</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body topmargin="0" marginwidth="0" marginheight="0" leftmargin="0" background="images/back.gif">
+<table width="986" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tbody><tr>
+    <td id="top" width="100%">
+    <table width="986" cellspacing="0" cellpadding="0" border="0" align="center">
+	  <tbody>
+	  <tr>
+	    <td width="153" height="153">   
+	      <img alt="" src="images/index21_01.jpg" width="153" height="153"></td>
+	    <td width="165"><img alt="" src="images/index21_02.jpg" width="165" height="153"></td>
+	    <td width="163"><img alt="" src="images/index21_03.jpg" width="163" height="153"></td>
+	    <td width="142"><img alt="" src="images/index21_04.jpg" width="142" height="153"></td>
+	    <td width="187"><img alt="" src="images/index21_05.jpg" width="187" height="153"></td>
+		<td width="176"><img alt="" src="images/index21_06.jpg" width="176" height="153"></td>
+	  </tr>
+	  </tbody>
+	</table>
+	</td>
+  </tr>
+</tbody></table>
+<table width="986" cellspacing="0" cellpadding="0" border="0" bgcolor="#e3e3e3" align="center">
+  <tbody><tr>
+        <td width="986" height="4"><img src="images/topline.jpg" width="986" height="4"></td>
+   </tr>
+</tbody></table>
+
+
+<table width="986" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center">
+   <tbody><tr>
+    <td height="28" align="center">
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+         <tbody><tr>
+              <td height="43">　</td>
+         </tr>
+         <tr>
+              <td height="43">　</td>
+         </tr>
+
+         <tr>
+           <td height="83" align="center"><font size="4" color="red">读数据失败，非法输入错误！</font></td>
+         </tr>
+         <tr>
+              <td height="43" align="center"><img src="images/close.jpg" style="cursor: hand;" onclick="window.close();return false;" width="64" vspace="8" height="21" border="0">&nbsp;</td>
+         </tr>
+         <tr>
+              <td height="43">　</td>
+         </tr>
+       </tbody></table>
+     </td>
+    </tr>
+</tbody></table>
+
+
+<table width="986" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tbody><tr>
+    <td id="bottom" width="100%">
+	  <table width="986" cellspacing="0" cellpadding="0" border="0" bgcolor="#397df7" align="center">
+	  <tbody>
+	  <tr>
+	    <td width="1" height="35" bgcolor="#e3e3e3" background="images/mainbg.jpg" align="center"><img src="images/space.gif" width="1" height="1"></td>
+	    <td class="tdcontent" align="center"><span class="style2"><span class="STYLE3">版权所有©中国地质大学（北京）&nbsp; &nbsp; 校址：北京市海淀区学院路29号&nbsp; 
+	      邮编：100083&nbsp;&nbsp; 京ICP备08011785-2&nbsp;&nbsp;技术支持：信息网络中心&nbsp;</span> &nbsp; </span></td>
+	  </tr>
+	  </tbody>
+	 </table>
+  </td>
+  </tr>
+</tbody></table>
+
+
+</body></html>

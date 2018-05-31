@@ -1,0 +1,130 @@
+设 为 首页    加入收藏 
+135108 | 艺术设计专业 硕士研究生指导 教师 ClickNum : 360 
+姓名 
+name_label 
+性别 
+男 
+民族 
+汉族 
+出生年月 
+timelabel - 1 
+学历 | 学位 
+研究生 | 博士 
+专业 技术 职务 
+副教授 
+行政职务 
+副院长 
+联系电话 
+0 phonelabel 
+移动电话 
+15269111800 
+邮箱 
+maillabel 
+通讯地址  |  邮编 
+place_label 济南市 南辛 庄西路 336 号 place_label 大学美术 学院  |  250022 
+招生方向 ( 领域 ) 
+01 ( 全日制 ) 环境设计 研究 与 实践 , 02 ( 全日制 ) 视觉传达设计 研究 与 实践 , 51 ( 非全日制 ) 环境设计 研究 与 实践 , 52 ( 非全日制 ) 视觉传达设计 研究 与 实践 
+研究 领域 、 学习工作经历 、 学术兼职等 情况 
+一 、 主要 研究 领域 ： 
+艺术 与 设计 史论 、 景观 文化 、 民俗 艺术学 等 
+二 、 工作经历 ： 
+1 、 timelabel —— timelabel 就读 place_label 东南大学 艺术 传播系 设计艺术学 研究生 ， 毕业 后 获文学硕士学位 。 
+2 、 timelabel 春 开始 任教于 place_label 大学美术 学院 ， 担任 学院 环境设计 教研室主任 。 
+3 、 timelabel —— timelabel 就读 place_label 东南大学 艺术学院 艺术学 博士研究生 ， 从事 民俗 艺术学 研究 ， 毕业 后 获文学博士学位 。 
+4 、 timelabel 起 担任 美术学院 学科建设 与 研究生教育 办公室主任 ， 负责 学科建设 和 研究生培养 工作 。 
+5 、 timelabel 起 进入 南京艺术学院 设计 学 博士后科研流动站 ， 从 事博士后研究工作 。 
+6 、 timelabel 组建 place_label 大学 “ 设计 文化 与 创新 研究团队 ”， 为 设计 学 学术带头人 。 
+7 、 timelabel 起 担任 美术 学院副院长 ， 负责 学科科研 与 研究生 方面 的 工作 。 
+三 、 学术兼职 ： 
+1 、 timelabel 起 受聘 为 山东省政府 采购 评审专家 。 
+2 、 timelabel 起 担任 两家 大学学报 的 审稿专家 。 
+3 、 place_label 社会科学 项目评审专家 库 专家 。 
+4 、 山东省美术家协会 美术 理论 委员会 副主任委员 。 
+5 、 全国 艺术学 学会会员 。 
+代表性科研成果 及 奖励 ： 
+（ 包括 项目 、 鉴定 、 论文 、 专著 、 专利 等 ) 
+一 、 主持 或 参与 社科 、 教研 项目 
+1 、 主持国家社科基金 后期 资助项目 “ 中国民俗 系统 造物 ”， timelabel 立项 ， 已 结项 。 
+2 、 参与 国家社科规划办 一般 项目 “ 民俗 艺术学 研究 ”， timelabel 立项 ， 已 结项 。 
+3 、 主持教育部人文社科 青年基金项目 “ 中西 园林 行乐 生活 图像 表现 之 比较 研究 ”， timelabel 立项 ， 已 结项 。 
+4 、 主持 place_label 博士后 科研基金项目 “ 中国传统 造物 批评 文献 的 整理 与 研究 ”， timelabel 立项 ， 在 研 。 
+5 、 主持 place_label 文化厅 艺术科学重点 项目 “ place_label 传统 木版 年画 图像 母题 的 文化 阐释 ”， timelabel 立项 ， 在 研 。 
+6 、 主持 place_label 大学博士 科研基金项目 “ 中国民俗 工艺 文化 的 文本 载 述及 衍化 研究 ”， timelabel 立项 ， 在 研 。 
+7 、 主持 place_label 大学 社科 项目 “ 大学生 环境 美学 修养 与 高校 校园景观 的 建构 的 交互式 研究 ” timelabel 立项 ， 已 结项 。 
+8 、 参与 place_label 社科 规划办项目 “ 江苏 民俗 艺术 应用 场域 研究 ”， timelabel 立项 ， 在 研 。 
+9 、 参与 place_label 社科 规划办项目 “ place_label 城市形象 视觉 识别 的 民族化 、 地域 化 研究 ”， timelabel 立项 ， 已 结项 。 
+10 、 参与 山东省科技厅 软科学 项目 “‘ 新 绘画 思潮 ’ 中 的 place_label 油画家 群体 创作 现状及 投资 格局 研究 ”， timelabel 立项 ， 已 结项 。 
+11 、 参与 山东省科技厅 软科学 项目 “ place_label 背景 故事 题材 动漫 脚本 的 整理 与 重构 ”， timelabel 立项 ， 在 研 。 
+12 、 参与 place_label 大学 社科 项目 “ 泉 文化 下 的 老 place_label 院落 研究 ”， timelabel 立项 ， 已 结项 。 
+二 、 科研 或 创作 获奖 
+1 、 论文 booklabel 获 timelabel place_label 高校 人文 社科 优秀成果奖二等 奖 
+2 、 论文 booklabel 获 第 25 届 name_label 戏剧 奖 论文类 三等奖 
+3 、 论文 booklabel 获 booklabel timelabel 年度 优秀论文三等奖 
+4 、 论文 booklabel timelabel 获 place_label 文联 优秀论文奖 
+5 、 论文 booklabel 获 timelabel place_label 大学 优秀 社科成果二等奖 
+6 、 论文 booklabel 获 timelabel 山东省高校 人文 社科 优秀成果三等奖 
+7 、 论文 booklabel 获 timelabel place_label 大学 优秀社科成果 三等奖 
+8 、 论文 booklabel 获 timelabel place_label 文化厅 文化 艺术科学 优秀成果三等奖 
+三 、 专著 或 教材 
+1 、 专著 booklabel ， 文化艺术出版社 ， 已于 timelabel 出版 。 
+2 、 参与 翻译 booklabel ， 东南大学出版社 ， 已于 timelabel 出版 。 
+3 、 参编 booklabel ， 人民美术出版社 ， 已于 timelabel 出版 。 
+4 、 参著 booklabel ， place_label 出版社 ， 已于 timelabel 出版 
+四 、 代表性论文 
+1 、 booklabel ， booklabel （ CSSCI ）， timelabel 期 。 
+2 、 booklabel ， booklabel （ CSSCI ）， timelabel 期 
+3 、 booklabel ， booklabel （ CSSCI ）， timelabel 期 
+4 、 booklabel booklabel （ CSSCI ） timelabel 期 
+5 、 booklabel ， booklabel （ CSSCI ）, timelabel 期 
+6 、 booklabel ， booklabel （ CSSCI ）, timelabel 期 
+7 、 booklabel ， booklabel ( 中文核心期刊 )， timelabel 期 
+8 、 booklabel ， booklabel ( 中文核心期刊 )， timelabel 期 
+9 、 booklabel ， booklabel （ CSSCI ）， timelabel 期 
+10 、 booklabel ， booklabel ， timelabel 期 
+11 、 booklabel ， booklabel ， timelabel 期 
+12 、 booklabel ， booklabel timelabel 期 
+13 、 booklabel ， booklabel ， timelabel 期 
+14 、 booklabel ， booklabel ， timelabel 期 。 
+15 、 booklabel ， booklabel timelabel 期 。 
+16 、 booklabel 发表 在 booklabel timelabel   期 
+17 、 城市 景观 建构 本土化 转型 的 思索 》， booklabel ， timelabel 期 
+18 、 booklabel ， booklabel ， timelabel 期 
+19 、 booklabel ， booklabel ， timelabel 期 
+20 、 booklabel ， booklabel ， timelabel 期 
+21 、 booklabel ， booklabel ， timelabel 期 
+22 、 booklabel ， booklabel timelabel 期 
+23 、 booklabel ， booklabel timelabel 期 
+24 、 中国传统 园林景观 的 系统 属性 及 景观 文化 的 传播 》， booklabel timelabel 期 
+25 、 booklabel ， 10000 字 ， booklabel 第 ５ 卷 ， 第 ２ 辑 ， 学林 出版社 
+26 、 booklabel ， booklabel ， timelabel 期 
+27 、 booklabel ， booklabel ， timelabel 期 
+28 、 booklabel ， 发表 于 booklabel timelabel 。 
+29 、 booklabel （ 英文 ） 发表 于 第三届 国际 景观 与 都市 园艺 大会 论文集 
+30 、 booklabel ， 第七届 全国 艺术 学年 会 学术 研讨会论文集 。 
+31 、 booklabel ， 第八届 全国 艺术 学年 会 学术 研讨会论文集 。 
+32 、 booklabel ， 第九届 全国 艺术 学年 会 学术 研讨会论文集 。 
+33 、 booklabel ， 第十届 全国 艺术 学年 会 学术 研讨会论文集 。 
+教学 及 研究生培养 情况 
+承担 两个 层次 的 教学任务 ： 
+一 、 本科 设计 学 专业 理论 与 实践教学 。 任职 以来 主要 从事 世界 现代 设计史 、 place_label 艺术设计 史 、 设计 概论 、 环境 心理学 、 人体 工程学 、 place_label 美术史 、 place_label 美术史 等 理论课 教学 ； 还 曾经 从事 景观 艺术设计 、 效果图 绘制 、 园林景观规划 与 设计 等 方面 的 课程 。 
+二 、 目前 指导研究生 4 名 ： 艺术 市场 管理 2 名 ； 环境设计 研究 与 实践 2 名 。 承担 艺术史 专题 、 民俗 艺术学 、 艺术批评 学 、 中外 设计 史论 等 方面 的 课程 。 
+三 、 教学 间隙 对 考研 学生 进行 辅导 ， 学生 先后 考取 东南大学 、 苏州大学 、 中国人民大学 、 景德镇陶瓷学院 、 湖南 工业大学 、 place_label 工业大学 等 高校 的 相关 专业 。 
+备注 
+设 为 首页  |  加入收藏  |  联系 我们  |  友情链接             place_label 大学研究生 处  ·  place_label 大学 研究生招生信息 网 版权所有 
+首页 
+工作动态 
+工作进展     工作 计划 
+博士招生 
+简章 目录     报名 考试     复试 录取 
+硕士招生 
+简章 目录     报名 考试     复试 录取 
+推免 工作 
+推荐 工作     接收 工作 
+非全日制 
+在职 攻读     同等学力 
+招生 目录 
+硕士招生专业 目录     博士招生专业 目录 
+导师信息 
+硕士生导师    博士生导师 
+资料中心 
+常用下载     在职 招生     相关 文件 

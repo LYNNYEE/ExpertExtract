@@ -1,0 +1,6 @@
+name_label 
+name_label ， 男 ， 北京工业大学 应用 数理学院教授 、 博士生导师 。 本科毕业 于 中国 科学技术 大学数学系 ， 硕士毕业 于 中国科学院数学 研究所 ， 博士毕业 于 美国纽约大学 库朗 数学 科学 研究所 。 timelabel 年 至 timelabel 在 美国 麻州 州立大学 从事 博士后 教学 和 研究工作 。 timelabel 起 任职 于 美国 加州 州立大学 长滩 分校 。 2012 年入选北京市 第八 批 “ name_label ” 工程 （ 全职 类 ）， timelabel 加入 北京工业大学 。  主要 从事 应用 数学 及 相关 交叉学科 的 研究工作 ( 涉及 偏微分方程 ， 数值 分析 ， 概率 及 随机 过程 ， 编码 及 信息论 等 研究方向 )。 主要 研究成果发表 在 booklabel ， booklabel ， booklabel ， booklabel ， booklabel 等学术期刊 。  联系方式 ： 电话 :（ 010 ） 67392584 .  E - mail :  maillabel . 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

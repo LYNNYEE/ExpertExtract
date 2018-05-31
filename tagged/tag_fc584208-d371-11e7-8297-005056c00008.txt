@@ -1,0 +1,40 @@
+name_label 
+一 、 基本情况 
+name_label ， 女 ， 教授 ， 博士生导师 。 timelabel 北京大学 place_label 博士研究生毕业 ， 获理学博士学位 。 博士学位论文 获得 北京大学 优秀博士学位论文 三等奖 。 timelabel 至今 在 北京工业大学 应用 数理 学院 从 事教学科研工作 。 timelabel 至 timelabel ， 美国明尼苏达大学 培训 与 交流 。 主要研究方向 是 常微分方程 与 动力系统 、 正规 形 理论 及其 应用 。 主要 研究 结果 发表 在 J .  Math .  Anal .  Appl ,、 C .  R .  Acad .  Sci .  Paris ,   Ser . I  ,、 BULLETIN   DES   SCIENCES   MATH É MATIQUES 、 Dyn amical   Systems 、 International   Journal   of   bifur cation s   and   chaos 等刊物上 。 
+二 、 研究方向 
+常微分方程 与 动力系统 ， 正规 形 理论 及其 应用 
+三 、 主要科研项目 
+在 研 主持国家 自然科学基金面上项目 1 项 
+在 研 参加国家 自然科学基金面上项目 1 项 
+主持 完成 国家自然科学基金青年 项目 1 项 
+主持 完成 北京市自然科学基金面上 项目 1 项 
+主持 完成 北京市教育委员会科技 计划面上项目 1 项 
+四 、 代表性论文 
+1 .  Guo ,  Lin gling ;  Ren ,  Zhihua   Polyno mial   normal   forms   for   some   germs   of   non strongly   1 - re son ant   diffeomorp his ms .  Internat .  J .  Bifur .  Chaos   Appl .  Sci .  Engrg .  25  ( timelabel ),  no .  13 ,  1550174 ,  8   pp . 
+2 .  Ren ,  Zhihua ;  Xia ,  Li ;  Yan g ,  Jiazhong   On   classifi cation   of   the   Po inc ar é  type   maps   on   R 
+3 
+.  Bull .  Sci .  Math .  139  ( timelabel ),  no .  5 ,  582 – 598 . 
+3 .  Ren ,  Zhihua ;  Yan ,  Shu o ;  Yan g ,  Jiazhong   Finite   deter min acy   and   polyno mial   normal   forms   for   diffeomorp his ms   near   a   strongly   1 - re son ant   fix ed   point .  J .  Math .  Anal .  Appl .  413  ( timelabel ),  no .  1 ,  476 – 481 . 
+4 .  Ren ,  Zhihua ;  Peng ,  Zhaoxia   Smooth   moduli - free   normal   forms   of   hyperbolic   germs   of   diffeomorp his ms .  Dyn .  Syst .  28  ( timelabel ),  no .  2 ,  251 – 262 . 
+5 .  Ren ,  Zhihua ;  Yan g ,  Jiazhong ;  Yu ,  Fuwang   On   con jugating   equi val ence   of   0 - re son ant   diffeomorp his ms   on   R 
+3 
+.  Internat .  J .  Bifur .  Chaos   Appl .  Sci .  Engrg .  23  ( timelabel ),  no .  6 ,  1350100 ,  6   pp . 
+6 .  Ren ,  Zhihua ;  Peng ,  Zhaoxia   On   smooth   con jugacy   of   hyperbolic   diffeomorp his m   germs .  Bull .  Sci .  Math .  137  ( timelabel ),  no .  5 ,  584 – 588 . 
+7 .  Ren ,  Zhihua   Smooth   classifi cation   and   linearization   of   hyperbolic   vector   fields   on   R   3 .  Ann .  Diff erential   E qua tions   25  ( timelabel ),  no .  3 ,  343 – 347 . 
+8 .  Li ,  Chengzhi ;  Ren ,  Zhihua ;  Yan g ,  Jiazhong   Moduli - free   normal   forms   and   linearization   of   vector   fields .  Internat .  J .  Bifur .  Chaos   Appl .  Sci .  Engrg .  16  ( timelabel ),  no .  12 ,  3759 – 3764 . 
+9 .  Ren ,  Zhi   Hua   Smooth   linearizability   of   some   hyperbolic   vector   fields . ( Chinese )  Bei jin g   Daxue   Xuebao   Ziran   Kexue   Ban   40  ( timelabel ),  no .  1 ,  1 – 4 . 
+10 .  Ren ,  Zhihua ;  Yan g ,  Jiazhong   On   C 
+1 
+classifi cation s   of   hyperbolic   vector   fields .  J .  Math .  Anal .  Appl .  284  ( timelabel ),  no .  1 ,  118 – 126 . 
+11 .  Ren ,  Zhihua ;  Yan g ,  Jiazhong   On   the   C 
+1 
+normal   forms   of   hyperbolic   vector   fields .  C .  R .  Math .  Acad .  Sci .  Paris   336  ( timelabel ),  no .  9 ,  709 – 712 . 
+五 、 联系方式 
+地址 ： place_label place_label place_label 100 号北京工业大学 应用 数理 学院 
+邮编 ： 100124 
+电话 ： phonelabel - 208 
+E - mail :  maillabel 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

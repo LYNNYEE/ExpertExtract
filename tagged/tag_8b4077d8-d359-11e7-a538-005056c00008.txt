@@ -1,0 +1,51 @@
+教师个人信息 
+姓名 
+name_label 
+性别 
+女 
+职务 
+物 联网 技术 中心主任 
+学术兼职 
+计算机 学院学术委员会 成员 ， 国际 学院学术委员会 成员 
+老师类型 
+博导 
+所属中心 
+物 联网 技术 中心 
+职称 
+教授 
+承担课程 
+物 联网 技术   物联网综合实践 通信原理     现代交换原理 
+研究方向 
+物联网系统 ， 感知 数据分析 与 处理 
+个人介绍 
+毕业 于 北京邮电大学计算机 科学 与 技术 学院 计算机 应用 专业 ， 获工学博士学位 。 现为 计算机学院教授 ， 博士生导师 。 长期 从事 计算机 应用 和 网络 领域 的 科研 和 教学工作 。 主讲研究生课程 “ 物 联网 技术 ”、 本科生课程 “ 物联网综合实践 ”、“ 通信原理 ”、“ 交换 原理 ”， 指导研究生 多名 。 timelabel - timelabel 到 美国 德州 大学阿灵顿分校 做访问学者 ， timelabel - timelabel 到 芬兰 赫尔辛基 理工大学 做 访问教授 。 
+目前 主要 从 事物联网 、 区块链 、 大 数据分析 与 挖掘 方面 的 研究工作 。 作为 负责人 和 主研人 完成 20 多 项国家自然科学基金 、 973 项目 、 863 项目 、 重大 专项 和 部委级 研究项目 ， 近年来 在 无线传感器网络 和物 联网 关键技术 方面 做出 一系列 创新 的 研究成果 ， 在 IEEE   Transactions   on   Mobile   Computing ， IEEE   Transactions   on   Computers ， IEEE   Transactions   On   Parallel   Distributed   System ， IEEE   Network 等 国内外 期刊 和 学术会议上已 发表论文近 百篇 ， SCI 、 EI 收录 50 余篇 ， 文章 他 引 百余次 。 申请 相关 专利多项 。 
+承担课题 
+在 研课题 ： 
+timelabel - timelabel :  国家 自然科学基金面上项目 “ 物 联网 实时 信息 搜索 与 服务 技术 的 研究 ” 
+timelabel - timelabel :  国家 自然科学基金面上项目 “ 数据 供应链 模型 及 关键技术 研究 ” 
+timelabel - timelabel :  国家 自然科学基金重点项目 “ 物 联网 绿色 节能理论 与 关键技术 ” 
+timelabel - timelabel :  国家 自然科学基金面上项目 “ 物 联网 服务 资源管理 与 调度 技术 的 研究 ” 
+以及 企事业 合作项目 
+获奖 和 成果 
+CCF 优秀 博士论文奖 ， 
+教育部新世纪优秀 人才 
+发表论文 
+代表性论文 ： 
+1 .  Peng   Li ,  Hong   Luo *,  Tin - Yu   Wu ,  Mohammad   S .  Obaidat . “ QoS   Prediction   Method   for   Data   Supply   Chain   based   on   Con text ”,  IEEE   ICC   timelabel ,  pp . 649 - 655 . 
+2 .  Peng   Li ,  Hong   Luo *,  Yan   Sun ,  Xin - Ming   Li , “ Similarity   search   algorithm   over   data   supply   chain   based   on   key   points ”,  BigCom   timelabel ,  Jul .  timelabel ,  best   paper   run ning   up   award 
+3 .  Hua ibo   Sun ,  Hong   Luo *,  Tin - Yu   Wu ,  Mohammad   S .  Obaidat . '' A   PSNR - Con trollable   Data   Hiding   Algorithm   Based   on   LSBs   Sub stitution '',  IEEE   Globecom   timelabel ,  Dec .  timelabel ,  San   Diego ,  USA . 
+4 .  Hong   Luo ,  Jialong   Mi ,  Yan   Sun , “ Fastest   Path   in   Time   Var yin g   Wireless   Sensor   Networks ”,  Journal   of   Internet   Technology ,  Vol . 15 ,  No . 2 ,  March   timelabel ,  pp . 185 - 196 
+5 .  Yan   Sun ,  Hong   Luo *,  and   S .  K .  Das , “ A   Trust - based   Framework   for   Fault - tolerant   Data   Aggregation   in   Wireless   Multimedia   Sensor   Networks ”,  IEEE   Transactions   on   Dep end able   and   S ecu re   Computing , Vol .  9 ,  No .  6 ,  pp .  785 - 797 ,  Nov - Dec   timelabel 
+6 .  Hong   LUO ,  H uix iang   TAO ,  Hua dong   Ma ,  Sajal   K .  DAS , “ Data   Fusion   with   Desired   Reliability   in   Wireless   Sensor   Networks ”,  IEEE   Transactions   on   Parallel   and   Distributed   Systems ,  Apr . timelabel 
+7 .  Hong   LUO ,  Yonghe   LIU ,  Sajal   K .  DAS , “ Distributed   Algorithm   for   Enroute   Aggregation   De cis ion   in   Wireless   Sensor   Networks ”,  IEEE   Transactions   on   Mobile   Computing ,  Vol . 8   No . 1   Jan . timelabel 
+8 .  Hong   LUO ,  Yonghe   LIU ,  Sajal   K .  DAS , “ Routing   Correlated   Data   with   Fusion   Cost   in   Wireless   Sensor   Networks ”,  IEEE   Transactions   on   Mobile   Computing ,  Vol . 5   No . 11   Nov . timelabel ,  p : 1620 - 1631 
+9 .  Hong   LUO ,  Jun   LUO ,  Yonghe   LIU ,  Sajal   K .  DAS , “ Adaptive   Data   Fusion   for   Energy   Efficient   Routing   in   Wireless   Sensor   Networks ”,  IEEE   Transactions   on   Computers ,  Vol . 55   No . 10   Oct . timelabel , 
+10 .  Hong   LUO ,  Yonghe   LIU ,  Sajal   K .  DAS ， “ Routing   Correlated   Data   in   Wireless   Sensor   Networks :  A   Survey ”， IEEE   NETWORK   Magazine ,  21 ( 6 ),  Nov / Dec   timelabel ,  p :  40 - 47 
+联系电话 
+phonelabel 
+工作地点 
+北邮 教 3 楼 902 室 
+email 
+maillabel 
+备注 

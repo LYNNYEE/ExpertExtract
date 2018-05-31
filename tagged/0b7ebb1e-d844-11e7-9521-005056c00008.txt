@@ -1,0 +1,278 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="研究生,招生信息,招生">
+<meta name="description" content="研究生"> 
+<title>济南大学研究生招生信息网-研究生,招生信息,招生</title>
+<link href="/2016/guanlihoutai/Public/web/css/mulu.css" rel="stylesheet" type="text/css">
+<style>
+td{ text-align:left;}
+.tdxian{line-height:30px; padding-left:5px; vertical-align:middle;background-color:#F7FBFF;}
+.tdxian2{line-height:30px;vertical-align:middle;background-color:#F7FBFF;}
+.tdxian a{line-height:30px; padding-left:5px; vertical-align:middle;background-color:#F7FBFF; color:#FF0000;}
+.STYLE1 {font-size: 18px}
+.tt1{ background-color:#E4EDFE; padding-left:10px; line-height:30px; width:150px;}
+.tt2{ background-color:#F1F7FC; padding-left:10px;word-break: break-all;}
+.tt3{ background-color:#F1F7FC; padding-left:3px; height:30px;}
+.tt4{ background-color:#F1F7FC;}
+.tt5{ background-color:#F1F7FC; text-align:center; height:40px; font-size:16px; font-weight:bold;}
+.zz{ padding-left:3px; height:30px;}
+
+</style>
+</head>
+<body class="mainbody">
+<table style="margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody><tr>
+      <td style="background-repeat:no-repeat;" valign="top" height="120" background="/2016/guanlihoutai/Public/web/images/title.jpg"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr>
+          <td>&nbsp;</td>
+          <td style="padding-top:10px;" width="150"><a href="#">设为首页</a>&nbsp;&nbsp;<a href="#">加入收藏</a></td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+  </tbody></table>
+   
+  
+  <table style="margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tbody><tr>
+          <td width="214" height="31" background="/2016/guanlihoutai/Public/web/images/bg2.jpg">&nbsp;</td>
+          <td style="background-repeat:repeat-x; padding-top:3px;" background="/2016/guanlihoutai/Public/web/images/bg1.jpg">
+		  
+		  
+		  
+<link rel="stylesheet" type="text/css" href="/2016/guanlihoutai/Public/web/css/lrtk.css">
+<!-- dd menu -->
+<script type="text/javascript">
+<!--
+var timeout         = 100;
+var closetimer		= 0;
+var ddmenuitem      = 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+// -->
+</script>
+			
+
+
+<div style="clear:both"></div>
+		  
+		  
+		  </td>
+        </tr>
+</tbody></table>
+  <div id="container" style="height:10px;"></div>
+          
+<div id="container" style="background-image:url(/2016/guanlihoutai/Public/web/images/bgg2.jpg); background-repeat:repeat-x;" align="center">
+<table width="800" cellspacing="1" cellpadding="0" border="0" bgcolor="#CCCCCC" align="center">
+		<tbody><tr>
+		<td colspan="5" class="tt5">135108|艺术设计专业硕士研究生指导教师<span style="font-size:12px; font-weight:normal; padding-left:20px;">ClickNum:360</span></td>
+		</tr>
+		<tr>
+		<td class="tt1" width="220">姓名</td>
+		<td class="tt2" width="160">韩波</td>
+		<td class="tt1">性别</td>
+		<td class="tt2" width="160">男</td>
+		<td rowspan="6" class="tt4" style="text-align:center" valign="middle" align="center"><img src="/2016/guanlihoutai/Public/Uploads/11_20131210104559387593[1]_20140102151733550533.jpg" width="120" height="165" border="0"></td>
+		</tr>
+		<tr>
+		<td class="tt1">民族</td><td class="tt2">汉族</td><td class="tt1">出生年月</td><td class="tt2">1971-1</td>
+		</tr>
+		<tr>
+		<td class="tt1">学历|学位</td><td class="tt2">研究生|博士</td><td class="tt1">专业技术职务</td>
+		<td class="tt2">副教授</td>
+		</tr>
+		<tr>
+		<td class="tt1">行政职务</td><td class="tt2" colspan="3">副院长</td>
+		</tr>
+		<tr>
+		<td class="tt1">联系电话</td><td class="tt2">0531-89736915</td><td class="tt1">移动电话</td><td class="tt2">15269111800</td>
+		</tr>
+		<tr>
+		<td class="tt1">邮箱</td><td class="tt2" colspan="3">sa_hanb@ujn.edu.cn</td>
+		</tr>
+		<tr>
+		<td class="tt1">通讯地址&nbsp;|&nbsp;邮编</td><td class="tt2" colspan="4">山东省济南市南辛庄西路336号济南大学美术学院&nbsp;|&nbsp;250022</td>
+		</tr>
+		<tr>
+		<td class="tt1">招生方向(领域)</td>
+		<td class="tt2" colspan="4">01(全日制)环境设计研究与实践,02(全日制)视觉传达设计研究与实践,51(非全日制)环境设计研究与实践,52(非全日制)视觉传达设计研究与实践</td>
+		</tr>
+		<tr>
+		<td class="tt1">研究领域、学习工作经历、学术兼职等情况</td><td colspan="5" class="tt2" style="padding:6px;">
+		<p><strong><span style="font-family:宋体;">一、</span><span style="font-family:宋体;">主要研究领域：</span></strong></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family:宋体;">艺术与设计</span><span style="font-family:宋体;">史论、</span><span style="font-family:宋体;">景观文化、</span><span style="font-family:宋体;">民俗艺术学等</span></p><p><strong><span style="font-family:宋体;">二、工作经历：</span></strong></p><p>1、2002——2005年就读南京东南大学艺术传播系设计艺术学研究生，毕业后获文学硕士学位。</p><p>2、2005年春开始任教于济南大学美术学院，担任学院环境设计教研室主任。</p><p>3<span style="font-family:宋体;">、</span>2009——2011年就读南京东南大学艺术学院艺术学博士研究生，从事民俗艺术学研究，毕业后获文学博士学位。</p><p>4<span style="font-family:宋体;">、</span>2009年起担任美术学院学科建设与研究生教育办公室主任，负责学科建设和研究生培养工作。</p><p>5<span style="font-family:宋体;">、</span>2012年11月起进入南京艺术学院设计学博士后科研流动站，从事博士后研究工作。</p><p>6<span style="font-family:宋体;">、</span>2014年组建济南大学“设计文化与创新研究团队”，为设计学学术带头人。</p><p>7<span style="font-family:宋体;">、</span>2016年起担任美术学院副院长，负责学科科研与研究生方面的工作。</p><p><strong><span style="font-family:宋体;">三、学术兼职：</span></strong></p><p>1、2009年起受聘为山东省政府采购评审专家。</p><p>2、2010年起担任两家大学学报的审稿专家。</p><p>3、山东省社会科学项目评审专家库专家<span style="font-family:宋体;">。</span></p><p>4、山东省美术家协会美术理论委员会副主任委员<span style="font-family:宋体;">。</span></p><p>5、全国艺术学学会会员<span style="font-family:宋体;">。</span></p><p>&nbsp;</p>&nbsp;
+		</td>
+		</tr>
+		<tr>
+		<td class="tt1">代表性科研成果及奖励：<br>（包括项目、鉴定、论文、专著、专利等)</td>
+		<td colspan="4" class="tt2" style="padding:6px;"><p></p><p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; WORD-BREAK: break-all" align="left"></p><p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt"><span style="font-family:宋体;FONT-SIZE: 9pt"></span></p><p><strong><span style="font-family:宋体;">一、主持或参与社科、教研项目</span> </strong></p><p>1、主持国家社科基金后期资助项目“中国民俗系统造物”，2013/11立项，<span style="font-family:宋体;">已结项</span><span style="font-family:宋体;">。</span></p><p>2、参与国家社科规划办一般项目“民俗艺术学研究”，2009/06立项，已结项。</p><p>3、主持教育部人文社科青年基金项目“中西园林行乐生活图像表现之比较研究”，2010/12立项，已结项。</p><p>4、主持江苏省博士后科研基金项目“中国传统造物批评文献的整理与研究”，2014/7立项，在研。</p><p>5、主持山东省文化厅艺术科学重点项目“山东传统木版年画图像母题的文化阐释”，2010/6立项，在研。</p><p>6、主持济南大学博士科研基金项目“中国民俗工艺文化的文本载述及衍化研究”，2013/11立项，在研。</p><p>7、主持济南大学社科项目“大学生环境美学修养与高校校园景观的建构的交互式研究”2009/11立项，已结项。</p><p>8、参与江苏省社科规划办项目“江苏民俗艺术应用场域研究”，2011/10立项，在研。</p><p>9、参与山东省社科规划办项目“山东省城市形象视觉识别的民族化、地域化研究”，2009/09立项，已结项。</p><p>10、参与山东省科技厅软科学项目“‘新绘画思潮’中的山东油画家群体创作现状及投资格局研究”，2013/06立项，<span style="font-family:宋体;">已结项</span><span style="font-family:宋体;">。</span></p><p>11、参与山东省科技厅软科学项目“齐鲁背景故事题材动漫脚本的整理与重构”，2013/06立项，在研。</p><p>12、参与济南大学社科项目“泉文化下的老济南院落研究”，2011/09立项，已结项。</p><p><strong><span style="font-family:宋体;">二、科研或创作获奖</span> </strong></p><p>1、论文《西方园林游宴生活图像表现例析》获2014年山东高校人文社科优秀成果奖二等奖</p><p>2、论文《民俗戏曲作品的种类、形式语言及其母题意义分析》获第25届田汉戏剧奖论文类三等奖</p><p>3、论文《汉代宫廷香薰活动及香薰器具的艺术成就》获《艺术百家》2010年度优秀论文三等奖</p><p>4、论文《汉代宫廷香薰活动及香薰器具的艺术成就》2010获江苏省文联优秀论文奖</p><p>5、论文《论民俗艺术作品的共性和风格差异》获2012济南大学优秀社科成果二等奖</p><p>6、论文《论民俗艺术作品的共性和风格差异》获2012年山东省高校人文社科优秀成果三等奖</p><p>7、论文《中国汉代宫苑园林游乐生活中的女性及其艺术形象》获2013年济南大学优秀社科成果三等奖</p><p>8、论文《鲁锦产品的开发与手工技艺生产性保护》获2013年山东省文化厅文化艺术科学优秀成果三等奖</p><p><strong><span style="font-family:宋体;">三、专著或教材</span> </strong></p><p>1、专著《中国民俗造物研究》，文化艺术出版社，已于2016年6月出版。</p><p>2<span style="font-family:宋体;">、参与翻译《花境设计师》，东南大学出版社，已于</span>2003年6月出版。</p><p>3<span style="font-family:宋体;">、参编《素描》，人民美术出版社，已于</span>2011年8出版。</p><p>4<span style="font-family:宋体;">、参著《民俗艺术学》，南京出版社，已于</span>2013年8月出版</p><p><strong><span style="font-family:宋体;">四、代表性论文</span> </strong></p><p>1、《文献视域中的中国古代“行乐”观念及园林行乐生活》，<span style="font-family:宋体;">《艺术百家》（</span>CSSCI），2016<span style="font-family:宋体;">年第</span>2<span style="font-family:宋体;">期</span><span style="font-family:宋体;">。</span></p><p>2<span style="font-family:宋体;">、《中国民俗造物的艺术本体价值诸向度》，《艺术百家》（</span>CSSCI），2014年第4期</p><p>3<span style="font-family:宋体;">、《西方园林游宴生活图像表现例析》，《艺术百家》（</span>CSSCI），2013年第4期</p><p>4<span style="font-family:宋体;">、《鲁锦产品的开发与手工技艺生产性保护》《山东社会科学》（</span>CSSCI）2012年第5期</p><p>5<span style="font-family:宋体;">、《中国汉代宫苑园林游乐生活中的女性及其艺术形象》，《艺术百家》（</span>CSSCI）,2012年第2期</p><p>6<span style="font-family:宋体;">、《民俗艺术作品的形式语言及艺术意义的分析》，《东南大学学报》（</span>CSSCI）,2011年第4期</p><p>7<span style="font-family:宋体;">、《关于民俗艺术作品的界定及影响作品生成的主要思维》，《艺术百家》</span>(中文核心期刊)，2011年第3期</p><p>8<span style="font-family:宋体;">、《汉代宫廷香薰活动及香薰器具的艺术成就》，《艺术百家》</span>(中文核心期刊)，2010年第5期</p><p>9<span style="font-family:宋体;">、《论民俗艺术作品的共性和风格差异》，《民族艺术》（</span>CSSCI），2010年第1期</p><p>10<span style="font-family:宋体;">、《中国雅聚文化现象及其绘画图像表现评析》，《美与时代》，</span>2014年第3期</p><p>11<span style="font-family:宋体;">、《中国传统园林景观的思想内核和综合建构》，《哈尔滨工业大学学报》，</span>2011年第1期</p><p>12<span style="font-family:宋体;">、《论中国城市景观设计对古典造园文化的借鉴和变通》，《济南大学学报》</span>2011年第2期</p><p>13<span style="font-family:宋体;">、《</span>&lt;简森美术史&gt;的修订对中国美术史重构的启示》，《艺术学界》，2010年第4期</p><p>14<span style="font-family:宋体;">、《论魏晋</span>“隐逸”风尚对士人造园活动的促动》，《无锡商职业学院学报》，2008年第3期。</p><p>15<span style="font-family:宋体;">、《明式圈椅的</span>“现代性”—从汉斯·瓦格纳设计作品谈起》，《美与时代》2008年第7期。</p><p>16<span style="font-family:宋体;">、《中国古代花鸟画创作中的写生传统》发表在《美与时代》</span>2009年第5 期</p><p>17<span style="font-family:宋体;">、城市景观建构本土化转型的思索》，《建筑与文化》，</span>2010年第10期</p><p>18<span style="font-family:宋体;">、《艺术学生的专业认知及艺术价值观的形成》，《美与时代》，</span>2010年第11期</p><p>19<span style="font-family:宋体;">、《民俗戏曲作品的种类、形式语言及其母题意义分析》，《剧影月报》，</span>2010年第6期</p><p>20<span style="font-family:宋体;">、《包豪斯对马谢</span>·布鲁尔设计思想的孕育》，《中国体卫艺教育》，2011年第2期</p><p>21<span style="font-family:宋体;">、《大学生环境美学修养与高校校园景观的建构》，《美与时代》，</span>2012年第10期</p><p>22<span style="font-family:宋体;">、《略论日本城市景观转型和北欧景观设计思想》，《吉林建筑工程学院学报》</span>2011年第3期</p><p>23<span style="font-family:宋体;">、《当代中国城市公共空间建设的反思》，《长春工程学院学报》</span>2011年第1期</p><p>24<span style="font-family:宋体;">、中国传统园林景观的系统属性及景观文化的传播》，《北京城市学院学报》</span>2011年第1期</p><p>25<span style="font-family:宋体;">、《城市化衍生的负面效应及公共空间的景观建构思路》，</span>10000字，《艺术学》第５卷，第２辑，学林出版社</p><p>26<span style="font-family:宋体;">、《论中国古典园林设计中的曲线意识及其形成》，《金陵科技学院学报》，</span>2004年第2期</p><p>27<span style="font-family:宋体;">、《由技术进步看戏剧艺术在图像时代的迷失》，《美与时代》，</span>2003年第7期</p><p>28<span style="font-family:宋体;">、《城市化衍生的负面效应及公共空间的景观建构思路》，发表于《第六届全国艺术学学术研讨会论文集》</span>2010、9。</p><p>29<span style="font-family:宋体;">、《汉唐宫苑女性的园林生活》（英文）发表于第三届国际景观与都市园艺大会论文集</span></p><p>30<span style="font-family:宋体;">、《略论民俗造物的通神致灵和心理救赎功能》，第七届全国艺术学年会学术研讨会论文集。</span></p><p>31、<span style="font-family:宋体;">《民俗造物艺术发展的内在逻辑刍议》，第八届全国艺术学年会学术研讨会论文集。</span></p><p>32<span style="font-family:宋体;">、《西方园林游宴生活图像表现例析》，第九届全国艺术学年会学术研讨会论文集。</span></p><p>33<span style="font-family:宋体;">、《略论中国古代</span>“行乐观念”及园林行乐生活》，第十届全国艺术学年会学术研讨会论文集。</p><p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt; WORD-BREAK: break-all" align="left">&nbsp;</p><p></p></td>
+		</tr>
+		
+		<tr>
+		<td class="tt1">教学及研究生培养情况</td><td colspan="4" class="tt2" style="padding:6px;"><p><strong><span style="font-family:宋体;">承担两个层次的教学任务：</span></strong></p><p><span style="font-family:宋体;">一、本科设计学专业理论与实践教学。任职以来主要从事世界现代设计史、中国艺术设计史、设计概论、环境心理学、人体工程学、中国美术史、西方美术史等理论课教学；还曾经从事景观艺术设计、效果图绘制、园林景观规划与设计等方面的课程。</span></p><p><span style="font-family:宋体;">二、</span><span style="font-family:宋体;">目前指导研究生</span>4名：艺术市场管理2名；环境设计研究与实践2名。<span style="font-family:宋体;">承担艺术史专题、民俗艺术学、艺术批评学、</span><span style="font-family:宋体;">中外设计史论等方面的课程。</span></p><p><span style="font-family:宋体;">三、教学间隙对考研学生进行辅导，学生先后考取东南大学、苏州大学、中国人民大学、景德镇陶瓷学院、湖南工业大学、齐鲁工业大学等高校的相关专业。</span></p><p>&nbsp;</p>&nbsp;</td>
+		</tr>
+		<tr>
+		<td class="tt1">备注</td><td colspan="4" class="tt2" style="padding:6px; font-size:12px;">&nbsp;</td>
+		</tr>
+</tbody></table>
+</div>
+
+<link href="/2016/guanlihoutai/Public/web/css/main.css" rel="stylesheet" type="text/css">
+
+
+  <table style="border:1px solid #BFC2C9; margin-top:10px; margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+    <tbody><tr>
+      
+      <td style="line-height:25px; " height="60"><p align="center"><a href="#" class="link_bai12" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://yjs.ujn.edu.cn/zhaosheng/');">设为首页</a>&nbsp;|&nbsp;<a href="javascript:window.external.addFavorite('http://yjs.ujn.edu.cn/zhaosheng/','济南大学研究生招生信息网')" class="link_bai12">加入收藏</a>&nbsp;|&nbsp;<a href="http://yz.ujn.edu.cn/2016/common_page.php?zgy_common_page=contactus" target="_blank" class="link_bai12">联系我们</a>&nbsp;|&nbsp;<a href="http://yz.ujn.edu.cn/2016/common_page.php?zgy_common_page=friendlinks" target="_blank" class="link_bai12">友情链接</a> &nbsp;&nbsp;&nbsp;
+      济南大学研究生处&nbsp;·&nbsp;济南大学研究生招生信息网版权所有 </p></td>
+    </tr>
+  </tbody></table>
+  
+
+<div>
+	<li><a href="http://yz.ujn.edu.cn/2016/index.php" style="  width:35px;" target="_blank">首页</a></li>
+ 
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=14" target="_blank" onmouseover="mopen('m14')" onmouseout="mclosetime()">工作动态</a>
+	
+		<div id="m14" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=39" target="_blank">工作进展</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=38" target="_blank">工作计划</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=26" target="_blank" onmouseover="mopen('m26')" onmouseout="mclosetime()">博士招生</a>
+	
+		<div id="m26" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=49" target="_blank">简章目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=51" target="_blank">报名考试</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=50" target="_blank">复试录取</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=8" target="_blank" onmouseover="mopen('m8')" onmouseout="mclosetime()">硕士招生</a>
+	
+		<div id="m8" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=18" target="_blank">简章目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=21" target="_blank">报名考试</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=22" target="_blank">复试录取</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=13" target="_blank" onmouseover="mopen('m13')" onmouseout="mclosetime()">推免工作</a>
+	
+		<div id="m13" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=25" target="_blank">推荐工作</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=24" target="_blank">接收工作</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=27" target="_blank" onmouseover="mopen('m27')" onmouseout="mclosetime()">非全日制</a>
+	
+		<div id="m27" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=30" target="_blank">在职攻读</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=31" target="_blank">同等学力</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="javascript:void(0)" target="_self" onmouseover="mopen('m17')" onmouseout="mclosetime()">招生目录</a>
+	
+		<div id="m17" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="/2016/guanlihoutai/index.php/home/Index/sszszyml" target="_blank">硕士招生专业目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Index/bszszyml" target="_blank">博士招生专业目录</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="javascript:void(0)" target="_self" onmouseover="mopen('m6')" onmouseout="mclosetime()">导师信息</a>
+	
+		<div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Tutor/shuodao" target="_blank">硕士生导师</a>
+	 <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Tutor/bodao" target="_blank">博士生导师</a>
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=5" target="_blank" onmouseover="mopen('m5')" onmouseout="mclosetime()">资料中心</a>
+	
+		<div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=36" target="_blank">常用下载</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=35" target="_blank">在职招生</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=37" target="_blank">相关文件</a>
+	
+		</div>
+		
+	</li>
+	
+	
+	
+</div></body></html>

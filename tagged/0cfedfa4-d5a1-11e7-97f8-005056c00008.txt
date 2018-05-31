@@ -1,0 +1,535 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>卢熹 副教授</title>
+<meta name="description" content="职称副教授办公室机械楼433联系电话025-52090501-8429E-mailseu_luxi@163.com卢熹博士副教授硕士生导师。哈尔滨工程大学，内燃机专业，学士上海交通大学，振动冲击噪声专业，硕士东南大学，机械制造及其自动化专业，博士主要研究领域：结构动态设计与优化、生物力学及医用器具、绿色设计与再制造、机械产品快速设计开发平台。教授课程模态理论及应用机械制图研究方向1.机械动力学2.口腔生物力学3.振动与噪声控制4.机床设计与再制造5.产品快速开发系统主要科研项目项目名称项目类别工作类别项目金额主持1大型五轴高速精密龙门加工中心绿色设计技术与应用研究江苏省科技支撑项目重点项目负责人150万2XH6650高速卧式加工中心研发与产业化江苏省科技支撑项目负责人24万3种植义齿结构的生物力学优化设计南京市科技项目负责人8万4秸秆燃烧锅炉结构的稳定性分析企业项目负责人10万5116MW天然气热水锅炉安全性分析企业项目负责人5万参与1数控机床工程技术研究中心江苏省科技厅参与120万2Y轴全功能数控动力刀架研制“高档数控机床与基础制造装备”国家科技重大专项参与125万3SLT系列伺服转">
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/89/89.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/1c/28/style/95/95.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="28"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/04/da/1242/template1242/css/style.css" type="text/css" media="all">
+</head>
+<body>
+<div class="wrapper" id="header">
+  <div class="inner">
+    <div class="head">
+      <a href="http://me.seu.edu.cn/main.htm" class="tz" target="_blank"></a>
+      <div class="sitetitle">
+        <div frag="面板1">
+          <div frag="窗口1">
+            <div id="wp_nav_w1"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '1', opacity_sub: '0.8', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://seuef-w1.seu.edu.cn/apps/onlinepay/submitForm.faces" title="捐赠通道" target="_blank"><span class="item-name">捐赠通道</span></a><i class="mark" style="opacity: 1;"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="http://webplus.seu.edu.cn/login.jsp?_p=YXM9MjgmcD0xJm09TiY_" title="管理入口" target="_blank"><span class="item-name">管理入口</span></a><i class="mark" style="opacity: 1;"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/_s165/main.htm" title="English" target="_blank"><span class="item-name">English</span></a><i class="mark" style="opacity: 1;"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="navbar" frag="面板2">
+      <div class="navbox" frag="窗口2">
+        <div id="wp_nav_w2"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://me.seu.edu.cn/main.htm" title="首页" target="_blank"><span class="item-name">首页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="/1300/list.htm" title="学院简介" target="_blank"><span class="item-name">学院简介</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 220px; top: 242px; left: 0px;"> 
+              
+             <li class="nav-item i2-1 " style="display: block; width: 100%;"> 
+                 <a href="/1301/list.htm" title="学院概述" target="_blank" style="display: block; width: auto;"><span class="item-name">学院概述</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-2 " style="display: block; width: 100%;"> 
+                 <a href="/xyyg/list.htm" title="学院沿革" target="_blank" style="display: block; width: auto;"><span class="item-name">学院沿革</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-3 " style="display: block; width: 100%;"> 
+                 <a href="/1304/list.htm" title="学院架构" target="_blank" style="display: block; width: auto;"><span class="item-name">学院架构</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-4 " style="display: block; width: 100%;"> 
+                 <a href="/xrld/list.htm" title="行政组织" target="_blank" style="display: block; width: auto;"><span class="item-name">行政组织</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-5 " style="display: block; width: 100%;"> 
+                 <a href="/lrld/list.htm" title="历任领导" target="_blank" style="display: block; width: auto;"><span class="item-name">历任领导</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-6 " style="display: block; width: 100%;"> 
+                 <a href="/1305/list.htm" title="党委组织" target="_blank" style="display: block; width: auto;"><span class="item-name">党委组织</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-7 " style="display: block; width: 100%;"> 
+                 <a href="/lsrw/list.htm" title="历史人物" target="_blank" style="display: block; width: auto;"><span class="item-name">历史人物</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-8 " style="display: block; width: 100%;"> 
+                 <a href="/xsjs/list.htm" title="系所介绍" target="_blank" style="display: block; width: auto;"><span class="item-name">系所介绍</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-9 " style="display: block; width: 100%;"> 
+                 <a href="/dsj/list.htm" title="大事记" target="_blank" style="display: block; width: auto;"><span class="item-name">大事记</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-10 " style="display: block; width: 100%;"> 
+                 <a href="/1409/list.htm" title="行政通知" target="_blank" style="display: block; width: auto;"><span class="item-name">行政通知</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/1383/list.htm" title="师资队伍" target="_blank"><span class="item-name">师资队伍</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 374px; top: 396px; left: 0px;"> 
+              
+             <li class="nav-item i3-1 " style="display: block; width: 100%;"> 
+                 <a href="/ljrc/list.htm" title="领军人才" target="_blank" style="display: block; width: auto;"><span class="item-name">领军人才</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 66px;"> 
+              
+             <li class="nav-item i3-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/18169/list.htm" title="千人计划" target="_blank" style="display: block; width: auto;"><span class="item-name">千人计划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-1-2 " style="display: block; width: 100%;"> 
+                 <a href="/18170/list.htm" title="青年千人" target="_blank" style="display: block; width: auto;"><span class="item-name">青年千人</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-1-3 " style="display: block; width: 100%;"> 
+                 <a href="/zjxzwjcqn/list.htm" title="长江学者、杰出青年" target="_blank" style="display: block; width: auto;"><span class="item-name">长江学者、杰...</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-2 " style="display: block; width: 100%;"> 
+                 <a href="/test_12331/list.htm" title="专任教师" target="_blank" style="display: block; width: auto;"><span class="item-name">专任教师</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 132px;"> 
+              
+             <li class="nav-item i3-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/jxzz/list.htm" title="机械制造" target="_blank" style="display: block; width: auto;"><span class="item-name">机械制造</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/jxdz/list.htm" title="机械电子" target="_blank" style="display: block; width: auto;"><span class="item-name">机械电子</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-3 " style="display: block; width: 100%;"> 
+                 <a href="/jxsj/list.htm" title="机械设计" target="_blank" style="display: block; width: auto;"><span class="item-name">机械设计</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-4 " style="display: block; width: 100%;"> 
+                 <a href="/gysj/list.htm" title="工业设计" target="_blank" style="display: block; width: auto;"><span class="item-name">工业设计</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-5 " style="display: block; width: 100%;"> 
+                 <a href="/clgc/list.htm" title="车辆工程" target="_blank" style="display: block; width: auto;"><span class="item-name">车辆工程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-6 " style="display: block; width: 100%;"> 
+                 <a href="/gygc/list.htm" title="工业工程" target="_blank" style="display: block; width: auto;"><span class="item-name">工业工程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-3 " style="display: block; width: 100%;"> 
+                 <a href="/12311/list.htm" title="客座教授" target="_blank" style="display: block; width: auto;"><span class="item-name">客座教授</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-4 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/jzjs/list.htm" title="兼职教师" target="_blank" style="display: block; width: auto;"><span class="item-name">兼职教师</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 66px;"> 
+              
+             <li class="nav-item i3-4-1 " style="display: block; width: 100%;"> 
+                 <a href="/csg/list.htm" title="陈善广" target="_blank" style="display: block; width: auto;"><span class="item-name">陈善广</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-4-2 " style="display: block; width: 100%;"> 
+                 <a href="/zh/list.htm" title="张红" target="_blank" style="display: block; width: auto;"><span class="item-name">张红</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-4-3 " style="display: block; width: 100%;"> 
+                 <a href="/xjl/list.htm" title="谢建良" target="_blank" style="display: block; width: auto;"><span class="item-name">谢建良</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-5 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/ybry/list.htm" title="行政人员" target="_blank" style="display: block; width: auto;"><span class="item-name">行政人员</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="/1335/list.htm" title="学术研究" target="_blank"><span class="item-name">学术研究</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 66px; top: 88px; left: 0px;"> 
+              
+             <li class="nav-item i4-1 " style="display: block; width: 100%;"> 
+                 <a href="/1337/list.htm" title="科研团队" target="_blank" style="display: block; width: auto;"><span class="item-name">科研团队</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2 " style="display: block; width: 100%;"> 
+                 <a href="/tsyj/list.htm" title="特色研究" target="_blank" style="display: block; width: auto;"><span class="item-name">特色研究</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3 " style="display: block; width: 100%;"> 
+                 <a href="/xshd/list.htm" title="学术论坛" target="_blank" style="display: block; width: auto;"><span class="item-name">学术论坛</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="/xspy/list.htm" title="学生培养" target="_blank"><span class="item-name">学生培养</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 44px; top: 66px; left: 0px;"> 
+              
+             <li class="nav-item i5-1 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/1323/list.htm" title="本科生培养" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生培养</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-2 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/1324/list.htm" title="研究生培养" target="_blank" style="display: block; width: auto;"><span class="item-name">研究生培养</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="/1347/list.htm" title="学生工作" target="_blank"><span class="item-name">学生工作</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 396px; top: 418px; left: 0px;"> 
+              
+             <li class="nav-item i6-1 " style="display: block; width: 100%;"> 
+                 <a href="/1381/list.htm" title="学工队伍" target="_blank" style="display: block; width: auto;"><span class="item-name">学工队伍</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-2 " style="display: block; width: 100%;"> 
+                 <a href="/1382/list.htm" title="学工通知" target="_blank" style="display: block; width: auto;"><span class="item-name">学工通知</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3 " style="display: block; width: 100%;"> 
+                 <a href="/1353/list.htm" title="学生党建" target="_blank" style="display: block; width: auto;"><span class="item-name">学生党建</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 110px;"> 
+              
+             <li class="nav-item i6-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/1354/list.htm" title="支部设置" target="_blank" style="display: block; width: auto;"><span class="item-name">支部设置</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3-2 " style="display: block; width: 100%;"> 
+                 <a href="/1355/list.htm" title="制度建设" target="_blank" style="display: block; width: auto;"><span class="item-name">制度建设</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3-3 " style="display: block; width: 100%;"> 
+                 <a href="/1356/list.htm" title="党团动态" target="_blank" style="display: block; width: auto;"><span class="item-name">党团动态</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3-4 " style="display: block; width: 100%;"> 
+                 <a href="/1357/list.htm" title="党员发展" target="_blank" style="display: block; width: auto;"><span class="item-name">党员发展</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3-5 " style="display: block; width: 100%;"> 
+                 <a href="/1358/list.htm" title="党日活动" target="_blank" style="display: block; width: auto;"><span class="item-name">党日活动</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i6-4 " style="display: block; width: 100%;"> 
+                 <a href="/1359/list.htm" title="学生团建" target="_blank" style="display: block; width: auto;"><span class="item-name">学生团建</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 110px;"> 
+              
+             <li class="nav-item i6-4-1 " style="display: block; width: 100%;"> 
+                 <a href="/zzjg/list.htm" title="组织结构" target="_blank" style="display: block; width: auto;"><span class="item-name">组织结构</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4-2 " style="display: block; width: 100%;"> 
+                 <a href="/zdjs/list.htm" title="制度建设" target="_blank" style="display: block; width: auto;"><span class="item-name">制度建设</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4-3 " style="display: block; width: 100%;"> 
+                 <a href="/tndt/list.htm" title="团内动态" target="_blank" style="display: block; width: auto;"><span class="item-name">团内动态</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4-4 " style="display: block; width: 100%;"> 
+                 <a href="/trhd/list.htm" title="团日活动" target="_blank" style="display: block; width: auto;"><span class="item-name">团日活动</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4-5 " style="display: block; width: 100%;"> 
+                 <a href="/xszz/list.htm" title="学生组织" target="_blank" style="display: block; width: auto;"><span class="item-name">学生组织</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i6-5 " style="display: block; width: 100%;"> 
+                 <a href="/1349/list.htm" title="就业工作" target="_blank" style="display: block; width: auto;"><span class="item-name">就业工作</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 44px;"> 
+              
+             <li class="nav-item i6-5-1 " style="display: block; width: 100%;"> 
+                 <a href="/1350/list.htm" title="企业风采" target="_blank" style="display: block; width: auto;"><span class="item-name">企业风采</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-5-2 " style="display: block; width: 100%;"> 
+                 <a href="/1351/list.htm" title="就业动态" target="_blank" style="display: block; width: auto;"><span class="item-name">就业动态</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i6-6 " style="display: block; width: 100%;"> 
+                 <a href="/xzzq/list.htm" title="下载专区" target="_blank" style="display: block; width: auto;"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="/1536/list.htm" title="党群工作" target="_blank"><span class="item-name">党群工作</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 88px; top: 110px; left: 0px;"> 
+              
+             <li class="nav-item i7-1 " style="display: block; width: 100%;"> 
+                 <a href="/1537/list.htm" title="制度建设" target="_blank" style="display: block; width: auto;"><span class="item-name">制度建设</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2 " style="display: block; width: 100%;"> 
+                 <a href="/1538/list.htm" title="党群通知" target="_blank" style="display: block; width: auto;"><span class="item-name">党群通知</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-3 " style="display: block; width: 100%;"> 
+                 <a href="/lxyz/list.htm" title="两学一做" target="_blank" style="display: block; width: auto;"><span class="item-name">两学一做</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-4 " style="display: block; width: 100%;"> 
+                 <a href="/ggw/list.htm" title="关工委" target="_blank" style="display: block; width: auto;"><span class="item-name">关工委</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="/1539/list.htm" title="百年机械专区" target="_blank"><span class="item-name">百年机械专区</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 286px; top: 308px; left: 0px;"> 
+              
+             <li class="nav-item i8-1 " style="display: block; width: 100%;"> 
+                 <a href="/12319/list.htm" title="“百年机械发展论坛”公告" target="_blank" style="display: block; width: auto;"><span class="item-name">“百年机械发...</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2 " style="display: block; width: 100%;"> 
+                 <a href="/12322/list.htm" title="校友风采" target="_blank" style="display: block; width: auto;"><span class="item-name">校友风采</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 44px;"> 
+              
+             <li class="nav-item i8-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/18165/list.htm" title="院士" target="_blank" style="display: block; width: auto;"><span class="item-name">院士</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/18166/list.htm" title="知名校友" target="_blank" style="display: block; width: auto;"><span class="item-name">知名校友</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i8-3 " style="display: block; width: 100%;"> 
+                 <a href="/12323/list.htm" title="校友返校" target="_blank" style="display: block; width: auto;"><span class="item-name">校友返校</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-4 " style="display: block; width: 100%;"> 
+                 <a href="/xydt/list.htm" title="校友通讯" target="_blank" style="display: block; width: auto;"><span class="item-name">校友通讯</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-5 " style="display: block; width: 100%;"> 
+                 <a href="/qyfc/list.htm" title="企业风采" target="_blank" style="display: block; width: auto;"><span class="item-name">企业风采</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-6 " style="display: block; width: 100%;"> 
+                 <a href="/byz/list.htm" title="毕业照" target="_blank" style="display: block; width: auto;"><span class="item-name">毕业照</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 44px;"> 
+              
+             <li class="nav-item i8-6-1 " style="display: block; width: 100%;"> 
+                 <a href="/bk/list.htm" title="大学毕业照" target="_blank" style="display: block; width: auto;"><span class="item-name">大学毕业照</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-6-2 " style="display: block; width: 100%;"> 
+                 <a href="/ss/list.htm" title="硕士毕业照" target="_blank" style="display: block; width: auto;"><span class="item-name">硕士毕业照</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i8-7 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/37/f0/c13726a145392/page.htm" title="在线捐赠" target="_blank" style="display: block; width: auto;"><span class="item-name">在线捐赠</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-8 " style="display: block; width: 100%;"> 
+                 <a href="/12324/list.htm" title="联系我们" target="_blank" style="display: block; width: auto;"><span class="item-name">联系我们</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-9 " style="display: block; width: 100%;"> 
+                 <a href="http://seuaa-w1.seu.edu.cn/apps/schoolfellow/schoolfellow.faces#" title="孔雀东南飞" target="_blank" style="display: block; width: auto;"><span class="item-name">孔雀东南飞</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i9 "> 
+         <a href="/1546/list.htm" title="联系我们" target="_blank"><span class="item-name">联系我们</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper" id="container">
+  <div class="inner">
+    <div class="infobox" frag="面板32">
+      <div class="article" frag="窗口32" portletmode="simpleArticleAttri">
+        
+          <h1 class="arti_title">卢熹 副教授</h1>
+          <p class="arti_metas"><span class="arti_publisher">发布者：机械工程学院</span><span class="arti_update">发布时间：2017-06-19</span><span class="arti_views">浏览次数：<span class="WP_VisitCount" url="/_visitcountdisplay?siteId=28&amp;type=3&amp;articleId=191895">387
+</span></span></p>
+          <div class="entry">
+            <div class="read"><div class="wp_articlecontent"><style><!-- /* Font Definitions */ @font-face	{font-family:宋体;	panose-1:2 1 6 0 3 1 1 1 1 1;}@font-face	{font-family:"Cambria Math";	panose-1:2 4 5 3 5 4 6 3 2 4;}@font-face	{font-family:Simsun;	panose-1:0 0 0 0 0 0 0 0 0 0;}@font-face	{font-family:仿宋;	panose-1:2 1 6 9 6 1 1 1 1 1;}@font-face	{font-family:Calibri;	panose-1:2 15 5 2 2 2 4 3 2 4;}@font-face	{font-family:"\@宋体";	panose-1:2 1 6 0 3 1 1 1 1 1;}@font-face	{font-family:"\@仿宋";} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	{margin:0cm;	margin-bottom:.0001pt;	text-align:justify;	text-justify:inter-ideograph;	font-size:10.5pt;	font-family:"Calibri",sans-serif;} /* Page Definitions */ @page WordSection1	{size:595.3pt 841.9pt;	margin:72.0pt 90.0pt 72.0pt 90.0pt;	layout-grid:15.6pt;}div.WordSection1	{page:WordSection1;}--></style><div class="WordSection1" style="layout-grid:21px"><table class="MsoNormalTable" style="width:812px;background:white;margin-left:38px;" width="0" cellspacing="0" cellpadding="0" border="0"><tbody><tr style="height:1.0cm"><td rowspan="4" style="padding:0cm;height:1cm;word-break:break-all;" width="79" valign="top"><p class="MsoNormal" style="text-align:center;line-height:21px;word-break:break-all;text-align:center;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td rowspan="4" style="padding:0cm;height:1cm;" width="192"><p class="MsoNormal" style="line-height:21px;word-break:break-all"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US"><img id="图片 1" src="/_upload/article/images/a5/c7/18b1d1ae4e9694fc189adf0d5c93/ad675529-d804-40a7-9356-6322c0bad62f.jpg" alt="照片" original_src="/_upload/article/images/a5/c7/18b1d1ae4e9694fc189adf0d5c93/ad675529-d804-40a7-9356-6322c0bad62f_d.jpg" original_name="lx.jpg" width="125" height="156"></span></p></td><td style="padding:0cm;height:1cm;" width="111"><p class="MsoNormal" style="text-align:left;text-indent:24px;line-height:21px;text-align:left;"><strong><span style="font-size:12px;font-family:宋体;color:black">职称</span></strong></p></td><td style="padding:0cm;height:1cm;word-break:break-all;" width="430"><p class="MsoNormal" style="text-align:left;text-indent:24px;line-height:21px;word-break:break-all;text-align:left;"><span style="font-size:12px;font-family:宋体;color:black">副教授</span><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black"></span></p></td></tr><tr style="height:1.0cm"><td style="padding:0cm;height:1cm;" width="111"><p class="MsoNormal" style="text-align:left;text-indent:24px;line-height:21px;text-align:left;"><strong><span style="font-size:12px;font-family:宋体;color:black">办公室</span></strong><strong><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;&nbsp;&nbsp; </span></strong></p></td><td style="padding:0cm;height:1cm;word-break:break-all;" width="430"><p class="MsoNormal" style="text-align:left;text-indent:24px;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:宋体;color:black">机械楼</span><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">433</span></p></td></tr><tr style="height:1.0cm"><td style="padding:0cm;height:1cm;" width="111"><p class="MsoNormal" style="text-align:left;text-indent:24px;line-height:21px;text-align:left;"><strong><span style="font-size:12px;font-family:宋体;color:black">联系电话</span></strong></p></td><td style="padding:0cm;height:1cm;word-break:break-all;" width="430"><p class="MsoNormal" style="text-align:left;text-indent:24px;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">025-52090501-8429</span></p></td></tr><tr style="height:1.0cm"><td style="padding:0cm;height:1cm;" width="111"><p class="MsoNormal" style="text-align:left;text-indent:24px;line-height:21px;text-align:left;"><strong><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">E-mail </span></strong></p></td><td style="padding:0cm;height:1cm;word-break:break-all;" width="430"><p class="MsoNormal" style="text-align:left;text-indent:24px;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">seu_luxi@163.com</span></p></td></tr></tbody></table><p class="MsoNormal" style="text-align:left;text-align:left;"><span style="font-size:16px;font-family:宋体;display:none" lang="EN-US">&nbsp;</span></p><div align="center"><table class="MsoNormalTable" style="width:95.0%;background:white" width="95%" cellspacing="1" cellpadding="0" border="0"><tbody><tr><td style="background:#efefef;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;">卢熹 博士 副教授 硕士生导师。 </span></p><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;">哈尔滨工程大学，内燃机专业，学士</span></p><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;">上海交通大学，振动冲击噪声专业，硕士</span></p><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;">东南大学，机械制造及其自动化专业，博士</span></p><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">&nbsp;</span></p><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;">主要研究领域：结构动态设计与优化、生物力学及医用器具、绿色设计与再制造、机械产品快速设计开发平台。</span></p></td></tr></tbody></table></div><p class="MsoNormal" style="text-align:left;text-align:left;"><span style="font-size:16px;font-family:宋体;display:none" lang="EN-US">&nbsp;</span></p><div align="center"><table class="MsoNormalTable" style="width:95.0%;background:white" width="95%" cellspacing="1" cellpadding="0" border="0"><tbody><tr><td style="background:#efefef;padding:0cm 0cm 0cm 0cm"><br></td></tr></tbody></table></div><p class="MsoNormal" style="text-align:left;text-align:left;"><span style="font-size:16px;font-family:宋体;display:none" lang="EN-US">&nbsp;</span></p><div align="center"><table class="MsoNormalTable" style="width:95.0%;background:white" width="95%" cellspacing="1" cellpadding="0" border="0"><tbody><tr style="height:30px"><td style="background:#87ceff;padding:0cm 0cm 0cm 0cm;height:30px"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-size:12px;font-family:宋体;color:black">教授课程</span></strong></p></td></tr><tr><td style="background:#efefef;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;">模态理论及应用</span></p></td></tr><tr><td style="background:#efefef;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;">机械制图</span></p></td></tr></tbody></table></div><p class="MsoNormal" style="text-align:left;text-align:left;"><span style="font-size:16px;font-family:宋体;display:none" lang="EN-US">&nbsp;</span></p><div align="center"><table class="MsoNormalTable" style="width:95.0%;background:white" width="95%" cellspacing="1" cellpadding="0" border="0"><tbody><tr style="height:30px"><td style="background:#87ceff;padding:0cm 0cm 0cm 0cm;height:30px"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-size:12px;font-family:宋体;color:black">研究方向</span></strong></p></td></tr><tr><td style="background:#efefef;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">1. </span><span style="font-family:仿宋;color:black;font-size:14px;">机械动力学</span></p></td></tr><tr><td style="background:#efefef;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">2. </span><span style="font-family:仿宋;color:black;font-size:14px;">口腔生物力学</span></p></td></tr><tr><td style="background:#efefef;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">3. </span><span style="font-family:仿宋;color:black;font-size:14px;">振动与噪声控制</span></p><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">4. </span><span style="font-family:仿宋;color:black;font-size:14px;">机床设计与再制造</span></p><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">5. </span><span style="font-family:仿宋;color:black;font-size:14px;">产品快速开发系统</span></p></td></tr></tbody></table></div><p class="MsoNormal" style="text-align:left;text-align:left;"><span style="font-size:16px;font-family:宋体;display:none" lang="EN-US">&nbsp;</span></p><p class="MsoNormal" style="text-align:left;text-align:left;"><span style="font-size:16px;font-family:宋体;display:none" lang="EN-US">&nbsp;</span></p><div align="center"><table class="MsoNormalTable" style="width:95.0%;background:white" width="95%" cellspacing="1" cellpadding="0" border="0"><tbody><tr style="height:30px"><td colspan="5" style="width:5.0%;background:#87ceff;padding:0cm 0cm 0cm 0cm;height:30px" width="5%"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-size:12px;font-family:宋体;color:black">主要科研项目</span></strong></p></td></tr><tr><td style="width:5.0%;background:cornflowerblue;padding:0cm 0cm 0cm 0cm" width="5%"><br></td><td style="width:39.84%;background:cornflowerblue;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:宋体;color:black">项目名称</span></p></td><td style="width:35.0%;background:cornflowerblue;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:宋体;color:black">项目类别</span></p></td><td style="width:9.92%;background:cornflowerblue;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:宋体;color:black">工作类别</span></p></td><td style="width:15.36%;background:cornflowerblue;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:宋体;color:black">项目金额</span></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">&nbsp;</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">主持</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">1</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">大型五轴高速精密龙门加工中心绿色设计技术与应用研究</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">江苏省科技支撑项目重点项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">负责人</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">150</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">2</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US"><span style="font-family:仿宋;color:black;font-size:14px;">XH6650</span><span lang="EN-US"><span style="font-size:14px;" lang="EN-US">高速卧式加工中心研发与产业化</span></span></span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">江苏省科技支撑项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">负责人</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">24</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">3</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US"><span lang="EN-US"><span lang="EN-US"><span style="font-family:仿宋;color:black;font-size:14px;">种植义齿结</span><span style="font-size:14px;" lang="EN-US">构的生物力学优化设计</span></span></span></span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">南京市科技项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">负责人</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">8</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">4</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US"><span lang="EN-US"><span style="font-size:14px;" lang="EN-US">秸秆燃烧锅炉结构的稳定性分析</span></span></span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">企业项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">负责人</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">10</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">5</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US"><span style="font-family:仿宋;color:black;font-size:14px;">116MW</span><span lang="EN-US"><span style="font-size:14px;" lang="EN-US">天然气热水锅炉安全性分析</span></span></span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">企业项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">负责人</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">5</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US">&nbsp;</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US">&nbsp;</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><span style="font-size:14px;"></span><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">1</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US"><span lang="EN-US"><span style="font-size:14px;" lang="EN-US">数控机床工程技术研究中心</span></span></span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">江苏省科技厅</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">120</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">2</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">Y</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">轴全功能数控动力刀架研制</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">“高档数控机床与基础制造装备”国家科技重大专项</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">125</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">3</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">SLT </span></strong><strong><span style="font-size:12px;font-family:仿宋;color:black"><span style="font-family:仿宋;color:black;font-size:14px;">系列伺服转塔</span><span style="font-size:14px;" lang="EN-US">/</span><span style="font-family:仿宋;color:black;font-size:14px;">动力刀架产业化关键技术开发与应用</span></span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">“高档数控机床与基础制造装备”国家科技重大专项</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">290</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">4</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">T</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">系列数控转塔刀架产品开发及在斜床身系列数控车床批量应用示范</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">“高档数控机床与基础制造装备”国家科技重大专项</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">230</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">5</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">新型高效农用多功能作业装载机</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">江苏省科技成果转化项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">90</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">6</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">大型高端摊铺机优化与可靠性设计关键技术研究与研发</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">江苏省科技支撑项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">80</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">7</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US"><span lang="EN-US"><span style="font-size:14px;" lang="EN-US">高架桥式高速五坐标龙门加工中心开发</span></span></span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">江苏省科技支撑项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">40</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">8</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US"><span style="font-family:仿宋;color:black;font-size:14px;">3.3MW</span><span lang="EN-US"><span style="font-size:14px;" lang="EN-US">半直驱永磁风力发电机设计</span></span></span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">企业项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">160</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">9</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">XD132</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">等系列压路机噪声与振动控制技术研究与应用</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">企业项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">80</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">10</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">装载机动态匹配技术研究与应用</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">企业项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">50</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">11</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">LW500K</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">轮式装载机噪声与振动控制技术研究与应用</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">企业项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">40</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">12</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">GR215D</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">平地机减震降噪研究</span></strong></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">企业项目</span></strong></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><strong><span style="font-family:仿宋;color:black;font-size:14px;">参与</span></strong></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-family:仿宋;color:black;font-size:14px;" lang="EN-US">30</span></strong><strong><span style="font-family:仿宋;color:black;font-size:14px;">万</span></strong></p></td></tr><tr><td style="width:5.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="5%"><p class="MsoNormal" style="text-align:center;text-indent:-22px;line-height:21px;text-align:center;margin-left:22px;"><strong><span style="font-size:12px;font-family:仿宋;color:black" lang="EN-US">&nbsp;</span></strong></p></td><td style="width:39.84%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="40"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:35.0%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="35%"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:9.92%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="7"><p class="MsoNormal" style="text-align:left;text-indent:-22px;line-height:21px;text-align:left;margin-left:22px;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td><td style="width:15.36%;background:#efefef;padding:0cm 0cm 0cm 0cm" width="8"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">&nbsp;</span></p></td></tr></tbody></table></div><p class="MsoNormal" style="text-align:left;text-align:left;"><span style="font-size:16px;font-family:宋体;display:none" lang="EN-US">&nbsp;</span></p><div align="center"><table class="MsoNormalTable" style="width:95.0%;background:white" width="95%" cellspacing="14" cellpadding="0" border="0"><tbody><tr style="height:30px"><td colspan="5" style="width:975px;background:#87ceff;padding:0cm 0cm 0cm 0cm;height:30px" width="538"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><strong><span style="font-size:12px;font-family:宋体;color:black">获奖</span></strong></p></td></tr><tr style="height:26px"><td colspan="5" style="width:975px;background:#efefef;padding:0cm 0cm 0cm 0cm;height:26px" width="538"><p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;"><span style="font-size:12px;font-family:宋体;color:black">教育部，科技进步二等奖，“机床结构动态优化创新设计</span><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">CAE</span><span style="font-size:12px;font-family:宋体;color:black">关键技术研究”（排名第</span><span style="font-size:12px;font-family:&quot;simsun&quot;,serif;color:black" lang="EN-US">3</span><span style="font-size:12px;font-family:宋体;color:black">）</span></p></td></tr><tr><td style="width:342px;background:#efefef;padding:0cm 0cm 0cm 0cm" width="189"><br></td><td style="width:301px;background:#efefef;padding:0cm 0cm 0cm 0cm" width="166"><br></td><td style="width:169px;background:#efefef;padding:0cm 0cm 0cm 0cm" width="93"><br></td><td style="width:84px;background:#efefef;padding:0cm 0cm 0cm 0cm" width="47"><br></td><td style="width:74px;background:#efefef;padding:0cm 0cm 0cm 0cm" width="42"><br></td></tr></tbody></table></div><p class="MsoNormal" style="text-align:left;text-align:left;"><span style="font-size:16px;font-family:宋体;display:none" lang="EN-US">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p></div></div></div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper" id="footer">
+  <div class="inner">
+    <div class="foot">
+      <div class="">
+        <p><span>东南大学机械工程学院</span></p>
+        <p><span>备案序号：苏ICP证201008206600号</span></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+ <img src="/_visitcount?siteId=28&amp;type=3&amp;articleId=191895" style="display:none" width="0" height="0"></body></html>

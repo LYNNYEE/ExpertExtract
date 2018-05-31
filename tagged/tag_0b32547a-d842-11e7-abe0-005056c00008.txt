@@ -1,0 +1,84 @@
+设 为 首页    加入收藏 
+080500 | 材料科学 与 工程专业 博士研究生指导教师 ClickNum : 360 
+姓名 
+name_label 
+性别 
+男 
+民族 
+汉族 
+出生年月 
+timelabel - 01 
+学历 | 学位 
+研究生 | 博士 
+专业 技术 职务 
+教授 
+行政职务 
+place_label 大学党委书记 
+联系电话 
+/ 
+移动电话 
+邮箱 
+maillabel 
+通讯地址  |  邮编 
+place_label 济南市 南辛 庄西路 336 号 place_label 大学  |  250022 
+招生方向 ( 领域 ) 
+01 ( 全日制 ) 建筑材料 
+研究 领域 、 学习工作经历 、 学术兼职等 情况 
+name_label ， 教授 ， 博士 ， 博士生导师 。 timelabel 任 place_label 建材工业 学院副院长 ， timelabel 任 place_label 大学党委常委 、 副校长 ， timelabel 任 place_label 大学 党委副书记 、 校长 ， timelabel 任 place_label 大学党委书记 。 入选 place_label  “ place_label 学者 攀登 计划 ”、 获 place_label 专业 技术 拔尖人才 、 place_label 有 突出贡献 的 中青年 专家 、 place_label 先进工作者 、 国务院 颁发 的 政府特殊津贴 、 全国优秀教师 等 称号 。 
+主要 研究 领域 ： 
+功能 及 特种水泥 基 复合材料 
+学术 与 社会兼职 ： 
+国务院学位委员会 第七届 材料科学 与 工程学科 评议组 成员 
+教育部 高等学校 无机非金属 材料工程 专业 教学指导分委员会 副主任委员 
+“ 十二五 ” 863 计划新材料 技术 领域 专家组专家 
+国家自然科学基金委工程 材料 学部 评审委员会委员 
+中国硅酸盐学会 常务理事 
+中国硅酸盐学会 水泥 分会副理事长 
+中国建筑材料联合会 常务理事 
+中国建筑材料联合会 科技 教育 委员会副主任 
+美国 混凝土 协会理事 
+代表性科研成果 及 奖励 ： 
+（ 包括 项目 、 鉴定 、 论文 、 专著 、 专利 等 ) 
+获国家 技术 发明 一等奖 1 项 ， 省部级 一等奖 5 项 ， 二等奖 2 项 、 三等奖 1 项 ， 主持 973 前期 研究 专项 、 863 计划课题 、 国家重点研发计划 、 国家 自然科学基金重点项目 及 国防科工委 项目 等 国家级项目 12 项 。 在 Cem . Con c . Res .,  Cem . Comp . Con cr .,  Con str . Bulid . Mater .,  Compos . Sci , Technol .,  Smart . Mater . St ruc t .,  J . Appl . Phys .,  硅酸盐学报 、 复合材料学报 、 建筑材料 学报 等 国内外重要期刊发表 学术论文 200 余篇 ， 出版专著 1 部 ， 授权 发明专利 43 件 。 
+近三年 代表性学术论文 ： 
+1 . Wang   Dan ,  Din g   Kun ,  Hou   Peng kun ,  Zhang   Lina ,  Zhou   Zonghui ,  Cheng   Xin *.  Effect   of   SiO 
+2 
+oligomers   on   water   abs orptionof   cement iti ous   materials .  Cem   Con c .  Res .,  timelabel ,  87 : 22 - 30 . ( IF = 3.2 ) 
+2 . Xu   Dongyu ,  Cheng   Xin *,  Hua ngShifeng .  Investigation   on   fabri cation   and   property   of   ac ous tic   gradie ntc omposites   Compo .  Sci .  Techno .,  timelabel , 122 : 90 - 6 . ( IF = 3.897 ) 
+3 . Xu   Dongyu ,  Du   Peng ,  Wang   Jin gxiao ,  Hou   Peng kun ,  Hua ng   Shifeng ,  Cheng   Xin *.  Design   and   properties   ofgaussian - type   1 - 3   piezoelectric   composites .  Compo .  St ruc t .,  timelabel , 140 : 213 - 6 . ( IF = 3.853 ) 
+4 . HouPeng kun ,  Zhang   Rui ,  Cai   Yamei ,  Cheng Xin ,  S . P .  Shah . In   situ   Ca ( OH ) 
+2 
+con sumption   of   TEOS   on   the   surface   of   hardened cement - based   materials   and   its   improving   effects   on   the   Ca - leaching   andsulfate - attack   re sis tivity .  Con str . Build . Mater .,  timelabel , 113 : 890 - 6 . ( IF = 2.421 ) 
+5 . Kun   Din g ,  Dan   Wang , Pin g   Yan g , Xin   Cheng *. Synthe sis of   anatase   ti tan ium   dioxide   nano caps   via   hydrofluoric   a cid   etc hing   towards enh anced   photocataly sis ,  Mater . Res . Bull .,  timelabel , 74 : 311 - 8 .( IF = 2.435 ) 
+6 . Hou   Peng kun ,  Cheng   Xin *,  QianJueshi ,  Zhang   Rui ,  Cao   Wei ,  S .  P .  Shah .  Characteristics   of   surface - treatment   of nano - SiO 
+2 
+on   the   transport   properties   of   hardened   cement   pasteswith   different   water - to - cement   ratios .  Cem . Con c .  Compo .,  timelabel , 55 : 26 - 33 . ( IF = 3.399 ) 
+7 . Sun   Mengyong ,  Li   Qin ggang ,  Hua ng   Shifeng ,  Cheng Xin *.  Fabri cation   and   properties   of   C fib er / Si3N4   composite   by   vacuum   hot - pressingsintering .  Ceram .  Int .,  timelabel , 41 ( 4 ): 6084 - 8 . ( IF = 2.758 ) 
+8 . Hou   Peng kun ,  Cheng   Xin *,  QianJueshi ,  S .  P .  Shah .  Effects   and   mechanisms   of   surface   treatment   of   hardened cement - based   materials   with   colloidal   nano SiO 
+2 
+and   itspr ecu rsor .  Con str . Build . Mater ., timelabel , 53 ( 28 ): 66 - 73 .( IF = 2.421 ) 
+9 . Xu   Dongyu ,  Cheng   Xin *,  Sourav   Banerjee , Wang   Lei ,  Hua ng   Shifeng .  Dielectric ,  piezoelectric   and   dam pin g   properties   ofnovel   2 - 2   piezoelectric   composites .  Smart   Mater . St ruc t .  timelabel ( 2 ): 025003 . ( IF = 2.769 ) 
+10 . Xu   Dongyu ,  Cheng   Xin *,  Banerjee   Sourav , Hua ng   Shifeng .  Design ,  fabri cation ,  and   properties   of   2 - 2   con nec tivity cement / polymer   based   piezoelectric   composites   with   varied   piezoelectric   phase distribution .  J .  Appl .  Phys .,  timelabel , 116 : 244103 . ( IF = 2.101 ) 
+专著 ： 
+name_label . 硫铝酸 钡 （ 锶 ） 钙 水泥 . 科学出版社 .  2013.10 
+教学 及 研究生培养 情况 
+担任 研究生 的 booklabel 、 booklabel 及 本科生 的 booklabel 等课程教学 ， 指导 本硕博 研究生 的 毕业论文工作 ， 培养 了 博士研究生 8 名 ， 硕士研究生 30 余名 。 
+备注 
+设 为 首页  |  加入收藏  |  联系 我们  |  友情链接             place_label 大学研究生 处  ·  place_label 大学 研究生招生信息 网 版权所有 
+首页 
+工作动态 
+工作进展     工作 计划 
+博士招生 
+简章 目录     报名 考试     复试 录取 
+硕士招生 
+简章 目录     报名 考试     复试 录取 
+推免 工作 
+推荐 工作     接收 工作 
+非全日制 
+在职 攻读     同等学力 
+招生 目录 
+硕士招生专业 目录     博士招生专业 目录 
+导师信息 
+硕士生导师    博士生导师 
+资料中心 
+常用下载     在职 招生     相关 文件 

@@ -1,0 +1,155 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>张雅凝_北京化工大学文法学院</title>
+<meta name="keywords" content="北京化工大学，文法学院">
+<meta name="description" content="北京化工大学，文法学院">
+
+<!-----------下拉菜单 效果-------->
+<script type="text/javascript" src="../../../../js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="../../../../js/js1.js"></script>
+
+<link href="../../../../css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<!--头部-->
+<div class="header">
+
+<div class="logo">
+<a href="http://en.wfxy.buct.edu.cn/" target="_blank" style="position: absolute; display: block; top:10px;right:10px;color:#fff;">English Version</a>
+        <div class="logo01"><a href="../../../../index.htm" target="_blank"><img src="../../../../images/logo01.png"></a></div>
+        <div class="shu"><img src="../../../../images/13.png"></div>
+        <div class="nian"><img src="../../../../images/2013.png"></div>
+        <div class="ser">
+                   </div>
+    </div>
+	<div class="nav">
+        <ul>
+        <li><a href="../../../../index.htm" target="_blank">学院首页</a></li>
+                    <li><a href="../../../index.htm" target="_blank">学院概况</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../xyjj/index.htm" target="_blank">学院简介</a></dd>
+                                    <dd><a href="../../../xyld/index.htm" target="_blank">学院领导</a></dd>
+                                    <dd><a href="../../../zzjg/index.htm" target="_blank">组织机构</a></dd>
+                                    <dd><a href="../../index.htm" target="_blank">教师风采</a></dd>
+                                    <dd><a href="../../../zdjs/index.htm" target="_blank">制度建设</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../xwtz/index.htm" target="_blank">新闻通知</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../xwtz/wfxw/index.htm" target="_blank">文法新闻</a></dd>
+                                    <dd><a href="../../../../xwtz/wftz/index.htm" target="_blank">文法通知</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../jyjx/index.htm" target="_blank">教育教学</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../jyjx/bksjy/index.htm" target="_blank">本科生教育</a></dd>
+                                    <dd><a href="../../../../jyjx/yjsjy/index.htm" target="_blank">研究生教育</a></dd>
+                                    <dd><a href="../../../../jyjx/lxsjy/index.htm" target="_blank">工程硕士教育</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../kyxz/index.htm" target="_blank">科研学术</a>
+                        </li>
+                     <li><a href="../../../../dtgk/index.htm" target="_blank">党团工会</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../dtgk/dqgz/index.htm" target="_blank">党群工作</a></dd>
+                                    <dd><a href="../../../../dtgk/gkgz/index.htm" target="_blank">工会工作</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../zsjy/index.htm" target="_blank">招生就业</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="http://www.goto.buct.edu.cn/" target="_blank">本科生招生</a></dd>
+                                    <dd><a href="http://gs.buct.edu.cn/enroll/yjszs.aspx" target="_blank">研究生招生</a></dd>
+                                    <dd><a href="../../../../zsjy/lxszs/index.htm" target="_blank">工程硕士招生</a></dd>
+                                    <dd><a href="../../../../zsjy/jyxx/index.htm" target="_blank">就业信息</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../xshd/index.htm" target="_blank">学生活动</a>
+                        </li>
+                     <li><a href="../../../../xysq/index.htm" target="_blank">校友社区</a>
+                        </li>
+                 </ul>
+    
+    </div></div>
+<!--内容-->
+<div class="content02">
+  <div class="con_lf" id="height1" style="height: 1015px;">
+      <div class="lf01">
+            <div class="lf01_tit">
+            <h1><a href="#">四系</a></h1>
+            </div>
+            <img src="../../../../images/tit01.png">
+            <div class="lf01_con">
+                <ul>
+                                    <li><a href="index.htm" target="_blank">外语系</a></li>
+                                    <li><a href="../flx/index.htm" target="_blank">法律系</a></li>
+                                    <li><a href="../sktyx/index.htm" target="_blank">社会体育系</a></li>
+                                    <li><a href="../ggglx/index.htm" target="_blank">公共管理系</a></li>
+                                </ul>
+            </div>
+        </div>
+        <div class="lf02">
+            <ul>
+            <li class="icon01"><a href="mailto:wfxy@mail.buct.edu.cn" target="_blank">院长信箱</a></li>
+            <li class="icon02"><a href="../../../../zlxz/index.htm" target="_blank">资料下载</a></li>
+            <li class="icon03"><a href="http://www.buct.edu.cn/" target="_blank">北京化工大学</a></li>
+            <li class="icon04"><a href="../../../../rczp/index.htm" target="_blank">人才招聘</a></li>
+            </ul>
+        </div>
+    </div>
+<div class="con_rt" id="height2">
+        <div class="breadcrumb">您当前的位置：                 <a href="../../../../index.htm" target="_blank">首页</a>»
+                 <a href="../../../index.htm" target="_blank">学院概况</a>»
+                 <a href="../../index.htm" target="_blank">教师风采</a>»
+                 <a href="../index.htm" target="_blank">四系</a>»
+        外语系
+        </div>
+        <div class="rt_tit">
+        <h1>张雅凝</h1>
+                    </div>
+        <div class="rt_zuozhe">
+      来源：文法学院&nbsp;&nbsp;发布日期：2013-12-02
+        </div>
+        <div class="rt_zhengwen" style="min-height:300px;_height:300px; height:auto;">
+			<br>
+&nbsp; <img alt="" src="../../../../images/content/2013-12/20131205135625593137.jpg" width="200" vspace="5" hspace="3" height="154" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<br>
+<br>
+<span style="line-height: 150%; font-size: 12pt">&nbsp; 张雅凝，女，副教授，九三学社社员，生于<span lang="EN-US">1969</span>年<span lang="EN-US">8</span>月，山东威海人。</span>
+<div class="MsoNormal" style="line-height: 150%; text-indent: -22.5pt; margin-left: 22.5pt"><span style="line-height: 150%; font-size: 12pt" lang="EN-US"><span>一、<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</span></span></span><span style="line-height: 150%; font-size: 12pt"><font face="Times New Roman"><br>
+<br>
+一、</font><b>教育背景及工作经历</b>：毕业于南开大学国际商学院，</span><span style="line-height: 150%; color: black; font-size: 12pt">美国加州大学伯克利分校英语系访问学者，</span><span style="line-height: 150%; font-size: 12pt">现任北京化工大学文法学院外语系实验班课程负责人和英语竞赛及第二课堂负责人。</span><span style="line-height: 150%; font-size: 12pt">曾担任快班和国贸专业课程负责人，北京化工大学新生英语学习策略和学习动机等方面的调查问卷并撰写相关论文，荣获过北京化工大学优秀青年主讲教师荣誉称号，做过北京化工大学精品课英语示范课。</span></div>
+<div class="MsoNormal" style="line-height: 150%; text-indent: -22.5pt; margin-left: 22.5pt"><span style="line-height: 150%; color: black; font-size: 12pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、<span style="font: 7pt 'Times New Roman'">&nbsp;</span></span></span><b><span style="line-height: 150%; color: black; font-size: 12pt" lang="EN-US"><span><span style="font: 7pt 'Times New Roman'"> </span></span></span><span style="line-height: 150%; font-size: 12pt">社会兼职：</span></b><span style="line-height: 150%; font-size: 12pt">北京市大学生英语演讲比赛评委，曾任</span><span style="line-height: 150%; font-size: 12pt">英国伦敦工商会国际商务英语口语考官</span><span style="line-height: 150%; font-size: 12pt">。主要研究方向为应用语言学和英语教学法。 </span></div>
+<div class="MsoNormal" style="line-height: 150%; text-indent: -22.5pt; margin-left: 22.5pt"><span style="line-height: 150%; color: black; font-size: 12pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、</span></span><b><span style="line-height: 150%; font-size: 12pt">参与</span><span style="line-height: 150%; font-size: 12pt">重点项目：</span></b><span style="line-height: 150%; font-size: 12pt">《</span><span style="line-height: 150%; color: black; font-size: 12pt">外语系网络互动语言教学研究与实践》、《不断创新教学模式；有效提高学生语言综合能力》、《培养学生创造性学习能力，提高英语综合应用能力》等</span><span style="line-height: 150%; font-size: 12pt">多项课题的研究工作</span><span style="line-height: 150%; font-size: 12pt">。</span></div>
+<div class="MsoNormal" style="line-height: 150%; text-indent: -22.5pt; margin-left: 22.5pt"><span style="line-height: 150%; color: black; font-size: 12pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、</span></span><b><span style="line-height: 150%; color: black; font-size: 12pt">主编的教辅书：</span></b><span style="line-height: 150%; color: black; font-size: 12pt">《新思维大学英语视听说教程》、《阅读理解<span lang="EN-US">--</span>考研英语解题思路与实战》、</span><span style="line-height: 150%; font-size: 12pt">《全新听力理解教程》。参编教辅书有《考研英语题典英语知识运用<span lang="EN-US">100</span>篇详解》、《最新英美报刊选读》、《新时代交互英语读写译》、《最新大学英语四级考试高分教程阅读理解<span lang="EN-US">160</span>篇》、《新编大学英语语法》、《北京化工大学英语学习指导手册》等，发表的论文包括《多媒体英语教学的优势》、《研究生英语教学改革设想》、《大学公共英语课的盲点和误区》、<span style="color: black">《北京化工大学新生英语学习策略调查及思考》、《一项关于大学生英语学习动机的调查》、《注重英语教学中教与学的动机》、《大学英语后续课程中的诗歌教学》、<i><span lang="EN-US">Pessimistic or Optimistic—Notes on Lord of the Flies</span></i>等</span>十余篇<span style="color: black">。</span></span></div>
+<div class="MsoNormal" style="line-height: 150%">&nbsp;</div> 
+      </div>
+                
+    </div>
+    
+</div>
+<!--底部-->
+
+<div class="footer">
+版权属北京化工大学文法学院所有    地址：北京北三环路15号 电话：（010-64434889）    访问量：
+<script src="/cms/modules/channelVisitLog.jsp?parentID=3412"></script>
+</div><!-----------左侧随右侧高度------------------>
+<script type="text/javascript">
+      var height1 = document.getElementById("height1");
+  	  var height2 = document.getElementById("height2");   
+      if( height1.offsetHeight > height2.offsetHeight){
+        height2.style.height = height1.offsetHeight + "px";
+      }
+     else{
+           height1.style.height = height2.offsetHeight + "px";
+      }
+</script>
+
+</body></html>

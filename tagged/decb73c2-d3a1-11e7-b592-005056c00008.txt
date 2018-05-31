@@ -1,0 +1,423 @@
+<html><head>
+   <title>西北农林科技大学 动物科技学院</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+  <link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+
+
+<style type="text/css"></style><script charset="utf-8" src="//s.yunshipei.com/javascript/sm.min.js" async=""></script></head><body>
+
+<!--顶部开始-->
+
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/e370dbe18cc1944dd895c7af5fb1c761/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
+  <title>西北农林科技大学 动物科技学院</title>
+
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+ 
+
+<link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+<script src="../../js/jquery1.42.min.js" type="text/javascript"></script>
+<script src="../../js/jquery.superslide.2.1.1.js" type="text/javascript"></script>
+<style>
+
+body {background: #E9E6E6;}
+
+*{font-family:宋体}
+
+.cont {margin: 1px 25px;color:#000;}
+.cont p{line-height:26px;text-indent: 0em;margin-bottom: 10px;font-size:14px;}
+.cont p img{text-indent: 0;margin: 0 auto;}
+.cont table{margin:0 auto;}
+.sort_rightcont2 h1{color: #0c600c;}
+#contenttable td{font-size:14px;padding:15px 0px;}
+#contenttable th{padding:10px 0;}
+#contenttable .fontstrong{font-weight:bold}
+		
+		
+		img{ border:0;  }
+		a{ text-decoration:none; color:#333;  }
+
+		/* 本例子css */
+		.slideBox{ width:1180px; height:130px; overflow:hidden; position:relative; border:1px solid #ddd;  }
+		.slideBox .hd{ height:15px; overflow:hidden; position:absolute; right:5px; bottom:5px; z-index:1; }
+		.slideBox .hd ul{ overflow:hidden; zoom:1; float:left; margin-top:10px; }
+		.slideBox .hd ul li{ float:left; margin-right:2px;  width:8px; height:8px; line-height:14px; text-align:center; background:#fff; cursor:pointer; }
+		.slideBox .hd ul li.on{ background:#f00; color:#fff; }
+		.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+		.slideBox .bd li{ zoom:1; vertical-align:middle; }
+		.slideBox .bd img{ width:1180px; height:130px; display:block;  }
+
+		/* 下面是前/后按钮代码，如果不需要删除即可 */
+		.slideBox .prev,
+		.slideBox .next{ position:absolute; left:3%; top:50%; margin-top:-25px; display:block; width:32px; height:40px; background:url(images/slider-arrow.png) -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+		.slideBox .next{ left:auto; right:3%; background-position:8px 5px; }
+		.slideBox .prev:hover,
+		.slideBox .next:hover{ filter:alpha(opacity=100);opacity:1;  }
+		.slideBox .prevStop{ display:none;  }
+		.slideBox .nextStop{ display:none;  }
+
+		
+</style>
+
+<div class="head">
+<script type="text/javascript" language="javascript">
+    //加入收藏
+        function AddFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }   
+        }
+    }
+    //设为首页
+    function SetHome(url){
+ 
+        if (document.all) {
+ 
+            document.body.style.behavior='url(#default#homepage)';
+ 
+               document.body.setHomePage(url);
+ 
+        }else{
+ 
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+    <div class="header">
+        <div class="head_right">    
+            <div style="width: 305px;height:45px;"><p><a href="http://dkxy.nwsuaf.edu.cn/english/" )="" target="_blank" "="">English</a> | <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a> | <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>| <a href="../../lxwm/index.htm" target="_blank">联系我们</a></p></div>
+            
+            <div>
+                <span class="sousou">
+<form name="dataForm" action="http://cms2.nwsuaf.edu.cn/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+     <input name="siteID" value="77" type="hidden">
+                        <input name="query" class="search_input" style="height:20px;width:175px;float: left;margin-left:15px;border-left: 2px solid #c1c0be;border-bottom: 2px solid #c1c0be;border-top: 2px solid #c1c0be;" value="请输入关键字" onclick="javascript:if (this.value=='请输入关键字'){this.value=''}" type="text">
+                        <input value="" name="Submit" class="so_btn" style="height:24px;width:55px;float:right;margin-right:85px;border:0; background:url(../../images/bg_search.png);" type="Submit">     
+                    </form>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<!--顶部结束-->
+
+
+<!--导航开始-->
+<div class="nav">
+          <div id="nav">
+                  <ul>
+                <li><a class="link" href="../../index.htm" target="_blank">首页</a></li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../zjrc/index.htm" target="_blank">师资队伍</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xkjs/xkjj/index.htm" target="_blank">学科建设</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../bksjy/zyjj/index.htm" target="_blank">本科生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../yjsjy/bsd/index.htm" target="_blank">研究生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../kytg/kytgjf/index.htm" target="_blank">科研推广</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../hzjl/xzjl/index.htm" target="_blank">合作交流</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../dqgz/dwjg/index.htm" target="_blank">党群工作</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xsgl/zzjg/index.htm" target="_blank">学生管理</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../crjy/hsjy/index.htm" target="_blank">成人教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygz/xyhd/index.htm" target="_blank">校友工作</a>
+                                </li>
+                                
+                
+            </ul>
+          </div>
+        </div>
+
+<!--导航结束-->
+
+<!--articlehome开始-->
+<div class="sort_main">
+
+	<div class="sort_left">
+	
+		<div class="sort_lefthead"><dt>师资队伍</dt></div>
+		<div class="sort_leftcont">
+			<ul>
+							<a href="../zjrc/index.htm" target="_blank"><li style="width:178px;height:32px;">专家人才</li></a>
+							<a href="index.htm" target="_blank"><li style="width:178px;height:32px;">教授、研究员</li></a>
+							<a href="../fjsfyjy/index.htm" target="_blank"><li style="width:178px;height:32px;">副教授、副研究员</li></a>
+							<a href="../js/index.htm" target="_blank"><li style="width:178px;height:32px;">讲师</li></a>
+							<a href="../wpzj/index.htm" target="_blank"><li style="width:178px;height:32px;">外聘专家</li></a>
+						</ul>
+		</div>
+
+	</div>
+
+
+
+
+	<div class="sort_right2">
+	
+		<div class="sort_righthead2"><dt>现在的位置:                  <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        教授、研究员
+</dt></div>
+		
+		<div class="sort_rightcont2">
+			
+				<h1 style="color: #0c600c;font-size:16px;">曹斌云</h1>
+				   <h2 style="font-size: 14px;color: #3d66aa;"> </h2>
+				<h2>                                  发布日期：2015-10-16  浏览次数： <script src="/cms/web/count.jsp?articleID=217716"></script>3156</h2>
+                               <div class="line" style="margin-top:10px;"></div>
+				<div class="cont" style="color:#000;margin: 1px 25px;">
+					　　<div class="media"></div>
+						<div class="flashpaper"></div>  
+							   <p><img onclick="window.open('../../images//content/2015-10/20151016165611216271_1.jpg')" src="../../images//content/2015-10/20151016165611216271.jpg" style="float:right; height:147px; width:150px"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1．基本信息</strong></p>
+
+<p>　　曹斌云，男，1955年8月生，陕西省周至县人，博士，教授，博士生导师。1976-1979年本科就读于西北农业大学，1979-1982年硕士就读于西北农业大学，1993-1997年博士就读于西北农业大学。1987年留校任教迄今。现任西北农林科技大学农业部奶山羊研究室主任，兼任国家转基因生物安全委员会委员，中国奶业协会奶山羊专业委员会副主任，中国养羊学会常务理事、中国畜牧经济委员会常务理事，陕西省奶山羊产业体系首席科学家、陕西省羊产业创新战略联盟首席科学家。</p>
+
+<p>　　<strong>2．研究方向</strong></p>
+
+<p>　　奶山羊、节粮猪良种选育和产业化配套技术以及动物生物技术。</p>
+
+<p>　<strong>　3．开设课程</strong></p>
+
+<p>　　长期致力于奶山羊、肉羊、节粮猪的良种选育及畜牧产业化的教学与科研工作，先后承担本科生动物科学导论、畜牧学概论、草食动物生产学等课程教学，为博、硕士研究生讲授动物遗传育种进展、动物生殖原理及技术、畜牧业发展专题等课程。目前已培养硕士研究生40名，博士研究生27名；在读硕士研究生6名，博士研究生8名。</p>
+
+<p>　　<strong>4．学术成果</strong></p>
+
+<p>　　主持项目:</p>
+
+<p>　　（1）优质高产奶山羊新品种(系)选育关键技术研究与示范，国家科技支撑计划子课题（2011BAD28B05-3），2012-2015,75万。</p>
+
+<p>　　（2） 良种奶山羊快速繁育近改良技术集成创新与示范推广，国家重点星火计划（201385GA0003），2013-2015,160万。</p>
+
+<p>　　（3）阿尔卑斯奶山羊良种冷冻精液与胚胎引进，国家948项目（2014-Z19），2013-2015,100万。</p>
+
+<p>　　（4）大型节约粮型香猪新品种选育，陕西省农业重点项目（2013Zd-1），2013-2015, 90万。</p>
+
+<p>　　（5）&nbsp;奶山羊产业技术体系建设，陕西省农业产业技术体系建设专项，2011-2015,150万。</p>
+
+<p>　　（6） 关中奶山羊新品系选育及高效开发利用关键技术研究与示范，陕西省科技统筹创新工程计划（2011KTCL02-09），2011-2013,40万。</p>
+
+<p>　　（7） 陕西省重大农技推广服务试点项目-羊产业示范推广，农业部，2015-2016,560万。</p>
+
+<p>　　主要论著</p>
+
+<p>　　（1）期刊论文</p>
+
+<p>　　An, X.P., Bai, L., Hou, J.X., Zhao, H.B., Peng, J.Y., Song, Y.X., Wang, J.G., Cao, B.Y., 2013a. Molecular cloning, tissue expression and SNP analysis in the goat nerve growth factor gene. Molecular Biology Reports 40, 857-863.</p>
+
+<p>　　An, X.P., Han, D., Hou, J.X., Li, G., Wang, J.G., Yang, M.M., Song, Y.X., Zhou, G.Q., Wang, Y.N., Ling, L., Yan, Q.M., Cao, B.Y., 2009. GnRHR gene polymorphisms and their effects on reproductive performance in Chinese goats. Small Ruminant Res 85, 130-134.</p>
+
+<p>　　An, X.P., Han, D., Hou, J.X., Li, G., Wang, Y.N., Li, L., Zhu, G.Q., Wang, J.G., Song, Y.X., Cao, B.Y., 2010a. Polymorphism of Exon 2 of FSH beta Gene and Its Relationship with Reproduction Performance in Two Goat Breeds. Agricultural Sciences in China 9, 880-886.</p>
+
+<p>　　An, X.P., Hou, J.X., Gao, T.Y., Lei, Y.N., Song, Y.X., Wang, J.G., Cao, B.Y., 2015a. Association analysis between variants in KITLG gene and litter size in goats. Gene 558, 126-130.</p>
+
+<p>　　An, X.P., Hou, J.X., Lei, Y.N., Gao, T.Y., Cao, B.Y., 2015b. Polymorphism and DNA methylation in the promoter modulate KISS1 gene expression and are associated with litter size in goats. Animal Reproduction Science 155, 36-41.</p>
+
+<p>　　An, X.P., Hou, J.X., Lei, Y.N., Gao, T.Y., Song, Y.X., Wang, J.G., Cao, B.Y., 2015c. Two mutations in the 5 '-flanking region of the KITLG gene are associated with litter size of dairy goats. Animal Genetics 46, 308-311.</p>
+
+<p>　　An, X.P., Hou, J.X., Li, G., Peng, J.Y., Liu, X.Q., Liu, H.Y., Xiao, W.P., Wang, J.G., Song, Y.X., Cao, B.Y., 2012a. Analysis of Differentially Expressed Genes in Ovaries of Polytocous versus Monotocous Dairy Goats Using Suppressive Subtractive Hybridization. Reproduction in Domestic Animals 47, 498-503.</p>
+
+<p>　　An, X.P., Hou, J.X., Li, G., Song, Y.X., Wang, J.G., Chen, Q.J., Cui, Y.H., Wang, Y.F., Cao, B.Y., 2012b. Polymorphism identification in the goat KITLG gene and association analysis with litter size. Animal Genetics 43, 104-107.</p>
+
+<p>　　An, X.P., Hou, J.X., Wang, L.X., Li, G., Wang, J.G., Song, Y.X., Zhou, G.Q., Han, D., Ling, L., Cao, B.Y., 2010b. Novel polymorphisms of the growth hormone gene and their effect on growth traits in Chinese goats. Meat Sci 86, 758-763.</p>
+
+<p>　　An, X.P., Hou, J.X., Zhao, H.B., Bai, L., Peng, J.Y., Zhu, C.M., Yan, Q.M., Song, Y.X., Wang, J.G., Cao, B.Y., 2013b. Polymorphism identification in goat DGAT1 and STAT5A genes and association with milk production traits. Czech Journal of Animal Science 58, 321-327.</p>
+
+<p>　　An, X.P., Hou, J.X., Zhao, H.B., Li, G., Bai, L., Peng, J.Y., Yan, Q., Song, Y.X., Wang, J.G., Cao, B.Y., 2013c. Polymorphism identification in goat GNRH1 and GDF9 genes and their association analysis with litter size. Animal Genetics 44, 234-238.</p>
+
+<p>　　An, X.P., Ma, T., Hou, J.X., Fang, F., Han, P., Yan, Y., Zhao, H.B., Song, Y.X., Wang, J.G., Cao, B.Y., 2013d. Association analysis between variants in KISS1 gene and litter size in goats. Bmc Genetics 14.</p>
+
+<p>　　An, X.P., Song, S.G., Hou, J.X., Zhu, C.M., Peng, J.X., Liu, X.Q., Liu, H.Y., Xiao, W.P., Zhao, H.P., Bai, L., Wang, J.G., Song, Y.X., Cao, B.Y., 2011a. Polymorphism identification in goat DGAT2 gene and association analysis with milk yield and fat percentage. Small Ruminant Res 100, 107-112.</p>
+
+<p>　　An, X.P., Song, Y.X., Bu, S.H., Ma, H.D., Gao, K.X., Hou, J.X., Wang, S., Lei, Z., Cao, B.Y., 2016. Association of polymorphisms at the microRNA binding site of the caprine KITLG 3 '-UTR with litter size. Scientific Reports 6.</p>
+
+<p>　　An, X.P., Song, Y.X., Hou, J.X., Han, P., Peng, J.Y., Zhang, L., Wang, J.G., Cao, B.Y., 2015d. Mutations in the MTHFR gene and their associations with milk production traits in dairy goats. Small Ruminant Res 130, 76-80.</p>
+
+<p>　　An, X.P., Wang, J.G., Hou, J.X., Zhao, H.B., Bai, L., Li, G., Wang, L.X., Liu, X.Q., Xiao, W.P., Song, Y.X., Cao, B.Y., 2011b. Polymorphism identification in the goat MSTN gene and association analysis with growth traits. Czech Journal of Animal Science 56, 529-535.</p>
+
+<p>　　An, X.P., Wang, L.X., Hou, J.X., Li, G., Song, Y.X., Wang, J.A., Yang, M.M., Cui, Y.H., Cao, B.Y., 2011c. Novel polymorphisms of goat growth hormone and growth hormone receptor genes and their effects on growth traits. Molecular Biology Reports 38, 4037-4043.</p>
+
+<p>　　An, X.P., Zhao, H.B., Bai, L., Hou, J.X., Peng, J.Y., Wang, J.G., Song, Y.X., Cao, B.Y., 2012c. Polymorphism identification in the goat THRSP gene and association analysis with growth traits. Archiv Fur Tierzucht-Archives of Animal Breeding 55, 78-83.</p>
+
+<p>　　Fang, R.Y., Wang, Q.N., Yang, B.W., Zhang, J., Cao, B.Y., Geng, W., Feng, X.C., Yang, J.J., Yang, J., Ge, W.P., 2015. Prevalence and subtyping of Cronobacter species in goat milk powder factories in Shaanxi province, China. J Dairy Sci 98, 7552-7559.</p>
+
+<p>　　Hou, J.X., An, X.P., Han, P., Peng, J.Y., Cao, B.Y., 2015a. Two missense mutations in exon 9 of caprine PRLR gene were associated with litter size. Animal Genetics 46, 87-90.</p>
+
+<p>　　Hou, J.X., An, X.P., Li, G., Wang, Y.N., Song, Y.X., Cao, B.Y., 2012. Exploring polymorphisms and their effects on reproductive traits of the INHA and INH beta A genes in three goat breeds. Animal Science Journal 83, 273-278.</p>
+
+<p>　　Hou, J.X., An, X.P., Song, Y.X., Gao, T.N., Lei, Y., Cao, B.Y., 2015b. Two Mutations in the Caprine MTHFR 3 ' UTR Regulated by MicroRNAs Are Associated with Milk Production Traits. Plos One 10.</p>
+
+<p>　　Hou, J.X., An, X.P., Song, Y.X., Wang, J.G., Ma, T., Han, P., Fang, F., Cao, B.Y., 2013. Combined effects of four SNPs within goat PRLR gene on milk production traits. Gene 529, 276-281.</p>
+
+<p>　　Hou, J.X., An, X.P., Wang, J.G., Song, Y.X., Cao, B.Y., 2014. Expression of caprine E74-like factor 5 gene and associations of polymorphisms with milk production traits. Small Ruminant Res 121, 193-199.</p>
+
+<p>　　Hou, J.X., An, X.P., Wang, J.G., Song, Y.X., Cui, Y.H., Wang, Y.F., Chen, Q.J., Cao, B.Y., 2011. New genetic polymorphisms of KiSS-1 gene and their association with litter size in goats. Small Ruminant Res 96, 106-110.</p>
+
+<p>　　Hou, J.X., Wang, J.G., An, X.P., Zhu, G.Q., Cao, B.Y., 2015c. Polymerisation effects of four microsatellites on litter size in Xinong Saanen goats. Anim Prod Sci 55, 1051-1055.</p>
+
+<p>　　Ji, S.Y., Li, W.L., Baloch, A.R., Wang, M., Cao, B.Y., 2015a. Improved production of sublancin via introduction of three characteristic promoters into operon clusters responsible for this novel distinct glycopeptide biosynthesis. Microbial Cell Factories 14.</p>
+
+<p>　　Ji, S.Y., Li, W.L., Bao, L.J., Han, P., Yang, W.P., Ma, L., Meng, F.X., Cao, B.Y., 2014a. PU.1 promotes miR-191 to inhibit adipogenesis in 3T3-L1 preadipocytes. Biochemical and Biophysical Research Communications 451, 329-333.</p>
+
+<p>　　Ji, S.Y., Li, W.L., Xin, H.Y., Wang, S., Cao, B.Y., 2015b. Improved Production of Sublancin 168 Biosynthesized by Bacillus subtilis 168 Using Chemometric Methodology and Statistical Experimental Designs. Biomed Research International.</p>
+
+<p>　　Ji, S.Y., Li, W.L., Zhang, L., Zhang, Y., Cao, B.Y., 2014b. Cecropin A-melittin mutant with improved proteolytic stability and enhanced antimicrobial activity against bacteria and fungi associated with gastroenteritis in vitro. Biochemical and Biophysical Research Communications 451, 650-655.</p>
+
+<p>　　Ji, Y.T., Qu, C.Q., Cao, B.Y., 2007. An optimal method of DNA silver staining in polyacrylamide gels. Electrophoresis 28, 1173-1175.</p>
+
+<p>　　Li, G., An, X.P., Fu, M.Z., Hou, J.X., Sun, R.P., Zhu, G.Q., Wang, J.G., Cao, B.Y., 2011a. Polymorphism of PRLR and LH beta genes by SSCP marker and their association with litter size in Boer goats. Livest Sci 136, 281-286.</p>
+
+<p>　　Li, G.A., An, X.P., Hou, J.X., Li, L., Han, D., Yang, M.M., Wang, Y.N., Zhu, G.Q., Wang, J.G., Song, Y.X., Cao, B.Y., 2011b. Study on polymerization effect of polyembryony genes by SSCP marker and family trees in Chinese goats. Molecular Biology Reports 38, 739-744.</p>
+
+<p>　　Liu, X.Q., Liu, H.Y., Chen, Q.J., Yang, M.M., Xin, H.Y., Bai, L., Peng, J.Y., Zhao, H.B., Cao, B.Y., 2013. Construction of Foot-and-mouth disease virus 2A-based bicistronic expression vector and coexpression of two genes in goat mammary epithelial cells. Anim Prod Sci 53, 335-341.</p>
+
+<p>　　Liu, X.Q., Xie, F., Zamah, A.M., Cao, B.Y., Conti, M., 2014a. Multiple Pathways Mediate Luteinizing Hormone Regulation of cGMP Signaling in the Mouse Ovarian Follicle. Biology of Reproduction 91.</p>
+
+<p>　　Liu, X.Q., Xie, F., Zamah, A.M., Cao, B.Y., Conti, M., 2014b. Multiple Pathways Mediate Luteinizing Hormone Regulation of cGMP Signaling in the Mouse Ovarian Follicle (vol 91, 9, 2014). Biology of Reproduction 91.</p>
+
+<p>　　Liu, X.Q., Yang, H., Peng, J.Y., Chen, Q.J., Cao, B.Y., 2012. Establishment and Evaluation of a New Method Tissue Re-Shift for Isolation of Goat Mammary Epithelial Cells. Journal of Animal and Veterinary Advances 11, 2403-2408.</p>
+
+<p>　　Ma, L., Yang, W.P., Meng, F.X., Ji, S.Y., Xin, H.Y., Cao, B.Y., 2015. Characterization of an acidic cellulase produced by Bacillus subtilis BY-4 isolated from gastrointestinal tract of Tibetan pig. Journal of the Taiwan Institute of Chemical Engineers 56, 67-72.</p>
+
+<p>　　Peng, J.Y., An, X.P., Fang, F., Gao, K.X., Xin, H.Y., Han, P., Bao, L.J., Ma, H.D., Cao, B.Y., 2016. MicroRNA-10b suppresses goat granulosa cell proliferation by targeting brain-derived neurotropic factor. Domestic Animal Endocrinology 54, 60-67.</p>
+
+<p>　　Peng, J.Y., Han, R., Xin, H.Y., Ji, S.Y., Gao, K.X., An, X.P., Cao, B.Y., 2015a. Molecular characterization and hormonal regulation of tissue inhibitor of metalloproteinase 1 in goat ovarian granulosa cells. Domestic Animal Endocrinology 52, 1-10.</p>
+
+<p>　　Peng, J.Y., Xin, H.Y., Han, P., Gao, K.X., Gao, T.Y., Lei, Y.N., Ji, S.Y., An, X.P., Cao, B.Y., 2015b. Expression and regulative function of tissue inhibitor of metalloproteinase 3 in the goat ovary and its role in cultured granulosa cells. Molecular and Cellular Endocrinology 412, 104-115.</p>
+
+<p>　　Peng, J.Y., Xin, H.Y., Han, P., Zhao, H.B., Bai, L., An, X.P., Cao, B.Y., 2013. Identification and gene expression analyses of natriuretic peptide system in the ovary of goat (Capra hircus). Gene 524, 105-113.</p>
+
+<p>　　Song, Y.X., An, X.P., Zhang, L., Fu, M.Z., Peng, J.Y., Han, P., Hou, J.X., Zhou, Z.Q., Cao, B.Y., 2015a. Identification and Profiling of microRNAs in Goat Endometrium during Embryo Implantation. Plos One 10.</p>
+
+<p>　　Song, Y.X., Hou, J.X., Zhang, L., Wang, J.G., Liu, X.R., Zhou, Z.Q., Cao, B.Y., 2015b. Effect of Dietary Selenomethionine Supplementation on Growth Performance, Tissue Se Concentration, and Blood Glutathione Peroxidase Activity in Kid Boer Goats. Biological Trace Element Research 167, 242-250.</p>
+
+<p>　　Zhang, L., An, X.P., Liu, X.R., Fu, M.Z., Han, P., Peng, J.Y., Hou, J.X., Zhou, Z.Q., Cao, B.Y., Song, Y.X., 2015. Characterization of the Transcriptional Complexity of the Receptive and Pre-receptive Endometria of Dairy Goats. Scientific Reports 5.</p>
+
+<p>　　Zhu, G.Q., Cui, Y.H., Song, Y.X., Wang, J.G., Cao, B.Y., 2011. Screening of seven microsatellite markers for litter size in Xinong Saanen dairy goat. African Journal of Biotechnology 10, 8523-8528.</p>
+
+<p>　　陈秋菊，王韵斐，崔易虹，朱广琴，宋宇轩，曹斌云<sup>*</sup>，组织块再移法分离培养奶山羊乳腺上皮细胞，中国兽医学报，2012，(02):301-304。</p>
+
+<p>　　王韵斐，陈秋菊，崔易虹，杨明明，曹斌云<sup>*</sup>，无抗性标记的人白血病抑制因子打靶载体的构建及表达，农业生物技术学报，2011，(05):960-966。</p>
+
+<p>　　颜泉梅，陈秋菊，崔易虹，朱广琴，朱春梅，安小鹏，杨莎，王建刚，宋宇轩，曹斌云<sup>*</sup>，西农莎能奶山羊和布尔山羊GnRH基因多态性与产羔数的相关分析，中国兽医学报，2011，(11):1667-1671。</p>
+
+<p>　　陈秋菊，王韵斐，崔易虹，朱广琴，杨明明，宋宇轩，曹斌云<sup>*</sup>，FMDV2A介导的乳腺上皮细胞双基因表达载体构建及表达，畜牧兽医学报，2011，(10):1396-1401。</p>
+
+<p>　　王韵斐，陈秋菊，杨莎，崔易虹，杨明明，曹斌云<sup>*</sup>，人白介素-2基因打靶载体的构建、转染及鉴定，中国农业大学学报，2011，(05):82-87。</p>
+
+<p>　　肖文萍，宋社果，刘海艳，安小鹏，侯金星，刘雪青，宋宇轩，王建刚，曹斌云<sup>*</sup>，奶山羊催乳复合青贮苹果渣饲料的研制，西北农业学报，2012，(04):30-34。</p>
+
+<p>　　曹斌云<sup>*</sup>，李广，安小鹏，孙瑞平，奶山羊多羔基因聚合育种研究，中国畜牧兽医学会养羊学分会2012年全国养羊生产与学术研讨会议轮文集，2012:191-194。</p>
+
+<p>　　李广，安小鹏，李玲，韩丹，侯金星，王娅娜，朱广琴，王建刚，宋宇轩，曹斌云<sup>*</sup>，西农萨能奶山羊多胎基因位点的遗传聚合效应分析，西北农林科技大学学报(自然科学版)，2009，37(10):49-54。</p>
+
+<p>　　颜泉梅，杨莎，朱广琴，朱春梅，安小鹏，王建刚，宋宇轩，曹斌云<sup>*</sup>，西农莎能奶山羊和波尔山羊GDF9基因多态性与产羔数的相关分析，中国兽医学报，&nbsp;2010，(10): 1395-1397。</p>
+
+<p>　　（2）专著</p>
+
+<p>　　[1] 曹斌云，魏志杰主编，奶山羊，三秦出版社，29.6万字，2013年12月</p>
+
+<p>　　（3）奖励</p>
+
+<p>　　[1] 优质高效奶山羊产业化关键技术的集成创新与推广, 陕西省农业技术推广成果奖,一等奖，2012。</p>
+
+<p>　　（4）专利</p>
+
+<p>　　[1] 曹斌云，张若楠，宋社果，加伟，一种可在常温条件长期保存的液态山羊奶的制备方法，2011.09，中国，授权号ZL200610104647.4</p>
+
+<p>　　[2] 曹斌云，姬云涛，安小鹏，侯金星，王建刚，宋宇轩，一种聚丙烯酰氨凝胶电泳中的DNA银染法，2011.11，中国，授权号ZL201010199444.4</p>
+
+<p>　　[3] 曹斌云，侯金星，安小鹏，王建刚，宋宇轩，杨明明，朱广琴，王韵斐,利用神经内分泌因子基因选择山羊产羔性状的分子标记方法，2012.07，中国,授权号ZL201010278144.5</p>
+
+<p>　　[4]&nbsp;曹斌云，安小鹏，颜泉梅，侯金星，王建刚，宋宇轩，杨明明，朱广琴，检测山羊促性腺激素释放激素和生长分化因子9的碱基突变多态性的方法，2012.05，授权号ZL201010199506.1</p>
+
+<p>　　[5]&nbsp;曹斌云，侯金星，安小鹏，王建刚，宋宇轩，杨明明，朱广琴，王韵斐，利用神经内分泌因子基因选择山羊产羔性状的分子标记方法，2012.07，授权号ZL201010278144.5</p>
+
+<p>　　[6]&nbsp;曹斌云，安小鹏，侯金星，王建刚，宋宇轩，杨明明，朱广琴，王韵斐，崔易虹，一种山羊产羔性状的分子标记选择方法，2012.08，授权号ZL201010263060.4</p>
+
+<p>　　[7]&nbsp;曹斌云，刘海艳，杨明明，肖文萍，安小鹏，王建刚，宋宇轩，一种芽孢杆菌及其应用，2012.10，授权号ZL 201110321155.1</p>
+
+<p>　　[8]&nbsp;曹斌云，安小鹏，侯金星，王利心，王建刚，宋宇轩，检测山羊生长激素基因编码区5个碱基突变多态性的方法，2012.03，授权号ZL201010199157.3</p>
+
+<p>　　[9]&nbsp;曹斌云，王建刚，加伟，常温下可长期保存的蜂蜜山碴山羊奶饮料及制备方法，2013.02，授权号ZL200610104646.X</p>
+
+<p>　　[10]&nbsp;曹斌云，侯金星，安小鹏，王建刚，宋宇轩，一种利用双基因聚合效应选育奶山羊产奶性状的方法，2015.09，授权号ZL201310449829.5</p>
+
+<p>　<strong>　5．联系方式</strong></p>
+
+<p>　　通讯地址:陕西杨凌西农路22号&nbsp;西北农林科技大学动物科技学院</p>
+
+<p>　　邮编:712100</p>
+
+<p>　　联系电话:029-87092102(办)</p>
+
+<p>　　Email: caobinyun@126.com</p>
+
+<p>　　</p>
+
+<p>　　</p>
+
+				</div>
+
+
+
+
+		</div>
+	
+	</div>
+	<div style="clear:both;"></div>
+</div>
+<!--articlehome结束-->
+
+<script src="/cms/web/writeLog.jsp?articleID=217716"></script>
+<!--foot开始-->
+
+<div class="foot">
+	<div style="width:105px;float:left;  margin-top: 30px;
+  padding-left: 103px;;">
+						<p style="text-align: center;"><a href="../../sydbwxewm/297978.htm" target="_blank" title="西北农林科技大学动物科技学院微信公众平台"><img src="../../images/content/2016-03/20160329200002940113.jpg" width="40" height="40" border="0"></a></p>
+						 		
+		<!--<p style="text-align:center;;margin-top:10px;"><a href="/sydbwxewm/297978.htm" target="_blank" title="$article.name">动科学院微信平台</a></p>-->
+	</div>
+	<div style="float:left;">
+		<p style="text-align:center;padding-top:30px;">版权所有 :  西北农林科技大学动物科技学院&nbsp;&nbsp;
+地址：陕西省杨凌农业高新技术产业示范区西农路22号&nbsp;&nbsp;&nbsp;邮编：712100 </p>
+		<p style="text-align:center;padding-top:10px;">主管领导：王力  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;网管员：阮鹏<font style="color:#FF6600"> &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;总访问量：<script src="/cms/web/channelVisitLog.jsp?channelID=3352"></script>234792次</font></p>
+	</div>
+	<script src="/cms/web/writeLog.jsp?siteID=77&amp;channelID=3352"></script>
+</div>
+
+<!--foot结束-->
+
+
+ 
+</body></html>

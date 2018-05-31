@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=239" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="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" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;刘武</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/刘武.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;ACM FCA创始会员 Machine Vision and Applications客邀编辑 ICIP 2017, GlobalSIP 2017, BIGMM 2017, PCM 2016, ICIMCS 2016分会/专题研讨会主席</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;物联网技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;讲师</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        多媒体技术、物联网信息处理</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;多媒体计算、机器学习、计算机视觉</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;2015年博士毕业于中国科学院计算技术研究所。研究方向为多媒体、机器学习与计算机视觉，在IEEE&nbsp;CVPR、ACM&nbsp;MM、IJCAI、ECCV、IEEE&nbsp;T-MM、IEEE&nbsp;T-CYB等一流国际会议和期刊上发表文章20余篇。曾获得中国科学院优秀博士学位论文奖、中国科学院院长特别奖、国际会议IEEE&nbsp;ICME&nbsp;2016&nbsp;Best&nbsp;Student&nbsp;Paper、BIGCOM&nbsp;2016&nbsp;Runner&nbsp;Up&nbsp;for&nbsp;Best&nbsp;Paper、2016&nbsp;CCF腾讯-犀牛鸟科研基金等。曾担任SCI期刊MVA客邀编辑，国际会议PCM&nbsp;2016、ICIMCS&nbsp;2016、CCIS&nbsp;2016、BIGMM&nbsp;2017、ICIP&nbsp;2017、GlobalSIP&nbsp;2017的分会或专题研讨会主席,&nbsp;以及多个IEEE/ACM&nbsp;Transaction期刊和CCF推荐A、B类国际会议的审稿人。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;1.	国家自然科学基金青年科学基金项目，61602049，有限语义标注的视频场景自动理解技术研究，2017/01-2019/12，在研，主持<br>2.	CCF-腾讯“犀牛鸟”科研基金项目，AGR20160113，移动视频检索关键技术研究，2016/11&nbsp;-2017/11,&nbsp;在研，主持<br>3.	国家自然科学基金面上项目，61572472，基于稀疏表示和深度学习的大规模目标检测，2016/01-2019/12，在研，科研骨干<br>4.	国家高技术研究发展计划（863计划）项目，2014AA015101，基于深度学习的大数据语义分析技术，2014/07-2016/12,&nbsp;结题，科研骨干<br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;1.&nbsp;中国科学院优秀博士学位论文奖，2016<br>2.&nbsp;中国科学院院长特别奖，2015<br>3.&nbsp;CCF-腾讯犀牛鸟科研基金奖，2016<br>4.&nbsp;国际会议IEEE&nbsp;ICME&nbsp;2016最佳学生论文，2016<br>5.&nbsp;国际会议BIGCOM&nbsp;2016最佳论文亚军奖，2016<br>6.&nbsp;中科院计算所“夏培肃”奖，2014<br></td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">[1]	Wu&nbsp;Liu,&nbsp;Xincheng&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;Peng&nbsp;Cheng:&nbsp;Beyond&nbsp;Human-level&nbsp;License&nbsp;Plate&nbsp;Super-resolution&nbsp;with&nbsp;Progressive&nbsp;Vehicle&nbsp;Search&nbsp;and&nbsp;Domain&nbsp;Priori&nbsp;GAN.&nbsp;ACM&nbsp;MM&nbsp;2017&nbsp;<br>[2]	Wu&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;Heng&nbsp;Qi,&nbsp;Dong&nbsp;Zhao,&nbsp;Zhineng&nbsp;Chen:&nbsp;Deep&nbsp;learning&nbsp;hashing&nbsp;for&nbsp;mobile&nbsp;visual&nbsp;search.&nbsp;EURASIP&nbsp;J.&nbsp;Image&nbsp;and&nbsp;Video&nbsp;Processing&nbsp;2017:&nbsp;17&nbsp;(2017)<br>[3]	Wu&nbsp;Liu,&nbsp;Jiangyu&nbsp;Liu,&nbsp;Xiaoyan&nbsp;Gu,&nbsp;Kun&nbsp;Liu,&nbsp;Xiaowei&nbsp;Dai,&nbsp;Huadong&nbsp;Ma:&nbsp;Deep&nbsp;Learning&nbsp;Based&nbsp;Intelligent&nbsp;Basketball&nbsp;Arena&nbsp;with&nbsp;Energy&nbsp;Image.&nbsp;MMM&nbsp;(1)&nbsp;2017:&nbsp;601-613<br>[4]	Wu&nbsp;Liu,&nbsp;Tao&nbsp;Mei,&nbsp;Yongdong&nbsp;Zhang,&nbsp;Cherry&nbsp;Che,&nbsp;Jiebo&nbsp;Luo:&nbsp;Multi-task&nbsp;deep&nbsp;visual-semantic&nbsp;embedding&nbsp;for&nbsp;video&nbsp;thumbnail&nbsp;selection.&nbsp;CVPR&nbsp;2015:&nbsp;3707-3715<br>[5]	Wu&nbsp;Liu,&nbsp;Tao&nbsp;Mei,&nbsp;Yongdong&nbsp;Zhang:&nbsp;Instant&nbsp;Mobile&nbsp;Video&nbsp;Search&nbsp;With&nbsp;Layered&nbsp;Audio-Video&nbsp;Indexing&nbsp;and&nbsp;Progressive&nbsp;Transmission.&nbsp;IEEE&nbsp;Trans.&nbsp;Multimedia&nbsp;16(8):&nbsp;2242-2255&nbsp;(2014)<br>[6]	Wu&nbsp;Liu,&nbsp;Yongdong&nbsp;Zhang,&nbsp;Sheng&nbsp;Tang,&nbsp;Jinhui&nbsp;Tang,&nbsp;Richang&nbsp;Hong,&nbsp;Jintao&nbsp;Li:&nbsp;Accurate&nbsp;Estimation&nbsp;of&nbsp;Human&nbsp;Body&nbsp;Orientation&nbsp;From&nbsp;RGB-D&nbsp;Sensors.&nbsp;IEEE&nbsp;Trans.&nbsp;Cybernetics&nbsp;43(5):&nbsp;1442-1452&nbsp;(2013)<br>[7]	Wu&nbsp;Liu,&nbsp;Feibin&nbsp;Yang,&nbsp;Yongdong&nbsp;Zhang,&nbsp;Qinghua&nbsp;Huang,&nbsp;Tao&nbsp;Mei:&nbsp;LAVES:&nbsp;an&nbsp;instant&nbsp;mobile&nbsp;video&nbsp;search&nbsp;system&nbsp;based&nbsp;on&nbsp;layered&nbsp;audio-video&nbsp;indexing.&nbsp;ACM&nbsp;Multimedia&nbsp;2013:&nbsp;409-410<br>[8]	Wu&nbsp;Liu,&nbsp;Tao&nbsp;Mei,&nbsp;Yongdong&nbsp;Zhang,&nbsp;Jintao&nbsp;Li,&nbsp;Shipeng&nbsp;Li:&nbsp;Listen,&nbsp;look,&nbsp;and&nbsp;gotcha:&nbsp;instant&nbsp;video&nbsp;search&nbsp;with&nbsp;mobile&nbsp;phones&nbsp;by&nbsp;layered&nbsp;audio-video&nbsp;indexing.&nbsp;ACM&nbsp;Multimedia&nbsp;2013:&nbsp;887-896<br>[9]	Wu&nbsp;Liu,&nbsp;Tian&nbsp;Xia,&nbsp;Ji&nbsp;Wan,&nbsp;Yongdong&nbsp;Zhang,&nbsp;Jintao&nbsp;Li:&nbsp;RGB-D&nbsp;Based&nbsp;Multi-attribute&nbsp;People&nbsp;Search&nbsp;in&nbsp;Intelligent&nbsp;Visual&nbsp;Surveillance.&nbsp;MMM&nbsp;2012:&nbsp;750-760<br>[10]	Wu&nbsp;Liu,&nbsp;Yihong&nbsp;Gao,&nbsp;Huadong&nbsp;Ma,&nbsp;Shui&nbsp;Yu,&nbsp;and&nbsp;Jie&nbsp;Nie,&nbsp;“Cost&nbsp;Optimal&nbsp;Resource&nbsp;Provisioning&nbsp;for&nbsp;Live&nbsp;Video&nbsp;Forwarding&nbsp;across&nbsp;Video&nbsp;Data&nbsp;Centers,”&nbsp;Journal&nbsp;of&nbsp;Visual&nbsp;Communication&nbsp;and&nbsp;Image&nbsp;Representation,&nbsp;2017,&nbsp;DOI:&nbsp;10.1016/j.jvcir.2017.01.010<br>[11]	Yihong&nbsp;Gao,&nbsp;Huadong&nbsp;Ma,&nbsp;Wu&nbsp;Liu:&nbsp;Minimizing&nbsp;Resource&nbsp;Cost&nbsp;for&nbsp;Camera&nbsp;Stream&nbsp;Scheduling&nbsp;in&nbsp;Video&nbsp;Data&nbsp;Center.&nbsp;J.&nbsp;Comput.&nbsp;Sci.&nbsp;Technol.&nbsp;32(3):&nbsp;555-570&nbsp;(2017)<br>[12]	Peiye&nbsp;Liu,&nbsp;Wu&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;“Weighted&nbsp;sequence&nbsp;loss&nbsp;based&nbsp;spatial-temporal&nbsp;deep&nbsp;learning&nbsp;framework&nbsp;for&nbsp;human&nbsp;body&nbsp;orientation&nbsp;estimation,”&nbsp;IEEE&nbsp;ICME&nbsp;2017<br>[13]	Lingheng&nbsp;Zhu,&nbsp;Wu&nbsp;Liu,&nbsp;Lingyang&nbsp;Chu,&nbsp;Peiye&nbsp;Liu,&nbsp;Xiaoyan&nbsp;Gu,&nbsp;“Query&nbsp;From&nbsp;Sketch:&nbsp;A&nbsp;Common&nbsp;Subgraph&nbsp;Correspondence&nbsp;Mining&nbsp;Framework,”&nbsp;IEEE&nbsp;BIGMM&nbsp;Workshop&nbsp;2017<br>[14]	Jingkuan&nbsp;Song,&nbsp;Zhao&nbsp;Guo,&nbsp;Wu&nbsp;Liu,&nbsp;Dongxiang&nbsp;Zhang,&nbsp;Hengtao&nbsp;TShen,&nbsp;Lianli&nbsp;Gao,&nbsp;“Hierarchical&nbsp;LSTM&nbsp;with&nbsp;Adjusted&nbsp;Temporal&nbsp;Attention&nbsp;for&nbsp;Video&nbsp;Captioning,”&nbsp;IJCAI&nbsp;2017<br>[15]	Zheng&nbsp;Zhang,&nbsp;Wu&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;Chuang&nbsp;Gan,&nbsp;Xinchen&nbsp;Liu,&nbsp;“Going&nbsp;Clear&nbsp;from&nbsp;Misty&nbsp;Rain&nbsp;in&nbsp;Dark&nbsp;Channel&nbsp;guided&nbsp;Network”,&nbsp;IJCAI&nbsp;Workshop,&nbsp;2017<br>[16]	Xinchen&nbsp;Liu,&nbsp;Wu&nbsp;Liu,&nbsp;Tao&nbsp;Mei,&nbsp;Huadong&nbsp;Ma:&nbsp;A&nbsp;Deep&nbsp;Learning-Based&nbsp;Approach&nbsp;to&nbsp;Progressive&nbsp;Vehicle&nbsp;Re-identification&nbsp;for&nbsp;Urban&nbsp;Surveillance.&nbsp;ECCV&nbsp;(2)&nbsp;2016:&nbsp;869-884<br>[17]	Cheng&nbsp;Zhang,&nbsp;Wu&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;Huiyuan&nbsp;Fu:&nbsp;Siamese&nbsp;neural&nbsp;network&nbsp;based&nbsp;gait&nbsp;recognition&nbsp;for&nbsp;human&nbsp;identification.&nbsp;ICASSP&nbsp;2016:&nbsp;2832-2836<br>[18]	Xinchen&nbsp;Liu,&nbsp;Wu&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;Huiyuan&nbsp;Fu:&nbsp;Large-scale&nbsp;vehicle&nbsp;re-identification&nbsp;in&nbsp;urban&nbsp;surveillance&nbsp;videos.&nbsp;ICME&nbsp;2016:&nbsp;1-6<br>[19]	Shuangqun&nbsp;Li,&nbsp;Wu&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;Huiyuan&nbsp;Fu:&nbsp;Multi-attribute&nbsp;Based&nbsp;Fire&nbsp;Detection&nbsp;in&nbsp;Diverse&nbsp;Surveillance&nbsp;Videos.&nbsp;MMM&nbsp;(1)&nbsp;2017:&nbsp;238-250<br>[20]	Yihong&nbsp;Gao,&nbsp;Huadong&nbsp;Ma,&nbsp;Wu&nbsp;Liu,&nbsp;Shui&nbsp;Yu:&nbsp;Cost&nbsp;Optimal&nbsp;Resource&nbsp;Provisioning&nbsp;for&nbsp;Live&nbsp;Video&nbsp;Forwarding&nbsp;Across&nbsp;Video&nbsp;Data&nbsp;Centers.&nbsp;BigCom&nbsp;2016:&nbsp;27-38<br>[21]	Shuangqun&nbsp;Li,&nbsp;Xinchen&nbsp;Liu,&nbsp;Wu&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;Haitao&nbsp;Zhang:&nbsp;A&nbsp;discriminative&nbsp;null&nbsp;space&nbsp;based&nbsp;deep&nbsp;learning&nbsp;approach&nbsp;for&nbsp;person&nbsp;re-identification.&nbsp;CCIS&nbsp;2016:&nbsp;480-484<br>[22]	Rui&nbsp;Zhang,&nbsp;Sheng&nbsp;Tang,&nbsp;Wu&nbsp;Liu,&nbsp;Yongdong&nbsp;Zhang，Jintao&nbsp;Li，”Multi-modal&nbsp;Tag&nbsp;Localization&nbsp;for&nbsp;Mobile&nbsp;Video&nbsp;Search,”&nbsp;Multimedia&nbsp;Systems,&nbsp;2016,&nbsp;DOI:10.1007&nbsp;/s00530-016-0506-9<br>[23]	Rui&nbsp;Zhang,&nbsp;Sheng&nbsp;Tang,&nbsp;Wu&nbsp;Liu,&nbsp;Jintao&nbsp;Li:&nbsp;Multimodal&nbsp;tag&nbsp;localization&nbsp;based&nbsp;on&nbsp;deep&nbsp;learning.&nbsp;ICIMCS&nbsp;2015:&nbsp;50:1-50:4<br>[24]	Bin&nbsp;Wang,&nbsp;Sheng&nbsp;Tang,&nbsp;Ruizhen&nbsp;Zhao,&nbsp;Wu&nbsp;Liu,&nbsp;Yigang&nbsp;Cen:&nbsp;Pedestrian&nbsp;detection&nbsp;based&nbsp;on&nbsp;Region&nbsp;Proposal&nbsp;Fusion.&nbsp;MMSP&nbsp;2015:&nbsp;1-6<br>[25]	Yicheng&nbsp;Song,&nbsp;Yong-Dong&nbsp;Zhang,&nbsp;Juan&nbsp;Cao,&nbsp;Tian&nbsp;Xia,&nbsp;Wu&nbsp;Liu,&nbsp;Jin-Tao&nbsp;Li:&nbsp;Web&nbsp;Video&nbsp;Geolocation&nbsp;by&nbsp;Geotagged&nbsp;Social&nbsp;Resources.&nbsp;IEEE&nbsp;Trans.&nbsp;Multimedia&nbsp;14(2):&nbsp;456-470&nbsp;(2012)<br></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;010-62282767</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教3-633</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;liuwu@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;个人主页:&nbsp;liuwu.weebly.com</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

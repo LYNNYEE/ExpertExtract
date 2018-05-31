@@ -1,0 +1,138 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<meta name="title" content="交大，西南交通大学，导师信息，教师，个人主页"> 
+<meta name="description" content="西南交通大学教师个人主页系统是为交大教师提供一个展示个人学术研究与教学工作的平台，扩大学校在互联网上的影响力。本系统是由西南交通大学信息网络中心开发维护。"> 
+<meta name="keywords" content="交大，西南交通大学，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>个人主页 | 个人信息 | 西南交通大学个人主页系统</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/Default.css">
+<link rel="stylesheet" type="text/css" href="css/Default2.css">
+</head>
+
+<body id="sys_background">
+
+
+<!-- start header -->
+<div id="header">
+	<div id="menu">
+		<ul class="sys_navigation">
+						
+																
+													<li class="current_page_item"><a href="index.htm" title="Home" target="_blank">个人信息</a></li>
+					
+						<li class="current_page_item"><a href="research.htm" title="Home" target="_blank">科学研究</a></li>
+						<li class="current_page_item"><a href="paper.htm" title="Home" target="_blank">论文成果</a></li>
+						<li class="current_page_item"><a href="award.htm" title="Home" target="_blank">荣誉奖励</a></li>								
+						<li class="current_page_item"><a href="team.htm" title="Home" target="_blank">科研团队</a></li>
+							<li class="current_page_item"><a href="teach.htm" title="Home" target="_blank">课程教学</a></li>
+									<li class="current_page_item"><a href="zhaosheng.htm" title="Gallery" target="_blank">招生信息</a></li>
+						<li class="current_page_item"><a href="english.htm" title="Gallery" target="_blank">English</a></li>
+					
+						
+					</ul>
+	</div>
+</div>
+<div style="clear:both;"></div>
+<div id="logo">
+	<div id="sys_banner" name="banner" style="background: url(images/banner_SpaFlowers.jpg) no-repeat left top;">
+		
+		
+		<h1><a id="sys_heading" href="./" target="_blank">王滢的个人主页</a></h1>
+	</div>
+</div>
+<!-- end header -->
+
+<!-- start page -->
+<div id="page">
+	<!-- start content -->
+	<div id="content">
+		    <div style="width: 100%; padding: 0px; margin: 0px" class="layout_1-column">
+        <div id="layout_row1">
+<div id="sys_region_1" style="margin:0px; padding:5px; vertical-align:top; line-height:normal; min-width:100px" class="zone_top">
+
+<div id="I1" style="display:block;clear: both;margin:10px 15px 10px 15px;" class="Text_Default">    
+    <div id="I1_sys_txt" class="sys_txt" style="margin:0px; padding:0px; color:; font:; background-color:;"><h2>Welcome to my website!</h2></div>    
+</div>
+
+
+
+<div id="I2" style="display:block;clear: both;margin:10px 10px 0 10px;" class="Layout1_Default">
+<table style="width:100%;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td id="Left_I2" style="text-align:left; vertical-align:top; width:50%;">
+<div id="I4" style="display:block;clear: both;text-align:left;margin:15px 10px 10px 10px;" class="Image_Default">
+<!--个人照片--><img id="I4_img" src="images/image.jpg" style="width:; border:none;"></div></td>
+<td id="Right_I2" style="vertical-align:top; width:50%;">
+<div id="I3" style="display:block;clear: both;margin:10px 10px 10px 10px;" class="Text_Default">    
+    <div id="I3_sys_txt" class="sys_txt" style="margin:0px; padding:0px; color:; font:; background-color:;">
+	<h3>基本信息</h3><p style="font-size:15px;"></p><p>王滢: 副教授，硕导</p>
+<p>硕士学科：电气工程　</p>
+<p>工作单位：电气工程学院</p>
+	<h3>联系方式</h3><p>通信地址：成都市二环路北一段111号</p>
+<p>电子邮箱：wangying0303@home.swjtu.edu.cn</p>
+<p>办公电话：    </p>
+<p>办公地点：西南交通大学电气工程学院</p>
+</div>
+    
+</div></td></tr></tbody></table>
+</div>
+
+
+
+<div id="I5" style="display:block;clear: both;margin:30px 10px 30px 10px;" class="Horizontal_Line_Default">
+<div style="border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#cccccc;font-size:0;padding:0;margin:0;height:0;line-height:0;"></div>
+</div>
+
+
+
+
+
+<div id="I7" style="display:block;clear: both;margin:0 15px 0 15px;" class="Text_Default">    
+    <div id="I7_sys_txt" class="sys_txt" style="margin:0px; padding:0px; color:; font:; background-color:;">
+	<h3>个人简历</h3>
+	<p>王滢，硕士，副教授，1994年于西南交通大学电力牵引与传动控制专业获得工学学学士学位， 1999年获取西南交通大学电力电子与电力传动专业硕士学位。从1999年在西南交通大学电气工程学院工作至今，主要从事磁悬浮技术、电力电子技术和电力传动与控制等方面的研究工作。曾参与科研项目有：青城山磁浮列车工程示范试验线、高速磁浮交通技术重大专项项目(863计划)：高速磁浮列车国产化关键技术研究（磁浮列车测速与定位系统研究子项目）、上海城轨磁浮列车总体方案设计、南车城轨磁浮列车总体方案设计、南车城轨磁浮列车试验线悬浮控制系统设计、“211工程”三期重点学科建设项目“双馈直线电机驱动试验台”等。</p>
+<p>&nbsp;</p>
+<h3>研究方向</h3>
+	
+<p>(1) 电力电子与电力牵引传动系统 。</p>
+<p>(2) 磁浮技术与磁浮列车。</p>
+<p>&nbsp;</p></div>    
+</div>
+
+
+
+
+<div id="I8" style="display:block;clear: both;margin:30px 10px 14px 10px;" class="Horizontal_Line_Default"> 
+<div style="border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#cccccc;font-size:0;padding:0;margin:0;height:0;line-height:0;"></div>
+</div>
+
+
+
+
+</div>
+  </div>
+    </div>		
+	</div>
+	<!-- end content -->
+	<div style="clear: both;">&nbsp;</div>
+</div>
+<!-- end page -->
+
+<!-- start footer -->
+
+	
+
+
+<div id="bottom">
+       
+           <p>   Copyright © 2011   http://inc.swjtu.edu.cn   西南交通大学信息网络中心
+<br>
+
+
+</p></div>
+
+    <!-- End Quantcast tag -->
+
+
+</body></html>

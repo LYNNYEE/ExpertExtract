@@ -1,0 +1,73 @@
+name_label 
+教授 / 博士生导师 
+北京工业大学 应用 数理 学院 
+place_label place_label place_label 100 号 ， 邮编 ： 100124 
+办公室 ： 数理 楼 2213 - 7 
+Email ： maillabel 
+电话 ： phonelabel 、 67391741 
+研究 领域 
+在 实时 光电 混合 信息处理 、 光学全息 、 数字全息 、 光通信 、 模式识别 及 空间 光 调制器 等 研究 领域 均 做出 显著成绩 ， 在 国内外刊物 和 学术会议上发表 了 SCI 和 EI检索论文 100 余篇 ， timelabel 入选 北京市属高校 拔尖 创新人才 计划 ； 近年来 对 数字全息 显微 成像 、 太 赫兹 成像 、 高分辨率 光学成像 、 微波光子学 、 体全息存储 的 方法 和 应用 系统 有 较 深入研究 。 
+招生方向 
+每年招收硕士研究生 2 名 ， 博士研究生 1 - 2 名 ， 博士后 合作者 1 - 2 名 
+光学 、 光电子 、 应用 物理学 、 光学工程 等 相关 专业背景 的 学生 
+学科 代码 及 名称 ： 0702   物理学 、 0803   光学工程 
+教育经历 
+timelabel － timelabel    中国科学院 西安 光机所   光学 博士 
+博士学位论文 ： 光电 混合 相关 识别 的 基本理论 和 实验研究 
+导师 ： name_label 球 院士 ， name_label 研究员 
+timelabel － timelabel   华中理工大学 光学 工程系   工学学士 
+教学科研工作 经历 
+timelabel － timelabel   国家留学基金委公派 在 德国 斯图加特 大学 技术 光学 研究所 
+（ Stuttgart   University ） 访问学者 
+timelabel － timelabel     应邀 到 以色列 魏茨 曼 科学研究院 ( Weizman   Institute   of   Science ) 
+做 博士后 ， 从事 多 波长 光学 处理系统 方面 的 研究 
+timelabel － 至今       北京工业大学 应用 数理 学院 
+timelabel 被 评为 教授 ， timelabel 被 评为 博士生导师 
+timelabel － timelabel     西安电子科技大学 电子工程系   博士后 
+timelabel 被 评为 副教授 
+课题项目 
+l    timelabel － timelabel   国家 自然科学基金面上项目 “ 连续 太 赫兹 波 数字全息 生物 样品 成像 方法 研究 ”（ No .  61475011 ） 
+l    timelabel － timelabel   国家 自然科学基金面上项目 “ 生物 活细胞 的 无损 定量 数字全息 显微 成像 方法 研究 ”（ No .  61077004 ） 
+l    timelabel － timelabel   国家 自然科学基金面上项目 “ 光学 稀疏 孔径 直接 成像 系统 关键技术 研究 ”（ No .  60577029 ） 
+l    timelabel － timelabel   北京市自然科学基金面上 项目 “ 微纳 结构 相衬 成像 的 超 分辨率 多 波长 数字全息 显微 方法 研究 ”（ No .  112 timelabel ） 
+l    timelabel － timelabel   北京市教育委员会科技 计划重点项目 和 北京市自然科学基金项目 “ 生物 样品 显微 成像 的 数字全息 方法 研究 ” 
+l    timelabel － timelabel   北京市自然科学基金重点 项目 “ 采用 光致聚合 物 材料 的 海量 全息 信息 存储技术 研究 ”（ No . 4071001 ） 
+l    timelabel － timelabel   北京市自然科学基金项目 “ 三维 全息 密集 光波 分 复用技术 的 研究 ”（ No . 404 timelabel ） 
+l    timelabel － timelabel    国防 科研 预研基金项目 “ 晶体 存储器 固定 技术 研究 ” 
+l    timelabel － timelabel   北京市科技新星项目 “ 采用 体全息存储 的 图像识别 系统研究 ” 
+学术活动 
+美国光学学会 （ OSA ） 会员 ， 国际光学工程学会 （ SPIE ） 会员 ， 中国光学学会全息 与 光信息处理专业 委员会委员 ， place_label 光学学会光电 技术 专业委员会 常委 ， 中国仪器仪表学会 光机电 一体化 专业委员会理事 ， 高等学校 光学 教学 研究会常务理事 ， 中关村 光电 产业 协会副理事长 。 
+是 下列 刊物 的 审稿人 ： Optics   Letters ， Optics   Express ， Applied   Optics ， Optics   Commu nic ations ， Optics   and   Lasers   in   Engineering ， Optical   Engineering ， Journal   of   Optics ， Chinese   Optics   Letters ， Chinese   Physics   B ,  物理学报 ， place_label 激光 ， 光学学报 ， 光子学 报 ， 强激光 与 粒子束 ， 光学精密工程 ， 激光 与 光电子学 进展 
+代表性学术成果 
+1 .        Lu   Rong ,  Tatiana   Latychevskaia ,  Chunhai   Chen ,  Dayong   Wang ,  et   al ., “ Terahe rtz   in - line   digital   holography   of   human   hepatocellular   carc ino ma   tissue ,”  Scientific   Reports ,  5 :  08445  ( timelabel ). 
+2 .        Hao cho ng   Hua ng ,  Dayong   Wang ,  Lu   Rong ,  et   al ., “ Appli cation   of   auto focus ing   methods   in   con tinu ous - wave   terahe rtz   inline   digital   holography ,” Optics   Commu nic ations ,  346 ( 1 ):  93 - 98  ( timelabel ). 
+3 .        Qiaowen   Lin ,  Dayong   Wang ,  Yunxin   Wang ,  et   al ., “ Super - resolution   imaging   in   digital   holography   by   using   d yna mic   grating   with   a   spatial   light   modulator ,”  Optics   and   Lasers   in   Engineering ,  66 :  279 – 284  ( timelabel ). 
+4 .        Spozmai   Pa nez ai ,  Dayong   Wang ,  Jie   Zhao ,  et   al ., “ Dual - plane   in - line   digital   holography   based   on   liquid   cry sta l   on   sili con   spatial   light   modulator ,”  Applied   Optics ,  53 ( 27 ):  G105 - G110  ( timelabel ). 
+5 .        Lu   Rong ,  Tatiana   Latychevskaia ,  Dayong   Wang ,  et   al ., “ Terahe rtz   in - line   digital   holography   of   dragonfly   hind win g :  amplitude   and   phase   re con st ruc tion   at   enh anced   resolution   by   extrapolation ”  Optics   Express ,  22 ( 14 ):  17236  ( timelabel ). 
+6 .        Dengcai   Yan g ,  Zuo yun   Yan g ,  Dayong   Wang , “ Laser - phased - array   beam   steering   con trolled   by   lithium ,” Optical   Engineering ,  53 ( 6 ):  061605  ( timelabel ). 
+7 .        Y .  Wang ,  D .  Wang ,  Y .  Zhang ,  et   al ., “ Pure - optical   qua dratic   phase   compensation   in   image - plane   digital   holographic   microscopy ,”  Journal   of   Optics ,  43 ( 2 ):  130 - 136  ( timelabel ). 
+8 .        Wei   Son g ,  Shi qua n   Tao ,  Qianli   Zhai ,  Dayong   Wang ,  et   al ., “ Implementation   of   uniform   diffraction   efficiency   of   partially - overlap pin g   holograms   in   photopolymers   based   on   the   photopolymerization   of   free   radical ,”  Optical   Engineering ,  52 ( 4 ):  045801  ( timelabel ). 
+9 .        Yunxin   Wang ,  Yi shu   Yan g ,  Dayong   Wang ,  et   al ., “ Morphological   me asu rement   of   living   cells   in   methanol   with   digital   holographic   microscopy ,”  Comp uta tional   and   Mathematical   Methods   in   Medicine ,  timelabel :  1 - 7  ( timelabel ). 
+10 .    Yunxin   Wang ,  Puhui   Meng ,  Dayong   Wang ,  et   al ., “ Speckle   noise   suppression   in   digital   holography   by   angular   diversity   with   phase - only   spatial   light   modulator ,”  Optics   Express ,  21 ( 17 ):  timelabel - timelabel  ( timelabel ). 
+11 .    Lu   Rong ,  Yan   Li ,  Shu o   Liu ,  Wen   Xia o ,  Feng   Pan ,  Dayong   Wang , “ Iterative   solution   to   twin   image   problem   in   in - line   digital   holography ,”  Optics   and   Lasers   in   Engineering ,  51 ( 5 ):  553 - 559  ( timelabel ). 
+12 .    Yizhuo   Zhang ,  Guohai   Situ ,  Pedrini ,  Giancarlo ,  Dayong   Wang ,  et   al ., “ Appli cation   of   short - coherence   lensless   Fourier - transform   digital   holography   in   imaging   through   diffusive   medium ,”  Optics   Commu nic ations ,  286 ( 1 ):  56 - 59  ( timelabel ). 
+13 .    Qiaofen   Zhu ,  Dayong   Wang ,  Yan   Zhang , “ Coupled   metallic   ring   gap   waveguide ”,  Optics   Commu nic ations ,  283 ( 7 ):  1542 - 2545  ( timelabel ). 
+14 .    Qiaofen   Zhu ,  Dayong   Wang ,  Yan   Zhang , “ Enlargement   of   the   band   gap   in   the   metal – ins ulator – metal   heterowaveguide ,”  Optics   Commu nic ations ,  282 ( 6 ):  1116 - 1119  ( timelabel ). 
+15 .    Changgeng   Liu ,  Dayong   Wang ,  Yizhuo   Zhang , “ Compar iso n   and   verifi cation   of   num erical   re con st ruc tion   methods   in   digital   holography ”,  Optical   Engineering ,  48 ( 10 ):  105802 - 1 - 105802 - 7  ( timelabel ). 
+16 .   Dong   Liu ,  Dayong   Wang ,  Shi qua n   Tao ,  et   al ., “ Improvement   of   the   wavelength   selectivity   of   volume   holographic   gratings   for   optical   commu nic ation ”,  J .  Opt .  A :  Pure   Appl .  Opt .,  11 ( 6 ):  065404  ( timelabel ). 
+17 .    Dayong   Wang ,  Jie   Zhao ,  Fucai   Zhang ,  et   al ., “ High   fidelity   num erical   realization   of   multiple - step   Fresnel   propagation   for   the   re con st ruc tion   of   digital   holograms ,”  Applied   Optics ,  47 ( 19 ):  D12 - D20  ( timelabel ). 
+18 .   Hua yin g   Wang ,  Dayong   Wang ,  Jie   Zhao ,  et   al ., “ Simple   and   robust   digital   holography   for   high - resolution   imaging ,”  Chinese   Optics   Letters ,  6 ( 3 ):  165 - 167  ( timelabel ). 
+19 .   Qiaofen   Zhu ,  Dayong   Wang ,  Yan   Zhang , “ Design   of   defective   non linear   photo nic   cry sta ls   for   multiple   wavelengths   se con d   harmo nic   generation ”,  J .  Opt .  A :  Pure   Appl .  Opt ,  10 ( 2 ):  025201  ( timelabel ). 
+20 .    Dayong   Wang ,  Ji   Han ,  Han cheng   Liu ,  Shi qua n   Tao ,  et   al ., “ Experimental   stu dy   on   imaging   and   image   restoration   of   optical   sparse   aperture   systems ,”  Optical   Engineering ,  46 ( 10 ):  103201  ( timelabel ). 
+21 .   Avi   Pe ' er ,  Dayong   Wang ,  A .  W .  Lohmann ,  A .  A .  Friesem , “ Wigner   formulation   of   optical   processing   with   light   of   arbitrary   coherence ”,  Applied   Optics ,  40 ( 2 ):  249 - 256  ( timelabel ). 
+22 .   Adolf   W .  Lohmann ,  Avi   Pe ’ er ,  Dayong   Wang ,  et   al , “ Flatland   optics .  III .  Achromatic   diffraction ,”  J .  Opt .  Soc .  Am .  A .,  18 ( 9 ):  timelabel - timelabel  ( timelabel ). 
+23 .   A .  W .  Lohmann ,  Dayong   Wang ,  A .  Pe ' er ,  A .  A .  Friesem , “ Flatland   optics .  II .  Basic   experiments ,”  J .  Opt .  Soc .  Am .  A .,  18 ( 5 ):  1056 - 1061  ( timelabel ). 
+24 .   Dayong   Wang ,  A .  Pe ' er ,  A .  A .  Friesem ,  A .  W .  Lohmann , “ General   linear   optical   coordinate   transformations ”,  J .  Opt .  Soc .  Am .  A .,  17 ( 10 ):  1864 - 1869  ( timelabel ). 
+25 .    Dayong   Wang ,  A .  Pe ' er ,  A .  W .  Lohmann ,  A .  A .  Friesem , “ Wigner   alg ebr a   as   a   tool   for   the   design   of   achromatic   optical   processing   system ”,  Optical   Engineering ,  39 ( 11 ):  3014 - 3024  ( timelabel ). 
+26 .    Avi   Pe ' er ,  Dayong   Wang ,  A .  A .  Friesem ,  et   al ., “ Apochromatic   optical   correlation ,”  Optical   Letters ,  25 ( 11 ):  776 - 778  ( timelabel ). 
+27 .    A .  W .  Lohmann ,  A .  Pe ' er ,  Dayong   Wang ,  et   al ., “ Flatland   optics :  fund amentals ,”  J .  Opt .  Soc .  Am .  A .,  17 ( 10 ):  1755 - 1762  ( timelabel ). 
+28 .    Avi   Pe ' er ,  Dayong   Wang ,  A .  A .  Friesem ,  et   al ., “ Optical   correlation   with   totally   inc oherent   light ”,  Optical   Letters ,  24 ( 21 ):  1469 - 1471  ( timelabel ). 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

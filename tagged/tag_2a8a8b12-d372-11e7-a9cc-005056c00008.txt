@@ -1,0 +1,69 @@
+name_label 
+name_label ， 女 ， timelabel 年 出生 ， 工学博士 ， 教授 ， 博士生导师 ， 现任北京工业大学 材料 学院副院长 ， 无机非金属 材料 学科带头人 ， 入选国家 百千万人才工程 、 授予 有 突出贡献中青年专家 荣誉称号 ， 被 评为 全国 建材行业 优秀 科技 工作者 、 第三届 建材行业 十大科技 创新 人物 。 主要 从事 高性能 水泥 、 生态 建材 、 材料 LCA 方面 的 研究 。 主持国家 科技支撑计划课题 、“ 973 ” 计划课题 、 place_label 重点基金 、 北京市科委 重大 课题 等 科研工作 ， 承担 企业委托 技术 服务项目 ， 获得 国家科技进步二等奖 2 项 、 国家级教学成果二等奖 1 项 、 建材行业 科技进步 一等奖 3 项 / 二等奖 2 项 、 place_label 科学技术 进步二等奖 一项 、 place_label 技术 发明 一等奖 1 项 ， 出版专著 4 部 ， 发表学术论文 50 余篇 。 担任 国家 建材 科 教育 专业委员会主任 、 中国硅酸盐学会 水泥 分会副理事长 、 中国材料研究学会 环境材料分会副 理事长 / 秘书长 。 任 booklabel 、 booklabel 等杂志编委 ， 及 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 等 审稿人 。 
+主要研究方向 ： 高性能 水泥 、 生态 建筑材料 、 材料 LCA 、 环境材料 。 
+E - mail :  maillabel : phonelabel 
+主要 获奖成果 ： 
+l 国家 科学技术 进步二等奖 ： 面向 材料 生产流程 的 环境 负荷 定量 评价 技术 及 应用 ， timelabel 
+l 国家 科学技术 进步二等奖 ： 我国 四种 预 分解 窑型 分析 研究 与 改进 ， timelabel 年 
+l 国家级教学成果二等奖 ：“ 以 资源 节约 与 环境友好 为 主导 ” 的 材料 专业建设 与 改革 ， timelabel 
+l 建筑材料 科学技术 一等奖 ： 水泥 生产 环境 负荷 评价 理论 与 应用 研究 ， timelabel 
+l place_label 技术 发明 一等奖 ： 重大工程 建筑材料 生态 设计 、 制备 与 应用 关键技术 ， timelabel 
+主要科研项目 ： 
+l 国家 科技支撑计划课题 ： 水泥 窑炉 NOx 中 低温 催化 还原 减排 材料 与 技术 示范 应用 
+l “ 973 ” 国家重大基础研究 课题 ： 高温 铁渣 颗粒 相变 冷却 与 物相 结构 演变 及 性能研究 
+l “ 973 ” 国家重大基础研究 课题 ： 高胶 凝性 和 特性 熟料 复合 体系 的 研究 ( 高性能 水泥 制备 和 应用 的 基础研究 ) 
+l 国家 “ 十一五 ” 支撑计划 ： 建筑材料 绿色 制造 共性 技术 研究 
+l 国家 “ 十一五 ” 支撑计划 ： 高性能 水泥 绿色 制造工艺 技术 与 装备 
+l “ 863 ” 国家 高技术 研究发展计划 课题 ： 多元 复合 胶凝 材料 全生命周期 设计制备 关键技术 
+l place_label 重点基金 ： 新型 节能 建材 的 环境 性能评价 与 设计 的 关键问题研究 
+l 北京市教委 ： 不同 体系 水泥 复合 生态 设计研究 
+l 北京市教委 ： 材料 环境 负荷 定量 评价 技术 
+l 北京市教委 学术创新团队 ： 节能 建材 与 生命周期 分析 
+主要 专著 论文 ： 
+l booklabel ， 科学出版社 ， timelabel 
+l booklabel ， 化学工业 出版社 ， timelabel 
+l 水泥 生命周期评价 研究 与 实践 . 中国材料 进展 . timelabel （ 10 ）： 761 - 768 . 
+l 多元醇 胺 对 钢铁 渣粉 溶解 特性 的 影响 . 北京工业大学学报 . timelabel ， 42 （ 7 ）,： 1108 - 1113 . 
+l 硅藻土 / 镍 锌 铁氧体 的 制备 及 电磁 性能 . 硅酸盐学报 . timelabel ， 44 （ 10 ）： 1509 – 1514 .    EI 
+l name_label - 硫 铝酸盐 水泥 熟料 主要 矿物 结构研究 name_label ; 硅酸盐通报    timelabel / 04 
+lCaO - SiO 
+2 
+- Al 
+2 
+O 
+3 
+- Fe 
+2 
+O 
+3 
+- SO 
+3 
+多元 体系 高温 相变 研究 [ J ]. 硅酸盐通报 , timelabel : 2668 - 2673 . 
+l 水泥 工业 协同 处置 与 绿色 转型 评价 [ J ]. place_label 水泥 , timelabel : 54 - 59 . 
+lDRIF Tan d   DFT   stu dy   of   cerium   addition   on   SO 
+2 
+of   Manganese - based   Catalystsfor   low   temperature   SCR . JOURNAL   OF   MOLECULAR   CATALY SIS   A - CHEMICAL .  timelabel , 421 ： 102 - 108 .    SCI / EI 
+lDensity func tion   theoretical   and   experimental   stu dy   of   NH 
+3 
++  NOx   adsorption son MnOx / TiO 
+2 
+surface . COMPUTATIONAL   MATERIALS   SCIENCE （ A ）. timelabel , 112 ： 238 - 244 .    SCI / EI 
+lTheEffect   of   Precipi tan ts   on   MnOx - Ni / TiO 
+2 
+SCR   Catalysts   Prepared   byTi tan ium   Slag   as   Raw   Material . MATERIALS   AND   MANUFACTURING   PROCESSES .  timelabel ,  31 （ 15 ）： timelabel - timelabel .    SCI / EI 
+lThe   LCA   of   portland   cement   production   in   China .  IntJ   Life   Cycle   Ass . ( timelabel )  20 : 117 – 127 .    SCI 
+lThe   Po iso ning   Effect   of   Potassium   Ion s   Doped   on   MnO 
+x 
+/ TiO 
+2 
+Catalysts   for   Low - temperature   Selective   Catalytic   Reduction ,  Applied   SurfaceScience ,  355  ( timelabel )  1116 - 1122 .   SCI 
+lThe   effect   of   precipi tan ts   on   MnOx - Ni / TiO 
+2 
+SCR   Catalysts   Prepared   by   Ti tan ium   Slag   as   Raw   Material ,  Materials   and   Manufacturing   Processes ( DOI : 10.1080 / 10426914 . 2015.1 103855 ).  SCI 
+lTheInfluence   of   K +  Cation   on   the   Mn - Ce / TiO 
+2 
+Catalysts   for   the   SelectiveCatalytic   Reduction   of   NO   with   patentlabel   at   Low   Temperature .  J   MolCatal   A - Chem . 390 ( timelabel )  14 - 21 . ( SCI )  IF : 3.679 . 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

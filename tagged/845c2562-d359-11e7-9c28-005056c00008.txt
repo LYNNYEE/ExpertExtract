@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=203" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="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" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;刘亮</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/刘亮.JPG" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;中国计算机学会YOCSEF委员</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;物联网技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=22" target="_blank">多媒体技术</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;物联网与传感网</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;刘&nbsp;亮，男，博士，北京邮电大学计算机学院副教授。2009年在北京邮电大学获博士学位，曾在美国TAMU进行访问研究。主要研究方向为多媒体、传感器网络。主持和参与多项国家自然科学基金、国家973项目、国家863项目和企业研发项目。在无线传感器网络与计算机视觉等方面取得一系列创新性成果，在IEEE&nbsp;Transactions、INFOCOM、ICC、Globecom、软件学报、电子学报等国际国内权威刊物和会议上发表论文近40篇。曾担任多个国际学术会议和刊物的论文评阅人。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;主持：<br>	国家自然科学基金青年项目“新一代视频监控网络中匹配无关的目标运动模式研究”；<br>	2011年度江苏省自然科学基金“视频传感器网络中目标定位追踪关键技术及原型系统研究”；<br>	国家自然科学基金重点项目“后IP网络体系结构及其机理探索”北邮子课题。<br>参与：<br>	国家重点基础研究发展计划（973计划）项目“物联网体系结构基础研究”（本人任项目办公室主任和学术骨干）；<br>	国家自然科学基金杰出青年项目“网络环境中多媒体计算”。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;博士论文《视频传感器网络中目标定位跟踪问题研究》获得中国计算机学会（CCF）2010年度优秀博士学位论文奖。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">代表性论文：<br>[1]&nbsp;Liang&nbsp;Liu,&nbsp;Anlong&nbsp;Ming,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Xi&nbsp;Zhang,&nbsp;“A&nbsp;Binary-Classification-Tree&nbsp;based&nbsp;Framework&nbsp;for&nbsp;Distributed&nbsp;Target&nbsp;Classification&nbsp;in&nbsp;Multimedia&nbsp;Sensor&nbsp;Networks,”&nbsp;IEEE&nbsp;INFOCOM&nbsp;2012,&nbsp;Orlando,&nbsp;Florida&nbsp;USA,&nbsp;Match&nbsp;25-30,&nbsp;2012.&nbsp;(INFOCOM为中国计算机学会推荐A类国际学术会议，INFOCOM&nbsp;2012录用率18%)<br>[2]&nbsp;Liang&nbsp;Liu,&nbsp;Yuning&nbsp;Song,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Xi&nbsp;Zhang,&nbsp;“Physarum&nbsp;Optimization:&nbsp;A&nbsp;Biology-Inspired&nbsp;Algorithm&nbsp;for&nbsp;Minimal&nbsp;Exposure&nbsp;Path&nbsp;Problem&nbsp;in&nbsp;Wireless&nbsp;Sensor&nbsp;Networks,”&nbsp;IEEE&nbsp;INFOCOM&nbsp;2012,&nbsp;Orlando,&nbsp;Florida&nbsp;USA,&nbsp;Match&nbsp;25-30,&nbsp;2012.&nbsp;(INFOCOM为中国计算机学会推荐A类国际学术会议，INFOCOM&nbsp;2012录用率18%)<br>[3]&nbsp;Liang&nbsp;Liu,&nbsp;Xi&nbsp;Zhang,&nbsp;and&nbsp;Huadong&nbsp;Ma,&nbsp;“Optimal&nbsp;Density&nbsp;Estimation&nbsp;for&nbsp;Exposure-Path&nbsp;Prevention&nbsp;in&nbsp;Wireless&nbsp;Sensor&nbsp;Networks&nbsp;Using&nbsp;Percolation&nbsp;Theory,”&nbsp;IEEE&nbsp;INFOCOM&nbsp;2012&nbsp;(Mini-Conference),&nbsp;Orlando,&nbsp;Florida&nbsp;USA,&nbsp;Match&nbsp;25-30,&nbsp;2012.&nbsp;(INFOCOM为中国计算机学会推荐A类国际学术会议，INFOCOM&nbsp;2012录用率18%)<br>[4]&nbsp;Liang&nbsp;Liu&nbsp;and&nbsp;Huadong&nbsp;Ma,&nbsp;On&nbsp;Coverage&nbsp;of&nbsp;Wireless&nbsp;Sensor&nbsp;Networks&nbsp;for&nbsp;Rolling&nbsp;Terrains,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Parallel&nbsp;and&nbsp;Distributed&nbsp;Systems,&nbsp;Jan.&nbsp;2012,&nbsp;23(1):118-125.&nbsp;<br>[5]&nbsp;Liang&nbsp;Liu,&nbsp;Xi&nbsp;Zhang,&nbsp;and&nbsp;Huadong&nbsp;Ma,&nbsp;“Localization-Oriented&nbsp;Coverage&nbsp;in&nbsp;Wireless&nbsp;Camera&nbsp;Sensor&nbsp;Networks,”&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Wireless&nbsp;Communications,&nbsp;Feb.&nbsp;2011,&nbsp;10(2):&nbsp;484-494.&nbsp;<br>[6]&nbsp;Liang&nbsp;Liu,&nbsp;Xi&nbsp;Zhang,&nbsp;and&nbsp;Huadong&nbsp;Ma,&nbsp;“Optimal&nbsp;Node&nbsp;Selection&nbsp;for&nbsp;Target&nbsp;Localization&nbsp;in&nbsp;Wireless&nbsp;Camera&nbsp;Sensor&nbsp;Networks,”&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Vehicular&nbsp;Technology,&nbsp;Sept.&nbsp;2010,&nbsp;59(7):&nbsp;3562-3576.&nbsp;<br>[7]&nbsp;Liang&nbsp;Liu,&nbsp;Xi&nbsp;Zhang,&nbsp;and&nbsp;Huadong&nbsp;Ma,&nbsp;“Dynamic&nbsp;Node&nbsp;Collaboration&nbsp;for&nbsp;Mobile&nbsp;Target&nbsp;Tracking&nbsp;in&nbsp;Wireless&nbsp;Camera&nbsp;Sensor&nbsp;Networks,”&nbsp;IEEE&nbsp;INFOCOM&nbsp;2009,&nbsp;Rio&nbsp;De&nbsp;Janeiro,&nbsp;Brazil,&nbsp;April&nbsp;19-25,&nbsp;2009.&nbsp;(INFOCOM为中国计算机学会推荐A类国际学术会议，INFOCOM&nbsp;2009录用率19%)<br>[8]&nbsp;Liang&nbsp;Liu,&nbsp;Huadong&nbsp;Ma,&nbsp;and&nbsp;Xi&nbsp;Zhang,&nbsp;“Coverage&nbsp;Analysis&nbsp;for&nbsp;Target&nbsp;Localization&nbsp;in&nbsp;Camera&nbsp;Sensor&nbsp;Networks,”&nbsp;Wiley&nbsp;Journal&nbsp;of&nbsp;Wireless&nbsp;Communications&nbsp;and&nbsp;Mobile&nbsp;Computing,&nbsp;online.</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp; （010）62282277</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教三911</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;Liangliu.bupt@gmail.com</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

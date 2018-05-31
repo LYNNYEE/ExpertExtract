@@ -1,0 +1,58 @@
+教师个人信息 
+姓名 
+name_label 
+性别 
+男 
+职务 
+学术兼职 
+中国计算机学会会员 
+老师类型 
+硕导 
+所属中心 
+物 联网 技术 中心 
+职称 
+副教授 
+承担课程 
+物 联网 技术 导论 、 无线传感器网络 、 无线 射频识别 （ RFID ） 
+研究方向 
+物 联网 、 移动计算 、 群智 感知 
+个人介绍 
+赵   东 ， 男 ， 博士 ， 北京邮电大学 计算机学院副教授 。 timelabel 在 北京邮电大学 获博士学位 ， 曾 在 美国 IIT 进行 访问研究 。 主要研究方向 为物 联网 、 移动计算 、 群智 感知 等 。 主持 和 参与 多 项国家自然科学基金 、 国家 973 项目 和 企业研发项目 。 近年来 在 群智 感知 网络 等 领域 取得 一 系列创新性成果 ， 在 IEEE / ACM   Transactions 、 INFOCOM 、 ICC 、 ICME 、 MASS 等 国际著名期刊 和 会议上发表论文 30 余篇 ， 获得 CCF 优博论文 奖 、 ACM place_label 优博论文 奖 、 IEEE   MASS   timelabel 最佳 论文 亚军奖 等 多项奖励 。 曾 担任 IEEE   GLOBECOM 、 DCOSS 等 多个 国际会议 程序 委员 ， 以及 多个 国际会议 和 刊物 的 论文评阅人 。 
+承担课题 
+主持 ： 
+国家自然科学基金青年 项目 “ 面向 物 联网 搜索 的 群智 感知 关键技术 研究 ”； 
+place_label 博士后科学基金项目 “ 群智 感知 网络 中 用户 激励 与 隐私保护 机制研究 ”； 
+CCF - 腾讯 犀牛 鸟 创意 基金项目 “ 基于 群智 感知 的 移动 位置 识别 研究 ”； 
+北京邮电大学 青年科研创新 计划 专项 “ 群智 感知 网络 中 实用型 激励机制 设计 及 应用 ”。 
+参与 ： 
+国家 “ 973 ” 计划项目 “ 物联网体系结构 基础研究 ”； 
+国家 自然科学基金重点项目 “ 移动 社交 中 感知 数据 收集 的 机会 路由 与 交互式 内容 移交 ”； 
+国家自然科学基金 创新研究群体 项目 “ 无线 通信网 理论 与 技术 ”。 
+获奖 和 成果 
+北京邮电大学计算机 学院 青年学术 贡献奖 （ timelabel ）； 
+中国计算机学会 （ CCF ） 优秀博士学位论文 奖 （ timelabel ）； 
+ACM place_label 优秀博士学位论文 奖 （ timelabel ）； 
+CCF - 腾讯 犀牛 鸟 创意 基金 奖 （ timelabel ）； 
+北京邮电大学 优秀博士学位论文 奖 （ timelabel ）； 
+place_label A3 年会 最佳 展示 奖 （ timelabel ）； 
+国际会议IEEE   MA patentlabel 最佳 论文 亚军奖 （ timelabel ）。 
+发表论文 
+代表性论文 ： 
+[ 1 ]  Dong   Zhao ,  Xian g - Yan g   Li ,  and   Hua dong   Ma .  Budget - Feasible   Online   Incentive   Mechanisms   for   Crowdsourcing   Tasks   Tru thf ully  [ J ].  ACM / IEEE   Transactions   on   Networking ,  timelabel . ( SCI ,  CCF 推荐 的 A类期刊 ) 
+[ 2 ]  Dong   Zhao ,  Hua dong   Ma ,  Shaojie   Tan g ,  and   Xian g - Yan g   Li .  COUPON :  A   Cooperative   Framework   for   Building   Sensing   Maps   in   Mobile   Opportunistic   Networks  [ J ].  IEEE   Transactions   on   Parallel   and   Distributed   Systems ,  timelabel . ( SCI ,  CCF 推荐 的 A类期刊 ) 
+[ 3 ]  Dong   Zhao ,  Xian g - Yan g   Li ,  Hua dong   Ma .  How   to   Crowdsource   Tasks   Tru thf ully   without   Sacrificing   Utility :  Online   Incentive   Mechanisms   with   Budget   Con straint  [ C ].  In   Proc .  of   IEEE   INFOCOM ,  timelabel . ( EI ,  CCF 推荐 的 A 类会议 ) 
+[ 4 ]  Dong   Zhao ,  Hao   Wang ,  Hua dong   Ma ,  Hua iyu   Xu ,  Liang   Liu ,  Pin g   Zhang .  CrowdOLR :  Toward   Object   Lo cation   Recognition   With   Crowdsourced   Fingerprints   Using   Smartphones  [ J ].  IEEE   Transactions   on   Human - Machine   Systems ,  timelabel . ( SCI ,  CCF 推荐 的 B类期刊 ) 
+[ 5 ]  Dong   Zhao ,  Hua dong   Ma ,  and   Liang   Liu .  Frugal   Online   Incentive   Mechanisms   for   Mobile   Crowd   Sensing  [ J ].  IEEE   Transactions   on   Vehi cula r   Technology ,  timelabel . ( SCI ) 
+[ 6 ]  Hua dong   Ma ,  Dong   Zhao ,  and   Peiyan   Yuan .  Opportunities   in   Mobile   Crowd   Sensing  [ J ].  IEEE   Commu nic ations   Magazine ,  timelabel . ( SCI ) 
+[ 7 ]  Liang   Liu ,  Wangyang   Wei ,  Dong   Zhao ,  and   Hua dong   Ma .  Urban   Resolution :  New   Metric   for   Me asu ring   the   Quality   of   Urban   Sensing  [ J ].  IEEE   Transactions   on   Mobile   Computing ,  timelabel . ( SCI ,  CCF 推荐 的 A类期刊 ) 
+[ 8 ]  Dong   Zhao ,  Hua dong   Ma ,  Liang   Liu ,  and   Xian g - Yan g   Li .  Opportunistic   Coverage   for   Urban   Vehi cula r   Sensing  [ J ].  Computer   Commu nic ations ,  timelabel . ( SCI ) 
+[ 9 ]  Dong   Zhao ,  Hua dong   Ma ,  Shaojie   Tan g .  COUPON :  Cooperatively   Building   Sensing   Maps   in   Mobile   Opportunistic   Networks  [ C ].  In   Proc .  of   IEEE   MASS ,  timelabel . ( EI ,  Best   paper   Run ner - up   Award ). 
+[ 10 ]  Dong   Zhao ,  Hua dong   Ma ,  Liang   Liu .  Event   Classifi cation   for   Living   Env iron ment   Surveillance   Using   Audio   Sensor   Networks  [ C ].  In   Proc .  of   IEEE   ICME ,  timelabel . ( EI ,  CCF 推荐 的 B 类会议 ) 
+联系电话 
+（ 010 ） 62282767 
+工作地点 
+教三 632 
+email 
+maillabel 
+备注 
+个人主页 ： http :// dongzhao . weebly . com / 

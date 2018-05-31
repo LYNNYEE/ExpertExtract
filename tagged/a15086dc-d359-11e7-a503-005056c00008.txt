@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=101" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="krsjqFf0F4BHqctG9hSZzCv1Iv64TPhNIkialCiNAVKOjcfSnw1kR1JNv2vOGEinI/lSqe/6HmZgIGtZLmM2y7FJwcaHuJLhlGikftxDZZiR+1tUYCBXPNFAoOlCKm1N3JqTXO9vjQCPexNMsdkAMxhXonjV54Lwmsvcrg3fM2sgphZtCcqB0+oGkkZaM49kTQNrvPSdsqQDF4Y5FwvDzBo3KJkaQWvy+oMBwi7Dj7NBoX1rgxx6KPaDtSFcJ7WhSY1RLxy6FkEfVqs2zKgNigV3nQ3cXctVGO2UlSbO6CLsMW+7qaFDS0mqKTVfTeT58cKTbMWUTKPRIfvq3MmsWj5daITEqgPQ+uPUTggWHZTUyoHpDOWiig4gAoMRGSI5mR81nC70L3BUqVfuggCW6/+Zs/4CThTBcgZVSW51mN1XjN9AocdMZqSJDnLIJSTXXzUYWLhWIgW+y+auOU9Hl7bmkME=" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;张冬梅</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/张东梅.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;女</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;中心支部书记兼副主任</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;无</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕士导师</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;网络技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        <a href="showcourse.aspx?id=31" target="_blank">Internet技术</a>   <a href="showcourse.aspx?id=60" target="_blank">通信导论</a>   <a href="showcourse.aspx?id=77" target="_blank">现代通信网</a>   </td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;网络安全与软件安全；传感器网络安全；应急通信</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;1972年11月出生，毕业于北京邮电大学计算机科学与技术学院，分别获北京邮电大学计算机通信专业、计算机应用专业的工学学士、硕士和博士学位。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;做为项目主研人参与了国家自然基金项目、863项目、省部级科研项目以及与电信企业的合作研发项目。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;获2008年电子学会二等奖</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">国际和国内学术期刊和会议上发表SCI.EI检索的学术论文二十余篇</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;010-62283607</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;北京邮电大学教3楼924房间</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;zhangdm@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

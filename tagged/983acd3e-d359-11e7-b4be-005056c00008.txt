@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	老师信息
+</title><link href="style.css" rel="stylesheet" type="text/css"><link href="App_Themes/blueprint_screen.css" rel="stylesheet" type="text/css">
+<script language="JavaScript"> 
+<!-- 
+
+function SetObjSize(obj,w,h) {
+var rate;
+var max;
+img = new Image();
+img.src = obj.href;
+if(img.width>img.height){max=img.width;}
+else{max=img.height;}
+if(max>w){
+   rate=w/max;
+   obj.width=rate*(img.width);
+   obj.height=rate*(img.height);
+}
+}
+
+//--> 
+</script> 
+</head>
+<body class="positionfront">
+    <form name="form1" method="post" action="showTeacher1.aspx?id=221" id="form1">
+<div>
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="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" type="hidden">
+</div>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="865E37B7" type="hidden">
+	<input name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" type="hidden">
+</div>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+<div id="iframe_page_title">
+    <h1 class="page_title">教师个人信息</h1>
+</div>
+
+<div id="iframe_page_topic">
+
+    <table style="TABLE-LAYOUT: fixed;WORD-WRAP: break-word" class="border_table" width="616" cellspacing="0" bordercolor="#dcdcdc" border="1">
+  <tbody><tr>
+    <td style="height: 30px" width="90" align="center">姓名</td>
+    <td style="height: 30px" width="247">&nbsp;张海涛</td>
+    <td rowspan="9" width="230" valign="middle" height="30" align="center"><img src="teacherpic/张海涛.jpg" style="display:block; max-width:230px; max-height:460px; width:auto; height:auto;"></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">性别</td>
+    <td style="height: 30px">&nbsp;男</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职务</td>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">学术兼职</td>
+    <td height="30">&nbsp;中国计算机学会会员</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">老师类型</td>
+    <td height="30">&nbsp;硕导</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">所属中心</td>
+    <td height="30">&nbsp;物联网技术中心</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">职称</td>
+    <td height="30">&nbsp;副教授</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">承担课程</td>
+    <td height="30">
+        物联网技术导论，物联网信息处理，计算机图形学</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">研究方向</td>
+    <td style="height: 30px">&nbsp;大数据分析与管理，云计算，多媒体信息处理</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">个人介绍</td>
+    <td colspan="2" style="height: 30px">&nbsp;张海涛，男，博士，北京邮电大学计算机学院副教授。2012年在北京邮电大学获博士学位，曾在美国IIT进行访问研究。主要研究方向为大数据分析与管理、云计算、多媒体信息处理。主持和参与多项国家自然科学基金、国家973项目、国家863项目和企业研发项目。在大数据、云计算和网络多媒体系统等方面取得一系列创新性成果，在IEEE&nbsp;Transactions、IEEE&nbsp;INFOCOM、IEEE&nbsp;Bigdata、IEEE&nbsp;Cloud等国际国内权威刊物和会议上发表论文10余篇，负责和参与制定多项ITU（国际电信联盟）标准。曾担任多个国际学术会议和刊物的论文评阅人。</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">承担课题</td>
+    <td colspan="2" style="height: 30px">&nbsp;主持：<br>国家自然科学基金青年项目“物联网环境下视频大数据处理平台设计理论与关键技术研究”；<br>教育部博士点学科专项科研基金课题“面向物联网视频数据中心的大数据分布式计算理论研究”；<br>国家863计划项目子课题“基于深度学习的大数据语义分析技术”（合作）；<br>参与：<br>国家重点基础研究发展计划（973计划）项目“物联网体系结构基础研究”；<br>国家自然科学基金杰出青年项目“网络环境中多媒体计算”；<br>工信部物联网发展专项资金项目“基于视频大数据处理平台的城市公共智能安防系统的研究与应用示范&nbsp;”；<br>北京市教委共建项目“视频数据中心关键技术研究”。<br></td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">获奖和成果</td>
+    <td colspan="2" style="height: 30px">&nbsp;2012年度中国人工智能学会优秀博士学位论文提名奖。</td>
+  </tr>
+   <tr>
+    <td style="height: 30px" align="center">
+        发表论文</td>
+    <td colspan="2" style="height: 30px">代表性论文：<br>[1]&nbsp;Haitao&nbsp;Zhang,&nbsp;Huadong&nbsp;Ma,&nbsp;Xiangyang&nbsp;Li,&nbsp;Shaojie&nbsp;Tang,&nbsp;“In-Network&nbsp;Estimation&nbsp;with&nbsp;Delay&nbsp;Constraints&nbsp;in&nbsp;Wireless&nbsp;Sensor&nbsp;Networks”,&nbsp;IEEE&nbsp;Transactions&nbsp;on&nbsp;Parallel&nbsp;and&nbsp;Distributed&nbsp;Systems&nbsp;(IEEE&nbsp;TPDS),&nbsp;Vol.&nbsp;24,&nbsp;No.&nbsp;2,&nbsp;pp.&nbsp;368-380,&nbsp;Feb.&nbsp;2013.<br>[2]&nbsp;Haitao&nbsp;Zhang,&nbsp;Shaojie&nbsp;Tang,&nbsp;Xiangyang&nbsp;Li,&nbsp;Huadong&nbsp;Ma,&nbsp;“Tracking&nbsp;and&nbsp;Identifying&nbsp;Burglar&nbsp;using&nbsp;Collaborative&nbsp;Sensor-Camera&nbsp;Networks”,&nbsp;the&nbsp;31st&nbsp;Annual&nbsp;IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Computer&nbsp;Communications-Mini&nbsp;Conference&nbsp;(IEEE&nbsp;INFOCOM&nbsp;2012),&nbsp;Mar.&nbsp;2012,&nbsp;pp.&nbsp;2596-2600.<br>[3]&nbsp;Haitao&nbsp;Zhang,&nbsp;Huadong&nbsp;Ma,&nbsp;Xiang-Yang&nbsp;Li,&nbsp;Shaojie&nbsp;Tang,&nbsp;Xiaohua&nbsp;Xu,&nbsp;“Energy-Efficient&nbsp;Scheduling&nbsp;with&nbsp;Delay&nbsp;Constraints&nbsp;for&nbsp;Wireless&nbsp;Sensor&nbsp;Networks:&nbsp;A&nbsp;Calculus-Based&nbsp;Perspective”,&nbsp;Computer&nbsp;Communications,&nbsp;vol.&nbsp;35,&nbsp;no.&nbsp;16,&nbsp;Sep.&nbsp;2012,&nbsp;pp.&nbsp;1983-1993.<br>[4]&nbsp;Haitao&nbsp;Zhang,&nbsp;Huadong&nbsp;Ma,&nbsp;Xiangyang&nbsp;Li,&nbsp;“Estimate&nbsp;Aggregation&nbsp;with&nbsp;Delay&nbsp;Constraints&nbsp;in&nbsp;Multihop&nbsp;Wireless&nbsp;Sensor&nbsp;Networks”,&nbsp;ACM/IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Cyber-Physical&nbsp;Systems&nbsp;(ACM/IEEE&nbsp;ICCPS&nbsp;2011),&nbsp;Apr.&nbsp;2011,&nbsp;pp.&nbsp;184-193.<br>[5]&nbsp;Haitao&nbsp;Zhang,&nbsp;Huadong&nbsp;Ma,&nbsp;“In-Network&nbsp;Puncturing&nbsp;for&nbsp;Delay-Efficient&nbsp;Rate&nbsp;Control&nbsp;of&nbsp;Distributed&nbsp;Video&nbsp;Coding&nbsp;in&nbsp;Wireless&nbsp;Video&nbsp;Sensor&nbsp;Networks”,&nbsp;China&nbsp;Communications,&nbsp;Vol.&nbsp;9,&nbsp;no.&nbsp;6,&nbsp;2012,&nbsp;pp.&nbsp;45-54.&nbsp;<br>[6]&nbsp;Xiaomeng&nbsp;Zhao,&nbsp;Huadong&nbsp;Ma,&nbsp;Haitao&nbsp;Zhang,&nbsp;Yi&nbsp;Tang,&nbsp;Guangping&nbsp;Fu,&nbsp;“Metadata&nbsp;Extraction&nbsp;and&nbsp;Correction&nbsp;for&nbsp;Large-Scale&nbsp;Traffic&nbsp;Surveillance&nbsp;Videos”,&nbsp;The&nbsp;IEEE&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Big&nbsp;Data&nbsp;2014&nbsp;(IEEE&nbsp;BigData&nbsp;2014),&nbsp;2014.<br>[7]&nbsp;Xiaomeng&nbsp;Zhao,&nbsp;Huadong&nbsp;Ma,&nbsp;Haitao&nbsp;Zhang,&nbsp;Yi&nbsp;Tang,&nbsp;Yue&nbsp;Kou,&nbsp;“HVPI:&nbsp;Extending&nbsp;Hadoop&nbsp;to&nbsp;Support&nbsp;Video&nbsp;Analytic&nbsp;Applications”,&nbsp;IEEE&nbsp;8th&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Cloud&nbsp;Computing&nbsp;(IEEE&nbsp;Cloud&nbsp;2015).<br></td>
+  </tr>
+  <tr>
+    <td height="30" align="center">联系电话</td>
+    <td colspan="2" height="30">&nbsp;（010）62282767</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">工作地点</td>
+    <td colspan="2" style="height: 30px">&nbsp;教三632</td>
+  </tr>
+  <tr>
+    <td style="height: 30px" align="center">email</td>
+    <td colspan="2" style="height: 30px">&nbsp;zht@bupt.edu.cn</td>
+  </tr>
+  <tr>
+    <td height="30" align="center">备注</td>
+    <td colspan="2" height="30">&nbsp;</td>
+  </tr>
+</tbody></table>
+    <!--
+        <a href="javascript:history.go(-1)">返回</a><br />
+        -->
+        </div>
+    </form>
+
+
+</body></html>

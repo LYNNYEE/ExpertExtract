@@ -1,0 +1,7 @@
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /xygk/jsfc/sx/wyx/41030.htm was not found on this server.</p>
+
+</body></html>

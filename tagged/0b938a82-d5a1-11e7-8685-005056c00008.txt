@@ -1,0 +1,535 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>黄鹏 副教授</title>
+<meta name="description" content="                                            姓名                     黄鹏                                                                                                     序号                          研&amp;">
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/89/89.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/1c/28/style/95/95.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="28"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/04/da/1242/template1242/css/style.css" type="text/css" media="all">
+</head>
+<body>
+<div class="wrapper" id="header">
+  <div class="inner">
+    <div class="head">
+      <a href="http://me.seu.edu.cn/main.htm" class="tz" target="_blank"></a>
+      <div class="sitetitle">
+        <div frag="面板1">
+          <div frag="窗口1">
+            <div id="wp_nav_w1"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '1', opacity_sub: '0.8', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://seuef-w1.seu.edu.cn/apps/onlinepay/submitForm.faces" title="捐赠通道" target="_blank"><span class="item-name">捐赠通道</span></a><i class="mark" style="opacity: 1;"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="http://webplus.seu.edu.cn/login.jsp?_p=YXM9MjgmcD0xJm09TiY_" title="管理入口" target="_blank"><span class="item-name">管理入口</span></a><i class="mark" style="opacity: 1;"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/_s165/main.htm" title="English" target="_blank"><span class="item-name">English</span></a><i class="mark" style="opacity: 1;"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="navbar" frag="面板2">
+      <div class="navbox" frag="窗口2">
+        <div id="wp_nav_w2"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://me.seu.edu.cn/main.htm" title="首页" target="_blank"><span class="item-name">首页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="/1300/list.htm" title="学院简介" target="_blank"><span class="item-name">学院简介</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 220px; top: 242px; left: 0px;"> 
+              
+             <li class="nav-item i2-1 " style="display: block; width: 100%;"> 
+                 <a href="/1301/list.htm" title="学院概述" target="_blank" style="display: block; width: auto;"><span class="item-name">学院概述</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-2 " style="display: block; width: 100%;"> 
+                 <a href="/xyyg/list.htm" title="学院沿革" target="_blank" style="display: block; width: auto;"><span class="item-name">学院沿革</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-3 " style="display: block; width: 100%;"> 
+                 <a href="/1304/list.htm" title="学院架构" target="_blank" style="display: block; width: auto;"><span class="item-name">学院架构</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-4 " style="display: block; width: 100%;"> 
+                 <a href="/xrld/list.htm" title="行政组织" target="_blank" style="display: block; width: auto;"><span class="item-name">行政组织</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-5 " style="display: block; width: 100%;"> 
+                 <a href="/lrld/list.htm" title="历任领导" target="_blank" style="display: block; width: auto;"><span class="item-name">历任领导</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-6 " style="display: block; width: 100%;"> 
+                 <a href="/1305/list.htm" title="党委组织" target="_blank" style="display: block; width: auto;"><span class="item-name">党委组织</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-7 " style="display: block; width: 100%;"> 
+                 <a href="/lsrw/list.htm" title="历史人物" target="_blank" style="display: block; width: auto;"><span class="item-name">历史人物</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-8 " style="display: block; width: 100%;"> 
+                 <a href="/xsjs/list.htm" title="系所介绍" target="_blank" style="display: block; width: auto;"><span class="item-name">系所介绍</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-9 " style="display: block; width: 100%;"> 
+                 <a href="/dsj/list.htm" title="大事记" target="_blank" style="display: block; width: auto;"><span class="item-name">大事记</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-10 " style="display: block; width: 100%;"> 
+                 <a href="/1409/list.htm" title="行政通知" target="_blank" style="display: block; width: auto;"><span class="item-name">行政通知</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/1383/list.htm" title="师资队伍" target="_blank"><span class="item-name">师资队伍</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 374px; top: 396px; left: 0px;"> 
+              
+             <li class="nav-item i3-1 " style="display: block; width: 100%;"> 
+                 <a href="/ljrc/list.htm" title="领军人才" target="_blank" style="display: block; width: auto;"><span class="item-name">领军人才</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 66px;"> 
+              
+             <li class="nav-item i3-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/18169/list.htm" title="千人计划" target="_blank" style="display: block; width: auto;"><span class="item-name">千人计划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-1-2 " style="display: block; width: 100%;"> 
+                 <a href="/18170/list.htm" title="青年千人" target="_blank" style="display: block; width: auto;"><span class="item-name">青年千人</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-1-3 " style="display: block; width: 100%;"> 
+                 <a href="/zjxzwjcqn/list.htm" title="长江学者、杰出青年" target="_blank" style="display: block; width: auto;"><span class="item-name">长江学者、杰...</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-2 " style="display: block; width: 100%;"> 
+                 <a href="/test_12331/list.htm" title="专任教师" target="_blank" style="display: block; width: auto;"><span class="item-name">专任教师</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 132px;"> 
+              
+             <li class="nav-item i3-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/jxzz/list.htm" title="机械制造" target="_blank" style="display: block; width: auto;"><span class="item-name">机械制造</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/jxdz/list.htm" title="机械电子" target="_blank" style="display: block; width: auto;"><span class="item-name">机械电子</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-3 " style="display: block; width: 100%;"> 
+                 <a href="/jxsj/list.htm" title="机械设计" target="_blank" style="display: block; width: auto;"><span class="item-name">机械设计</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-4 " style="display: block; width: 100%;"> 
+                 <a href="/gysj/list.htm" title="工业设计" target="_blank" style="display: block; width: auto;"><span class="item-name">工业设计</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-5 " style="display: block; width: 100%;"> 
+                 <a href="/clgc/list.htm" title="车辆工程" target="_blank" style="display: block; width: auto;"><span class="item-name">车辆工程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2-6 " style="display: block; width: 100%;"> 
+                 <a href="/gygc/list.htm" title="工业工程" target="_blank" style="display: block; width: auto;"><span class="item-name">工业工程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-3 " style="display: block; width: 100%;"> 
+                 <a href="/12311/list.htm" title="客座教授" target="_blank" style="display: block; width: auto;"><span class="item-name">客座教授</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-4 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/jzjs/list.htm" title="兼职教师" target="_blank" style="display: block; width: auto;"><span class="item-name">兼职教师</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 66px;"> 
+              
+             <li class="nav-item i3-4-1 " style="display: block; width: 100%;"> 
+                 <a href="/csg/list.htm" title="陈善广" target="_blank" style="display: block; width: auto;"><span class="item-name">陈善广</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-4-2 " style="display: block; width: 100%;"> 
+                 <a href="/zh/list.htm" title="张红" target="_blank" style="display: block; width: auto;"><span class="item-name">张红</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-4-3 " style="display: block; width: 100%;"> 
+                 <a href="/xjl/list.htm" title="谢建良" target="_blank" style="display: block; width: auto;"><span class="item-name">谢建良</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-5 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/ybry/list.htm" title="行政人员" target="_blank" style="display: block; width: auto;"><span class="item-name">行政人员</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="/1335/list.htm" title="学术研究" target="_blank"><span class="item-name">学术研究</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 66px; top: 88px; left: 0px;"> 
+              
+             <li class="nav-item i4-1 " style="display: block; width: 100%;"> 
+                 <a href="/1337/list.htm" title="科研团队" target="_blank" style="display: block; width: auto;"><span class="item-name">科研团队</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2 " style="display: block; width: 100%;"> 
+                 <a href="/tsyj/list.htm" title="特色研究" target="_blank" style="display: block; width: auto;"><span class="item-name">特色研究</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3 " style="display: block; width: 100%;"> 
+                 <a href="/xshd/list.htm" title="学术论坛" target="_blank" style="display: block; width: auto;"><span class="item-name">学术论坛</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="/xspy/list.htm" title="学生培养" target="_blank"><span class="item-name">学生培养</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 44px; top: 66px; left: 0px;"> 
+              
+             <li class="nav-item i5-1 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/1323/list.htm" title="本科生培养" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生培养</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-2 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/1324/list.htm" title="研究生培养" target="_blank" style="display: block; width: auto;"><span class="item-name">研究生培养</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="/1347/list.htm" title="学生工作" target="_blank"><span class="item-name">学生工作</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 396px; top: 418px; left: 0px;"> 
+              
+             <li class="nav-item i6-1 " style="display: block; width: 100%;"> 
+                 <a href="/1381/list.htm" title="学工队伍" target="_blank" style="display: block; width: auto;"><span class="item-name">学工队伍</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-2 " style="display: block; width: 100%;"> 
+                 <a href="/1382/list.htm" title="学工通知" target="_blank" style="display: block; width: auto;"><span class="item-name">学工通知</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3 " style="display: block; width: 100%;"> 
+                 <a href="/1353/list.htm" title="学生党建" target="_blank" style="display: block; width: auto;"><span class="item-name">学生党建</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 110px;"> 
+              
+             <li class="nav-item i6-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/1354/list.htm" title="支部设置" target="_blank" style="display: block; width: auto;"><span class="item-name">支部设置</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3-2 " style="display: block; width: 100%;"> 
+                 <a href="/1355/list.htm" title="制度建设" target="_blank" style="display: block; width: auto;"><span class="item-name">制度建设</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3-3 " style="display: block; width: 100%;"> 
+                 <a href="/1356/list.htm" title="党团动态" target="_blank" style="display: block; width: auto;"><span class="item-name">党团动态</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3-4 " style="display: block; width: 100%;"> 
+                 <a href="/1357/list.htm" title="党员发展" target="_blank" style="display: block; width: auto;"><span class="item-name">党员发展</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3-5 " style="display: block; width: 100%;"> 
+                 <a href="/1358/list.htm" title="党日活动" target="_blank" style="display: block; width: auto;"><span class="item-name">党日活动</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i6-4 " style="display: block; width: 100%;"> 
+                 <a href="/1359/list.htm" title="学生团建" target="_blank" style="display: block; width: auto;"><span class="item-name">学生团建</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 110px;"> 
+              
+             <li class="nav-item i6-4-1 " style="display: block; width: 100%;"> 
+                 <a href="/zzjg/list.htm" title="组织结构" target="_blank" style="display: block; width: auto;"><span class="item-name">组织结构</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4-2 " style="display: block; width: 100%;"> 
+                 <a href="/zdjs/list.htm" title="制度建设" target="_blank" style="display: block; width: auto;"><span class="item-name">制度建设</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4-3 " style="display: block; width: 100%;"> 
+                 <a href="/tndt/list.htm" title="团内动态" target="_blank" style="display: block; width: auto;"><span class="item-name">团内动态</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4-4 " style="display: block; width: 100%;"> 
+                 <a href="/trhd/list.htm" title="团日活动" target="_blank" style="display: block; width: auto;"><span class="item-name">团日活动</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4-5 " style="display: block; width: 100%;"> 
+                 <a href="/xszz/list.htm" title="学生组织" target="_blank" style="display: block; width: auto;"><span class="item-name">学生组织</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i6-5 " style="display: block; width: 100%;"> 
+                 <a href="/1349/list.htm" title="就业工作" target="_blank" style="display: block; width: auto;"><span class="item-name">就业工作</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 44px;"> 
+              
+             <li class="nav-item i6-5-1 " style="display: block; width: 100%;"> 
+                 <a href="/1350/list.htm" title="企业风采" target="_blank" style="display: block; width: auto;"><span class="item-name">企业风采</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-5-2 " style="display: block; width: 100%;"> 
+                 <a href="/1351/list.htm" title="就业动态" target="_blank" style="display: block; width: auto;"><span class="item-name">就业动态</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i6-6 " style="display: block; width: 100%;"> 
+                 <a href="/xzzq/list.htm" title="下载专区" target="_blank" style="display: block; width: auto;"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="/1536/list.htm" title="党群工作" target="_blank"><span class="item-name">党群工作</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 88px; top: 110px; left: 0px;"> 
+              
+             <li class="nav-item i7-1 " style="display: block; width: 100%;"> 
+                 <a href="/1537/list.htm" title="制度建设" target="_blank" style="display: block; width: auto;"><span class="item-name">制度建设</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2 " style="display: block; width: 100%;"> 
+                 <a href="/1538/list.htm" title="党群通知" target="_blank" style="display: block; width: auto;"><span class="item-name">党群通知</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-3 " style="display: block; width: 100%;"> 
+                 <a href="/lxyz/list.htm" title="两学一做" target="_blank" style="display: block; width: auto;"><span class="item-name">两学一做</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-4 " style="display: block; width: 100%;"> 
+                 <a href="/ggw/list.htm" title="关工委" target="_blank" style="display: block; width: auto;"><span class="item-name">关工委</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="/1539/list.htm" title="百年机械专区" target="_blank"><span class="item-name">百年机械专区</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav" style="width: 1153px; height: 286px; top: 308px; left: 0px;"> 
+              
+             <li class="nav-item i8-1 " style="display: block; width: 100%;"> 
+                 <a href="/12319/list.htm" title="“百年机械发展论坛”公告" target="_blank" style="display: block; width: auto;"><span class="item-name">“百年机械发...</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2 " style="display: block; width: 100%;"> 
+                 <a href="/12322/list.htm" title="校友风采" target="_blank" style="display: block; width: auto;"><span class="item-name">校友风采</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 44px;"> 
+              
+             <li class="nav-item i8-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/18165/list.htm" title="院士" target="_blank" style="display: block; width: auto;"><span class="item-name">院士</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/18166/list.htm" title="知名校友" target="_blank" style="display: block; width: auto;"><span class="item-name">知名校友</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i8-3 " style="display: block; width: 100%;"> 
+                 <a href="/12323/list.htm" title="校友返校" target="_blank" style="display: block; width: auto;"><span class="item-name">校友返校</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-4 " style="display: block; width: 100%;"> 
+                 <a href="/xydt/list.htm" title="校友通讯" target="_blank" style="display: block; width: auto;"><span class="item-name">校友通讯</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-5 " style="display: block; width: 100%;"> 
+                 <a href="/qyfc/list.htm" title="企业风采" target="_blank" style="display: block; width: auto;"><span class="item-name">企业风采</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-6 " style="display: block; width: 100%;"> 
+                 <a href="/byz/list.htm" title="毕业照" target="_blank" style="display: block; width: auto;"><span class="item-name">毕业照</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 1113px; height: 44px;"> 
+              
+             <li class="nav-item i8-6-1 " style="display: block; width: 100%;"> 
+                 <a href="/bk/list.htm" title="大学毕业照" target="_blank" style="display: block; width: auto;"><span class="item-name">大学毕业照</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-6-2 " style="display: block; width: 100%;"> 
+                 <a href="/ss/list.htm" title="硕士毕业照" target="_blank" style="display: block; width: auto;"><span class="item-name">硕士毕业照</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i8-7 " style="display: block; width: 100%;"> 
+                 <a href="http://me.seu.edu.cn/37/f0/c13726a145392/page.htm" title="在线捐赠" target="_blank" style="display: block; width: auto;"><span class="item-name">在线捐赠</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-8 " style="display: block; width: 100%;"> 
+                 <a href="/12324/list.htm" title="联系我们" target="_blank" style="display: block; width: auto;"><span class="item-name">联系我们</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-9 " style="display: block; width: 100%;"> 
+                 <a href="http://seuaa-w1.seu.edu.cn/apps/schoolfellow/schoolfellow.faces#" title="孔雀东南飞" target="_blank" style="display: block; width: auto;"><span class="item-name">孔雀东南飞</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i9 "> 
+         <a href="/1546/list.htm" title="联系我们" target="_blank"><span class="item-name">联系我们</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper" id="container">
+  <div class="inner">
+    <div class="infobox" frag="面板32">
+      <div class="article" frag="窗口32" portletmode="simpleArticleAttri">
+        
+          <h1 class="arti_title">黄鹏 副教授</h1>
+          <p class="arti_metas"><span class="arti_publisher">发布者：机械工程学院</span><span class="arti_update">发布时间：2014-03-01</span><span class="arti_views">浏览次数：<span class="WP_VisitCount" url="/_visitcountdisplay?siteId=28&amp;type=3&amp;articleId=17967">3220
+</span></span></p>
+          <div class="entry">
+            <div class="read"><div class="wp_articlecontent"><table style="border-collapse:collapse;width:568px"><tbody><tr style="height:34px"><td rowspan="4" style="padding:0px 7px;word-break:break-all;" width="174" valign="top"><img src="/_upload/article/15/c0/c9b8d16f4f0aa9b57a23a389fc57/8a6f357c-9a8c-4487-acff-5b88c08ac94b.png" style="width:120px;height:160px;" width="120" vspace="0" hspace="0" height="160" border="0"></td><td style="padding:0px 7px;word-break:break-all;" width="109" valign="top"><p><span style="font-weight:bold;font-size:12px">职称</span></p></td><td style="padding:0px 7px;" width="244" valign="top"><p><span style="font-weight:bold;font-size:12px">副教授</span></p></td></tr><tr style="height:34px"><td style="padding:0px 7px;word-break:break-all;" width="109" valign="top"><p><span style="font-weight:bold;font-size:12px">办公室</span></p></td><td style="padding:0px 7px;" width="244" valign="top"><p><span style="font-size:12px">机械楼</span><span style="font-family:times new roman;font-size:12px">439</span></p></td></tr><tr style="height:34px"><td style="padding:0px 7px;word-break:break-all;" width="109" valign="top"><p><span style="font-weight:bold;font-size:12px">联系电话</span></p></td><td style="padding:0px 7px;" width="244" valign="top"><p><span style="font-family:times new roman;font-size:12px">13915964177</span></p></td></tr><tr style="height:31px"><td style="padding:0px 7px;word-break:break-all;" width="109" valign="top"><p><span style="font-family:times new roman;font-weight:bold;font-size:12px">E-mail</span></p></td><td style="padding:0px 7px;" width="244" valign="top"><p><span style="font-family:times new roman;font-size:12px">huangpeng@seu.edu.cn</span></p></td></tr></tbody></table><table style="border-collapse:collapse;margin-left:7px;" width="1000px" align="center"><tbody><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#87ceff" width="629" valign="center"><p style="line-height:131%"><span style="font-weight:bold;font-size:12px">学习经历</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;text-align:left;margin-left:28px;"><span style="font-family:times new roman;font-size:12px">2005–2009</span><span style="font-size:12px">，东南大学，机械工程学院，研究生/博士</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-family:times new roman;font-size:12px">2002–2005</span><span style="font-size:12px">，合肥工业大学，机械与汽车工程学院，研究生/硕士</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-family:times new roman;font-size:12px">1997–2001</span><span style="font-size:12px">，合肥工业大学，机械与汽车工程学院，本科/学士</span></p></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#87ceff" width="629" valign="center"><p style="line-height:131%"><span style="font-weight:bold;font-size:12px">工作经历</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-family:times new roman;font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2013&nbsp;–</span><span style="font-size:12px">至今，东南大学，机械工程学院，副教授</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><table style="border-collapse:collapse;width:629px;margin-left:8px;"><tbody><tr style="height:0"><td style="width:629px;padding:0px 1px;word-break:break-all;" width="628" valign="center"><p style="line-height:131%"><span style="font-family:times new roman;font-size:12px">&nbsp; &nbsp; &nbsp; 2009&nbsp;–2013</span><span style="font-size:12px">，东南大学，机械工程学院，讲师</span></p></td></tr></tbody></table><p><br></p></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#87ceff" width="629" valign="center"><p style="line-height:131%"><span style="font-weight:bold;font-size:12px">教授课程</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; 机械工程测试与控制技术I</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; 程序设计与算法语言Ⅱ（非电类）</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; 几何精度测量</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; 生产实习</span></p></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#87ceff" width="629" valign="center"><p style="line-height:131%"><span style="font-weight:bold;font-size:12px">研究方向</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; 1.&nbsp;软测量</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; 2.&nbsp;信号处理</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; 3.&nbsp;故障诊断</span></p></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#87ceff" width="629" valign="center"><p style="line-height:131%"><span style="font-weight:bold;font-size:12px">获奖情况</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; 东南大学第</span><span style="font-family:times new roman;font-size:12px">20</span><span style="font-size:12px">届青年教师授课竞赛三等奖</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:131%"><span style="font-family:times new roman;font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; 2010-2011</span><span style="font-size:12px">学年</span><span style="font-family:times new roman;font-size:12px">“</span><span style="font-size:12px">常州市人民政府奖教金</span><span style="font-family:times new roman;font-size:12px">”</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0px;word-break:break-all;background:#efefef;" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-family:times new roman;font-size:12px">2010-2011</span><span style="font-size:12px">年度</span><span style="font-family:times new roman;font-size:12px">“</span><span style="font-size:12px">优秀工会积极分子</span><span style="font-family:times new roman;font-size:12px">”</span></p></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-family:times new roman;font-size:12px">2011-2012</span><span style="font-size:12px">学年</span><span style="font-family:times new roman;font-size:12px">“</span><span style="font-size:12px">焦廷标奖教金</span><span style="font-family:times new roman;font-size:12px">”</span></p></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-size:12px">东南大学教学工作优秀二等奖</span></p></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#87ceff" width="629" valign="center"><p style="line-height:131%"><span style="font-weight:bold;font-size:12px">论文著作</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">[1]</span><span style="font-family:times new roman;font-size:12px">Huang&nbsp;Peng,&nbsp;Jia&nbsp;Minping,&nbsp;Zhong&nbsp;Binglin.&nbsp;Study&nbsp;on&nbsp;the&nbsp;&nbsp;&nbsp;method&nbsp;for&nbsp;collecting&nbsp;vibration&nbsp;signals&nbsp;from&nbsp;mill&nbsp;shell&nbsp;based&nbsp;on&nbsp;measuring&nbsp;the&nbsp;fill&nbsp;level&nbsp;of&nbsp;Ball&nbsp;Mill&nbsp;[J].&nbsp;</span><span style="font-family:times new roman;color:#333333;font-size:12px">Mathematical&nbsp;Problems&nbsp;in&nbsp;Engineering</span><span style="font-family:times new roman;font-size:12px">,&nbsp;&nbsp;&nbsp;2014.</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">[2]</span><span style="font-family:times new roman;font-size:12px">Huang&nbsp;Peng,&nbsp;Jia&nbsp;Minping,&nbsp;Zhong&nbsp;Binglin.&nbsp;New&nbsp;Method&nbsp;to&nbsp;Measure&nbsp;the&nbsp;Fill&nbsp;Level&nbsp;of&nbsp;the&nbsp;Ball&nbsp;Mill&nbsp;II-Analysis&nbsp;of&nbsp;the&nbsp;Vibration&nbsp;Signals&nbsp;[J].&nbsp;Chinese&nbsp;Journal&nbsp;of&nbsp;Mechanical&nbsp;Engineering,&nbsp;&nbsp;&nbsp;2011,&nbsp;24(4):&nbsp;553-560.</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">[3]</span><span style="font-family:times new roman;font-size:12px">Huang&nbsp;Peng,&nbsp;Jia&nbsp;Minping,&nbsp;Zhong&nbsp;Binglin.&nbsp;New&nbsp;Method&nbsp;to&nbsp;Measure&nbsp;the&nbsp;Fill&nbsp;Level&nbsp;of&nbsp;the&nbsp;Ball&nbsp;Mill&nbsp;I-Theoretical&nbsp;Analysis&nbsp;and&nbsp;DEM&nbsp;Simulation&nbsp;[J].&nbsp;Chinese&nbsp;Journal&nbsp;of&nbsp;Mechanical&nbsp;Engineering,&nbsp;&nbsp;&nbsp;2010,&nbsp;23(4):&nbsp;460-467.</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">[4]</span><span style="font-family:times new roman;font-size:12px">Huang&nbsp;Peng,&nbsp;Jia&nbsp;Minping,&nbsp;Zhong&nbsp;Binglin.&nbsp;Investigation&nbsp;on&nbsp;measuring&nbsp;the&nbsp;fill&nbsp;level&nbsp;of&nbsp;an&nbsp;industrial&nbsp;ball&nbsp;mill&nbsp;based&nbsp;on&nbsp;the&nbsp;vibration&nbsp;characteristic&nbsp;of&nbsp;the&nbsp;mill&nbsp;shell&nbsp;[J].&nbsp;Minerals&nbsp;Engineering&nbsp;2009,&nbsp;22(14):&nbsp;1200-1208.</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">[5]</span><span style="font-size:12px">黄鹏，贾民平，钟秉林</span><span style="font-family:times new roman;font-size:12px">.&nbsp;</span><span style="font-size:12px">基于球磨机筒体振动的料位特征量研究</span><span style="font-family:times new roman;font-size:12px">[J].&nbsp;</span><span style="font-size:12px">东南大学学报（自然科学版），</span><span style="font-family:times new roman;font-size:12px">2012</span><span style="font-size:12px">，</span><span style="font-family:times new roman;font-size:12px">5:898-903</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">[6]</span><span style="font-family:times new roman;font-size:12px">Huang&nbsp;Peng,&nbsp;Jia&nbsp;Minping,&nbsp;Zhong&nbsp;Binglin.&nbsp;Study&nbsp;on&nbsp;a&nbsp;new&nbsp;vibration&nbsp;method&nbsp;for&nbsp;measuring&nbsp;the&nbsp;fill&nbsp;level&nbsp;of&nbsp;the&nbsp;ball&nbsp;mill&nbsp;[J].&nbsp;Lecture&nbsp;Notes&nbsp;in&nbsp;Electrical&nbsp;Engineering,&nbsp;2012,&nbsp;128:617-622</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">[7]</span><span style="font-family:times new roman;font-size:12px">Huang&nbsp;Peng,&nbsp;Jia&nbsp;Minping,&nbsp;Zhong&nbsp;Binglin.&nbsp;A&nbsp;study&nbsp;on&nbsp;the&nbsp;technique&nbsp;of&nbsp;measuring&nbsp;the&nbsp;fill&nbsp;level&nbsp;based&nbsp;on&nbsp;the&nbsp;vibration&nbsp;signal&nbsp;of&nbsp;the&nbsp;ball&nbsp;mill&nbsp;shell&nbsp;[C].&nbsp;2009&nbsp;WRI&nbsp;World&nbsp;Congress&nbsp;on&nbsp;Computer&nbsp;Science&nbsp;and&nbsp;Information&nbsp;Engineering&nbsp;(CSIE&nbsp;2009),&nbsp;Los&nbsp;Angeles,&nbsp;USA,&nbsp;Vol&nbsp;6:&nbsp;202-206,&nbsp;2009.</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; &nbsp;[8]</span><span style="font-size:12px">黄鹏</span><span style="font-family:times new roman;font-size:12px">,&nbsp;</span><span style="font-size:12px">贾民平</span><span style="font-family:times new roman;font-size:12px">,&nbsp;</span><span style="font-size:12px">钟秉林</span><span style="font-family:times new roman;font-size:12px">,&nbsp;</span><span style="font-size:12px">胡献国</span><span style="font-family:times new roman;font-size:12px">.&nbsp;</span><span style="font-size:12px">磨损磨粒显微形态分析与自动识别技术</span><span style="font-family:times new roman;font-size:12px">[J].&nbsp;</span><span style="font-size:12px">东南大学学报</span><span style="font-family:times new roman;font-size:12px">(</span><span style="font-size:12px">自然科学版</span><span style="font-family:times new roman;font-size:12px">),&nbsp;2006,&nbsp;36(3):&nbsp;411-415</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-size:12px">[9]</span><span style="font-family:times new roman;font-size:12px">Huang&nbsp;Peng,&nbsp;Jia&nbsp;Minping,&nbsp;Zhong&nbsp;Binglin.&nbsp;Analysis&nbsp;of&nbsp;the&nbsp;relation&nbsp;between&nbsp;charge&nbsp;motion&nbsp;and&nbsp;fill&nbsp;level&nbsp;of&nbsp;the&nbsp;ball&nbsp;mill&nbsp;using&nbsp;the&nbsp;DEM&nbsp;simulation&nbsp;[C].&nbsp;2011&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Information&nbsp;Science&nbsp;and&nbsp;Engineering&nbsp;(ICISE&nbsp;2011),&nbsp;2011,&nbsp;3:1647-1650.</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-size:12px">[10]</span><span style="font-family:times new roman;font-size:12px">Huang&nbsp;Peng,&nbsp;Jia&nbsp;Minping,&nbsp;Zhong&nbsp;Binglin.&nbsp;A&nbsp;study&nbsp;on&nbsp;the&nbsp;relation&nbsp;between&nbsp;fill&nbsp;level&nbsp;of&nbsp;ball&nbsp;mill&nbsp;and&nbsp;motion&nbsp;of&nbsp;steel&nbsp;balls&nbsp;by&nbsp;the&nbsp;discrete&nbsp;element&nbsp;method&nbsp;[C]//Proceeding&nbsp;of&nbsp;the&nbsp;8</span><span style="font-family:times new roman;font-size:12px;vertical-align:super">th</span><span style="font-family:times new roman;font-size:12px">&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Frontiers&nbsp;of&nbsp;Design&nbsp;and&nbsp;Manufacturing.&nbsp;Tianjin,&nbsp;2008:213-217</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; &nbsp;[11]</span><span style="font-family:times new roman;font-size:12px">Wang&nbsp;Heng,&nbsp;Jia&nbsp;Minping,&nbsp;Huang&nbsp;Peng,&nbsp;Chen&nbsp;Zuoliang.</span><span style="font-family:times new roman;font-size:12px">A&nbsp;study&nbsp;on&nbsp;a&nbsp;new&nbsp;algorithm&nbsp;to&nbsp;optimize&nbsp;ball&nbsp;mill&nbsp;system</span><span style="font-family:times new roman;font-size:12px">based&nbsp;on&nbsp;modeling&nbsp;and&nbsp;GA&nbsp;[J].&nbsp;Energy&nbsp;Conversion&nbsp;and&nbsp;Management,&nbsp;2010,&nbsp;51(4):&nbsp;846-850</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; &nbsp;[12]</span><span style="font-family:times new roman;font-size:12px">Xianguo&nbsp;Hu,&nbsp;Peng&nbsp;Huang,&nbsp;Shousen&nbsp;Zheng.</span><span style="font-family:times new roman;font-size:12px">On&nbsp;the&nbsp;pretreatment&nbsp;process&nbsp;for&nbsp;the&nbsp;object&nbsp;extraction&nbsp;in&nbsp;color&nbsp;image&nbsp;of&nbsp;wear&nbsp;debris&nbsp;[J].&nbsp;International&nbsp;Journal&nbsp;of&nbsp;Imaging&nbsp;Systems&nbsp;and&nbsp;Technology,&nbsp;2007,&nbsp;17(5):&nbsp;277-284</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; &nbsp;[13]</span><span style="font-size:12px">蒋全胜，李华荣，黄鹏</span><span style="font-family:times new roman;font-size:12px">.&nbsp;</span><span style="font-size:12px">一种基于非线性流行学习的故障特征提取模型</span><span style="font-family:times new roman;font-size:12px">[J].&nbsp;</span><span style="font-size:12px">振动与冲击，</span><span style="font-family:times new roman;font-size:12px">2012</span><span style="font-size:12px">，</span><span style="font-family:times new roman;font-size:12px">31(23):&nbsp;132-136</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; &nbsp;[14]</span><span style="font-size:12px">王恒，贾民平，黄鹏，陈左亮</span><span style="font-family:times new roman;font-size:12px">.&nbsp;</span><span style="font-size:12px">集成筒体振动信号的球磨机出力在线监测</span><span style="font-family:times new roman;font-size:12px">[J].&nbsp;</span><span style="font-size:12px">江苏大学学报（自然科学版），</span><span style="font-family:times new roman;font-size:12px">2012</span><span style="font-size:12px">，</span><span style="font-family:times new roman;font-size:12px">33(2):&nbsp;134-138</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; &nbsp;[15]</span><span style="font-size:12px">赵薇，贾民平，黄鹏，陈左亮，张立成，周全</span><span style="font-family:times new roman;font-size:12px">.&nbsp;</span><span style="font-size:12px">故障树分析及其在制粉系统故障诊断中的应用</span><span style="font-family:times new roman;font-size:12px">[J].&nbsp;</span><span style="font-size:12px">振动、测试与诊断，</span><span style="font-family:times new roman;font-size:12px">2006</span><span style="font-size:12px">，</span><span style="font-family:times new roman;font-size:12px">26(4):&nbsp;288-290</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:131%"><span style="font-size:12px">&nbsp; &nbsp; &nbsp;[16]</span><span style="font-family:times new roman;font-size:12px">Xianguo&nbsp;Hu,&nbsp;Wu&nbsp;Yucheng,&nbsp;Yuan&nbsp;Guangcheng,&nbsp;Peng&nbsp;Huang,&nbsp;Jing&nbsp;Hefeng.&nbsp;Tribological&nbsp;properties&nbsp;of&nbsp;nano-sized&nbsp;molybdenum&nbsp;disulfide&nbsp;particle[C]//Proceedings&nbsp;of&nbsp;the&nbsp;World&nbsp;Tribology&nbsp;Congress&nbsp;III&nbsp;-&nbsp;2005.&nbsp;</span><span style="font-family:times new roman;font-size:12px">Washington,&nbsp;2005:&nbsp;</span><span style="font-family:times new roman;font-size:12px">303-304</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-size:12px">[17]</span><span style="font-size:12px">王恒，贾民平，黄鹏，陈左亮</span><span style="font-family:times new roman;font-size:12px">.&nbsp;</span><span style="font-size:12px">基于筒体振动信号的球磨机优化工况监测</span><span style="font-family:times new roman;font-size:12px">[J].&nbsp;</span><span style="font-size:12px">仪表技术与传感器，</span><span style="font-family:times new roman;font-size:12px">2012</span><span style="font-size:12px">，</span><span style="font-family:times new roman;font-size:12px">11:&nbsp;145-148</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-size:12px">[18]</span><span style="font-size:12px">蒋全胜，李华荣，黄鹏</span><span style="font-family:times new roman;font-size:12px">.&nbsp;</span><span style="font-size:12px">一种克服噪声的鲁棒</span><span style="font-family:times new roman;font-size:12px">Laplacian</span><span style="font-size:12px">特征映射算法</span><span style="font-family:times new roman;font-size:12px">[J].&nbsp;</span><span style="font-size:12px">江南大学学报（自然科学版），</span><span style="font-family:times new roman;font-size:12px">2012</span><span style="font-size:12px">，</span><span style="font-family:times new roman;font-size:12px">11(4):&nbsp;401-405</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:125%;margin-left:28px;"><span style="font-size:12px">[19]</span><span style="font-size:12px">胡朝斌，黄鹏，高荣</span><span style="font-family:times new roman;font-size:12px">.&nbsp;USB</span><span style="font-size:12px">接口在</span><span style="font-family:times new roman;font-size:12px">WINDOWS&nbsp;CE.NET</span><span style="font-size:12px">数控系统中的应用研究</span><span style="font-family:times new roman;font-size:12px">[J].&nbsp;</span><span style="font-size:12px">机电技术，</span><span style="font-family:times new roman;font-size:12px">2012</span><span style="font-size:12px">，</span><span style="font-family:times new roman;font-size:12px">3:&nbsp;2-4</span></p></td></tr><tr style="height:0"><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#efefef" width="629" valign="center"><p style="line-height:133%;margin-left:28px;"><span style="font-size:12px">[20]</span><span style="font-family:times new roman;font-size:12px">Xianguo&nbsp;Hu,&nbsp;</span><span style="font-family:times new roman;font-size:12px">Peng</span><span style="font-family:times new roman;font-size:12px">&nbsp;Huang,&nbsp;Shousen&nbsp;Zheng.&nbsp;Object&nbsp;extraction&nbsp;from&nbsp;an&nbsp;image&nbsp;of&nbsp;wear&nbsp;particles&nbsp;on&nbsp;a&nbsp;complicated&nbsp;background&nbsp;[J].&nbsp;Pattern&nbsp;Recognition&nbsp;and&nbsp;Image&nbsp;Analysis,&nbsp;2006,&nbsp;16(4):644-650</span></p></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#87ceff" width="629" valign="center"><p style="line-height:131%"><span style="font-weight:bold;font-size:12px">科研项目</span></p></td></tr><tr><td style="padding:0px;word-break:break-all;background:#6495ed;" width="380" valign="center" height="29"><p style="line-height:131%;text-align:center;"><strong><span style="font-size:12px">项目名称</span></strong></p></td><td style="padding:0px;word-break:break-all;background:#6495ed;" width="306" valign="center" height="29"><p style="line-height:131%;text-align:center;"><strong><span style="font-size:12px">项目类别</span></strong></p></td><td style="padding:0px;word-break:break-all;background:#6495ed;" width="241" valign="center" height="29"><p style="line-height:131%;text-align:center;"><strong><span style="font-size:12px">项目时间</span></strong></p></td><td style="padding:0px;word-break:break-all;background:#6495ed;" width="151" valign="center" height="29"><p style="line-height:131%;text-align:center;"><strong><span style="font-size:12px">工作类别</span></strong></p></td><td style="padding:0px;word-break:break-all;background:#6495ed;" width="-326" valign="center" height="29"><p style="line-height:131%;text-align:center;"><strong><span style="font-size:12px">项目金额</span></strong></p></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">基于离散元素法的球磨机介质运动分析及应用研究</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">国家自然科学基金项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2011.01-2013.12</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">主持</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">轨道车辆门系统远程状态监测、故障诊断与健康评估关键技术研发</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">江苏省科技支撑（工业部分）项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2014.06-2017.06</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">第二参与单位</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">基于半监督流行学习的非线性故障诊断方法研究</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">国家自然科学基金项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2011.01-2013.12</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">机电设备状态检测与预警关键技术研究</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">江苏省产学研项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2009.10-2011.09</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">基于传感网的机电装备智能监控诊断成套装置研发及产业化</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">江苏省重大成果转化基金项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2010.10-2013.09</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">牵引整流变压器在线监控保护及故障预警诊断装置研发</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">江苏省重大成果转化基金项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2010.03-2013.12</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">基于多传感器融合的大型起重机裂纹早期诊断的理论与方法研究</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">教育部博士点基金项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2014.01-2016.12</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">基于传感网的机电装备智能监控诊断成套装置研发</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">横向项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2010.10-2013.10</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">适用</span><span style="font-family:times new roman;font-size:12px">Bosch</span><span style="font-size:12px">泵和嘴的</span><span style="font-family:times new roman;font-size:12px">SCR</span><span style="font-size:12px">系统电控</span><span style="font-family:times new roman;font-size:12px">DCU</span><span style="font-size:12px">开发</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">横向项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2011.01-2011.05</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">分配泵电控单元（</span><span style="font-family:times new roman;font-size:12px">ECU</span><span style="font-size:12px">）开发</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">横向项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2011.03-2012.09</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">桥门式起重机械安全评估方法研究</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">横向项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2012.04-2013.04</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">电熔管件焊接参数优化</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">横向项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2012.09-2013.03</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">储罐安全及腐蚀活性评价系统开发</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">横向项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2014.01-2015.01</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">基于模型辨识的在役起重机结构损伤识别方法研究</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">横向项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2013.12-2016.12</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">桥门式起重机智能监控与故障诊断系统研究</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">横向项目</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="241" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">2014.06-2015.06</span></p></td><td style="padding:0px;word-break:break-all;background:#efefef;" width="151" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">参与</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr><td colspan="5" style="width:629px;padding:0 0 0 0 ;background:#87ceff" width="629" valign="center"><p style="line-height:131%"><strong><span style="font-size:12px">专利</span></strong></p></td></tr><tr><td style="padding:0px;word-break:break-all;background:#6495ed;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><strong><span style="font-size:12px">专利号</span></strong></p></td><td colspan="3" style="width:306px;padding:0 0 0 0 ;background:#6495ed" width="306" valign="center"><p style="line-height:131%;text-align:center;"><strong><span style="font-size:12px">专利名称</span></strong></p></td><td style="padding:0px;word-break:break-all;background:#6495ed;" width="-326" valign="center"><p style="line-height:131%;text-align:center;"><strong><span style="font-size:12px">专利类型</span></strong></p></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">201210059870.7</span></p></td><td colspan="3" style="width:306px;padding:0 0 0 0 ;background:#efefef" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">球磨机内部球石群及矿料动态分布检测系统及方法</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">201210060196.4</span></p></td><td colspan="3" style="width:306px;padding:0 0 0 0 ;background:#efefef" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">球磨机内部球石群及硬质块状矿料分布检测系统及方法</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">201210060289.7</span></p></td><td colspan="3" style="width:306px;padding:0 0 0 0 ;background:#efefef" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">球磨机内部球石群及块状矿料分布检测系统及方法</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">201210060132.4</span></p></td><td colspan="3" style="width:306px;padding:0 0 0 0 ;background:#efefef" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">球磨机内部钢球群动态分布检测系统及方法</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr><tr style="height:0"><td style="padding:0px;word-break:break-all;background:#efefef;" width="380" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-family:times new roman;font-size:12px">200710131415.2</span></p></td><td colspan="3" style="width:306px;padding:0 0 0 0 ;background:#efefef" width="306" valign="center"><p style="line-height:131%;text-align:center;"><span style="font-size:12px">基于</span><span style="font-size:12px">球磨机旋转筒体振动信号的料位检测方法及其检测装置</span></p></td><td style="padding:0px;word-break:break-all;text-align:center;background:#efefef;" width="-326" valign="center"><br></td></tr></tbody></table><p><br></p><p><br></p><p><br></p></div></div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper" id="footer">
+  <div class="inner">
+    <div class="foot">
+      <div class="">
+        <p><span>东南大学机械工程学院</span></p>
+        <p><span>备案序号：苏ICP证201008206600号</span></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+ <img src="/_visitcount?siteId=28&amp;type=3&amp;articleId=17967" style="display:none" width="0" height="0"></body></html>

@@ -1,0 +1,282 @@
+name_label 
+基本情况 
+name_label ， 
+理学博士 
+， 
+博士后 
+， 
+教授 
+， 
+博士生导师 
+。 目前 是 place_label 现场 统计 研究会 高维数据 统计 分会理事 、 place_label 应用 统计 学会常务理事 和 
+美国数学评论 
+( Mathematical   Reviews ) 
+评论员 。 研究 领域 涉及 
+非参数统计 、 复杂 高维数据 分析 、 经验 似然 推断 、 模型 和 变量 选择 、 以及 纵向数据 和 面板 数据分析 等 。 近年 多次 访问 香港浸会大学 和 新加坡 南洋 理工大学 ， 目前 在 国内外学术刊物 
+“ The   Annals   of   Statistics ” 
+、 
+“ Statistics   and   Computing ” 
+、 
+“ Statistica   Sin ica ” 
+、 
+“ Journal   of   Multivariate   Analy sis ” 
+、 
+“ Comp uta tional   Statistics   and   Data   Analy sis ” 
+等 上 发表学术论文 
+60 
+余篇 ， 在 科学出版社 出版专著 booklabel 和 booklabel 。 主持 和 参加国家自然科学基金 、 北京市自然科学基金 、 高等学校 博士学科 点 专项科研基金 等 多项国家 和 省部级科研项目 。 
+timelabel 
+年入选北京市 属 高等学校 人才 强 教 深化 计划 
+“ 
+中青年骨干人才培养 计划 
+” 
+和 北京市优秀人才培养 资助计划 ， 
+timelabel 
+年 破格 入选 北京工业大学 “ 京华 人才 ” 支持计划 
+。 目前 主持国家自然科学基金 、 北京市自然科学基金 
+和 北京市教委科技计划 面上 项目 。 
+联系地址 
+place_label place_label place_label 100 号 ， 北京工业大学 place_label 科学 与 工程计算 研究院 
+Bei jin g   Institute   for   Scientific   and   Engineering   Computing ,  Bei jin g 
+University 
+of   Technology , 
+Bei jin g 
+100124 
+Office ： 
+新 学科 楼 M - 8 层 M823 
+Email 
+： 
+maillabel 
+; 
+maillabel 
+Experience 
+timelabel  -  present 
+Profe sso r , 
+Bei jin g 
+University 
+of   Technology 
+timelabel  -  timelabel 
+A sso ciate   Profe sso r , 
+Bei jin g 
+University 
+of   Technology 
+timelabel  -  timelabel 
+Post - doctoral   Research   Fellow , 
+East 
+China 
+Normal 
+University 
+Edu cation 
+Ph . D .  in   Probability   and   Mathematical   Statistics  ( timelabel ), 
+Bei jin g 
+University 
+of   Technology 
+M . S .  in   Applied   Mathematics  ( timelabel ), 
+Hebei 
+University 
+of 
+Technology 
+, 
+Tianjin 
+B . S .  in   Mathematics   Edu cation  ( timelabel ), 
+Shanxi 
+Normal 
+University 
+, 
+Lin fen 
+, 
+Shanxi 
+Research   Interests 
+Non parametric   Regression   Methods 
+Semiparametric / Non parametric   Models 
+Complex   and   High   Dimensional   Data   Analy sis 
+Empirical   Likelihood 
+Model / Variable   Selection 
+Longitudinal / Panel   Data   Analy sis 
+Grants  ( Pr inc ipal   Investigator ) 
+☆ 
+The   National   Nature   Science   Fo und ation   of   China  ( No :  11471029 ) 
+☆ 
+The   Bei jin g   Natural   Science   Fo und ation  ( No :  114 timelabel ) 
+☆ 
+The   National   Nature   Science   Fo und ation   of 
+China 
+( No :  11101014 ) 
+☆ 
+The   Specialized   Research   F und   for   the   Doctoral   Program   of   Higher   Edu cation   of 
+China 
+( No :  timelabel 11031 timelabel ) 
+☆ 
+The   Science   and   Technology   Project   of 
+Bei jin g 
+Mu nic ipal   Edu cation   Com mission  ( No :  patentlabel ) 
+☆ 
+Program   for   Jin g Hua   Talents   in 
+Bei jin g 
+University 
+of   Technology  ( No :  timelabel - JH - L07 ) 
+☆ 
+F und ing   Project   for   Academic   Human   Resources   Development   in   Institutions   of   Higher   Learning   Under   the   Ju risd iction   of 
+Bei jin g 
+Mu nic ipality 
+( No :  P patentlabel ) 
+☆ 
+Training   Programme   Fo und ation   for   the 
+Bei jin g 
+Mu nic ipal   Excellent   Talents  ( No :  timelabel D005015000002 ) 
+☆ 
+The   F und amental   Research   Fo und ation   of 
+Bei jin g 
+University 
+of   Technology  ( No :  X4006013 timelabel ) 
+☆ 
+China 
+Postdoctoral   Science   Fo und ation   F und ed   Project  ( No :  timelabel 0430633 ) 
+☆ 
+Shanghai   Postdoctoral   Scientific   Program  ( No :  08R timelabel ) 
+Books   and   Selected 
+Publi cation s 
+1 
+Li   G .  R .,  Yan g   Y .  P . ( timelabel ). 
+Semiparametric   Models   with   Longitudinal   Data .  Bei jin g :  Science   Press . 
+2 
+Li   G .  R .,  Zhang   J .  and   Feng   S .  Y . ( timelabel ). 
+Modern   Me asu rement   Error   Models .  Bei jin g :  Science   Press . ( in   press ) 
+3 
+Li   G .  R .,  Lai   P .  and   Lian   H . ( timelabel ).  Variable   Selection   and   Estimation   for   Partially   Line ar   Sin gle - index   Models   with   Longitudinal   Data . 
+Statistics   and   Computing ,  25 ( 3 ):  579 - 593 . 
+4 
+Zhang   J .,  Li   G .  R .  and   Feng   Z .  H . ( timelabel ).  Checking   the   Ade qua cy   for   A   Distortion   Errors - In - Variables   Parametric   Regression   Model . 
+Comp uta tional   Statistics   and   Data   Analy sis ,  83 :  52 - 64 . 
+5 
+Li   G .  R .,  Lian   H .,  Lai   P .  and   Peng   H . ( timelabel ).  Variable   Selection   for   Fixed   Effects   Var yin g   Coefficient   Models . 
+Acta   Mathematica   Sin ica ,  English   Series ,  31 ( 1 )： 91 - 110 . 
+6 
+Yan g   Y .  P .,  Li   G .  R .*  and   Tong   T .  J . ( timelabel ).  Corrected   Empirical   Likelihood   for   a   Class   of   Generalized   Line ar   Me asu rement   Error   Models . 
+SCIENCE   CHINA   Mathematics ,  58 ( 7 ):  1523 – 1536 . 
+7 
+Yan g   Y .  P .,  Li   G .  R .*  and   Lian   H . ( timelabel ).  Non con cave   Penalized   Estimation   in   Partially   Line ar   Models   with   Longitudinal   Data . 
+Statistics ,  in   press . 
+8 
+Gai   Y .  J .,  Zhang   J .,  Li   G .  R .  and   Luo   X .  C . ( timelabel ).  Statistical   Inference   on   Partial   Line ar   Additive   Models   with   Distortion   Me asu rement   Errors . 
+Statistical   Methodology ,  27 :  20 - 38 . 
+9 
+Li   G .  R .,  Peng   H .,  Dong   K .  and   Tong   T .  J . ( timelabel ).  S imu l tan e ous   Con fidence   Band s   and   Hypothe sis   Testing   in   Sin gle - index   Models . 
+Statistica   Sin ica ,  24 :  937 - 955 . 
+10 
+Lian   H .  and   Li   G .  R . ( timelabel ).  Series   Expansion   for   Functional   Sufficient   Dimension   Reduction . 
+Journal   of   Multivariate   Analy sis ,  124 :  150 - 165 . 
+11 
+Yan g   Y .  P .,  Li   G .  R .  and   Peng   H . ( timelabel ).  Empirical   Likelihood   for   Var yin g   Coefficient   Errors - in - Variables   Models   with   Longitudinal   Data . 
+Journal   of   Multivariate   Analy sis ,  127 :  1 - 18 . 
+12 
+Yan g   S .  G .,  Xue   L .  G .  and   Li   G .  R . ( timelabel ).  S imu l tan e ous   Con fidence   Band s   for Sin gle - index   Ran dom   Effects   Models   with   Longitudinal   Data . 
+Statistics   and   Probability   Letters ,  85 :  6 - 14 . 
+13 
+Yan g   X .  J .,  Yan g   S .  G .  and   Li   G .  R .* ( timelabel ).  S imu l tan e ous   Con fidence   Band   for   Partially   Line ar   Panel   Data   Models   with   Fixed   Effects . ( To   appear   in 
+Acta   Mathematicae   Applicatae   Sin ica ,  English   Series ). 
+14 
+Feng   S .  Y .,  Li   G .  R .*  and   Zhang   J . ( timelabel ).  Efficient   Statistical   Inference   for   Partially   Non linear   Errors - in - Variables   Models . 
+Acta   Mathematica   Sin ica ,  English   Series ,  30 ( 9 ):  1606 - 1620 . 
+15 
+Li   G .  R .,  Lian   H .,  Feng   S .  and   Zhu   L .  X . ( timelabel ).  Automatic   Variable   Selection   for   Longitudinal   Generalized   Line ar   Models . 
+Comp uta tional   Statistics   and   Data   Analy sis ,  61 :  174 - 186 . 
+16 
+Lai   P .,  Li   G .  R .  and   Lian   H . ( timelabel ).  Quadratic   Inference   Functions   for   Partially   Line ar   Sin gle - Index   Models   with   Longitudinal   Data . 
+Journal   of   Multivariate   Analy sis ,  118 :  115 - 127 . 
+17 
+Li   G .  R .,  Peng   H .  and   Tong   T .  J . ( timelabel ).  S imu l tan e ous   Con fidence   Band   for   Non parametric   Fixed - Effects   Panel   Data   Models . 
+E con omics   Letters ,  119 :  229 - 232 . 
+18 
+Lai   P .,  Li   G .  R .  and   Lian   H . ( timelabel ).  Semiparametric   Estimation   of   Fixed   Effects   Panel   Data   Sin gle - index   Model . 
+Statistics   and   Probability   Letters ,  83 :  1595 - 1602 . 
+19 
+Zhao   P .  X .  and   Li   G .  R . ( timelabel ).  Modified   SEE   Variable   Selection   for   Var yin g   Coefficient   Instru mental   Variable   Models . 
+Statistical   Methodology ,  12 :  60 - 70 . 
+20 
+Li   G .  R .,  Peng   H .,  Zhang   J .  and   Zhu   L .  X . ( timelabel ).  Robust   Ran k   Correlation   Based   Screening . 
+Annals   of   Statistics ,  40 ( 3 ):  1846 - 1877 . 
+21 
+Li   G .  R .,  Xue   L .  G .  and   Lian   H . ( timelabel ).  SCAD - penalized   Generalized   Additive   Models   with   NP - dimensionality . 
+Journal   of   Non parametric   Statistics ,  24 ( 3 ):  681 - 697 . 
+22 
+Li   G .  R .,  Lin   L .  and   Zhu   L .  X . ( timelabel ). Empirical   Likelihood   for   Var yin g   Coefficient   Partially   Line ar   Model   with   Diverging   Number   of   Parameters . 
+Journal   of   Multivariate   Analy sis ,  105 :  85 - 111 . 
+23 
+Zhang   J .,  Feng   S .  Y .,  Li   G .  R .*  and   Lian   H . ( timelabel ).  Empirical   Likelihood   Inference   for   Partially   Line ar   Panel   Data   Models   with   Fixed   Effects . 
+E con omics   Letters ,  113 :  165 - 167 . 
+24 
+Li   G .  R .,  Xue   L .  G .  and   Lian   H . ( timelabel ).  Semi - var yin g   Coefficient   Models   with   a   Diverging   Number   of   Components . 
+Journal   of   Multivariate   Analy sis ,  102 :  1166 - 1174 . 
+25 
+Zhang   W .,  Li   G .  R .*  and   Xue   L .  G . ( timelabel ).  Profile   Inference   on   Partially   Line ar   Var yin g - Coefficient   EV   Models   und er   Restricted   Con dition . 
+Comp uta tional   Statistics   and   Data   Analy sis ,  55 :  3027 - 3040 . 
+26 
+Li   G .  R .,  Peng   H .  and   Zhu   L .  X . ( timelabel ).  Non con cave   Penalized   M - estimation   with   Diverging   Number   of   Parameters . 
+Statistica   Sin ica ， 21 :  391 - 419 . 
+27 
+Li   G .  R .,  Feng   S .  Y .  and   Peng   H . ( timelabel ).  Profile - type   Smoothed   Score   Function   for   a   Var yin g   Coefficient   Partially   Line ar   Model . 
+Journal   of   Multivariate   Analy sis ,  102 :  372 - 385 . 
+28 
+Li   G .  R .,  Zhu   L .  P .  and   Zhu   L .  X . ( timelabel ).  Adaptive   Con fidence   Region   for   the   Direction   in   Semiparametric   Regressions . 
+Journal   of   Multivariate   Analy sis ,  101 :  1364 - 1377 . 
+29 
+Li   G .  R .,  Zhu   L .  X .,  Xue   L .  G .  and   Feng   S .  Y . ( timelabel ).  Empirical   Likelihood   Inference   in   Partially   Line ar   Sin gle - index   Models   for   Longitudinal   Data . 
+Journal   of   Multivariate   Analy sis ,  101 :  718 - 732 . 
+30 
+Zhu   L .  X .,  Lin   L .,  Cui   X .  and   Li   G .  R . ( timelabel ).  Bias - corrected   Empirical   Likelihood   in   a   Multi - link   Semiparametric   Model . 
+Journal   of   Multivariate   Analy sis ,  101 :  850 - 868 . 
+31 
+Wang   X .  L .,  Li   G .  R .  and   Lin   L . ( timelabel ).  Empirical   Likelihood   Inference   for   Semi - parametric   Var yin g - coefficient   Partially   Line ar   Errors - in - variables   Models . 
+Metrika ,  73 ( 2 ):  171 - 185 . 
+32 
+Li   G .  R .,  Chen   S .  and   Zhang   J . ( timelabel ). A   class   of   Ran dom   Deviation   Theorems   and   the   Approach   of   Laplace   Transform . 
+Statistics  &  Probability   Letters ， 79 :  202 - 210 . 
+33 
+Li   G .  R .,  Tian   P .  and   Xue   L .  G . ( timelabel ).  Generalized   Empirical   Likelihood   Inference   in   Semiparametric   Regression   Model   for   Longitudinal   Data . 
+Acta   Mathematica   Sin ica ,  English   Series ， 24 ( 12 ):  timelabel - timelabel . 
+34 
+Li   G .  R .  and   Xue   L .  G . ( timelabel ).  Empirical   Likelihood   Con fidence   Region   of   the   Parameter   in   the   Partially   Line ar   Errors - in - variables   Model . 
+Commu nic ations   in   Statistics  --  Theory   and   Methods ， 37 ( 10 ):  1552 - 1564 . 
+35 
+Li   G .  R .,  Chen   S .  and   Feng   S .  Y . ( timelabel ).  A   Strong   Limit   Theorem   for   Functions   of   Con tinu ous   Ran dom   Variables   and   an   Extension   of   the   Shan non - McMillan   Theorem . 
+Journal   of   Applied   Mathematics ,  1 - 10 . 
+Referee   Service 
+Referee   for   more   than   20   Journals :  such   as   Journal   of   the   Ameri can   Statistical   Association 、 S can dinavian   Journal   of   Statistics 、 Statistica   Sin ica 、 Journal   of   Multivariate   Analy sis 、 Comp uta tional   Statistics   and   Data   Analy sis 、 Journal   of   Statistical   Planning   and   Inference 、 Aust ralian  &  New   Zealand   Journal   of   Statistics 、 
+etc . 
+教学情况 
+本科 ： 概率论 与 数理统计 、 多元统计 分析 
+研究生 ： 数理统计 与 随机 过程 、 统计软件 选讲 、 现代 管理 统计 
+招生要求 
+欢迎 有 较 强 的 数学 、 概率统计 基础 、 以及 具有 一定 软件 基础 和 英语 基础 的 学生报考 统计学 的 
+博士研究生 、 学术型研究生 和 应用 统计 的 专业硕士研究生 ！！！！ 
+U sef ul   Link 
+☆ 
+Journal   of   the   Royal   Statistical   Society :  Series   B  ( Statistical   Methodology ) 
+☆ 
+Journal   of   the   Ameri can   Statistical   Association Homepage    of    JASA 
+☆ 
+Bioinformatics 
+☆ 
+Annals   of   Statistics 
+☆ 
+Biometrics 
+☆ 
+Biometrika 
+☆ 
+Statistica   Sin ica 
+☆ 
+S can dinavian   Journal   of   Statistics 
+☆ 
+Bernoulli 
+☆ 
+arxiv . org 
+☆ 
+小木虫 科学网 place_label 数学 资源网 
+☆ 
+place_label 科学 、 数学学报 、 应用 数学学报 、 系统科学 与 数学 、 应用 概率统计 、 工程数学学报 、 高校 应用 数学学报 、 数学进展 
+Updated   in   November   timelabel 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

@@ -1,0 +1,278 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="研究生,招生信息,招生">
+<meta name="description" content="研究生"> 
+<title>济南大学研究生招生信息网-研究生,招生信息,招生</title>
+<link href="/2016/guanlihoutai/Public/web/css/mulu.css" rel="stylesheet" type="text/css">
+<style>
+td{ text-align:left;}
+.tdxian{line-height:30px; padding-left:5px; vertical-align:middle;background-color:#F7FBFF;}
+.tdxian2{line-height:30px;vertical-align:middle;background-color:#F7FBFF;}
+.tdxian a{line-height:30px; padding-left:5px; vertical-align:middle;background-color:#F7FBFF; color:#FF0000;}
+.STYLE1 {font-size: 18px}
+.tt1{ background-color:#E4EDFE; padding-left:10px; line-height:30px; width:150px;}
+.tt2{ background-color:#F1F7FC; padding-left:10px;word-break: break-all;}
+.tt3{ background-color:#F1F7FC; padding-left:3px; height:30px;}
+.tt4{ background-color:#F1F7FC;}
+.tt5{ background-color:#F1F7FC; text-align:center; height:40px; font-size:16px; font-weight:bold;}
+.zz{ padding-left:3px; height:30px;}
+
+</style>
+</head>
+<body class="mainbody">
+<table style="margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody><tr>
+      <td style="background-repeat:no-repeat;" valign="top" height="120" background="/2016/guanlihoutai/Public/web/images/title.jpg"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr>
+          <td>&nbsp;</td>
+          <td style="padding-top:10px;" width="150"><a href="#">设为首页</a>&nbsp;&nbsp;<a href="#">加入收藏</a></td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+  </tbody></table>
+   
+  
+  <table style="margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tbody><tr>
+          <td width="214" height="31" background="/2016/guanlihoutai/Public/web/images/bg2.jpg">&nbsp;</td>
+          <td style="background-repeat:repeat-x; padding-top:3px;" background="/2016/guanlihoutai/Public/web/images/bg1.jpg">
+		  
+		  
+		  
+<link rel="stylesheet" type="text/css" href="/2016/guanlihoutai/Public/web/css/lrtk.css">
+<!-- dd menu -->
+<script type="text/javascript">
+<!--
+var timeout         = 100;
+var closetimer		= 0;
+var ddmenuitem      = 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+// -->
+</script>
+			
+
+
+<div style="clear:both"></div>
+		  
+		  
+		  </td>
+        </tr>
+</tbody></table>
+  <div id="container" style="height:10px;"></div>
+          
+<div id="container" style="background-image:url(/2016/guanlihoutai/Public/web/images/bgg2.jpg); background-repeat:repeat-x;" align="center">
+<table width="800" cellspacing="1" cellpadding="0" border="0" bgcolor="#CCCCCC" align="center">
+		<tbody><tr>
+		<td colspan="5" class="tt5">080500|材料科学与工程专业博士研究生指导教师<span style="font-size:12px; font-weight:normal; padding-left:20px;">ClickNum:360</span></td>
+		</tr>
+		<tr>
+		<td class="tt1" width="220">姓名</td>
+		<td class="tt2" width="160">程新</td>
+		<td class="tt1">性别</td>
+		<td class="tt2" width="160">男</td>
+		<td rowspan="6" class="tt4" style="text-align:center" valign="middle" align="center"><img src="/2016/guanlihoutai/Public/Uploads/cx_20131213215208787284.jpg" width="120" height="165" border="0"></td>
+		</tr>
+		<tr>
+		<td class="tt1">民族</td><td class="tt2">汉族</td><td class="tt1">出生年月</td><td class="tt2">1963-01</td>
+		</tr>
+		<tr>
+		<td class="tt1">学历|学位</td><td class="tt2">研究生|博士</td><td class="tt1">专业技术职务</td>
+		<td class="tt2">教授</td>
+		</tr>
+		<tr>
+		<td class="tt1">行政职务</td><td class="tt2" colspan="3">济南大学党委书记</td>
+		</tr>
+		<tr>
+		<td class="tt1">联系电话</td><td class="tt2">/</td><td class="tt1">移动电话</td><td class="tt2"></td>
+		</tr>
+		<tr>
+		<td class="tt1">邮箱</td><td class="tt2" colspan="3">chengxin@ujn.edu.cn</td>
+		</tr>
+		<tr>
+		<td class="tt1">通讯地址&nbsp;|&nbsp;邮编</td><td class="tt2" colspan="4">山东省济南市南辛庄西路336号济南大学&nbsp;|&nbsp;250022</td>
+		</tr>
+		<tr>
+		<td class="tt1">招生方向(领域)</td>
+		<td class="tt2" colspan="4">01(全日制)建筑材料</td>
+		</tr>
+		<tr>
+		<td class="tt1">研究领域、学习工作经历、学术兼职等情况</td><td colspan="5" class="tt2" style="padding:6px;">
+		<div style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">程新，教授，博士，博士生导师。1999年4月任山东建材工业学院副院长，2001年1月任济南大学党委常委、副校长，2004年1月任济南大学党委副书记、校长，2015年12月任济南大学党委书记。入选</span><span style="font-size:13px;">山东省 “泰山学者攀登计划”、</span><span style="font-size:13px;">获</span><span style="font-size:13px;">山东省专业技术拔尖人才、</span><span style="font-size:13px;">山东省有突出贡献的中青年专家、</span><span style="font-size:13px;">山东省先进工作者、</span><span style="font-size:13px;">国务院颁发的政府特殊津贴、</span><span style="font-size:13px;">全国优秀教师等称号。</span></div><h4 style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><strong><span style="font-size:13px;">主要研究领域：</span></strong></h4><div style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><strong><span style="font-size:13px;"></span></strong><span style="font-size:13px;">功能及特种水泥基复合材料</span><!--临时负责党委工作，主持行政全面工作，负责党风廉政建设、干部、审计等方面工作；联系材料科学与工程学院、山东省建筑材料制备与测试技术重点实验室。--></div><h4 style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><strong><span style="font-size:13px;">学术与社会兼职：</span></strong></h4><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">国务院学位委员会第七届材料科学与工程学科评议组成员</span></p><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">教育部高等学校无机非金属材料工程专业教学指导分委员会副主任委员</span></p><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">“十二五”863计划新材料技术领域专家组专家</span></p><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">国家自然科学基金委工程材料学部评审委员会委员</span></p><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">中国硅酸盐学会常务理事</span></p><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">中国硅酸盐学会水泥分会副理事长</span></p><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">中国建筑材料联合会常务理事</span></p><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">中国建筑材料联合会科技教育委员会副主任</span></p><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">美国混凝土协会理事</span></p>&nbsp;
+		</td>
+		</tr>
+		<tr>
+		<td class="tt1">代表性科研成果及奖励：<br>（包括项目、鉴定、论文、专著、专利等)</td>
+		<td colspan="4" class="tt2" style="padding:6px;"><p><span style="font-size: 13px;"><span style="font-family:Times New Roman;">&nbsp; &nbsp; &nbsp;获国家技术发明一等奖1项，省部级一等奖5项，二等奖2项、三等奖1项，主持973前期研究专项、863计划课题、国家重点研发计划、国家自然科学基金重点项目及国防科工委项目等国家级项目12项。在Cem.Conc.Res., Cem.Comp.Concr., Constr.Bulid.Mater., Compos.Sci,Technol., Smart.Mater.Struct., J.Appl.Phys., 硅酸盐学报、复合材料学报、建筑材料学报等国内外重要期刊发表学术论文200余篇，出版专著1部，授权发明专利43件。</span></span></p><p><span style="font-size:13px;"><span style="font-family:Times New Roman;"></span></span></p><h4><span style="font-size: 13px;"><br></span></h4><h4><span style="font-size: 13px;">近三年代表性学术论文：</span></h4><p></p><p><span style="font-size: 13px;">1.Wang Dan, Ding Kun, Hou Pengkun, Zhang Lina, Zhou Zonghui, <strong>Cheng Xin*</strong>. Effect of SiO<sub>2</sub> oligomers on water absorptionof cementitious materials. Cem Conc. Res., 2016, 87:22-30. (IF=3.2)</span></p><p><span style="font-size:13px;">2.Xu Dongyu, <strong>Cheng Xin*</strong>, HuangShifeng. Investigation on fabrication and property of acoustic gradientcomposites Compo. Sci. Techno., 2016,122:90-6. (IF=3.897)</span></p><p><span style="font-size:13px;">3.Xu Dongyu, Du Peng, Wang Jingxiao, Hou Pengkun, Huang Shifeng, <strong>Cheng Xin*</strong>. Design and properties ofgaussian-type 1-3 piezoelectric composites. Compo. Struct., 2016,140:213-6. (IF=3.853)</span></p><p><span style="font-size:13px;">4.<a href="http://www.sciencedirect.com/science/article/pii/S0950061816304597" target="_blank">Hou</a>Pengkun,&nbsp;Zhang <a href="http://www.sciencedirect.com/science/article/pii/S0950061816304597" target="_blank">Rui</a>, Cai&nbsp;<a href="http://www.sciencedirect.com/science/article/pii/S0950061816304597" target="_blank">Yamei</a>,&nbsp;Cheng<a href="http://www.sciencedirect.com/science/article/pii/S0950061816304597" target="_blank">Xin</a>,&nbsp;S.P. Shah.In situ Ca(OH)<sub>2</sub>&nbsp;consumption of TEOS on the surface of hardenedcement-based materials and its improving effects on the Ca-leaching andsulfate-attack resistivity. Constr.Build.Mater., 2016,113:890-6. (IF=2.421)</span></p><p><span style="font-size:13px;">5.Kun Ding,&nbsp;Dan Wang,Ping Yang,<strong>Xin Cheng</strong>*.Synthesisof anatase titanium dioxide nanocaps via hydrofluoric acid etching towardsenhanced photocatalysis, Mater.Res.Bull., 2016,74:311-8.(IF=2.435)</span></p><p><span style="font-size:13px;">6.Hou Pengkun, <strong>Cheng Xin*</strong>, QianJueshi, Zhang Rui, Cao Wei, S. P. Shah. Characteristics of surface-treatment ofnano-SiO<sub>2</sub>&nbsp;on the transport properties of hardened cement pasteswith different water-to-cement ratios. Cem.Conc. Compo., 2015,55:26-33. (IF=3.399)</span></p><p><span style="font-size:13px;">7.Sun Mengyong, Li Qinggang, Huang Shifeng, <strong>ChengXin*</strong>. Fabrication and properties of Cfiber/Si3N4 composite by vacuum hot-pressingsintering. Ceram. Int., 2015,41(4):6084-8. (IF=2.758)</span></p><p><span style="font-size:13px;">8.Hou Pengkun, <strong>Cheng Xin*</strong>, QianJueshi, S. P. Shah. Effects and mechanisms of surface treatment of hardenedcement-based materials with colloidal nanoSiO<sub>2</sub>&nbsp;and itsprecursor. Constr.Build.Mater.,2014,53(28):66-73.(IF=2.421)</span></p><p><span style="font-size:13px;">9.Xu Dongyu, <strong>Cheng Xin*</strong>, Sourav Banerjee,Wang Lei, Huang Shifeng. Dielectric, piezoelectric and damping properties ofnovel 2-2 piezoelectric composites. Smart Mater.Struct. 2015;24(2):025003. (IF=2.769)</span></p><p><span style="font-size:13px;">10.Xu Dongyu, <strong>Cheng Xin*</strong>, Banerjee Sourav,Huang Shifeng. Design, fabrication, and properties of 2-2 connectivitycement/polymer based piezoelectric composites with varied piezoelectric phasedistribution. J. Appl. Phys., 2014,116:244103. (IF=2.101)</span></p><p></p><p><span style="font-size:13px;"><strong><br></strong></span></p><p><span style="font-size:13px;"><strong>专著：</strong></span></p><p><span style="font-size:13px;">程新.硫铝酸钡（锶）钙水泥.科学出版社. 2013.10</span></p></td>
+		</tr>
+		
+		<tr>
+		<td class="tt1">教学及研究生培养情况</td><td colspan="4" class="tt2" style="padding:6px;"><p style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN-TOP: 0px; LINE-HEIGHT: 2; TEXT-INDENT: 2em"><span style="font-size:13px;">担任研究生的《先进建筑材料》、《高性能胶凝材料》及本科生的《水泥科技进展》等课程教学，指导本硕博研究生的毕业论文工作，培养了博士研究生8名，硕士研究生30余名。&nbsp;&nbsp; </span></p>&nbsp;</td>
+		</tr>
+		<tr>
+		<td class="tt1">备注</td><td colspan="4" class="tt2" style="padding:6px; font-size:12px;">&nbsp;</td>
+		</tr>
+</tbody></table>
+</div>
+
+<link href="/2016/guanlihoutai/Public/web/css/main.css" rel="stylesheet" type="text/css">
+
+
+  <table style="border:1px solid #BFC2C9; margin-top:10px; margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+    <tbody><tr>
+      
+      <td style="line-height:25px; " height="60"><p align="center"><a href="#" class="link_bai12" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://yjs.ujn.edu.cn/zhaosheng/');">设为首页</a>&nbsp;|&nbsp;<a href="javascript:window.external.addFavorite('http://yjs.ujn.edu.cn/zhaosheng/','济南大学研究生招生信息网')" class="link_bai12">加入收藏</a>&nbsp;|&nbsp;<a href="http://yz.ujn.edu.cn/2016/common_page.php?zgy_common_page=contactus" target="_blank" class="link_bai12">联系我们</a>&nbsp;|&nbsp;<a href="http://yz.ujn.edu.cn/2016/common_page.php?zgy_common_page=friendlinks" target="_blank" class="link_bai12">友情链接</a> &nbsp;&nbsp;&nbsp;
+      济南大学研究生处&nbsp;·&nbsp;济南大学研究生招生信息网版权所有 </p></td>
+    </tr>
+  </tbody></table>
+  
+
+<div>
+	<li><a href="http://yz.ujn.edu.cn/2016/index.php" style="  width:35px;" target="_blank">首页</a></li>
+ 
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=14" target="_blank" onmouseover="mopen('m14')" onmouseout="mclosetime()">工作动态</a>
+	
+		<div id="m14" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=39" target="_blank">工作进展</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=38" target="_blank">工作计划</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=26" target="_blank" onmouseover="mopen('m26')" onmouseout="mclosetime()">博士招生</a>
+	
+		<div id="m26" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=49" target="_blank">简章目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=51" target="_blank">报名考试</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=50" target="_blank">复试录取</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=8" target="_blank" onmouseover="mopen('m8')" onmouseout="mclosetime()">硕士招生</a>
+	
+		<div id="m8" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=18" target="_blank">简章目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=21" target="_blank">报名考试</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=22" target="_blank">复试录取</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=13" target="_blank" onmouseover="mopen('m13')" onmouseout="mclosetime()">推免工作</a>
+	
+		<div id="m13" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=25" target="_blank">推荐工作</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=24" target="_blank">接收工作</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=27" target="_blank" onmouseover="mopen('m27')" onmouseout="mclosetime()">非全日制</a>
+	
+		<div id="m27" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=30" target="_blank">在职攻读</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=31" target="_blank">同等学力</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="javascript:void(0)" target="_self" onmouseover="mopen('m17')" onmouseout="mclosetime()">招生目录</a>
+	
+		<div id="m17" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="/2016/guanlihoutai/index.php/home/Index/sszszyml" target="_blank">硕士招生专业目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Index/bszszyml" target="_blank">博士招生专业目录</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="javascript:void(0)" target="_self" onmouseover="mopen('m6')" onmouseout="mclosetime()">导师信息</a>
+	
+		<div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Tutor/shuodao" target="_blank">硕士生导师</a>
+	 <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Tutor/bodao" target="_blank">博士生导师</a>
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=5" target="_blank" onmouseover="mopen('m5')" onmouseout="mclosetime()">资料中心</a>
+	
+		<div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=36" target="_blank">常用下载</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=35" target="_blank">在职招生</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=37" target="_blank">相关文件</a>
+	
+		</div>
+		
+	</li>
+	
+	
+	
+</div></body></html>

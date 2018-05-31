@@ -1,0 +1,79 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>西南交通大学教师个人主页</title>
+<meta content="text/html; charset=gbk" http-equiv="Content-Type">
+<meta name="title" content="西南交通大学教师个人主页">
+<meta name="description" content="西南交通大学教师个人主页是为教职员工提供展示其教学和科研信息的平台">
+<meta name="keywords" content="交大，西南交通大学，西南交大，导师信息，教师，个人主页">
+<meta content="no-cache" http-equiv="Pragma">
+<meta content="no-cache" http-equiv="Cache-Control">
+<meta content="0" http-equiv="Expires"><link rel="stylesheet" type="text/css" href="CSS/default.css">
+<meta name="GENERATOR" content="MSHTML 8.00.7601.17514"></head>
+<body>
+<div class="toplink"><span><a href="http://homepage.swjtu.edu.cn/UserWeb/Login.aspx" target="_blank">登录</a></span> <span><a href="http://homepage.swjtu.edu.cn/Home/list.aspx?type=help" target="_blank">帮助</a></span> 
+<span><a href="http://homepage.swjtu.edu.cn" target="_blank">返回首页</a></span> <span><a title="西南交通大学" href="http://www.swjtu.edu.cn" target="_blank">交大主页</a></span> 
+<div style="CLEAR: both"></div></div>
+<div id="container"><!--top-->
+<div id="top">
+<div style="TEXT-ALIGN: right; FLOAT: right"></div>
+<div id="logo"></div><!--navigate-->
+<div id="lead">
+<ul id="navigate">
+  <li><a href="index.htm" target="_blank">我的主页:</a></li>
+  <li><a href="index.htm" target="_blank">个人信息</a></li>
+  <li><a href="research.htm" target="_blank">科学研究</a></li>
+  <li><a href="paper.htm" target="_blank">论文成果</a></li>
+  <li><a href="award.htm" target="_blank">荣誉奖励</a></li>
+  <li><a href="team.htm" target="_blank">科研团队</a></li>
+  <li><a href="teach.htm" target="_blank">课程教学</a></li>
+  <li><a href="zhaosheng.htm" target="_blank">招生信息</a></li>
+  <li><a href="english.htm" target="_blank">English</a> </li></ul></div></div><!--middle-->
+<div style="WIDTH: 1000px; HEIGHT: 504px" id="middle">
+<div style="WIDTH: 250px; HEIGHT: 520px" id="milddle_left">
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 118px; LEFT: 131px" class="module">
+<div class="subject"><span id="t0">基本信息</span></div>
+<div id="n0" class="detail">
+<p align="center"><img style="WIDTH: 200px; HEIGHT: 208px" alt="" src="http://userweb.swjtu.edu.cn/Userweb/wangyuanbo/images/photo.jpg"></p>
+<p>&nbsp;</p>
+<p>王远波&nbsp;副教授 硕士生导师</p>
+<p>从事专业：电力电子与电力传动、电机与拖动　</p>
+<p>工作单位：电气工程学院</p></div></div>
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 597px; LEFT: 99px" class="module">
+<div class="subject"><span id="t3">联系方式</span></div>
+<div id="n3" class="detail">
+<p>通信地址：成都市二环路北一段111号</p>
+<p>电子邮箱：</p>
+<p><a href="mailto:wangyuanbo@home.swjtu.edu.cn" target="_blank">wangyuanbo@home.swjtu.edu.cn</a></p>
+<div id="n3" class="detail">&nbsp;</div></div></div></div>
+<div style="WIDTH: 740px; HEIGHT: 518px" id="middle_right">
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 149px; LEFT: 398px" class="module">
+<div class="subject"><span>个人简介</span></div>
+<div id="n2" class="detail">
+<ol>
+  <li>1983年7月毕业于重庆大学电气工程学院电机专业。获工学学士学位。</li>
+  <li>1983年7月至今，在西南交通大学电气工程学院任教。</li>
+  <li>1998年西南交通大学电气学院电力传动及其自动化专业研究生毕业。获工学硕士学位。</li></ol>
+<div id="n2" class="detail">&nbsp;</div></div></div>
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 144px; LEFT: 655px" class="module">
+<div class="subject"><span>主要研究方向</span></div>
+<div class="detail">
+<p>现主要研究方向：</p>
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 144px; LEFT: 655px" class="detail">
+<ol>
+  <li>
+  <div style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">电力电子技术及其应用</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">；</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'"><!--?xml:namespace 
+  prefix = o ns = "urn:schemas-microsoft-com:office:office" 
+  /--><o:p></o:p></span></div></li>
+  <li>
+  <div style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">电力牵引与传动控制</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">；</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'"><o:p></o:p></span></div></li>
+  <li>
+  <div style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">电机控制</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">；</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'"><o:p></o:p></span></div></li>
+  <li>
+  <div style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">电气传动系统</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">；</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'"><o:p></o:p></span></div></li>
+  <li>
+  <div style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">特种电机及控制</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">；</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'"><o:p></o:p></span></div></li>
+  <li>
+  <div style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">直线电机及驱动</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">；</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'"><o:p></o:p></span></div></li>
+  <li>
+  <div style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">计算机控制技术及其应用</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'">。</span><span style="FONT-FAMILY: '宋体'; COLOR: rgb(0,0,0); FONT-SIZE: 10pt; mso-spacerun: 'yes'"><o:p></o:p></span></div></li></ol></div></div></div></div></div><!--bottom-->
+<div id="bottom">Copyright © 2011 http://inc.swjtu.edu.cn 西南交通大学信息网络中心 
+<br></div></div>
+</body></html>

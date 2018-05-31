@@ -1,0 +1,82 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<meta name="title" content="西南交通大学教师个人主页"> 
+<meta name="description" content="西南交通大学教师个人主页是为教职员工提供展示其教学和科研信息的平台"> 
+<meta name="keywords" content="交大，西南交通大学，西南交大，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>西南交通大学教师个人主页</title>
+
+				<link href="CSS/default.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+		<div class="toplink">		
+        <span><a href="http://homepage.swjtu.edu.cn/UserWeb/Login.aspx" target="_blank">登录</a></span>
+		<span><a href="http://homepage.swjtu.edu.cn/Home/list.aspx?type=help" target="_blank">帮助</a></span>
+        <span><a href="http://homepage.swjtu.edu.cn" target="_blank">返回首页</a></span>
+      	<span><a href="http://www.swjtu.edu.cn" title="西南交通大学" target="_blank">交大主页</a></span>
+		<div style="clear:both"></div>
+       </div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+   <div id="logo"></div>
+<!--导航-->
+</div>
+    <div id="lead">
+        <ul id="navigate">
+            <li><a href="index.htm" target="_blank">我的主页:</a></li><li><a href="index.htm" target="_blank">个人信息</a></li><li><a href="research.htm" target="_blank">科学研究</a></li><li><a href="paper.htm" target="_blank">论文成果</a></li><li><a href="award.htm" target="_blank">荣誉奖励</a></li><li><a href="team.htm" target="_blank">科研团队</a></li><li><a href="teach.htm" target="_blank">课程教学</a></li><li><a href="zhaosheng.htm" target="_blank">招生信息</a></li><li><a href="english.htm" target="_blank">English</a></li>
+        </ul>
+    </div>
+
+<!--中间-->
+<div id="middle">
+			<div id="middle_left" style="margin:1px 0 0 0; float:left; width:230px; display:inline;"> 
+			<div class="module" style="LEFT: 131px; WIDTH: auto; TOP: 118px; HEIGHT: auto">
+
+<div class="subject"><span id="t0">基本信息</span></div>
+<div class="detail">
+<p><img style="WIDTH: 220px; HEIGHT: 191px" alt="" src="images/photo.jpg"></p>
+<p>王涛  副教授</p>
+<p>硕导</p>
+<p>博士学科：</p>
+<p>硕士学科：电力电子与电力传动　</p>
+<p>工作单位：电气工程学院</p></div></div>
+<div class="module" style="LEFT: 99px; WIDTH: auto; TOP: 597px; HEIGHT: auto">
+<div class="subject"><span id="t3">联系方式</span></div>
+<div class="detail" id="n3">
+<p>通信地址：成都市二环路北一段111号</p>
+<p>电子邮箱：taowang@home.swjtu.edu.cn</p>
+<p>办公电话：</p>
+<p>办公地点：西南交通大学电气工程学院</p></div></div></div>
+
+			<div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;">
+			<div class="module" style="LEFT: 398px; WIDTH: auto; TOP: 149px; HEIGHT: auto">
+
+<div class="subject"><span id="t2">个人简介</span></div><!--ckstartn2-->
+<div class="detail" id="n2">
+<p>王涛，博士，副教授，2007年6月于西南交通大学交通信息工程及控制专业获得工学博士学位。2010年3月至2011年3月美国University of California, Ivine 电力电子实验室访问学者。
+</p>
+<p>&nbsp;</p></div><!--ckendn2--></div>
+<div class="module" style="LEFT: 655px; WIDTH: auto; TOP: 144px; HEIGHT: auto">
+
+<div class="subject"><span id="t1">主要研究方向</span></div><!--ckstartn1-->
+<div class="detail">
+<p>现主要研究方向：</p>
+<p>(1) 计算机控制技术。</p>
+<p>(2) 交流调速控制。</p>
+</div><!--ckendn1--></div></div>
+			</div>
+
+<!--底部-->
+<div id="bottom">
+Copyright © 2011   http://inc.swjtu.edu.cn   西南交通大学信息网络中心 
+<br>
+</div>
+</div>
+
+
+</body></html>

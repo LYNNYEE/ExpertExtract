@@ -1,0 +1,331 @@
+<html><head>
+   <title>西北农林科技大学 动物科技学院</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+  <link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+
+
+<style type="text/css"></style><script charset="utf-8" src="//s.yunshipei.com/javascript/sm.min.js" async=""></script></head><body>
+
+<!--顶部开始-->
+
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/e370dbe18cc1944dd895c7af5fb1c761/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
+  <title>西北农林科技大学 动物科技学院</title>
+
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+ 
+
+<link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+<script src="../../js/jquery1.42.min.js" type="text/javascript"></script>
+<script src="../../js/jquery.superslide.2.1.1.js" type="text/javascript"></script>
+<style>
+
+body {background: #E9E6E6;}
+
+*{font-family:宋体}
+
+.cont {margin: 1px 25px;color:#000;}
+.cont p{line-height:26px;text-indent: 0em;margin-bottom: 10px;font-size:14px;}
+.cont p img{text-indent: 0;margin: 0 auto;}
+.cont table{margin:0 auto;}
+.sort_rightcont2 h1{color: #0c600c;}
+#contenttable td{font-size:14px;padding:15px 0px;}
+#contenttable th{padding:10px 0;}
+#contenttable .fontstrong{font-weight:bold}
+		
+		
+		img{ border:0;  }
+		a{ text-decoration:none; color:#333;  }
+
+		/* 本例子css */
+		.slideBox{ width:1180px; height:130px; overflow:hidden; position:relative; border:1px solid #ddd;  }
+		.slideBox .hd{ height:15px; overflow:hidden; position:absolute; right:5px; bottom:5px; z-index:1; }
+		.slideBox .hd ul{ overflow:hidden; zoom:1; float:left; margin-top:10px; }
+		.slideBox .hd ul li{ float:left; margin-right:2px;  width:8px; height:8px; line-height:14px; text-align:center; background:#fff; cursor:pointer; }
+		.slideBox .hd ul li.on{ background:#f00; color:#fff; }
+		.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+		.slideBox .bd li{ zoom:1; vertical-align:middle; }
+		.slideBox .bd img{ width:1180px; height:130px; display:block;  }
+
+		/* 下面是前/后按钮代码，如果不需要删除即可 */
+		.slideBox .prev,
+		.slideBox .next{ position:absolute; left:3%; top:50%; margin-top:-25px; display:block; width:32px; height:40px; background:url(images/slider-arrow.png) -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+		.slideBox .next{ left:auto; right:3%; background-position:8px 5px; }
+		.slideBox .prev:hover,
+		.slideBox .next:hover{ filter:alpha(opacity=100);opacity:1;  }
+		.slideBox .prevStop{ display:none;  }
+		.slideBox .nextStop{ display:none;  }
+
+		
+</style>
+
+<div class="head">
+<script type="text/javascript" language="javascript">
+    //加入收藏
+        function AddFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }   
+        }
+    }
+    //设为首页
+    function SetHome(url){
+ 
+        if (document.all) {
+ 
+            document.body.style.behavior='url(#default#homepage)';
+ 
+               document.body.setHomePage(url);
+ 
+        }else{
+ 
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+    <div class="header">
+        <div class="head_right">    
+            <div style="width: 305px;height:45px;"><p><a href="http://dkxy.nwsuaf.edu.cn/english/" )="" target="_blank" "="">English</a> | <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a> | <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>| <a href="../../lxwm/index.htm" target="_blank">联系我们</a></p></div>
+            
+            <div>
+                <span class="sousou">
+<form name="dataForm" action="http://cms2.nwsuaf.edu.cn/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+     <input name="siteID" value="77" type="hidden">
+                        <input name="query" class="search_input" style="height:20px;width:175px;float: left;margin-left:15px;border-left: 2px solid #c1c0be;border-bottom: 2px solid #c1c0be;border-top: 2px solid #c1c0be;" value="请输入关键字" onclick="javascript:if (this.value=='请输入关键字'){this.value=''}" type="text">
+                        <input value="" name="Submit" class="so_btn" style="height:24px;width:55px;float:right;margin-right:85px;border:0; background:url(../../images/bg_search.png);" type="Submit">     
+                    </form>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<!--顶部结束-->
+
+
+<!--导航开始-->
+<div class="nav">
+          <div id="nav">
+                  <ul>
+                <li><a class="link" href="../../index.htm" target="_blank">首页</a></li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../zjrc/index.htm" target="_blank">师资队伍</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xkjs/xkjj/index.htm" target="_blank">学科建设</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../bksjy/zyjj/index.htm" target="_blank">本科生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../yjsjy/bsd/index.htm" target="_blank">研究生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../kytg/kytgjf/index.htm" target="_blank">科研推广</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../hzjl/xzjl/index.htm" target="_blank">合作交流</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../dqgz/dwjg/index.htm" target="_blank">党群工作</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xsgl/zzjg/index.htm" target="_blank">学生管理</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../crjy/hsjy/index.htm" target="_blank">成人教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygz/xyhd/index.htm" target="_blank">校友工作</a>
+                                </li>
+                                
+                
+            </ul>
+          </div>
+        </div>
+
+<!--导航结束-->
+
+<!--articlehome开始-->
+<div class="sort_main">
+
+	<div class="sort_left">
+	
+		<div class="sort_lefthead"><dt>师资队伍</dt></div>
+		<div class="sort_leftcont">
+			<ul>
+							<a href="../zjrc/index.htm" target="_blank"><li style="width:178px;height:32px;">专家人才</li></a>
+							<a href="index.htm" target="_blank"><li style="width:178px;height:32px;">教授、研究员</li></a>
+							<a href="../fjsfyjy/index.htm" target="_blank"><li style="width:178px;height:32px;">副教授、副研究员</li></a>
+							<a href="../js/index.htm" target="_blank"><li style="width:178px;height:32px;">讲师</li></a>
+							<a href="../wpzj/index.htm" target="_blank"><li style="width:178px;height:32px;">外聘专家</li></a>
+						</ul>
+		</div>
+
+	</div>
+
+
+
+
+	<div class="sort_right2">
+	
+		<div class="sort_righthead2"><dt>现在的位置:                  <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        教授、研究员
+</dt></div>
+		
+		<div class="sort_rightcont2">
+			
+				<h1 style="color: #0c600c;font-size:16px;">周占琴</h1>
+				   <h2 style="font-size: 14px;color: #3d66aa;"> </h2>
+				<h2>                                  发布日期：2015-10-16  浏览次数： <script src="/cms/web/count.jsp?articleID=217696"></script>6770</h2>
+                               <div class="line" style="margin-top:10px;"></div>
+				<div class="cont" style="color:#000;margin: 1px 25px;">
+					　　<div class="media"></div>
+						<div class="flashpaper"></div>  
+							   <p><img onclick="window.open('../../images//content/2015-10/20151016165610189209_1.jpg')" src="../../images//content/2015-10/20151016165610189209.jpg" style="float:right; height:171px; width:150px"></p>
+
+<p>　　<strong>1．基本信息</strong></p>
+
+<p>　　周占琴，女，汉族，1958年2月生，甘肃省环县人，教授，硕士生导师，陕西省三五人才，中国畜牧兽医学会养羊学分会副理事长、陕西省农业专家服务团特聘专家。1981年9月毕业于甘肃农业大学畜牧系养羊专业，获硕士学位。自1982年以来，一直从事养羊技术教学、研究与推广工作，对中国肉羊产业的健康发展作出了积极贡献，曾被评为杨凌示范区百年杰出女性、杨凌示范区第一届敬业奉献道德模范、全国巾帼建国标兵。</p>
+
+<p>　　（1）对中国肉羊发展史进行了系统研究，提出了独特的评判与见解。</p>
+
+<p>　　（2）倡导引进了布尔山羊并对该品种进行了系统研究与推广工作，使该品种广泛用作中国肉山羊杂交父本品种，产生了不可估量的经济与社会效益。</p>
+
+<p>　　（3）提出和推行的“461肉羊高效生产模式”可充分利用肉羊的“黄金”生长与繁殖年龄，使其生产潜力得到最大发挥，从根本上解决了舍饲肉羊养殖效益低下问题。</p>
+
+<p>　　（4）筛选出中国肉山羊最优杂交模式和北方肉用绵羊杂交模式，在一定程度上，促进了中国肉羊产业的健康发展。</p>
+
+<p>　　（5）筛选出适合不同条件下保存用山羊精液稀释液和解冻液，将山羊冻精解冻活力提高到0.6以上，填补了国内山羊精液解冻液的空白。</p>
+
+<p>　　（6）在省内外建立肉羊养殖基地6处，完成肉羊杂交改良200多万只。</p>
+
+<p>　　（7）开发的去卵巢技术使母山羊羔的日增重、屠宰率和肉品品质得到明显改进。</p>
+
+<p>　　（8）提出了中国母本绵羊培育计划并在甘肃金昌建立了高繁母本绵羊培育基地。</p>
+
+<p>　　（9）提出的中国肉羊“提质增效、创新发展”行动计划受到有关部门的高度重视。</p>
+
+<p>　　（10）开发的两月龄乳羔肉不仅具有市场优势，而且实现了羊肉生产“四减一优”、增收增效的目的。</p>
+
+<p>　<strong>　2．研究方向</strong></p>
+
+<p>　　肉羊繁殖、育种。</p>
+
+<p>　<strong>　3．近五年主持的项目 </strong></p>
+
+<p style="text-align: center"><strong><img alt="" onclick="window.open('../../images/content/2017-04/20170421171509338482_1.png')" src="../../images/content/2017-04/20170421171509338482.png"></strong></p>
+
+<p>　　<strong>4. 近五年发表的论文（通讯作者）</strong></p>
+
+<p>　　[1]&nbsp;Lei Zhang, Yan-yan Wang, Zhan-qin Zhou*, Ming-zhe Fu, Guang Li, Fang Peng, Lu Wan. Fatty acid composition and mRNA expression levels of lipid-metabolic genes in the muscles of ovariectomised young goats, Animal Production Science, Animal Production Science, 2015,（7）：234-239</p>
+
+<p>　　[2]&nbsp;Lei Zhang, Yan-Yan Wang, Ming-zhe Fu，Guang Li, Ning An, Si-yao Li, and Zhan-qin Zhou*. The effects of ovariectomy on meat performance and expression of GH/IGF-I in young goats, Canadian &nbsp;J0urnal &nbsp;of Animal Science, 2014(10):1-8</p>
+
+<p>　　[3]&nbsp;Lei Zhang, Zhan-qin&nbsp;Zhou*, Guang Li, Ming-zhe Fu.The Effect of Deposition Se on the mRNA Expression Levels of GPxs in Goats from a Se-enriched County of China [J]. Biological Trace Element Research, 2013, （156）：111–123</p>
+
+<p>　　[4]&nbsp;张磊，周占琴，付明哲等. 陕西富硒与非富硒地区山羊组织硒含量和ＧＰＸ－７基因表达的比较, 中国兽医学报，2015,35（5）:779~784</p>
+
+<p>　　[5]&nbsp;刘朝霞，张磊，周占琴等.摘除卵巢对山羊羔肌肉营养成分的影响，西北农业学报,2015,24(4):13-18</p>
+
+<p>　　[6]&nbsp;张磊, 王燕燕, 周占琴*等. 卵巢摘除对母山羊血清GH水平和部分组织中GHR基因表达的影响,中国农业科学,2014,47(1):199-208</p>
+
+<p>　　[7]&nbsp;张磊, 王燕燕, 周占琴*等. 摘除卵巢对布尔山羊杂种母羊组织IGF-I和IGF-1R基因表达的影响, 中国兽医学报，2014,34（6）:1005-1011</p>
+
+<p>　　[8]&nbsp;张磊,王燕燕,周占琴*等.摘除卵巢对母山羊肾周脂肪中脂肪酸组成及相关基因mRNA表达量的影响，农业生物技术学报，2014，22（12）：1544~1552</p>
+
+<p>　　[9]&nbsp;张磊, 周占琴*, 李广等.陕西紫阳县山羊Fas和&nbsp;Bcl-2基因表达研究[J].西北农业学报,2014,23(8):1-7</p>
+
+<p>　　[10]&nbsp;张磊, 周占琴*, 付明哲等.富硒地区山羊组织中硒沉积量及其对PHGPx表达的影响，西北农林科技大学学报（自然科学版），2014（11）：1-7</p>
+
+<p>　　[11]&nbsp;张磊，周占琴，秦海峰等.紫阳县陕南白山羊肌肉组织、血液和毛发硒含量分析研究，中国草食动物科学，2014年专刊</p>
+
+<p>　　[12]&nbsp;王燕燕，陈福财，张磊,等. 卵巢摘除对山羊羔产肉性能的影响, 西北农林科技大学学报，2013，41（3）：13-18.</p>
+
+<p>　　[13]&nbsp;李&nbsp;广, 付明哲, 周占琴, 等. 转化生长因子β1基因（TGF-β1）外显子2的单核甘酸多态性及其与两个山羊品种产羔数的相关分析. 农业生物技术学报, 2012(2): 165~170.</p>
+
+<p>　　[14]&nbsp;陈福财, 张磊, 王燕燕, 吴森, 索郎拉姆, 周占琴*. 外源Se对胚胎移植受体母羊黄体发育和血清激素水平的影响. 家畜生态学报, 2012(4): 43~46.</p>
+
+<p>　　[15]&nbsp;吴森, 王燕燕, 陈福财, 周占琴*. 甘氨酸锌对受体羊血清激素水平、黄体数和受胎率的影响. 西北农业学报, 2012（4）:6-10</p>
+
+<p>　　[16]&nbsp;任洁, 陈福财, 吴森等. 布尔山羊公羊身体质量与精液品质和生殖激素之间的关系. 中国农学通报, 2011(3): 333-363</p>
+
+<p>　　[17]吴森,陈福财,王燕燕, 周占琴*等. 补硒对萨福克羊血清激素水平和超排效果, 中国农学通报, 2011, (23): 33-35</p>
+
+<p>　<strong>　5．近五年出版的著作</strong></p>
+
+<p>　　（1）农区科学养羊技术问答，2012，金盾出版社（主编）</p>
+
+<p>　　（2）金昌肉用湖羊养殖技术，2014，金盾出版社（主编）</p>
+
+<p>　　（3）陕西省职业农民培育丛书——肉羊，2014，三秦出版社（主编）</p>
+
+<p>　　（4）肉羊无公害标准化养殖技术， 2014，三秦出版社（参编）</p>
+
+<p>　<strong>　6．获得的省部级成果</strong></p>
+
+<p>　　主持的《肉羊高效养殖关键技术集成与推广》项目2014年获陕西省农业技术推广成果一等奖。</p>
+
+<p><strong>　　7．联系方式</strong></p>
+
+<p>　　通讯地址：陕西杨凌西农路22号&nbsp;西北农林科技大学动物科技学院</p>
+
+<p>　　邮编：712100</p>
+
+<p>　　联系电话：13468669020</p>
+
+<p>　　Email: <a href="mailto:543346282@qq.com" target="_blank">543346282@qq.com</a>; <a href="mailto:zzqdr1958@163.com" target="_blank">zzqdr1958@163.com</a></p>
+
+<p>　　</p>
+
+				</div>
+
+
+
+
+		</div>
+	
+	</div>
+	<div style="clear:both;"></div>
+</div>
+<!--articlehome结束-->
+
+<script src="/cms/web/writeLog.jsp?articleID=217696"></script>
+<!--foot开始-->
+
+<div class="foot">
+	<div style="width:105px;float:left;  margin-top: 30px;
+  padding-left: 103px;;">
+						<p style="text-align: center;"><a href="../../sydbwxewm/297978.htm" target="_blank" title="西北农林科技大学动物科技学院微信公众平台"><img src="../../images/content/2016-03/20160329200002940113.jpg" width="40" height="40" border="0"></a></p>
+						 		
+		<!--<p style="text-align:center;;margin-top:10px;"><a href="/sydbwxewm/297978.htm" target="_blank" title="$article.name">动科学院微信平台</a></p>-->
+	</div>
+	<div style="float:left;">
+		<p style="text-align:center;padding-top:30px;">版权所有 :  西北农林科技大学动物科技学院&nbsp;&nbsp;
+地址：陕西省杨凌农业高新技术产业示范区西农路22号&nbsp;&nbsp;&nbsp;邮编：712100 </p>
+		<p style="text-align:center;padding-top:10px;">主管领导：王力  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;网管员：阮鹏<font style="color:#FF6600"> &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;总访问量：<script src="/cms/web/channelVisitLog.jsp?channelID=3352"></script>234785次</font></p>
+	</div>
+	<script src="/cms/web/writeLog.jsp?siteID=77&amp;channelID=3352"></script>
+</div>
+
+<!--foot结束-->
+
+
+ 
+</body></html>

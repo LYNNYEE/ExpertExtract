@@ -1,0 +1,16 @@
+name_label 
+name_label 
+一 、 个人简介 
+男 ， 教授 ， 博士生导师 。 timelabel 至今 在 北京工业大学 应用 数理 学院任教 。 timelabel 至 timelabel 在 中国农业大学 管理 工程学院 攻读 运筹 与 管理专业 的 博士研究生 并 获管理学博士学位 。 timelabel 至 timelabel 在 北京工业大学 应用 数学系 攻读 运筹 与 优化 专业 的 硕士研究生 ， 并 获理学硕士学位 。 先后 于 timelabel 至 timelabel ， timelabel 月 ， 在 美国明尼苏达大学 进行 访问学者 和 高级访问学者 项目 ， timelabel 月 ， 在 加拿大 西蒙 弗雷泽 大学 进行 学术访问 。 
+二 、 研究生培养 
+每年招收 一至 两名 硕士生 和 一名 博士生 。 已出 站 的 博士后 ： name_label 教授 。 已 毕业 的 硕士研究生 ： name_label ， name_label ， name_label ， 鲁 瑞星 ， name_label ， name_label ， name_label ， name_label ， name_label ， 刘海 ， 祁 漂洋 ； 当前 在校 硕士研究生 ： name_label ， name_label ， name_label ， name_label 文 ， name_label ， name_label ； 当前 在校 的 博士生 ： name_label ， 李英毅 ， name_label 锴 ， name_label ， name_label （ WolduTsegayGiday ）。 
+三 、 研究项目 
+研究方向 ： 最优化 算法 及其 在 数据处理 等 方面 的 应用 ， 自动 微分 算法 及其 应用 。 
+科研项目 ： timelabel - timelabel ， 主持国家自然科学基金 项目 “ 信号 和 图像处理 中 的 邻近点 分裂 算法研究 ”（ 61179033 ）； timelabel - timelabel ， 主持国家自然科学基金 项目 “ 算法 微分 实现 与 最优化 方法 研究 ”（ 10871014 ）； timelabel 和 timelabel ， 分别 负责 由 北京市教委 高 师 培训中心 和 北京工业大学 联合 资助 的 timelabel 和 timelabel “ 国外 访问学者 与 指导教师 深入 合作项目 ” 各 一项 ； timelabel - timelabel ， 主持 北京市优秀人才项目 “ 应用 自动 微分 的 最优化 方法 研究 ”； timelabel - timelabel ， 负责 北京工业大学 内涵式 发展 - 课程 建设项目 “ 凸优化 及其 应用 ”； timelabel - timelabel ， 北京工业大学 自然科学基金项目 “ 基于 自动 微分 的 张量 计算 、 分解 及 应用 研究 ”； timelabel - timelabel ， 北京工业大学 数理 基金项目 “ 求解 分类 问题 的 name_label - PCG 算法研究 ”； timelabel - timelabel ， 北京工业大学 博士启动基金 “ 非 精确 name_label 类 方法 研究 ”。 
+四 、 研究成果 
+学术论文 30 余篇 ， 发表 在 booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel ， booklabel 和 booklabel 等 国内外 著名 学术刊物上 。 专著 一部 ， booklabel 科学出版社 出版 。 
+‍‍ 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

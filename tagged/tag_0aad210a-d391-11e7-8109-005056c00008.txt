@@ -1,0 +1,38 @@
+西安交通大学 教师个人主页   甘   name_label 
+欢迎登录 
+主页 
+登录 
+CAS   登录 
+Welcome 
+主页 
+基本信息 
+个人资料 
+姓名 ： name_label 
+性别 ： 男 
+出生日期 ： timelabel 
+出生地 ： 陕西省西安市 
+教育经历 
+timelabel ―― timelabel 
+place_label 东北大学 理学 部 化学系 
+专业 ： 化学          获得 学位 ： 理学博士 
+研究方向 ： 光致 电子 转移 机理 
+timelabel ―― timelabel 
+北京大学 化学 与 分子工程学院 
+专业 ： 化学          获得 学位 ： 理学硕士 
+研究方向 ： 生物电化学 分析 
+timelabel ―― timelabel 
+北京大学 化学 与 分子工程学院 
+专业 ： 化学          获得 学位 ： 理学学士 
+研究方向 ： 生化 分析 
+联系方式 
+maillabel 
+站点计数器 
+我 的 新闻 
+研究 领域 
+test   test  テスト 
+版权所有 ： 西安交通大学   站点设计 ： 网络信息中心   陕 ICP 备 05001571 号 
+IPhone版本下载 
+Android版本下载 
+欢迎您访问 我们 的 网站 ， 您 是 第 
+位 访客 
+推荐分辨率 1024 * 768 以上     推荐浏览器IE 7   Fi fef ox   以上 

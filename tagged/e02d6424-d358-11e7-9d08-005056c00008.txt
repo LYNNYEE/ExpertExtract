@@ -1,0 +1,372 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <title>刘玲_返聘教师_北京化工大学马克思主义学院</title>
+  <link href="../../css/css.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="../../js/jquery-1.11.1.min.js"></script>
+
+  <script type="text/javascript">
+    window.onload = function(){
+            $(".fuli").mouseenter(
+                    function(){
+                        $(this).children(".menu").show().parent().siblings(".fuli").children(".menu").hide();
+                    }
+                );
+            $(".fuli").mouseleave(
+                    function(){
+                        $(this).children(".menu").hide();
+                    }
+                );
+           
+      
+    }
+  </script>
+
+</head>
+
+<body>
+
+  
+<div class="header header1">
+    <div class="inner">
+      <div class="top"><a href="../../index.htm" target="_blank"></a></div>
+      <div class="nav">
+        <ul>
+<li class="fuli"><a href="../../index.htm" target="_blank">学院主页</a></li>
+                     <li class="fuli">
+		    			 <a href="../../xygk/index.htm" target="_blank">学院简介</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../xygk/xyjj/index.htm" target="_blank">学院简介</a></li>
+					                    				                      <li><a href="JavaScript:;">学院领导</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		                 <a href="JavaScript:;">机构设置</a>
+			                          </li>
+                      <li class="fuli">
+		    			 <a href="../index.htm" target="_blank">师资情况</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../sx/index.htm" target="_blank">思想道德修养与法律基础教研室</a></li>
+					                    				  					<li><a href="../yl/index.htm" target="_blank">马克思主义基本原理教研室</a></li>
+					                    				  					<li><a href="../sg/index.htm" target="_blank">中国近现代史纲要教研室</a></li>
+					                    				  					<li><a href="../gl/index.htm" target="_blank">毛泽东思想和中国特色社会主义理论体系概论教研室</a></li>
+					                    				  					<li><a href="../xsyzcjys/index.htm" target="_blank">形势与政策教研室</a></li>
+					                    				  					<li><a href="../yjs/index.htm" target="_blank">研究生思政课教研室</a></li>
+					                    				  					<li><a href="../jzjs/index.htm" target="_blank">兼职教授</a></li>
+					                    				  					<li><a href="../jzds/index.htm" target="_blank">兼职导师</a></li>
+					                    				  					<li><a href="index.htm" target="_blank">返聘教师</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../kxyj/index.htm" target="_blank">科学研究</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../kxyj/xkjs/index.htm" target="_blank">学科建设</a></li>
+					                    				  					<li><a href="../../kxyj/xzdt/index.htm" target="_blank">学术动态</a></li>
+					                    				  					<li><a href="../../kxyj/zykyxm/index.htm" target="_blank">主要科研项目</a></li>
+					                    				  					<li><a href="../../kxyj/zyxzcg/index.htm" target="_blank">主要学术成果</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../rcpy/index.htm" target="_blank">人才培养</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../rcpy/glgd/index.htm" target="_blank">管理规定</a></li>
+					                    				  					<li><a href="../../rcpy/xykc/index.htm" target="_blank">学院课程</a></li>
+					                    				  					<li><a href="../../rcpy/jxcg/index.htm" target="_blank">教学成果</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../zsjy/index.htm" target="_blank">招生就业</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../zsjy/zsxx/index.htm" target="_blank">招生信息</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../xsgz/index.htm" target="_blank">学生工作</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../xsgz/xwkx/index.htm" target="_blank">新闻快讯</a></li>
+					                    				  					<li><a href="../../xsgz/tshd/index.htm" target="_blank">特色活动</a></li>
+					                    				  					<li><a href="../../xsgz/zzjg/index.htm" target="_blank">组织机构</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../djgz/index.htm" target="_blank">党群工作</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../djgz/zbcx/index.htm" target="_blank">支部创新</a></li>
+					                    				  					<li><a href="../../djgz/dyjy/index.htm" target="_blank">党员教育</a></li>
+					                    				  					<li><a href="../../djgz/zzsh/index.htm" target="_blank">组织生活</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../zpxx/index.htm" target="_blank">招聘信息</a>
+			                          </li>
+                   </ul>
+      </div>
+
+      <form name="dataForm" class="search" action="/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+        <input name="siteID" value="124" type="hidden">
+        <input class="notxt" value="搜索...." name="query" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}" onclick="if(this.value==''){this.value='';this.form.keywords.style.color='#787878'}" type="text">
+        <input class="notxt1" name="Submit" value="" type="submit">
+      </form>
+
+    </div>
+  </div>
+  <div class="content1">
+    <div class="inner">
+      <div class="bread">
+                         <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资情况</a>»
+        返聘教师
+      </div>
+      <div class="left">
+        <h3>师资情况</h3>
+        <ul>
+                    <li>
+            <a href="../sx/index.htm" target="_blank">思想道德修养与法律基础教研室</a>
+          </li>
+                    <li>
+            <a href="../yl/index.htm" target="_blank">马克思主义基本原理教研室</a>
+          </li>
+                    <li>
+            <a href="../sg/index.htm" target="_blank">中国近现代史纲要教研室</a>
+          </li>
+                    <li>
+            <a href="../gl/index.htm" target="_blank">毛泽东思想和中国特色社会主义理论体系概论教研室</a>
+          </li>
+                    <li>
+            <a href="../xsyzcjys/index.htm" target="_blank">形势与政策教研室</a>
+          </li>
+                    <li>
+            <a href="../yjs/index.htm" target="_blank">研究生思政课教研室</a>
+          </li>
+                    <li>
+            <a href="../jzjs/index.htm" target="_blank">兼职教授</a>
+          </li>
+                    <li>
+            <a href="../jzds/index.htm" target="_blank">兼职导师</a>
+          </li>
+                    <li>
+            <a href="index.htm" target="_blank">返聘教师</a>
+          </li>
+                  </ul>
+        <div class="wei"></div>
+        <div class="left-link">
+          <a href="#">
+            <img src="../../images/celianjie.jpg" alt="" width="235" height="61">
+          </a>
+        </div>
+      </div>
+      <div class="right">
+        <h3 class="biaoti">
+          返聘教师
+        </h3>
+
+        <div class="box_list">
+         <h3>刘玲</h3>
+                                                      <div class="zuozhe">   发布日期：2017-02-27</div>
+          <div class="wz_art" style="min-height:300px;">
+            <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14pt; line-height: 28pt; text-indent: 28pt;">刘玲，女，</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14pt; line-height: 28pt; text-indent: 28pt;" lang="EN-US">1955</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14pt; line-height: 28pt; text-indent: 28pt;">年</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14pt; line-height: 28pt; text-indent: 28pt;" lang="EN-US">3</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14pt; line-height: 28pt; text-indent: 28pt;">月出生，河北任丘人，中国共产党党员，指导在读硕士研究生</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14pt; line-height: 28pt; text-indent: 28pt;" lang="EN-US">4</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14pt; line-height: 28pt; text-indent: 28pt;">人。</span> </b>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt" lang="EN-US">&nbsp;</span></b></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold">办公电话：</span><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">010-64443003</span></b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold">电子信箱：</span></b><span lang="EN-US"><a href="mailto:liuling@mail.buct.edu.cn" target="_blank"><b><span style="font-size:
+14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold">liuling@mail.buct.edu.cn</span></b></a></span></p>
+<b>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span></p>
+</b>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold">主要研究领域：</span><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">马克思主义中国化相关问题、思想政治教育及管理问题</span></b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">&nbsp;</span></b></p>
+<p class="MsoNormal" style="margin-left: 21pt; text-indent: -21pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold">教育经历：</span></b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin-left: 21.3pt; text-indent: -21pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;
+mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">1978</span><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年<span lang="EN-US">10</span>月至<span lang="EN-US">1982</span>年<span lang="EN-US">7</span>月<span lang="EN-US">&nbsp;</span>北京经济学院<span lang="EN-US">&nbsp;</span>经济学专业 学士学位</span></b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin-left: 21.3pt; text-indent: -21pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;
+mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:#333333;mso-font-kerning:0pt" lang="EN-US">&nbsp;</span></b></p>
+<p class="MsoNormal" style="margin-left: 21pt; text-indent: -21pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold">工作经历：</span></b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">1982</span><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold">年<span lang="EN-US">8</span>月至<span lang="EN-US">1997</span>年<span lang="EN-US">12</span>月<span lang="EN-US">&nbsp;</span>北京化工大学党委宣传部干事、编辑室主任、副部长</span></b><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin-left: 21pt; text-indent: -21pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;
+mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">1997</span><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年<span lang="EN-US">12</span>月至<span lang="EN-US">2005</span>年<span lang="EN-US">1</span>月<span lang="EN-US">&nbsp;</span>北京化工大学党委办公室<span lang="EN-US">&nbsp;</span>主任</span></b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left: 21pt; text-indent: -21pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;
+mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">2005</span><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年<span lang="EN-US">1</span>月至<span lang="EN-US">2011</span>年<span lang="EN-US">4</span>月<span lang="EN-US">&nbsp; </span>北京化工大学文法学院<span lang="EN-US">&nbsp;</span>党总支书记</span></b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size: 14pt; font-family: 宋体;" lang="EN-US">2011</span><span style="font-size: 14pt; font-family: 宋体;">年<span lang="EN-US">5</span>月至<span lang="EN-US">2014</span>年<span lang="EN-US">&nbsp; &nbsp; </span>北京化工大学马克思主义学院<span lang="EN-US">&nbsp;</span>党总支书记兼常务副院长</span></b><span style="font-size: 14pt; font-family: 宋体;"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:red;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">&nbsp;</span></b></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold">代表性论文：</span></b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">1</span><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold">．《我国城镇贫困之新特征及对策》，发表于<span lang="EN-US">&nbsp;</span>《东岳论丛》，<span lang="EN-US">2011</span>年第<span lang="EN-US">10</span>期，<span lang="EN-US">CSSCI&nbsp;</span>，<span lang="EN-US">&nbsp;</span>合作作者。</span></b><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">2</span><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold">．《人文素质教育在理工科研究生创新能力培养中的作用》，发表于<span lang="EN-US">&nbsp;</span>《化工高等教育》，<span lang="EN-US">2014</span>年第<span lang="EN-US">3</span>期，合作作者。<span lang="EN-US">&nbsp;&nbsp;</span></span></b><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">3.</span><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold">《论新时期理工科研究生人文素质的缺陷及对策》，发表于<span lang="EN-US">&nbsp;</span>《河南科技》，<span lang="EN-US">2010</span>年第<span lang="EN-US">4</span>期，第一作者。</span></b><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">4</span><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold">．《论中国特色社会主义理论体系的开放性<span lang="EN-US">&nbsp;</span>》，发表于<span lang="EN-US">&nbsp;</span>《北京化工大学学报》（哲学社会科学版），<span lang="EN-US">2008</span>年第<span lang="EN-US">2</span>期，第一作者。</span></b><span style="font-size:14.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold" lang="EN-US">&nbsp;</span></b></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold">招生基本要求：</span><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">考生应具有一定、系统且比较扎实的人文社会科学理论基础、较高的阅读、表达和文字能力以及和一定的科研能力。英语达到国家英语四级水平。</span></b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt" lang="EN-US">&nbsp;</span></b></p>
+<p class="MsoNormal" style="line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;mso-bidi-font-weight:bold">导师寄语：</span><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">学海无涯，不放松每一日的努力，从这里走向成功的彼岸。</span></b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:28.0pt;mso-line-height-rule:exactly"><b><span style="font-size:14.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast" lang="EN-US">&nbsp;</span></b></p>
+          </div>
+                  </div>
+
+        
+      </div>
+    </div>
+  </div>
+  
+<div class="footer">
+     <div class="inner">
+       <p><a href="mailto:wfxy@mail.buct.edu.cn" target="_blank">校长信箱</a> | <a href="http://tree.buct.edu.cn/" target="_blank">校外认证</a> | <a href="https://vpn.buct.edu.cn/" target="_blank">VPN</a> | <a href="#" target="_blank">联系我们</a> | 技术支持 | 京公网安备： 110402430060 </p>
+        <p>
+          Copyright@ 北京化工大学 | 地址：北京市朝阳区北三环东路15号 | 邮编：100029 | Email：marxism@mail.buct.edu.cn
+        </p>
+     </div>
+   </div>
+
+</body></html>

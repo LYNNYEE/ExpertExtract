@@ -1,0 +1,528 @@
+<html><head><title>宋国兵-电气工程学院</title>
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><link rel="stylesheet" type="text/css" href="../../style/style.css">
+
+<!--Announced at 2017-03-31 11:44:44-->
+<!-- CustomerNO:7765626265722430697547545253554b03020000 -->
+<link rel="stylesheet" type="text/css" href="../../sj_ionf.vsb.css">
+<meta name="keywords" content="电气工程学院,电力工程系">
+<script type="text/javascript" src="../../system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1313,'/sj_ionf.jsp',5628,1246107934)</script></head><body><img style="display:none" src="/system/resource/code/datainput.jsp?owner=1246107934&amp;w=1680&amp;h=1050&amp;treeid=1313&amp;color=24&amp;pageurl=http%3A//ee.xjtu.edu.cn/info/1313/5628.htm&amp;refer=http%3A//ee.xjtu.edu.cn/jzyg/jsxx/bmdh/dlgcx.htm&amp;pagename=/sj_ionf.jsp&amp;newsid=5628" width="0" height="0">
+
+
+<div class="head">
+<div class="top_bg"></div>
+<div class="top">
+<div class="logo fl"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="67228" contype="" stylesysid="" layout="" action="" name="LOGO"--><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><img src="../../images/logo.png" alt="/images/logo.png" border="0"></td></tr></tbody></table><!--#endeditable--></div>
+<div class="top_right fr">
+<div class="top_link"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="顶部链接-图片列表" viewid="67229" contype="" stylesysid="" layout="" action="" name="顶部链接-图片列表"--><script language="javascript" src="../../system/resource/js/dynclicks.js"></script><a href="../../English_Version1/home.htm" target="_blank"><img src="../../images/login_e.jpg" width="80" height="20"></a>
+<a href="../../qrcode_for_gh_960d920d1271_344.jpg" target="_blank"><img src="../../images/top_link_2.gif" width="80" height="20"></a>
+<a href="../1014/5406.htm" target="_blank"><img src="../../images/top_link_6.png" width="80" height="20"></a>
+<a href="http://cms.xjtu.edu.cn:8080/system/login.jsp" target="_blank"><img src="../../images/login6.jpg" width="80" height="20"></a>
+<!--#endeditable--></div>
+<div class="search fr"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="全文检索" viewid="67230" contype="" stylesysid="" layout="" action="" name="全文检索"-->
+
+
+<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode67230').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword67230").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword67230").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword67230").value = base64.encode(document.getElementById("lucenenewssearchkeyword67230").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode67230"));
+        return true;
+    } 
+</script>
+<form action="../../search.jsp?wbtreeid=1313" method="post" id="a2ei80zwx7aa" name="a2ei80zwx7aa" onsubmit="return _nl_ys_check()" style="background-color: transparent;width:410px">
+ <input id="lucenenewssearchkeyword67230" name="lucenenewssearchkeyword" value="" type="hidden"><input id="_lucenesearchtype67230" name="_lucenesearchtype" value="1" type="hidden">
+ <input name="showkeycode" id="showkeycode67230" class="inp" type="text"><input class="but" src="../../images/search.gif" style="cursor: hand" type="image">
+</form><script language="javascript" src="../../system/resource/js/base64.js"></script><script language="javascript" src="../../system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div></div></div>
+<div class="nav">
+<div class="menu">
+<ul><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="网站导航" viewid="67231" contype="" stylesysid="" layout="" action="" name="网站导航"-->    
+    
+    
+        <li class="li_dh"><a href="../../index.htm" title="首页" target="_blank">首页</a>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../gywm.htm" title="关于我们" target="_blank">关于我们</a>
+        <ul>
+        <li> <a href="../../gywm/xyjj.htm" title="学院简介" target="_blank">学院简介</a>
+  </li>
+        
+        <li> <a href="../../gywm/jgsz.htm" title="机构设置" target="_blank">机构设置</a>
+  </li>
+        
+        <li> <a href="../../gywm/lsyg.htm" title="历史沿革" target="_blank">历史沿革</a>
+  </li>
+        
+        <li> <a href="../../gywm/xyld.htm" title="学院领导" target="_blank">学院领导</a>
+  </li>
+        
+        
+        </ul>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1006" title="本科生培养" target="_blank">本科生培养</a>
+        <ul>
+        <li> <a href="../../bkspy/zyjs.htm" title="专业介绍" target="_blank">专业介绍</a>
+  </li>
+        
+        <li> <a href="../../bkspy/pyfa.htm" title="培养方案" target="_blank">培养方案</a>
+  </li>
+        
+        <li> <a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1037" title="课程表" target="_blank">课程表</a>
+  </li>
+        
+        <li> <a href="../../sj_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1041" title="国际交流" target="_blank">国际交流</a>
+  </li>
+        
+        <li> <a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1043" title="资料下载" target="_blank">资料下载</a>
+  </li>
+        
+        
+        </ul>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1007" title="研究生培养" target="_blank">研究生培养</a>
+        <ul>
+        <li> <a href="../../sj_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1056" title="博士培养" target="_blank">博士培养</a>
+  </li>
+        
+        <li> <a href="../../sj_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1057" title="全日制硕士" target="_blank">全日制硕士</a>
+  </li>
+        
+        <li> <a href="../../sj_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1058" title="专业学位硕士" target="_blank">专业学位硕士</a>
+  </li>
+        
+        <li> <a href="../../sj_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1060" title="国际学生" target="_blank">国际学生</a>
+  </li>
+        
+        <li> <a href="../../sj_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1061" title="导师信息" target="_blank">导师信息</a>
+  </li>
+        
+        
+        </ul>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1008" title="科学研究" target="_blank">科学研究</a>
+        <ul>
+        <li> <a href="../../kxyj/yjly.htm" title="研究领域" target="_blank">研究领域</a>
+  </li>
+        
+        <li> <a href="../../kxyj/kyjg.htm" title="科研机构" target="_blank">科研机构</a>
+  </li>
+        
+        <li> <a href="../../kxyj/kypt.htm" title="科研平台" target="_blank">科研平台</a>
+  </li>
+        
+        <li> <a href="../../kxyj/kycg.htm" title="科研成果" target="_blank">科研成果</a>
+  </li>
+        
+        <li> <a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1090" title="规章制度" target="_blank">规章制度</a>
+  </li>
+        
+        
+        </ul>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009" title="教职员工" target="_blank">教职员工</a>
+        <ul>
+        <li> <a href="../../jzyg/ysxx.htm" title="院士信息" target="_blank">院士信息</a>
+  </li>
+        
+        <li> <a href="../../jzyg/jsxx.htm" title="教师信息" target="_blank">教师信息</a>
+  </li>
+        
+        
+        </ul>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1010" title="校友与合作" target="_blank">校友与合作</a>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../fdw.htm" title="分党委" target="_blank">分党委</a>
+        <ul>
+        <li> <a href="../../fdw/zzjg.htm" title="组织机构" target="_blank">组织机构</a>
+  </li>
+        
+        <li> <a href="../../ztlm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1105" title="党建动态 " target="_blank">党建动态 </a>
+  </li>
+        
+        <li> <a href="../../ztlm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1111" title="学生党建" target="_blank">学生党建</a>
+  </li>
+        
+        <li> <a href="../../ztlm.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1112" title="学院工会" target="_blank">学院工会</a>
+  </li>
+        
+        
+        </ul>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1012" title="招聘和就业" target="_blank">招聘和就业</a>
+        <ul>
+        <li> <a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1304" title="实习" target="_blank">实习</a>
+  </li>
+        
+        <li> <a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1102" title="招聘" target="_blank">招聘</a>
+  </li>
+        
+        <li> <a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1101" title="就业" target="_blank">就业</a>
+  </li>
+        
+        
+        </ul>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class="li_dh"><a href="../../bszn.htm" title="办事指南" target="_blank">办事指南</a>
+
+        
+        </li>
+    
+    
+    
+
+    
+    
+        <li class=""><a href="../../lxwm.htm" title="联系我们" target="_blank">联系我们</a>
+
+        
+        </li>
+    
+    
+    
+<!--#endeditable--></ul></div></div></div>
+<div class="list_main">
+<div class="list_left fl">
+<div class="nav_list">
+<div class="nav_lanmu">
+<div class="text"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="栏目名称" viewid="67271" contype="" stylesysid="" layout="" action="" name="栏目名称"--><span>
+教师信息</span><!--#endeditable--></div>
+<div class="en"></div></div>
+<ul><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="网站三级导航" viewid="67274" contype="" stylesysid="" layout="" action="" name="网站三级导航"--><li class="moliys"><a href="../../jzyg/jsxx/bmdh.htm" title="部门检索" target="_blank">部门检索</a>
+</li>
+<li><a href="../../jzyg/jsxx/zmdh.htm" title="字母导航" target="_blank">字母导航</a>
+</li>
+<!--#endeditable--></ul></div>
+<div class="clear" style="height: 10px"></div>
+<div class="list_left_2">
+<div class="tit">科系导航</div>
+<ul><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="标题列表-科系导航" viewid="67294" contype="" stylesysid="" layout="" action="" name="标题列表-科系导航"-->   <li><a href="../1031/1023.htm" target="_blank" title="电机教研室简介">电机教研室简介</a></li>
+   <li><a href="../1031/1026.htm" target="_blank" title="电器教研室简介">电器教研室简介</a></li>
+   <li><a href="../1031/1028.htm" target="_blank" title="高电压技术教研室简介">高电压技术教研室简介</a></li>
+   <li><a href="../1031/1035.htm" target="_blank" title="电力工程系简介">电力工程系简介</a></li>
+   <li><a href="../1031/1030.htm" target="_blank" title="绝缘教研室简介">绝缘教研室简介</a></li>
+   <li><a href="../1031/1033.htm" target="_blank" title="测控技术教研室简介">测控技术教研室简介</a></li>
+   <li><a href="../1031/1031.htm" target="_blank" title="工业自动化教研室简介">工业自动化教研室简介</a></li>
+   <li><a href="../1031/1037.htm" target="_blank" title="电工电子教学实验中心简介">电工电子教学实验中心简介</a></li>
+<script>_showDynClickBatch(['dynclicks_u6_1023','dynclicks_u6_1026','dynclicks_u6_1028','dynclicks_u6_1035','dynclicks_u6_1030','dynclicks_u6_1033','dynclicks_u6_1031','dynclicks_u6_1037'],[1023,1026,1028,1035,1030,1033,1031,1037],"wbnews", 1246107934)</script>
+<!--#endeditable--></ul>
+<div class="clear"></div></div></div>
+<div class="list_right fr">
+<div class="tit"><span class="dqwz"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="当前位置" viewid="67275" contype="" stylesysid="" layout="" action="" name="当前位置"-->  
+<table class="winstyle67275" cellspacing="0" cellpadding="0"><tbody><tr><td nowrap="">当前位置:   
+<a href="../../index.htm" target="_blank"><span class="fontstyle67275">首页</span></a><span class="splitflagstyle67275">&gt;&gt;</span><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1009" target="_blank"><span class="fontstyle67275">教职员工</span></a><span class="splitflagstyle67275">&gt;&gt;</span><a href="../../jzyg/jsxx.htm" target="_blank"><span class="fontstyle67275">教师信息</span></a><span class="splitflagstyle67275">&gt;&gt;</span><a href="../../jzyg/jsxx/bmdh.htm" target="_blank"><span class="fontstyle67275">部门检索</span></a><span class="splitflagstyle67275">&gt;&gt;</span><a href="../../jzyg/jsxx/bmdh/dlgcx.htm" target="_blank"><span class="fontstyle67275">电力工程系</span></a><span class="splitflagstyle67275">&gt;&gt;</span><span class="fontstyle67275">正文</span></td></tr></tbody></table><!--#endeditable--></span><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="栏目名称右" viewid="67276" contype="" stylesysid="" layout="" action="" name="栏目名称右"--><span class="windowstyle67276">
+电力工程系</span><!--#endeditable--></div> <br><div style="padding: 15px"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="文章内容" viewid="67362" contype="" stylesysid="" layout="" action="" name="文章内容"--><link href="../../system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(../../system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+</style>
+
+
+
+<form name="form67362a">
+<table class="winstyle67362" width="100%" cellspacing="0" cellpadding="0" border="0">
+
+      <tbody><tr><td class="titlestyle67362" align="center">
+            宋国兵
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle67362">
+                 2016-09-19</span>
+            <span class="authorstyle67362">&nbsp;</span>
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+
+      <tr><td class="contentstyle67362">
+        <div id="vsb_content">
+           <style>
+
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"页眉 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	layout-grid-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"页脚 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;}
+span.Char
+	{mso-style-name:"页眉 Char";
+	mso-style-link:页眉;}
+span.Char0
+	{mso-style-name:"页脚 Char";
+	mso-style-link:页脚;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+</style> 
+<div class="WordSection1" style="layout-grid:  15.6pt none"> 
+ <table class="MsoNormalTable" style="border-top: medium none;border-right: medium none;border-collapse: collapse;border-bottom: medium none;border-left: medium none" width="565" cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+   <tr style="height: 27.9pt"> 
+    <td style="border-top: windowtext 1pt solid;height: 27.9pt;border-right: windowtext 1pt solid;width: 60.8pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="81"> <p class="MsoNormal"><span style="font-family: 宋体">姓名</span></p></td> 
+    <td style="border-top: windowtext 1pt solid;height: 27.9pt;border-right: windowtext 1pt solid;width: 97.05pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="129"> <p class="MsoNormal"><span style="font-family: 宋体">宋国兵</span></p></td> 
+    <td style="border-top: windowtext 1pt solid;height: 27.9pt;border-right: windowtext 1pt solid;width: 39.55pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="53"> <p class="MsoNormal"><span style="font-family: 宋体">职称</span></p></td> 
+    <td style="border-top: windowtext 1pt solid;height: 27.9pt;border-right: windowtext 1pt solid;width: 140.45pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="187"> <p class="MsoNormal"><span style="font-family: 宋体">教授</span></p></td> 
+    <td rowspan="4" style="border-top: windowtext 1pt solid;height: 27.9pt;border-right: windowtext 1pt solid;width: 85.75pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="114"> <p class="MsoNormal"><span lang="EN-US"><img src="../../images/16/09/19/2wvfuvn3vy/e1dq_image001.jpg" width="103" height="135"></span></p></td>
+   </tr> 
+   <tr style="height: 27.6pt"> 
+    <td style="border-top: medium none;height: 27.6pt;border-right: windowtext 1pt solid;width: 60.8pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="81"> <p class="MsoNormal"><span style="font-family: 宋体">博导</span></p></td> 
+    <td style="border-top: medium none;height: 27.6pt;border-right: windowtext 1pt solid;width: 97.05pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="129"> <p class="MsoNormal"><span style="font-family: 宋体">是</span></p></td> 
+    <td style="border-top: medium none;height: 27.6pt;border-right: windowtext 1pt solid;width: 39.55pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="53"> <p class="MsoNormal"><span style="font-family: 宋体">部门</span></p></td> 
+    <td style="border-top: medium none;height: 27.6pt;border-right: windowtext 1pt solid;width: 140.45pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="187"> <p class="MsoNormal"><span style="font-family: 宋体">电力工程系</span></p></td>
+   </tr> 
+   <tr style="height: 27.9pt"> 
+    <td style="border-top: medium none;height: 27.9pt;border-right: windowtext 1pt solid;width: 60.8pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="81"> <p class="MsoNormal"><span style="font-family: 宋体">办公地址</span></p></td> 
+    <td style="border-top: medium none;height: 27.9pt;border-right: windowtext 1pt solid;width: 97.05pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="129"> <p class="MsoNormal"><span style="font-family: 宋体">东二楼东段</span><span lang="EN-US">133</span></p></td> 
+    <td style="border-top: medium none;height: 27.9pt;border-right: windowtext 1pt solid;width: 39.55pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="53"> <p class="MsoNormal"><span style="font-family: 宋体">邮箱</span></p></td> 
+    <td style="border-top: medium none;height: 27.9pt;border-right: windowtext 1pt solid;width: 140.45pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="187"> <p class="MsoNormal"><span lang="EN-US">song.gb@mail.xjtu.edu.cn</span></p></td>
+   </tr> 
+   <tr style="height: 28.15pt"> 
+    <td style="border-top: medium none;height: 28.15pt;border-right: windowtext 1pt solid;width: 60.8pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="81"> <p class="MsoNormal"><span style="font-family: 宋体">办公电话</span></p></td> 
+    <td style="border-top: medium none;height: 28.15pt;border-right: windowtext 1pt solid;width: 97.05pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="129"> <p class="MsoNormal"><span lang="EN-US">029-826685129</span></p></td> 
+    <td style="border-top: medium none;height: 28.15pt;border-right: windowtext 1pt solid;width: 39.55pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="53"> <p class="MsoNormal"><span style="font-family: 宋体">传真</span></p></td> 
+    <td style="border-top: medium none;height: 28.15pt;border-right: windowtext 1pt solid;width: 140.45pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="187"> <p class="MsoNormal"><span lang="EN-US">029-82665489</span></p></td>
+   </tr>
+  </tbody>
+ </table> 
+ <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p> 
+ <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p> 
+ <table class="MsoNormalTable" style="border-top: medium none;border-right: medium none;border-collapse: collapse;border-bottom: medium none;border-left: medium none" cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+   <tr> 
+    <td style="border-top: windowtext 1pt solid;border-right: windowtext 1pt solid;width: 69.1pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="92" valign="top"> <p class="MsoNormal"><span style="font-family: 宋体">研究领域</span></p></td> 
+    <td style="border-top: medium none;border-right: medium none;width: 357.1pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="476" valign="top"> <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p></td>
+   </tr> 
+   <tr> 
+    <td colspan="2" style="border-top: medium none;border-right: windowtext 1pt solid;width: 426.2pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="568" valign="top"> <p class="MsoNormal" style="margin-left: 0cm;text-indent: 0cm"><span lang="EN-US">1、</span><span style="font-family: 宋体;background: white;color: #333333">交、直流电网的继电保护与故障定位</span></p> <p class="MsoNormal" style="margin-left: 0cm;text-indent: 0cm"><span lang="EN-US">2、</span><span style="font-family: 宋体;background: white;color: #333333">新能源电力系统的继电保护</span></p> <p class="MsoNormal" style="margin-left: 0cm;text-indent: 0cm"><span lang="EN-US">3、</span><span style="font-family: 宋体">配电网的继电保护</span></p></td>
+   </tr>
+  </tbody>
+ </table> 
+ <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p> 
+ <table class="MsoNormalTable" style="border-top: medium none;border-right: medium none;border-collapse: collapse;border-bottom: medium none;border-left: medium none" cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+   <tr> 
+    <td style="border-top: windowtext 1pt solid;border-right: windowtext 1pt solid;width: 68.45pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="91" valign="top"> <p class="MsoNormal"><span style="font-family: 宋体">毕业设计</span></p></td> 
+    <td style="border-top: medium none;border-right: medium none;width: 357.75pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="477" valign="top"> <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p></td>
+   </tr> 
+   <tr> 
+    <td colspan="2" style="border-top: medium none;border-right: windowtext 1pt solid;width: 426.2pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="568" valign="top"> <p class="MsoNormal"><span style="font-family: 宋体">每年指导</span><span lang="EN-US">3-4</span><span style="font-family: 宋体">名</span></p></td>
+   </tr>
+  </tbody>
+ </table> 
+ <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p> 
+ <table class="MsoNormalTable" style="border-top: medium none;border-right: medium none;border-collapse: collapse;border-bottom: medium none;border-left: medium none" cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+   <tr> 
+    <td style="border-top: windowtext 1pt solid;border-right: windowtext 1pt solid;width: 69.1pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="92" valign="top"> <p class="MsoNormal"><span style="font-family: 宋体">研究生招生</span></p></td> 
+    <td style="border-top: medium none;border-right: medium none;width: 357.1pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="476" valign="top"> <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p></td>
+   </tr> 
+   <tr> 
+    <td colspan="2" style="border-top: medium none;border-right: windowtext 1pt solid;width: 426.2pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="568" valign="top"> <p class="MsoNormal" style="margin-left: 0cm;text-indent: 0cm"><span lang="EN-US">1、</span><span style="font-family: 宋体">交直流输电网、配电网继电保护方向每年招收</span><span lang="EN-US">2-3</span><span style="font-family: 宋体">名硕士，</span><span lang="EN-US">1-2</span><span style="font-family: 宋体">名博士</span></p> <p class="MsoNormal" style="margin-left: 0cm;text-indent: 0cm"><span lang="EN-US">2、</span><span style="font-family: 宋体">新能源电力系统的继电保护方向每年招收</span><span lang="EN-US">1-2</span><span style="font-family: 宋体">名硕士，</span><span lang="EN-US">1</span><span style="font-family: 宋体">名博士</span></p> <p class="MsoNormal" style="margin-left: 0cm;text-indent: 0cm"><span lang="EN-US">3、</span><span style="font-family: 宋体">每年招收国际研究生</span><span lang="EN-US">1-2</span><span style="font-family: 宋体">名</span></p></td>
+   </tr>
+  </tbody>
+ </table> 
+ <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p> 
+ <table class="MsoNormalTable" style="border-top: medium none;border-right: medium none;border-collapse: collapse;border-bottom: medium none;border-left: medium none" width="568" cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+   <tr> 
+    <td style="border-top: windowtext 1pt solid;border-right: windowtext 1pt solid;width: 60.15pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="80" valign="top"> <p class="MsoNormal"><span style="font-family: 宋体">个人主页</span></p></td> 
+    <td style="border-top: medium none;border-right: medium none;width: 366.05pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: medium none;padding-right: 5.4pt" width="488" valign="top"> <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p></td>
+   </tr> 
+   <tr> 
+    <td colspan="2" style="border-top: medium none;border-right: windowtext 1pt solid;width: 426.2pt;border-bottom: windowtext 1pt solid;padding-bottom: 0cm;padding-top: 0cm;padding-left: 5.4pt;border-left: windowtext 1pt solid;padding-right: 5.4pt" width="568" valign="top"> <p class="MsoNormal"><span lang="EN-US">http://gr.xjtu.edu.cn/web/song.gb</span></p></td>
+   </tr>
+  </tbody>
+ </table> 
+ <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+</div>
+</div>
+        </td></tr>
+        <tr><td class="pagestyle67362" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="left"><span>
+             
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+      </td></tr>
+
+</tbody></table>
+</form>
+
+<script type="text/javascript">
+function dosuba67362a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script><!--#endeditable--></div>   </div>
+<div class="clear"></div></div>
+<div class="foot">
+<div class="copyright"><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="版权" viewid="67237" contype="" stylesysid="" layout="" action="" name="版权"-->版权所有©西安交通大学电气工程学院 地址：西安市咸宁西路28号 邮编：710049<br>技术支持与维护：西安交通大学数据与信息中心<br>访问统计：199841<!--#endeditable--></div></div>
+
+
+</body></html>

@@ -1,0 +1,278 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="研究生,招生信息,招生">
+<meta name="description" content="研究生"> 
+<title>济南大学研究生招生信息网-研究生,招生信息,招生</title>
+<link href="/2016/guanlihoutai/Public/web/css/mulu.css" rel="stylesheet" type="text/css">
+<style>
+td{ text-align:left;}
+.tdxian{line-height:30px; padding-left:5px; vertical-align:middle;background-color:#F7FBFF;}
+.tdxian2{line-height:30px;vertical-align:middle;background-color:#F7FBFF;}
+.tdxian a{line-height:30px; padding-left:5px; vertical-align:middle;background-color:#F7FBFF; color:#FF0000;}
+.STYLE1 {font-size: 18px}
+.tt1{ background-color:#E4EDFE; padding-left:10px; line-height:30px; width:150px;}
+.tt2{ background-color:#F1F7FC; padding-left:10px;word-break: break-all;}
+.tt3{ background-color:#F1F7FC; padding-left:3px; height:30px;}
+.tt4{ background-color:#F1F7FC;}
+.tt5{ background-color:#F1F7FC; text-align:center; height:40px; font-size:16px; font-weight:bold;}
+.zz{ padding-left:3px; height:30px;}
+
+</style>
+</head>
+<body class="mainbody">
+<table style="margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody><tr>
+      <td style="background-repeat:no-repeat;" valign="top" height="120" background="/2016/guanlihoutai/Public/web/images/title.jpg"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr>
+          <td>&nbsp;</td>
+          <td style="padding-top:10px;" width="150"><a href="#">设为首页</a>&nbsp;&nbsp;<a href="#">加入收藏</a></td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+  </tbody></table>
+   
+  
+  <table style="margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tbody><tr>
+          <td width="214" height="31" background="/2016/guanlihoutai/Public/web/images/bg2.jpg">&nbsp;</td>
+          <td style="background-repeat:repeat-x; padding-top:3px;" background="/2016/guanlihoutai/Public/web/images/bg1.jpg">
+		  
+		  
+		  
+<link rel="stylesheet" type="text/css" href="/2016/guanlihoutai/Public/web/css/lrtk.css">
+<!-- dd menu -->
+<script type="text/javascript">
+<!--
+var timeout         = 100;
+var closetimer		= 0;
+var ddmenuitem      = 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+// -->
+</script>
+			
+
+
+<div style="clear:both"></div>
+		  
+		  
+		  </td>
+        </tr>
+</tbody></table>
+  <div id="container" style="height:10px;"></div>
+          
+<div id="container" style="background-image:url(/2016/guanlihoutai/Public/web/images/bgg2.jpg); background-repeat:repeat-x;" align="center">
+<table width="800" cellspacing="1" cellpadding="0" border="0" bgcolor="#CCCCCC" align="center">
+		<tbody><tr>
+		<td colspan="5" class="tt5">085201|机械工程专业硕士研究生指导教师<span style="font-size:12px; font-weight:normal; padding-left:20px;">ClickNum:360</span></td>
+		</tr>
+		<tr>
+		<td class="tt1" width="220">姓名</td>
+		<td class="tt2" width="160">葛荣雨</td>
+		<td class="tt1">性别</td>
+		<td class="tt2" width="160">男</td>
+		<td rowspan="6" class="tt4" style="text-align:center" valign="middle" align="center"><img src="/2016/guanlihoutai/Public/Uploads/201512/567a1cb1491fa.jpg" width="120" height="165" border="0"></td>
+		</tr>
+		<tr>
+		<td class="tt1">民族</td><td class="tt2">汉族</td><td class="tt1">出生年月</td><td class="tt2">1981-3</td>
+		</tr>
+		<tr>
+		<td class="tt1">学历|学位</td><td class="tt2">研究生|博士</td><td class="tt1">专业技术职务</td>
+		<td class="tt2">副教授</td>
+		</tr>
+		<tr>
+		<td class="tt1">行政职务</td><td class="tt2" colspan="3"></td>
+		</tr>
+		<tr>
+		<td class="tt1">联系电话</td><td class="tt2">13791001041</td><td class="tt1">移动电话</td><td class="tt2">13791001041</td>
+		</tr>
+		<tr>
+		<td class="tt1">邮箱</td><td class="tt2" colspan="3">me_gery@ujn.edu.cn</td>
+		</tr>
+		<tr>
+		<td class="tt1">通讯地址&nbsp;|&nbsp;邮编</td><td class="tt2" colspan="4">山东省济南市南辛庄西路336号济南大学机械工程学院&nbsp;|&nbsp;250022</td>
+		</tr>
+		<tr>
+		<td class="tt1">招生方向(领域)</td>
+		<td class="tt2" colspan="4">01(全日制)机电一体化技术,02(全日制)先进制造技术与装备,03(全日制)机械装备现代设计与分析,51(非全日制)机电一体化技术,52(非全日制)先进制造技术与装备,53(非全日制)机械装备现代设计与分析</td>
+		</tr>
+		<tr>
+		<td class="tt1">研究领域、学习工作经历、学术兼职等情况</td><td colspan="5" class="tt2" style="padding:6px;">
+		<p style="text-align: left; margin: 0cm 0cm 0pt;" align="left"><span style="font-family: SimSun;"><span style="font-size:13px;"><span style="color: black;">2008</span><span style="color: black;">年6月毕业于山东大学机械制造专业，获工学博士学位。</span></span></span></p><p style="text-align: left; margin: 0cm 0cm 0pt;" align="left"><span style="color: black;"><span style="font-family: SimSun;"><span style="font-size:13px;">2008年9月至2012年11月，济南大学机械工程学院讲师。&nbsp;</span></span></span></p><p style="text-align: left; margin: 0cm 0cm 0pt;" align="left"><span style="color: black;"><span style="font-family: SimSun;"><span style="font-size:13px;">2012年12月至今，济南大学机械学院副教授。</span></span></span></p><p style="text-align: left; margin: 0cm 0cm 0pt;" align="left"><span style="color: black;"><span style="font-family: SimSun;"><span style="font-size:13px;">2015年12月-2016年11月，美国德州理工大学（TEXAS TECH UNIV）访问学者。</span></span></span></p><p style="text-align: left; margin: 0cm 0cm 0pt;" align="left"><span style="color: black;"><span style="font-family: SimSun;"><span style="font-size:13px;">济南机械工程学会常务理事。</span></span></span></p><p style="text-align: left; margin: 0cm 0cm 0pt;" align="left"><br></p><p style="text-align: left; margin: 0cm 0cm 0pt;" align="left"><span style="font-family: SimSun;"><span style="font-size:13px;"><span style="color: black;">主要研究领域：常见机械机构的优化设计与创新应用、复杂曲面的数控加工及农业机械设计，目前正承担山东省重点研发计划项目一项，并先后主持济南市科技发展计划项目</span><span style="color: black;">2</span><span style="color: black;">项，企业委托项目</span><span style="color: black;">３</span><span style="color: black;">项，参与国家自然科学基金项目</span><span style="color: black;">3</span><span style="color: black;">项，在国内外重要期刊发表学术论文</span><span style="color: black;">20</span><span style="color: black;">余篇，其中</span><span style="color: black;">12</span><span style="color: black;">篇被</span><span style="color: black;">EI</span><span style="color: black;">检索，授权国家发明专利和实用新型专利</span><span style="color: black;">3</span><span style="color: black;">项。</span></span></span></p>&nbsp;
+		</td>
+		</tr>
+		<tr>
+		<td class="tt1">代表性科研成果及奖励：<br>（包括项目、鉴定、论文、专著、专利等)</td>
+		<td colspan="4" class="tt2" style="padding:6px;"><p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt" align="left"></p><p style="TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10.5pt"><span style="font-size:16px;"></span></p><p><strong><span style="font-family: 宋体;"><span style="font-size:13px;">主持项目</span></span></strong></p><p><span style="font-family:宋体;"><span style="font-size:13px;">1. 山东省重点研发计划项目：高速高精度凸轮分割器刚柔优化方法研究 （在研）</span></span></p><p><span style="font-family:宋体;"><span style="font-size:13px;">2. 农业机械-移栽机的设计优化（在研）</span></span></p><p><span style="font-size: 13px; font-family: 宋体;">3.济南市科技发展计划项目：可智能调速的凸轮分度器</span></p><p><span style="font-family: 宋体;"><span style="font-size:13px;">4. 济南市科技发展计划项目：前缘送纸圆压圆模切机</span></span></p><p><span style="font-family:宋体;"><span style="font-size:13px;">5. 企业委托横向项目：可智能调速的凸轮分度器</span></span></p><p><span style="font-family:宋体;"><span style="font-size:13px;">6. 企业委托横向题目：前缘送纸圆压圆模切机</span></span></p><p><span style="font-size:13px;"><span style="font-family:宋体;">7. 企业委托项目：活塞温度测试装置开发</span><span style="font-family:Verdana, Arial, Helvetica, sans-serif, ����;color:#444444;"><span style="background-color: rgb(241, 247, 252);">&nbsp;（在研）</span></span></span></p><p><span style="font-size:13px;"><span style="font-family: 宋体;">8.</span> <span style="font-family:宋体;">济南大学科研基金：球形滚子凸轮分度器动力学分析</span></span></p><p><span style="font-size:13px;"><span style="font-family: 宋体;">9.</span> <span style="font-family:宋体;">济南大学校企合作科研基金：圆压圆模切机及智能凸轮分度器产品研发</span></span></p><p><span style="font-size:13px;"><span style="font-family: 宋体;">10.</span> <span style="font-family:宋体;">济南大学博士基金：新型圆柱凸轮分度器的摩擦学性能研究</span></span></p><p><span style="font-family: Calibri;"><span style="font-size:13px;">&nbsp;</span></span></p><p style="text-align: left; margin: 0cm 0cm 0pt; font-family: 'Times New Roman';" align="left"><span style="font-size:13px;">&nbsp;</span></p><p style="text-align: left; margin: 0cm 0cm 0pt; font-family: 'Times New Roman';" align="left"></p><p><strong>主要学术论文：</strong></p><p>[1] Rongyu Ge, Yimin Wu, Haitao Wang. StructureDesign of Die Cutting Unit in Corrugated Carton Production Line. <a href="http://link.springer.com/book/10.1007/978-981-10-0072-0" target="_blank">AdvancedGraphic Communications, Packaging Technology and Materials</a> of theseries <a href="http://link.springer.com/bookseries/7818" target="_blank">Lecture Notesin Electrical Engineering</a>, 2016,v369: 707-711</p><p>[2] 葛荣雨，冯显英，王庆松.&nbsp;弧面凸轮廓面非等价加工的刀位控制方法.《农业机械学报》，2010，41（9）：267-271&nbsp;（EI）</p><p>[3] Ge Rongyu, Feng Xianying, GuoPeiquan. Nonequivalent Milling of Roller Gear Cams Based on ApproximationMethod of Offset surface. Advanced Materials Research, 2010, Vols. 97-101:pp1998-2001&nbsp;（EI）</p><p>[4] Ge Rongyu, Wang Qingsong, Shang Xuqiang.Self-adaptive Compensation Method on the Tool Position of Roller Gear CamSurface. Advanced Materials Research, 2011, Vols. 154-155: pp396-400（EI）</p><p>[5] Ge Rongyu, Guo Peiquan. Flexible camprofile synthesis method using NURBS and its optimization based on geneticalgorithm.&nbsp;Advanced Materials Research, 2012, Vols. 426: pp69-72&nbsp;（EI）</p><p>[6] Ge Rongyu, Feng Xianying, Guo Peiquan.Research on Generation Method of Globoidal Cam Surfaces Based on Five-axis CNCMachine Tools. Proceedings of the 2009 International Conference on Information,Electronic and Computer Science (ICIECS 2009), 2009, 257-260（ISTP）</p><p>[7] 葛荣雨，冯显英，郭培全.&nbsp;基于五轴数控机床弧面凸轮廓面创成方法研究.《制造技术与机床》，2009，（9）：70-73</p><p>[8] 葛荣雨，冯显英. 基于Pro/E的球形滚子弧面凸轮机构的建模与仿真.《机械设计》，2011,28（1）：63-65</p><p>[9] 葛荣雨，尚绪强.&nbsp;基于Pro/E的球形滚子弧面分度凸轮CAD/CAM，制造技术与机床，2011，（6）:111-114</p><p></p><p style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">[10] Structure Design of Front-Edge PaperFeeder in the Production Line of Corrugated Carton</span><span style="font-size: 9pt;">，</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">AdvancedGraphic Communications and Media Technologies, Lecture Notes in ElectricalEngineering 417 </span><span style="font-size: 9pt;">（</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">EI</span><span style="font-size: 9pt;">）</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US"><o:p></o:p></span></p><p style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">[11] <a href="http://123.233.119.36/rwt/122/https/P75YPLUFN3UXT5UFMW3GT5UHP3VXZ5DBM7TT6Z5QNF/search/submit.url?CID=quickSearchCitationFormat&amp;implicit=true&amp;usageOrigin=searchresults&amp;category=authorsearch&amp;searchtype=Quick&amp;searchWord1=%7bRongyu%2C+Ge%7d&amp;section1=AU&amp;database=1&amp;yearselect=yearrange&amp;sort=yr&amp;referer=%2Fsearch%2Fresults%2Fquick.url" title="Search Author" target="_blank"><span style="color:black;text-decoration:none;text-underline:none">Rongyu Ge</span></a>, <a href="http://123.233.119.36/rwt/122/https/P75YPLUFN3UXT5UFMW3GT5UHP3VXZ5DBM7TT6Z5QNF/search/submit.url?CID=quickSearchCitationFormat&amp;implicit=true&amp;usageOrigin=searchresults&amp;category=authorsearch&amp;searchtype=Quick&amp;searchWord1=%7bJin%2C+Wang%7d&amp;section1=AU&amp;database=1&amp;yearselect=yearrange&amp;sort=yr&amp;referer=%2Fsearch%2Fresults%2Fquick.url" title="Search Author" target="_blank"><span style="color:black;text-decoration:none;text-underline:none">Jin Wang</span></a>; <a href="http://123.233.119.36/rwt/122/https/P75YPLUFN3UXT5UFMW3GT5UHP3VXZ5DBM7TT6Z5QNF/search/submit.url?CID=quickSearchCitationFormat&amp;implicit=true&amp;usageOrigin=searchresults&amp;category=authorsearch&amp;searchtype=Quick&amp;searchWord1=%7bYimin%2C+Wu%7d&amp;section1=AU&amp;database=1&amp;yearselect=yearrange&amp;sort=yr&amp;referer=%2Fsearch%2Fresults%2Fquick.url" title="Search Author" target="_blank"><span style="color:black;text-decoration:none;text-underline:none">Yimin Wu</span></a>; <a href="http://123.233.119.36/rwt/122/https/P75YPLUFN3UXT5UFMW3GT5UHP3VXZ5DBM7TT6Z5QNF/search/submit.url?CID=quickSearchCitationFormat&amp;implicit=true&amp;usageOrigin=searchresults&amp;category=authorsearch&amp;searchtype=Quick&amp;searchWord1=%7bGuodong%2C+Wu%7d&amp;section1=AU&amp;database=1&amp;yearselect=yearrange&amp;sort=yr&amp;referer=%2Fsearch%2Fresults%2Fquick.url" title="Search Author" target="_blank"><span style="color:black;text-decoration:none;text-underline:none">Guodong Wu</span></a>. Design of wireless temperature measurement systemfor piston based on CC2530</span><span style="font-size: 9pt;">，</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">20162nd International Conference on Mechanical Engineering and Automation Science,ICMEAS 2016</span><span style="font-size: 9pt;">，</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">2016.10</span><span style="font-size: 9pt;">，</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">Singapore</span><span style="font-size: 9pt;">，</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">IOPConference Series: Materials Science and Engineering</span><span style="font-size: 9pt;">，</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">Vol.157,(1),</span><span style="font-size: 9pt;">（</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">EI</span><span style="font-size: 9pt;">）</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US"><o:p></o:p></span></p><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">[12] <a href="http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.Rongyu%20Ge.QT.&amp;newsearch=true" target="_blank"><span style="color:black;text-decoration:none;text-underline:none">Rongyu Ge</span></a>;<a href="http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.Yunfeng%20Du.QT.&amp;newsearch=true" target="_blank"><span style="color:black;text-decoration:none;text-underline:none">Yunfeng Du</span></a>,Kinematic Optimization of Cam Mechanisms with variable input speed, 2016International Conference on Cybernetics, Robotics and Control </span><span style="font-size: 9pt; font-family: 宋体;">，</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">IEEE, 55-59. </span><span style="font-size: 9pt; font-family: 宋体;">（</span><span style="font-size: 9pt; font-family: Arial, sans-serif;" lang="EN-US">EI</span><span style="font-size: 9pt; font-family: 宋体;">）</span><br><p>&nbsp;<span style="font-size: 13px;">&nbsp;</span></p><p style="text-align: left; margin: 0cm 0cm 0pt; font-family: 'Times New Roman';" align="left"><span style="font-family: 宋体;"><span style="font-size:13px;"><strong>主要授权专利：</strong></span></span></p><p style="text-align: left; margin: 0cm 0cm 0pt; font-family: 'Times New Roman';" align="left"><span style="font-family: 宋体;"><span style="font-size:13px;">发明专利：一种可智能调速的分度凸轮传动装置 ZL200910261003.X</span></span></p><p style="text-align: left; margin: 0cm 0cm 0pt; font-family: 'Times New Roman';" align="left"><span style="font-family: 宋体;"><span style="font-size:13px;">发明专利：瓦楞纸箱生产线新型前缘送纸装置 &nbsp;ZL201210255868.7<br></span></span></p></td>
+		</tr>
+		
+		<tr>
+		<td class="tt1">教学及研究生培养情况</td><td colspan="4" class="tt2" style="padding:6px;"><p><br></p><p><span style="font-size:13px;"><span style="font-family: SimSun;">&nbsp; 主讲本科《工程制图》《计算机辅助绘图》《三维实体造型设计》及研究生课程《机械工程CAD/CAM/CAE》等课程。目前正指导全日制专业型研究生2名，在职工程硕士4名。</span><br></span></p><p><span style="font-family: SimSun;"><span style="font-size:13px;"><br></span></span></p><p><span style="font-family: SimSun;"><span style="font-size:13px;">&nbsp; &nbsp; 多次指导本科生和研究生参加省级机器人大赛，获省级一等奖10余次，并多次被评为优秀指导教师。</span></span></p><p><br></p><p><br></p>&nbsp;</td>
+		</tr>
+		<tr>
+		<td class="tt1">备注</td><td colspan="4" class="tt2" style="padding:6px; font-size:12px;">&nbsp;</td>
+		</tr>
+</tbody></table>
+</div>
+
+<link href="/2016/guanlihoutai/Public/web/css/main.css" rel="stylesheet" type="text/css">
+
+
+  <table style="border:1px solid #BFC2C9; margin-top:10px; margin:0 auto;" width="980" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+    <tbody><tr>
+      
+      <td style="line-height:25px; " height="60"><p align="center"><a href="#" class="link_bai12" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://yjs.ujn.edu.cn/zhaosheng/');">设为首页</a>&nbsp;|&nbsp;<a href="javascript:window.external.addFavorite('http://yjs.ujn.edu.cn/zhaosheng/','济南大学研究生招生信息网')" class="link_bai12">加入收藏</a>&nbsp;|&nbsp;<a href="http://yz.ujn.edu.cn/2016/common_page.php?zgy_common_page=contactus" target="_blank" class="link_bai12">联系我们</a>&nbsp;|&nbsp;<a href="http://yz.ujn.edu.cn/2016/common_page.php?zgy_common_page=friendlinks" target="_blank" class="link_bai12">友情链接</a> &nbsp;&nbsp;&nbsp;
+      济南大学研究生处&nbsp;·&nbsp;济南大学研究生招生信息网版权所有 </p></td>
+    </tr>
+  </tbody></table>
+  
+
+<div>
+	<li><a href="http://yz.ujn.edu.cn/2016/index.php" style="  width:35px;" target="_blank">首页</a></li>
+ 
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=14" target="_blank" onmouseover="mopen('m14')" onmouseout="mclosetime()">工作动态</a>
+	
+		<div id="m14" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=39" target="_blank">工作进展</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=38" target="_blank">工作计划</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=26" target="_blank" onmouseover="mopen('m26')" onmouseout="mclosetime()">博士招生</a>
+	
+		<div id="m26" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=49" target="_blank">简章目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=51" target="_blank">报名考试</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=50" target="_blank">复试录取</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=8" target="_blank" onmouseover="mopen('m8')" onmouseout="mclosetime()">硕士招生</a>
+	
+		<div id="m8" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=18" target="_blank">简章目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=21" target="_blank">报名考试</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=22" target="_blank">复试录取</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=13" target="_blank" onmouseover="mopen('m13')" onmouseout="mclosetime()">推免工作</a>
+	
+		<div id="m13" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=25" target="_blank">推荐工作</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=24" target="_blank">接收工作</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=27" target="_blank" onmouseover="mopen('m27')" onmouseout="mclosetime()">非全日制</a>
+	
+		<div id="m27" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=30" target="_blank">在职攻读</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=31" target="_blank">同等学力</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="javascript:void(0)" target="_self" onmouseover="mopen('m17')" onmouseout="mclosetime()">招生目录</a>
+	
+		<div id="m17" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="/2016/guanlihoutai/index.php/home/Index/sszszyml" target="_blank">硕士招生专业目录</a>
+		  <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Index/bszszyml" target="_blank">博士招生专业目录</a>
+	
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="javascript:void(0)" target="_self" onmouseover="mopen('m6')" onmouseout="mclosetime()">导师信息</a>
+	
+		<div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Tutor/shuodao" target="_blank">硕士生导师</a>
+	 <a href="http://yz.ujn.edu.cn/2016/guanlihoutai/index.php/Home/Tutor/bodao" target="_blank">博士生导师</a>
+		</div>
+		
+	</li>
+
+	<li>
+	
+	
+	<a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=5" target="_blank" onmouseover="mopen('m5')" onmouseout="mclosetime()">资料中心</a>
+	
+		<div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=36" target="_blank">常用下载</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=35" target="_blank">在职招生</a>
+		  <a href="http://yz.ujn.edu.cn/2016/list.php?sortsid=37" target="_blank">相关文件</a>
+	
+		</div>
+		
+	</li>
+	
+	
+	
+</div></body></html>

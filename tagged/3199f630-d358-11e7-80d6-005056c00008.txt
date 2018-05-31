@@ -1,0 +1,381 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>孙文军_聘任职员_北京化工大学理学院</title>
+  <link href="../../css/2015css/css.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="../../js/2015js/jquery-1.11.1.min.js"></script>
+
+  <script type="text/javascript">
+    window.onload = function(){
+           $(".fuli").mouseenter(
+                    function(){
+                        $(this).addClass("cur").children(".menu").show().parent().siblings(".fuli").children(".menu").hide();
+                    }
+                );
+            $(".fuli").mouseleave(
+                    function(){
+                        $(this).removeClass("cur").children(".menu").hide();
+                    }
+                );
+           
+      
+    }
+  </script>
+
+</head>
+
+<body>
+
+  
+<div class="header">
+    <div class="logo">
+      <a href="http://en.sci.buct.edu.cn" target="_blank"></a>
+    </div>
+    <div class="nav">
+      <ul>
+        <li class="fuli shu">
+          <a href="../../index.htm" target="_blank">学院首页</a>
+        </li>
+						
+		
+		         <li class="fuli">
+		          <a href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../xygk/xyjj/index.htm" target="_blank">学院简介</a>
+              </li>
+			                <li>
+               <a href="../../xygk/xrld/index.htm" target="_blank">现任领导</a>
+              </li>
+			                <li>
+               <a href="../../xygk/zzjg/index.htm" target="_blank">组织机构</a>
+              </li>
+			                <li>
+               <a href="../../xygk/xssz/index.htm" target="_blank">系所设置</a>
+              </li>
+			                <li>
+               <a href="../../xygk/ywyk/index.htm" target="_blank">院委员会</a>
+              </li>
+			                <li>
+               <a href="../../xygk/xyry/index.htm" target="_blank">学院荣誉</a>
+              </li>
+			                <li>
+               <a href="../../xygk/lrml/index.htm" target="_blank">历任名录</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../djsz/ydwgzdt/index.htm" target="_blank">党群工作</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../djsz/ydwgzdt/index.htm" target="_blank">院党委工作动态</a>
+              </li>
+			                <li>
+               <a href="../../djsz/ztjyhd/index.htm" target="_blank">专题教育活动</a>
+              </li>
+			                <li>
+               <a href="../../djsz/xygkzj/index.htm" target="_blank">学院工会之家</a>
+              </li>
+			                <li>
+               <a href="../../djsz/bksdjsz/index.htm" target="_blank">本科生党建思政</a>
+              </li>
+			                <li>
+               <a href="../../djsz/yjsdjsz/index.htm" target="_blank">研究生党建思政</a>
+              </li>
+			                <li>
+               <a href="http://106.38.59.199/" target="_blank">北京市党建系统</a>
+              </li>
+			                <li>
+               <a href="http://www.bjyouth.net" target="_blank">团市委共青云</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../ysfc/index.htm" target="_blank">师资队伍</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../ysfc/index.htm" target="_blank">院士风采</a>
+              </li>
+			                <li>
+               <a href="../msmj/index.htm" target="_blank">名师名家</a>
+              </li>
+			                <li>
+               <a href="../jsml/index.htm" target="_blank">教师名录</a>
+              </li>
+			                <li>
+               <a href="../jxtd/index.htm" target="_blank">教学团队</a>
+              </li>
+			                <li>
+               <a href="index.htm" target="_blank">聘任职员</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../xzyj/kygk/index.htm" target="_blank">科学研究</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../xzyj/kygk/index.htm" target="_blank">科研概况</a>
+              </li>
+			                <li>
+               <a href="../../xzyj/cgsj/index.htm" target="_blank">科研成果</a>
+              </li>
+			                <li>
+               <a href="../../xzyj/jdtd/index.htm" target="_blank">科研团队</a>
+              </li>
+			                <li>
+               <a href="../../xzyj/cgzh/index.htm" target="_blank">成果转化</a>
+              </li>
+			                <li>
+               <a href="../../xzyj/gjjl/index.htm" target="_blank">国际交流</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../bksjy/zysz/index.htm" target="_blank">本科生教育</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../bksjy/zysz/index.htm" target="_blank">专业设置</a>
+              </li>
+			                <li>
+               <a href="../../bksjy/sjjx/index.htm" target="_blank">实践教学</a>
+              </li>
+			                <li>
+               <a href="../../bksjy/jxcg/index.htm" target="_blank">教学成果</a>
+              </li>
+			                <li>
+               <a href="../../bksjy/jpkc/index.htm" target="_blank">精品课程</a>
+              </li>
+			                <li>
+               <a href="../../bksjy/zdxk/index.htm" target="_blank">重点学科</a>
+              </li>
+			                <li>
+               <a href="../../bksjy/bksxsgz/index.htm" target="_blank">本科生学生工作</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../yjsjy/xwsyd/index.htm" target="_blank">研究生教育</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../yjsjy/xwsyd/index.htm" target="_blank">学位授予点</a>
+              </li>
+			                <li>
+               <a href="../../yjsjy/dsxxjj1/index.htm" target="_blank">导师信息简介</a>
+              </li>
+			                <li>
+               <a href="../../yjsjy/zsfsgz/index.htm" target="_blank">招生复试工作</a>
+              </li>
+			                <li>
+               <a href="../../yjsjy/pyxggz/index.htm" target="_blank">培养相关工作</a>
+              </li>
+			                <li>
+               <a href="../../yjsjy/xwxggz/index.htm" target="_blank">学位相关工作</a>
+              </li>
+			                <li>
+               <a href="../../yjsjy/yjsxsgz/index.htm" target="_blank">研究生学生工作</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		 		 <li class="fuli">
+		
+          <a href="../../xsyd/index.htm" target="_blank">学生园地</a>
+		  
+          <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../xsyd/byjyxx/index.htm" target="_blank">毕业就业信息</a>
+              </li>
+			                <li>
+               <a href="../../xsyd/yjsbyjy/index.htm" target="_blank">研究生毕业就业</a>
+              </li>
+			                <li>
+               <a href="../../xsyd/yjsxsk/index.htm" target="_blank">研究生学生会</a>
+              </li>
+			                <li>
+               <a href="../../xsyd/bksxsk/index.htm" target="_blank">本科生学生会</a>
+              </li>
+			                <li>
+               <a href="../../xsyd/qtxszz/index.htm" target="_blank">其他学生组织</a>
+              </li>
+			                <li>
+               <a href="../../xsyd/yxjtfc/index.htm" target="_blank">优秀集体风采</a>
+              </li>
+			                <li>
+               <a href="../../xsyd/xjgrsj/index.htm" target="_blank">先进个人事迹</a>
+              </li>
+			                <li>
+               <a href="../../xsyd/ljbybhy/index.htm" target="_blank">历届毕业班合影</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+		 
+       		
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../zszp/yrczp/index.htm" target="_blank">招生招聘</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../zszp/yrczp/index.htm" target="_blank">院人才招聘</a>
+              </li>
+			                <li>
+               <a href="http://www.goto.buct.edu.cn/" target="_blank">本科生招生</a>
+              </li>
+			                <li>
+               <a href="http://graduate.buct.edu.cn/html/class_list/5/index.aspx" target="_blank">研究生招生</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		        				
+		
+		         <li class="fuli">
+		          <a href="../../zlxz/dwgzl/index.htm" target="_blank">资料下载</a>
+		            <div class="menu">
+            <ul>
+			              <li>
+               <a href="../../zlxz/dwgzl/index.htm" target="_blank">党务工作类</a>
+              </li>
+			                <li>
+               <a href="../../zlxz/gkgzl/index.htm" target="_blank">工会工作类</a>
+              </li>
+			                <li>
+               <a href="../../zlxz/jxjwl/index.htm" target="_blank">教学教务类</a>
+              </li>
+			                <li>
+               <a href="../../zlxz/kyxml/index.htm" target="_blank">科研项目类</a>
+              </li>
+			                <li>
+               <a href="../../zlxz/bydbl/index.htm" target="_blank">毕业答辩类</a>
+              </li>
+			                <li>
+               <a href="../../zlxz/xsgzl/index.htm" target="_blank">学生工作类</a>
+              </li>
+			                
+            </ul>
+          </div>
+        </li>
+				
+		
+		
+		
+		               
+      </ul>
+    </div>
+  </div>  <div class="content1">
+    <div class="inner">
+      <div class="lcon">
+        
+        <div class="bread">
+          当前位置：
+                           <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        聘任职员
+        </div>
+        <div class="lf_list">
+          <h3>师资队伍</h3>
+          <ul>
+                        <li>
+              <a href="../ysfc/index.htm" target="_blank">院士风采</a>
+            </li>
+			            <li>
+              <a href="../msmj/index.htm" target="_blank">名师名家</a>
+            </li>
+			            <li>
+              <a href="../jsml/index.htm" target="_blank">教师名录</a>
+            </li>
+			            <li>
+              <a href="../jxtd/index.htm" target="_blank">教学团队</a>
+            </li>
+			            <li>
+              <a href="index.htm" target="_blank">聘任职员</a>
+            </li>
+			          </ul>
+        </div>
+        <div class="rt_list">
+          <h2>聘任职员</h2>
+          <div class="box_list">
+            <h3>孙文军</h3>
+                                                                            <div class="zuozhe">  		      时间：2015-03-31    阅读次数：<script src="/cms/web/count.jsp?articleID=56071"></script></div>
+            <div class="wz_art">
+              <br>
+            </div>
+			          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+<div class="footer">
+    <div class="inner">
+      <p>Copyright @ 2015  北京化工大学理学院  地址：北京市朝阳区北三环东路15号无机楼215-218室 </p>
+      <p>邮编：100029 总访问量：<span><script src="/cms/modules/channelVisitLog.jsp?parentID=5856"></script></span>   
+
+    </p></div>
+  </div><script src="/cms/web/writeLog.jsp?channelID=6112"></script>  <script src="/cms/web/writeLog.jsp?articleID=56071"></script>
+
+</body></html>

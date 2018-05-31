@@ -1,0 +1,71 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="西电，西安电子科技大学，导师信息，教师，个人主页"> 
+<meta name="description" content="西安电子科技大学教师个人主页系统采用PHP和MySQL开源技术开发，目的是为西电教师提供一个展示个人学术研究与教学工作的平台，扩大学校在互联网上的影响力。本系统是由西电电子工程学院网络信息中心开发维护，得到信息化建设处大力支持。"> 
+<meta name="keywords" content="西电，西安电子科技大学，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>孙金铂 | 个人信息 | 西安电子科技大学个人主页</title>
+<link href="/css/style_1.css" rel="stylesheet" type="text/css">
+					<link href="/css/basic.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+				<div class="topaction">	
+			<span><a href="http://meeting.xidian.edu.cn" title="学术信息网" target="_blank">学术信息网</a></span>	
+			<span><a href="http://www.xidian.cc" title="西电导航" target="_blank">西电导航</a></span>
+			<span><a href="/about.php" target="_blank">关于</a></span>
+			<span><a href="/help.php" target="_blank">使用说明</a></span>
+			<span><a href="/prisearch.php" target="_blank">搜索</a></span>
+			<span><a href="/index.php" target="_blank">系统首页</a></span>
+			<span><a href="/login.php" target="_blank">登录</a></span>		
+			<span><a href="/user/pageInfo.php" target="_blank">控制面板</a></span>		
+			<span><a href="javascript:addBookmark('http://web.xidian.edu.cn/jbsun/index.html', '孙金铂 | 个人信息 | 西安电子科技大学个人主页');">收藏</a></span>
+			<span><a href="/guestbook/index.php?u=jbsun" style="color:#6BB228;" target="_blank">孙金铂的留言板</a></span>
+			<div style="clear:both"></div>
+	</div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+    <div id="logo"><a href="/index.php" target="_blank"><img src="/img/style_1/logo.jpg" title="返回首页"></a></div>
+<!--导航-->
+    <div id="lead_1">
+        <ul id="leader">
+            <li><a href="index.html" target="_blank">孙金铂的主页:</a></li><li><a href="index.html" target="_blank">个人信息</a></li><li><a href="research.html" target="_blank">科学研究</a></li><li><a href="paper.html" target="_blank">论文成果</a></li><li><a href="award.html" target="_blank">荣誉奖励</a></li><li><a href="team.html" target="_blank">科研团队</a></li><li><a href="teach.html" target="_blank">课程教学</a></li><li><a href="zhaosheng.html" target="_blank">招生信息</a></li><li><a href="en/index.html" target="_blank">English</a></li>
+        </ul>
+    </div>
+</div>
+
+<!--中间-->
+<div id="middle">
+			<div id="dom0" style="margin:1px 0 0 0; float:left; width:250px; display:inline;"><div class="mo" style="left: 131px; top: 118px; width: auto; height: auto;"><div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(0);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(0);"><img title="栏目标题" src="../img/rename.png"></span></div><div class="drag"><span id="t0">基本信息</span></div><!--ckstartn0--><div class="nr" id="n0"><p><img style="width: 197px; height: 168px;" alt="" src="../img/photo.jpg"></p><p style="margin: 0px; padding: 0px;">姓名 职位</p><p style="margin: 0px; padding: 0px;">硕导或博导</p><p style="margin: 0px; padding: 0px;">博士学科：</p><p style="margin: 0px; padding: 0px;">硕士学科：　</p><p style="margin: 0px; padding: 0px;">工作单位：</p></div><!--ckendn0--></div><div class="mo" style="left: 99px; top: 597px; width: auto; height: auto;"><div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(3);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(3);"><img title="栏目标题" src="../img/rename.png"></span></div><div class="drag"><span id="t3">联系方式</span></div><!--ckstartn3--><div class="nr" id="n3"><p>通信地址：</p><p style="margin: 0px; padding: 0px;">电子邮箱：</p><p style="margin: 0px; padding: 0px;">办公电话：</p><p style="margin: 0px; padding: 0px;">办公地点：</p></div><!--ckendn3--></div></div>
+			<div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;"><div class="mo" style="left: 398px; top: 149px; width: auto; height: auto;"><div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(2);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(2);"><img title="栏目标题" src="../img/rename.png"></span></div><div class="drag"><span id="t2">个人简介</span></div><!--ckstartn2--><div class="nr" id="n2"></div><!--ckendn2--></div><div class="mo" style="left: 655px; top: 144px; width: auto; height: auto;"><div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(1);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(1);"><img title="栏目标题" src="../img/rename.png"></span></div><div class="drag"><span id="t1">主要研究方向</span></div><!--ckstartn1--><div class="nr" id="n1"><p>1．<br>2.&nbsp;<br>3．<br>4．<br>5．</p></div><!--ckendn1--></div></div>
+			</div>
+
+<!--底部-->
+<div id="bottom">
+<span style="color:red;">版权声明:</span>未经西安电子科技大学以及个人主页教师本人许可不得复制,转载传播本主页内容或用于任何商业用途,如需转载请征得主页所有者同意,并附上主页链接.<br>
+<a href="/index.php" style="color:#6BB228;" target="_blank">西安电子科技大学个人主页</a>　<a href="/sitemap.xml" target="_blank">站点地图</a> | <!--teacher--> | <a href="/guestbook/index.php?u=jbsun" style="color:#6BB228;" target="_blank">孙金铂的留言板</a> | 更新日期 :2016-09-30 | <script src="http://s19.cnzz.com/stat.php?id=3154940&amp;web_id=3154940&amp;show=pic" language="JavaScript"></script><script src="http://c.cnzz.com/core.php?web_id=3154940&amp;show=pic&amp;t=z" charset="utf-8" type="text/javascript"></script><a href="http://www.cnzz.com/stat/website.php?web_id=3154940" target="_blank" title="站长统计"><img src="http://icon.cnzz.com/img/pic.gif" vspace="0" hspace="0" border="0"></a>
+ | <iframe src="/include/count.php?id=3673&amp;lg=1" scrolling="no" allowtransparency="true" style="vertical-align:middle" height="22px" frameborder="0"></iframe>
+<br>
+Copyright © 2011-2016 西安电子科技大学 版权所有 陕ICP备021284(05016169)　Powered by <a href="http://www.xidian.edu.cn/xxhjsc/index.htm" target="_blank">信息化建设处</a> &amp; <a href="http://see.xidian.edu.cn/nic" target="_blank">电院网络中心</a>
+</div>
+</div>
+<script>
+    function addBookmark(url, label) {  
+        if (document.all)  
+        {  
+            window.external.addFavorite(url, label);  
+        }  
+        else if (window.sidebar)  
+        {  
+            window.sidebar.addPanel(label, url, '');  
+        }  
+    }  
+</script>
+
+</body></html>

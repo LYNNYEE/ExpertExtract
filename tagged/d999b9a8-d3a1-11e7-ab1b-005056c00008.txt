@@ -1,0 +1,366 @@
+<html><head>
+   <title>西北农林科技大学 动物科技学院</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+  <link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+
+
+<style type="text/css"></style><script charset="utf-8" src="//s.yunshipei.com/javascript/sm.min.js" async=""></script></head><body>
+
+<!--顶部开始-->
+
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/e370dbe18cc1944dd895c7af5fb1c761/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
+  <title>西北农林科技大学 动物科技学院</title>
+
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+ 
+
+<link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+<script src="../../js/jquery1.42.min.js" type="text/javascript"></script>
+<script src="../../js/jquery.superslide.2.1.1.js" type="text/javascript"></script>
+<style>
+
+body {background: #E9E6E6;}
+
+*{font-family:宋体}
+
+.cont {margin: 1px 25px;color:#000;}
+.cont p{line-height:26px;text-indent: 0em;margin-bottom: 10px;font-size:14px;}
+.cont p img{text-indent: 0;margin: 0 auto;}
+.cont table{margin:0 auto;}
+.sort_rightcont2 h1{color: #0c600c;}
+#contenttable td{font-size:14px;padding:15px 0px;}
+#contenttable th{padding:10px 0;}
+#contenttable .fontstrong{font-weight:bold}
+		
+		
+		img{ border:0;  }
+		a{ text-decoration:none; color:#333;  }
+
+		/* 本例子css */
+		.slideBox{ width:1180px; height:130px; overflow:hidden; position:relative; border:1px solid #ddd;  }
+		.slideBox .hd{ height:15px; overflow:hidden; position:absolute; right:5px; bottom:5px; z-index:1; }
+		.slideBox .hd ul{ overflow:hidden; zoom:1; float:left; margin-top:10px; }
+		.slideBox .hd ul li{ float:left; margin-right:2px;  width:8px; height:8px; line-height:14px; text-align:center; background:#fff; cursor:pointer; }
+		.slideBox .hd ul li.on{ background:#f00; color:#fff; }
+		.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+		.slideBox .bd li{ zoom:1; vertical-align:middle; }
+		.slideBox .bd img{ width:1180px; height:130px; display:block;  }
+
+		/* 下面是前/后按钮代码，如果不需要删除即可 */
+		.slideBox .prev,
+		.slideBox .next{ position:absolute; left:3%; top:50%; margin-top:-25px; display:block; width:32px; height:40px; background:url(images/slider-arrow.png) -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+		.slideBox .next{ left:auto; right:3%; background-position:8px 5px; }
+		.slideBox .prev:hover,
+		.slideBox .next:hover{ filter:alpha(opacity=100);opacity:1;  }
+		.slideBox .prevStop{ display:none;  }
+		.slideBox .nextStop{ display:none;  }
+
+		
+</style>
+
+<div class="head">
+<script type="text/javascript" language="javascript">
+    //加入收藏
+        function AddFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }   
+        }
+    }
+    //设为首页
+    function SetHome(url){
+ 
+        if (document.all) {
+ 
+            document.body.style.behavior='url(#default#homepage)';
+ 
+               document.body.setHomePage(url);
+ 
+        }else{
+ 
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+    <div class="header">
+        <div class="head_right">    
+            <div style="width: 305px;height:45px;"><p><a href="http://dkxy.nwsuaf.edu.cn/english/" )="" target="_blank" "="">English</a> | <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a> | <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>| <a href="../../lxwm/index.htm" target="_blank">联系我们</a></p></div>
+            
+            <div>
+                <span class="sousou">
+<form name="dataForm" action="http://cms2.nwsuaf.edu.cn/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+     <input name="siteID" value="77" type="hidden">
+                        <input name="query" class="search_input" style="height:20px;width:175px;float: left;margin-left:15px;border-left: 2px solid #c1c0be;border-bottom: 2px solid #c1c0be;border-top: 2px solid #c1c0be;" value="请输入关键字" onclick="javascript:if (this.value=='请输入关键字'){this.value=''}" type="text">
+                        <input value="" name="Submit" class="so_btn" style="height:24px;width:55px;float:right;margin-right:85px;border:0; background:url(../../images/bg_search.png);" type="Submit">     
+                    </form>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<!--顶部结束-->
+
+
+<!--导航开始-->
+<div class="nav">
+          <div id="nav">
+                  <ul>
+                <li><a class="link" href="../../index.htm" target="_blank">首页</a></li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../zjrc/index.htm" target="_blank">师资队伍</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xkjs/xkjj/index.htm" target="_blank">学科建设</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../bksjy/zyjj/index.htm" target="_blank">本科生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../yjsjy/bsd/index.htm" target="_blank">研究生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../kytg/kytgjf/index.htm" target="_blank">科研推广</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../hzjl/xzjl/index.htm" target="_blank">合作交流</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../dqgz/dwjg/index.htm" target="_blank">党群工作</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xsgl/zzjg/index.htm" target="_blank">学生管理</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../crjy/hsjy/index.htm" target="_blank">成人教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygz/xyhd/index.htm" target="_blank">校友工作</a>
+                                </li>
+                                
+                
+            </ul>
+          </div>
+        </div>
+
+<!--导航结束-->
+
+<!--articlehome开始-->
+<div class="sort_main">
+
+	<div class="sort_left">
+	
+		<div class="sort_lefthead"><dt>师资队伍</dt></div>
+		<div class="sort_leftcont">
+			<ul>
+							<a href="../zjrc/index.htm" target="_blank"><li style="width:178px;height:32px;">专家人才</li></a>
+							<a href="index.htm" target="_blank"><li style="width:178px;height:32px;">教授、研究员</li></a>
+							<a href="../fjsfyjy/index.htm" target="_blank"><li style="width:178px;height:32px;">副教授、副研究员</li></a>
+							<a href="../js/index.htm" target="_blank"><li style="width:178px;height:32px;">讲师</li></a>
+							<a href="../wpzj/index.htm" target="_blank"><li style="width:178px;height:32px;">外聘专家</li></a>
+						</ul>
+		</div>
+
+	</div>
+
+
+
+
+	<div class="sort_right2">
+	
+		<div class="sort_righthead2"><dt>现在的位置:                  <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        教授、研究员
+</dt></div>
+		
+		<div class="sort_rightcont2">
+			
+				<h1 style="color: #0c600c;font-size:16px;">吉红</h1>
+				   <h2 style="font-size: 14px;color: #3d66aa;"> </h2>
+				<h2>                                  发布日期：2015-10-16  浏览次数： <script src="/cms/web/count.jsp?articleID=217711"></script>2840</h2>
+                               <div class="line" style="margin-top:10px;"></div>
+				<div class="cont" style="color:#000;margin: 1px 25px;">
+					　　<div class="media"></div>
+						<div class="flashpaper"></div>  
+							   <p>　　<img onclick="window.open('../../images//content/2015-10/20151016165610961774_1.jpg')" src="../../images//content/2015-10/20151016165610961774.jpg" style="float:right; height:189px; width:150px"></p>
+
+<p>　　</p>
+
+<p>　<strong>　1．基本信息</strong></p>
+
+<p>　　吉红，男，汉族，1967年9月出生，河南灵宝人，博士，教授，博士生导师。1989年7月本科毕业于大连水产学院养殖系淡水渔业专业，1998年7月硕士毕业于西北农林科技大学动物科技学院饲料科学专业，2004年3月博士毕业于日本国广岛大学生物生产学专业。1989年8月至1992年7月于陕西省咸阳市渭城区水产工作站任技术干部，助理工程师；1992年8月至今于西北农林科技大学动物科技学院分别任助教，讲师，副教授，教授。入选“西北农林科技大学青年学术骨干支持计划”。</p>
+
+<p>　　任西北农林科技大学安康水产试验示范站首席专家，中国民主促进会西北农林科技大学支部副主任委员，西北农林科技大学归国华侨联合会副主席，陕西省咸阳市杨陵区人大常委会副主任（兼）。世界鲟鱼保护学会会员，亚洲水产学会会员，中国水产学会水产动物营养与饲料专业委员会委员，中国水产学会淡水养殖分会委员，中国现代渔业职业教育集团技术创新与推广工作委员会主任。陕西省水产学会副理事长，陕西省渔业协会副会长，西安市水产品质量安全专家组成员，西安市农业科技特派员，安康市渔业协会副会长，安康市水产业技术创新战略联盟理事长，安康市水产工程技术研究中心技术委员会主任，安康市众创空间创新创业导师，安康市科技创新智库首席专家，安康市科技特派员。</p>
+
+<p>　　<strong>2．研究方向</strong></p>
+
+<p>　　水产经济动物营养学，水产增养殖学。</p>
+
+<p>　　<strong>3．开设课程与研究生指导</strong></p>
+
+<p>　　先后承担本科生《水产动物营养与饲料学》、《鱼类生态学》、《水产养殖学》、《养殖水域生态学》等课程，为硕博士研究生讲授《水产动物营养学原理与研究方法》、《高级水生生物学》、《高级水生生物学研究进展》、《渔业政策与管理》等课程。</p>
+
+<p>　　已培养博士研究生4名，硕士研究生40名；在读博士研究生5名，在读硕士研究生14名，其中外国留学生2名。</p>
+
+<p>　　<strong>4．学术成果</strong></p>
+
+<p>　　<strong>部分主持项目：</strong></p>
+
+<p>　　[1] 内质网应激参与DHA促进草鱼脂肪细胞脂解过程的机制研究（31772863）；国家自然科学基金委员会； 2018-2021.</p>
+
+<p>　　[2]HUFA诱导草鱼脂肪细胞凋亡的作用及机制分析(31372538)；国家自然科学基金委员会； 2014.1-2017.12.</p>
+
+<p>　　[3] PUFA对草鱼脂肪细胞线粒体发育的影响及其机制分析（31072223）；国家自然科学基金委员会； 2011.1-2013.12.</p>
+
+<p>　　[4] 多不饱和脂肪酸对草鱼脂肪细胞发育的影响及其分子机理的研究（30771667）；国家自然科学基金委员会； 2008.1-2010.12.</p>
+
+<p>　　[5] “以鱼净水”技术在南水北调中线干线的应用（K4030217046）；南水北调中线工程建设管理局，2017.1-12.</p>
+
+<p>　　[6] 匙吻鲟生态健康养殖关键技术研究与集成应用（2015KTTSNY01-05）；陕西省科技统筹创新工程计划项目； 2015.1-2017.12.</p>
+
+<p>　　[7] 秦巴山区多鳞白甲鱼人工繁育关键技术研究与示范（2015slkj-09）；陕西省水利科技计划项目； 2016.1-2018.12.</p>
+
+<p>　　[8] 陕西省水产健康生态养殖技术集成与示范（2014-TS-36）；杨凌示范区农业科技示范推广能力提升项目； 2015.6-2017.5.</p>
+
+<p>　　<strong>近三年主要期刊论文：</strong></p>
+
+<p>　　Shi X, Jin A, Sun J, et al. α-lipoic acid ameliorates n-3 highly-unsaturated fatty acids induced lipid peroxidation via regulating antioxidant defenses in grass carp (Ctenopharyngodon idellus)[J]. Fish &amp; Shellfish Immunology, 2017,61:359-367. （IF="3.1480，通讯作者）</p>
+
+<p>　　Haibo Yu, Deng Wei, Hong Ji, et al. Antioxidant defenses of Onychostoma macrolepis in response to thermal stress: Insight from mRNA expression and activity of superoxide dismutase and catalase[J].Fish and Shellfish Immunology, 2017,&nbsp;66: 50-61. （IF="3.1480，通讯作者）</p>
+
+<p>　　Senlin Li, Hong Ji, Binxin Zhang, et al. Defatted black soldier fly (Hermetia illucens) larvae meal in diets for Jian carp (Cyprinus carpio var. Jian) juveniles: Growth performance, antioxidant enzyme activities, digestive enzyme activities, intestine and hepatopancreas histological structure[J]. Aquaculture, 2017, 477: 62-70. （IF="1.8930，通讯作者）</p>
+
+<p>　　Zhou Y, Jian Sun, Ji H et al. Pigment epithelium-derived factor improves TNFα-induced hepatic steatosis in grass carp (Ctenopharyngodon idella)[J]. Developmental &amp; Comparative Immunology, 2017, 71: 8-17. （IF="3.2179，通讯作者）</p>
+
+<p>　　Shi X, Sun J, Yang Z, et al. Molecular characterization and nutritional regulation of carnitine palmitoyltransferase (CPT) family in grass carp (Ctenopharyngodon idellus)[J]. Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology, 2017, 203: 11-19. （IF="1.757，通讯作者）</p>
+
+<p>　　Sun J, Xiao P Z, Chang Z G, et al. Forkhead box O1 in grass carp Ctenopharyngodon idella: Molecular characterization, gene structure, tissue distribution and mRNA expression in insulin-inhibited adipocyte lipolysis.[J]. Comparative biochemistry and physiology. Part A, Molecular &amp; integrative physiology, 2017, 204:76–84. （IF="1.812，通讯作者）</p>
+
+<p>　　Lei C X, Tian J J, Ji H, et al. Dietary α-linolenic acid affects lipid metabolism and tissue fatty acid profile and induces apoptosis in intraperitoneal adipose tissue of juvenile grass carp ( Ctenopharyngodon idella)[J]. Aquaculture Nutrition, 2017, 23(1):160–170. （IF="1.665，通讯作者）</p>
+
+<p>　　Lei C, Tian J, Ji H et al. Stimulation of glycerol kinase in grass carp preadipocytes by EPA[J]. Fish Physiology and Biochemistry,2017, 43(3):813-822. （IF="1.6469，通讯作者）</p>
+
+<p>　　Tian J, Lei C, Ji H et al. Role of cyclooxygenase-mediated metabolites in lipid metabolism and expression of some immune related genes in juvenile grass carp (Ctenopharyngodon idellus) fed arachidonic acid[J]. Fish Physiology and Biochemistry,2017, 43(3):703-717. （IF="1.6469，通讯作者）</p>
+
+<p>　　Lei C X ,Zhang J L ,Ji H,Li J,et al.Effects of dietary DHA/EPA ratios on fatty acid composition, lipid metabolism-related enzyme activity and gene expression of juvenile grass carp( Ctenopharyngodon idellus)[J] Journal of the world aquaculture society,2016,47(2):287-297. （IF="1.0149，通讯作者）</p>
+
+<p>　　Tian JJ, Ke Yang, Chen HJ et al. Effect of dietary prickly ash (Zanthoxylum bungeanum) seeds (PAS) on growth, body composition, and health of juvenile Jian carp (Cyprinus carpio var. Jian) [J].Aquaculture International,2016, 25(1),107-120 （IF="1.095，通讯作者）</p>
+
+<p>　　Sun J, Ji H, Li X X, et al. Lipolytic enzymes involving lipolysis in Teleost: Synteny, structure, tissue distribution, and expression in grass carp (Ctenopharyngodon idella)[J]. Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology, 2016, 198: 110-118. （IF="1.757，通讯作者）</p>
+
+<p>　　Lu R H, Chang Z G, Sun J, et al. Molecular cloning, expression and functional characterization of tumor necrosis factor (TNF) receptor-associated factor (TRAF)-interacting protein (TRIP) in grass carp, Ctenopharyngodon idella[J]. Fish &amp; Shellfish Immunology, 2016, 57: 406-412. （IF="3.1480，通讯作者）</p>
+
+<p>　　Chen Haojie, Tian JJ,Ji H, et al.Effects of Dietary Soybean Oil Replacement by Silkworm (Bombyx mori L.) Chrysalis Oil on Growth Performance, Tissue Fatty Acid Composition and Health Status of Juvenile Jian Carp (Cyprinus carpio var. Jian)[J]Journal of the World Aquaculture Society, 2016,48(3):453-466. （IF="1.0149，通讯作者）</p>
+
+<p>　　Li S, Ji H, Zhang B, et al. Influence of black soldier fly (Hermetia illucens) larvae oil on growth performance, body composition, tissue fatty acid composition and lipid deposition in juvenile Jian carp (Cyprinus carpio var. Jian)[J]. Aquaculture, 2016, 465: 43-52. （IF="1.8930，通讯作者）</p>
+
+<p>　　Xiao P, Ji H, Ye Y, et al. Dietary silymarin supplementation promotes growth performance and improves lipid metabolism and health status in grass carp (Ctenopharyngodon idellus) fed diets with elevated lipid levels[J]. Fish Physiology and Biochemistry,2016,43(1),&nbsp;245-263.（IF="1.6469，通讯作者）</p>
+
+<p>　　Tian J, Lei C, Ji H, et al. Dietary Arachidonic Acid Has a Time-Dependent Differential Impact on Adipogenesis Modulated via COX and LOX Pathways in Grass Carp Ctenopharyngodon idellus[J]. Lipids, 2016,51(12): 1325–1338. （IF="1.934，通讯作者）</p>
+
+<p>　　Sun J, Yang Z, Xiao P Z, et al. Two isoforms of hormone-sensitive lipase b are generated by alternative exons usage and transcriptional regulation by insulin in grass carp (Ctenopharyngodon idella)[J]. Fish Physiology and Biochemistry, 2016, 43(2):539-547. （IF="1.6469，通讯作者）</p>
+
+<p>　　Tian J, Lei C, Ji H. Influence of dietary linoleic acid (18:2n‐6) and α‐linolenic acid (18:3n‐3) ratio on fatty acid composition of different tissues in freshwater fish Songpu mirror carp, Cyprinus Carpio[J]. Aquaculture Research, 2015, 47(12):3811-3825.（IF="1.4609，通讯作者）</p>
+
+<p>　　Liu P, Ji H, Li C, et al. Morphology, mitochondrial development and adipogenic-related genes expression during adipocytes differentiation in grass carp (Ctenopharyngodon idellus)[J]. Science Bulletin, 2015, 60(14): 1241-1251. （IF="4.0，通讯作者）</p>
+
+<p>　　Tian J J, Lu R H, Ji H, et al. Comparative analysis of the hepatopancreas transcriptome of grass carp (Ctenopharyngodon idellus) fed with lard oil and fish oil diets[J]. Gene, 2015, 565(2): 192-200. （IF="2.415，通讯作者）</p>
+
+<p>　　Liu P, Ji H, Li C, et al. Ontogenetic development of adipose tissue in grass carp (Ctenopharyngodon idellus)[J]. Fish physiology and biochemistry, 2015, 41(4): 867-878. （IF="1.6469，通讯作者）</p>
+
+<p>　　Zhou J, Li C, Wang L, et al. Hepatoprotective effects of a Chinese herbal formulation, Yingchen decoction, on olaquindox-induced hepatopancreas injury in Jian carp (Cyprinus carpio var. Jian)[J]. Fish physiology and biochemistry, 2015, 41(1): 153-163. （IF="1.6469，通讯作者）</p>
+
+<p>　　Fang C, Ma M, Ji H, et al. Alterations of digestive enzyme activities, intestinal morphology and microbiota in juvenile paddlefish, Polyodon spathula, fed dietary probiotics[J]. Fish physiology and biochemistry, 2015,41(1):91-105. （IF="1.6469，通讯作者）</p>
+
+<p>　　Li C, Liu P, Ji H, et al. Dietary n‐3 highly unsaturated fatty acids affect the biological and serum biochemical parameters, tissue fatty acid profile, antioxidation status and expression of lipid‐metabolism‐related genes in grass carp, Ctenopharyngodon idellus[J]. Aquaculture Nutrition, 2015, 21(3): 373-383. （IF="1.665，通讯作者）</p>
+
+<p>　　Ji H, Zhang J L, Huang J Q, et al. Effect of replacement of dietary fish meal with silkworm pupae meal on growth performance, body composition, intestinal protease activity and health status in juvenile Jian carp (Cyprinus carpio var. Jian)[J]. Aquaculture Research, 2015, 46(5): 1209–1221. （IF="1.4609，通讯作者）</p>
+
+<p>　　郭盼,周继术,吉红等.不同链长脂肪酸对斑马鱼的性腺脂肪酸组成、繁殖力与仔鱼成活率的影响[J].水生生物学报, 2017, 41(4):766-773.</p>
+
+<p>　　李雪贤,孙健,吉红,陈昊杰.脂肪酸影响草鱼肝细胞脂质蓄积状态及诱导其凋亡的离体研究[J].水生生物学报, 2017,41(01):56-64.</p>
+
+<ol>
+</ol>
+
+<p>　　<strong>部分成果奖励：</strong></p>
+
+<p>　　[1] 匙吻鲟高效养殖技术研究与示范, 陕西省科技进步奖, 三等奖, 2013年,排名第一。</p>
+
+<p>　　[2] 匙吻鲟高效养殖技术研究与示范, 安康市科学技术奖, 特等奖, 2013年,排名第一。</p>
+
+<p>　　[3] 蚕蛹在鲤鱼饲料中的应用技术研究, 安康市科学技术奖，一等奖，2015年, 排名第一。</p>
+
+<p>　　[4] 鱼类的必需脂肪酸，全国高校（生命科学类）微课教学比赛，三等奖，2015年，排名第一。</p>
+
+<p>　　[7] 鱼类的必需脂肪酸，陕西省高校教师微课比赛，优秀奖，2015年，排名第一。</p>
+
+<p>　　[9] 依托试验站平台，构建水产科学专业‘一体两翼’综合实践教学体系的探索与实践，西北农林科技大学教学成果一等奖，2013年，排名第一。</p>
+
+<p>　　[5] 2014年获陕西省发明协会第四届“发明创业奖”。</p>
+
+<p>　　[6]2015年获陕西省渔业科技贡献奖。</p>
+
+<p>　　[8] 2016年获首届中国创新挑战赛（安康赛区）参与奖。</p>
+
+<p>　　</p>
+
+<p><strong>　　5. 联系方式</strong></p>
+
+<p>　　西北农林科技大学动物科技学院，陕西杨凌西农路22号，712100</p>
+
+<p>　　电话：029-87092585</p>
+
+<p>　　E-mail: jihong@nwsuaf.edu.cn</p>
+
+				</div>
+
+
+
+
+		</div>
+	
+	</div>
+	<div style="clear:both;"></div>
+</div>
+<!--articlehome结束-->
+
+<script src="/cms/web/writeLog.jsp?articleID=217711"></script>
+<!--foot开始-->
+
+<div class="foot">
+	<div style="width:105px;float:left;  margin-top: 30px;
+  padding-left: 103px;;">
+						<p style="text-align: center;"><a href="../../sydbwxewm/297978.htm" target="_blank" title="西北农林科技大学动物科技学院微信公众平台"><img src="../../images/content/2016-03/20160329200002940113.jpg" width="40" height="40" border="0"></a></p>
+						 		
+		<!--<p style="text-align:center;;margin-top:10px;"><a href="/sydbwxewm/297978.htm" target="_blank" title="$article.name">动科学院微信平台</a></p>-->
+	</div>
+	<div style="float:left;">
+		<p style="text-align:center;padding-top:30px;">版权所有 :  西北农林科技大学动物科技学院&nbsp;&nbsp;
+地址：陕西省杨凌农业高新技术产业示范区西农路22号&nbsp;&nbsp;&nbsp;邮编：712100 </p>
+		<p style="text-align:center;padding-top:10px;">主管领导：王力  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;网管员：阮鹏<font style="color:#FF6600"> &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;总访问量：<script src="/cms/web/channelVisitLog.jsp?channelID=3352"></script>234787次</font></p>
+	</div>
+	<script src="/cms/web/writeLog.jsp?siteID=77&amp;channelID=3352"></script>
+</div>
+
+<!--foot结束-->
+
+
+ 
+</body></html>

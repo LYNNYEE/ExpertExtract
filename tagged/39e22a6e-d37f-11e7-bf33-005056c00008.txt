@@ -1,0 +1,401 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>北京电影学院研究生院</title>
+<link rel="stylesheet" type="text/css" href="../../1500.files/style.css">
+
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(1500.files/bg_ti.jpg);
+	background-repeat: repeat-x;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #002B5E;
+}
+a:link {
+	color: #002B5E;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #002B5E;
+}
+a:hover {
+	text-decoration: none;
+	color: #BD1A1D;
+}
+a:active {
+	text-decoration: none;
+	color: #BD1A1D;
+}
+a.a1:link {
+	color: #666666;
+	text-decoration: none;
+}
+a.a1:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a.a1:hover {
+	text-decoration: none;
+	color: #999999;
+}
+a.a1:active {
+	text-decoration: none;
+	color: #999999;
+}
+UL {
+	LIST-STYLE-TYPE: none;
+	padding:0px;
+	margin:0px;
+}
+LI {
+	FONT-SIZE: 12px; 
+	COLOR: #fff; 
+	LINE-HEIGHT: 1.5em; 
+	FONT-FAMILY: "宋体", Arial, Verdana;
+}
+.hide {
+	DISPLAY: none
+}
+#header{
+	width:985px;
+	height:235px;
+	margin:auto;
+	background-image:url(../../1500.files/top_bg2.jpg);
+	background-repeat:no-repeat;
+}
+#mainmenu_top UL LI .menuhover {
+	BACKGROUND: url(../../1500.files/mainmenu_h.gif) no-repeat; 
+	COLOR: #fff;
+}
+#mainmenu_top UL LI A {
+	MARGIN-TOP: 0px;
+	CURSOR: pointer;
+	PADDING-TOP: 8px;
+	HEIGHT: 50px;
+	text-decoration: none;
+}
+#mainmenu_body { 
+	width:985px;
+	HEIGHT: 80px; 
+	display:block;
+	overflow:hidden;
+}
+#mainmenu_top { 
+	width:985px;
+	HEIGHT: 50px; 
+	display:block;
+	overflow:hidden;
+	BACKGROUND: url(../../1500.files/mainmenu_bg.jpg) no-repeat; 
+}
+#mainmenu_top UL LI {FLOAT: left}
+#mainmenu_top UL LI A {
+ 	WIDTH: 104px;
+	height:50px;
+	DISPLAY: block;
+	COLOR: #fff; 
+	TEXT-ALIGN: left; 
+    PADDING: 14px 0px 0px 5px;
+	font-size:14px;
+	font-weight:bold;
+}
+#mainmenu_bottom {
+	width:100%;
+	height:30px;
+	line-height:30px;
+	display:block;
+	overflow:hidden;
+}
+#mainmenu_bottom .mainmenu_rbg {
+	HEIGHT: 30px;
+	COLOR: #fff;
+	MARGIN-LEFT: 0px; 
+	PADDING: 0px 0px 0px 5px;
+}
+#mainmenu_bottom UL {}
+#mainmenu_bottom UL LI {
+	PADDING-LEFT: 8px; 
+	FLOAT: left; 
+	MARGIN-LEFT: 7px; 
+	HEIGHT: 32px;
+}
+#mainmenu_bottom UL LI.se {
+	FLOAT: left; 
+	MARGIN-LEFT: 7px; 
+	HEIGHT: 32px;
+	PADDING-LEFT: 8px; 
+}
+#mainmenu_bottom UL LI A {
+	COLOR: #333; 
+	LINE-HEIGHT: 32px;
+	PADDING-RIGHT: 10px; 
+	DISPLAY: block;
+	text-decoration: none;
+	background-color:#FFF;
+}
+#mainmenu_bottom UL LI A:hover {
+	color: #BD1A1D;
+}
+#mainmenu_bottom UL LI A.se {
+	COLOR: #333; 
+	LINE-HEIGHT: 32px;
+	PADDING-RIGHT: 10px; 
+	DISPLAY: block; 
+}
+.STYLE2 {color: #666666}
+.STYLE3 {
+	color: #990000;
+	font-weight: bold;
+	font-size: 14px;
+}
+.STYLE5 {font-size: 12px}
+.style1 {	font-size: 14;
+	font-family: "宋体";
+}
+</style>
+<script type="text/javascript">              
+var waitting = 1;              
+var secondLeft = waitting;              
+var timer;                              
+var sourceObj;              
+var number;           
+function getObject(objectId)//获取id的函数               
+    {              
+        if(document.getElementById && document.getElementById(objectId)) {              
+        // W3C DOM              
+        return document.getElementById(objectId);              
+        } else if (document.all && document.all(objectId)) {              
+        // MSIE 4 DOM              
+        return document.all(objectId);              
+        } else if (document.layers && document.layers[objectId]) {              
+        // NN 4 DOM.. note: this won't find nested layers              
+        return document.layers[objectId];              
+        } else {              
+        return false;              
+        }              
+    }              
+function SetTimer()//主导航时间延迟的函数              
+    {              
+        for(j=1; j <10; j++){              
+            if (j == number){              
+                if(getObject("mm"+j)!=false){              
+                    getObject("mm"+ number).className = "menuhover";              
+                    getObject("mb"+ number).className = "";              
+                }              
+            }              
+            else{              
+                 if(getObject("mm"+j)!=false){               
+                    getObject("mm"+ j).className = "";              
+                    getObject("mb"+ j).className = "hide";               
+                }              
+            }              
+        }              
+    }              
+function CheckTime()//设置时间延迟后              
+    {              
+        secondLeft--;              
+        if ( secondLeft == 0 )              
+        {              
+        clearInterval(timer);                                      
+        SetTimer();                      
+        }              
+    }              
+function showM(thisobj,Num)//主导航鼠标滑过函数,带时间延迟              
+    {              
+        number = Num;              
+        sourceObj = thisobj;              
+        secondLeft = 1;              
+        timer = setTimeout('CheckTime()',50);              
+    }              
+function OnMouseLeft()//主导航鼠标移出函数,清除时间函数              
+    {             
+	    clearInterval(timer); 
+    } 
+function hide()          
+    {             
+	    setTimeout('hide1()',50); 
+    } 	
+function hide1()        
+    {  
+		getObject("mm1").className = ""; 
+	    getObject("mb1").className = "hide";
+		getObject("mm2").className = ""; 
+	    getObject("mb2").className = "hide";
+		getObject("mm3").className = "";  
+		getObject("mb3").className = "hide";  
+		getObject("mm4").className = "";  
+		getObject("mb4").className = "hide";  
+		getObject("mm5").className = "";  
+		getObject("mb5").className = "hide";  
+	    getObject("mm6").className = "";  
+		getObject("mb6").className = "hide";  
+		getObject("mm7").className = "";  
+		getObject("mb7").className = "hide";  
+		getObject("mm8").className = "";  
+		getObject("mb8").className = "hide";  
+		getObject("mm9").className = "";  
+		getObject("mb9").className = "hide";  
+    } 
+	
+</script> 
+</head>
+<body>
+<div id="main_container">
+  <div id="header">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td><img src="../../1500.files/banner2.jpg" width="985" height="155"></td>
+      </tr>
+      <tr>
+        <td><table cellspacing="0" cellpadding="0" border="0">
+          <tbody><tr>
+            <td><div id="mainmenu_body" onmouseleave="hide();">
+              <!--主导航开始-->
+              <div id="mainmenu_top">
+                <ul>
+                  <li><a id="mm1" onmouseover="showM(this,1);" onmouseout="OnMouseLeft();" href="../../index.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">网站首页</a></li>
+                  <li><a id="mm2" onmouseover="showM(this,2);" onmouseout="OnMouseLeft();" href="../../node_1738.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">部门简介</a></li>
+                  <li><a id="mm3" onmouseover="showM(this,3);" onmouseout="OnMouseLeft();" href="../../node_1739.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">招生信息</a></li>
+                  <li><a id="mm4" onmouseover="showM(this,4);" onmouseout="OnMouseLeft();" href="../../node_1740.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">培养管理</a></li>
+                  <li><a id="mm5" onmouseover="showM(this,5);" onmouseout="OnMouseLeft();" href="../../node_1741.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">学位工作</a></li>
+                  <li><a id="mm6" onmouseover="showM(this,6);" onmouseout="OnMouseLeft();" href="../../node_1742.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">导师专栏</a></li>
+                  <li><a id="mm7" onmouseover="showM(this,7);" onmouseout="OnMouseLeft();" href="../../node_1743.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">学术活动</a></li>
+                  <li><a id="mm8" onmouseover="showM(this,8);" onmouseout="OnMouseLeft();" href="../../node_1744.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">学子风采</a></li>
+                  <li><a id="mm9" onmouseover="showM(this,9);" onmouseout="OnMouseLeft();" href="../../node_1745.htm" target="_blank"><img src="../../1500.files/mainmenu_dian.gif" width="21" height="17" border="0">学科建设</a></li>
+                </ul>
+              </div>
+              <!--子导航导航开始-->
+              <div id="mainmenu_bottom">
+                <div class="mainmenu_rbg">
+                  <ul class="hide" id="mb1" style="DISPLAY: none">
+                  </ul>
+                  <ul class="hide" id="mb2">
+                    <li><a href="../../node_1746.htm" target="_blank">机构概况</a></li>
+                    <li><a href="../../node_1748.htm" target="_blank">工作人员</a></li>
+                  </ul>
+                  <ul class="hide" id="mb3">
+                    <li style="MARGIN-LEFT: 40px"><a href="../../node_1749.htm" target="_blank">动态信息</a></li>
+                    <li><a href="../../node_1751.htm" target="_blank">博士研究生</a></li>
+                    <li><a href="../../node_1752.htm" target="_blank">硕士研究生</a></li>
+					<li><a href="../../node_1754.htm" target="_blank">在职研究生</a></li>
+                    <li><a href="../../node_1753.htm" target="_blank">以同等学力申请硕士学位</a></li>
+                    <li><a href="../../node_1755.htm" target="_blank">访问学者</a></li>
+                    <li><a href="../../node_1756.htm" target="_blank">课程班</a></li>
+                  </ul>
+                  <ul class="hide" id="mb4">
+                    <li style="MARGIN-LEFT: 200px"><a href="../../node_1757.htm" target="_blank">学籍管理</a></li>
+                    <li><a href="../../node_1758.htm" target="_blank">教学管理</a></li>
+					<li><a href="../../node_2887.htm" target="_blank">国内外联合培养</a></li>
+                    <li><a href="../../node_1759.htm" target="_blank">培养方案</a></li>
+                    <li><a href="../../node_1937.htm" target="_blank">学风建设</a></li>
+                    <li><a href="../../node_1761.htm" target="_blank">下载专区</a></li>
+                  </ul>
+                  <ul class="hide" id="mb5">
+                    <li style="MARGIN-LEFT: 380px"><a href="../../node_1762.htm" target="_blank">最新动态</a></li>
+                    <li><a href="../../node_1764.htm" target="_blank">博士学位</a></li>
+                    <li><a href="../../node_1765.htm" target="_blank">硕士学位</a></li>
+                  </ul>
+                  <ul class="hide" id="mb6">
+                    <li style="MARGIN-LEFT: 490px"><a href="../../node_1766.htm" target="_blank">导师介绍</a></li>
+                    <li><a href="../../node_1767.htm" target="_blank">导师管理</a></li>
+					<li><a href="../../node_2097.htm" target="_blank">教师风采</a></li>
+                  </ul>
+                  <ul class="hide" id="mb7">
+                    <li style="MARGIN-LEFT: 620px"><a href="../../node_1768.htm" target="_blank">学院大讲堂</a></li>
+                    <li><a href="../../node_1769.htm" target="_blank">学院放映厅</a></li>
+                  </ul>
+                  <ul class="hide" id="mb8">
+                    <li style="MARGIN-LEFT: 680px"><a href="../../node_1770.htm" target="_blank">学子动态</a></li>
+                    <li><a href="../../node_1771.htm" target="_blank">研究生会</a></li>
+                    <li><a href="../../node_1772.htm" target="_blank">研究生校友录</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div></td>
+          </tr>
+        </tbody></table>
+            <img src="../../1500.files/mainmenu_h.gif" width="1" height="1"><img src="../../1500.files/mainmenu_bg.jpg" width="1" height="1"><img src="../../1500.files/top_bg2.jpg" width="1" height="1"></td>
+      </tr>
+    </tbody></table>
+  </div>
+  <!-- end of main_contenEt -->
+  <div id="main_content">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td valign="top" background="../../1500.files/right_more_bg.jpg"><table width="100%" height="581" cellspacing="0" cellpadding="0" border="0">
+          <tbody><tr>
+            <td width="87%" valign="top" height="532" align="left"><table width="100%" cellspacing="10" cellpadding="0" border="0">
+              <tbody><tr>
+                <td valign="top" align="left"><a href="../../index.htm" target="_blank">首页</a>&gt;&gt;
+                        <a href="../../node_1825.htm" target="_blank" class="">管理系</a></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="58%" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tbody><tr>
+                                  <th align="center"><br>
+                                  <font size="4.5px" color="#990000"><b> 褚岩</b></font></th>
+                                </tr>
+                                <tr>
+                                  <th align="center"> 2010-07-01 08:55:11</th>
+                                </tr>
+                              </tbody></table>
+                      <table width="100%" cellspacing="0" cellpadding="8" border="0">
+                                <tbody><tr>
+                                  <td class="STYLE13 style93 style1"><br>
+                                      <br>
+                                    <!--enpproperty <articleid>53517</articleid><date>2010-07-01 08:55:11.0</date><author></author><title>褚岩</title><keyword></keyword><subtitle></subtitle><introtitle></introtitle><siteid>1</siteid><nodeid>1825</nodeid><nodename>管理系</nodename><nodesearchname></nodesearchname>/enpproperty--><!--enpcontent--> <!--enpcontent--><span style="FONT-FAMILY: 宋体; FONT-SIZE: 14pt; mso-bidi-font-family: ' Times: ; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-pagination: widow-orphan" class="MsoNormal" align="center"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 15pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang="EN-US"><img id="73548" src="../../attachement/jpg/site1/20140221/448a5b060aeb14710e470f.jpg" shapes="_x0000_i1025" width="375" height="560" align="middle"><span></span></span></b></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 宋体"><font style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">北京电影学院管理系 副教授<span lang="EN-US"><span></span></span></font></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">硕士生导师<span lang="EN-US"><span></span></span></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">工学、管理学双学士学位。<span lang="EN-US">1983</span>年<span lang="EN-US">7</span>月毕业于北京科技大学，留校任教十年。<span lang="EN-US">1993</span>年<span lang="EN-US">9</span>月调入北京电影学院任教，曾任北京电影学院音像出版社社长、学院后勤保障中心主任。<span lang="EN-US">&nbsp;<span></span></span></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">主要教授课程：<span lang="EN-US">&nbsp;<span></span></span></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">《经济应用数学》、《文化经纪管理》、《管理学》等课程。<span lang="EN-US"><span></span></span></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312" lang="EN-US"><span><font style="FONT-SIZE: 14pt" size="1" face="楷体_GB2312" color="black">&nbsp;</font></span></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">学术创作：<span lang="EN-US">&nbsp;<span></span></span></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">在《中国电影市场》等国家一级期刊上发表多篇论文<span lang="EN-US">&nbsp;<span></span></span></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312" lang="EN-US"><span><font style="FONT-SIZE: 14pt" size="1" face="楷体_GB2312" color="black">&nbsp;</font></span></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">出版专著：<span lang="EN-US">&nbsp;<span></span></span></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">《文化经纪人概论》<span lang="EN-US">&nbsp;<span></span></span></font></font></font></font></font></span></p>
+<p style="FONT-FAMILY: 楷体_GB2312; COLOR: black; FONT-SIZE: 14pt" class="MsoNormal"><span style="FONT-FAMILY: 楷体_GB2312"><font style="FONT-SIZE: 14pt"><font style="FONT-SIZE: 14pt"><font face="楷体_GB2312"><font style="FONT-SIZE: 14pt" size="1"><font color="black">《经济应用数学》<span lang="EN-US"><span></span></span></font></font></font></font></font></span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 宋体" lang="EN-US"><span><font style="FONT-SIZE: 14pt" size="1" face="楷体_GB2312" color="black">&nbsp;</font></span></span></p></span><!--/enpcontent--><!--/enpcontent-->
+                                    <br>
+                                      <table width="100%" cellspacing="0" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td height="22" bgcolor="#cccccc"><div align="left">∶∶附件∶∶</div></td>
+                                          </tr>
+                                          <tr>
+                                            <td>
+                                        </td></tr></tbody>
+                                  </table></td>
+                                </tr>
+                            </tbody></table></td>
+                  </tr>
+                </tbody></table>
+                    </td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table>
+            <table style="margin-top:20px;border-top:1px solid #CCCCCC;" width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td height="30" align="center"><a href="../../../../" class="a1" target="_blank"><span class="STYLE2">学校首页</span></a><span class="STYLE2"> |</span><a href="../../index.htm" class="a1" target="_blank"> 研究生院首页</a><span class="STYLE2"> |</span> <a href="../../node_1738.htm" class="a1" target="_blank">部门简介</a><span class="STYLE2"> | </span><a href="../../node_1739.htm" class="a1" target="_blank">招生信息</a><span class="STYLE2"> |</span> <a href="../../node_1740.htm" class="a1" target="_blank">培养管理</a><span class="STYLE2"> |</span> <a href="../../node_1741.htm" class="a1" target="_blank">学位工作</a><span class="STYLE2"> |</span> <a href="../../node_1742.htm" class="a1" target="_blank">导师专栏</a><span class="STYLE2"> | </span><a href="../../node_1743.htm" class="a1" target="_blank">学术活动</a><span class="STYLE2"> | </span><a href="../../node_1744.htm" class="a1" target="_blank">学子风采</a><span class="STYLE2"> |</span> <a href="../../node_1745.htm" class="a1" target="_blank">学科建设</a></td>
+              </tr>
+              <tr>
+                <td height="30" align="center"><span class="STYLE2">Copyright(c) 2014 版权所有 北京电影学院研究生院</span></td>
+              </tr>
+            </tbody></table>
+            <p></p></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+<!-- end of main_container -->
+
+</body></html>

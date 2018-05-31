@@ -1,0 +1,147 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<meta name="title" content="西南交通大学教师个人主页"> 
+<meta name="description" content="西南交通大学教师个人主页是为教职员工提供展示其教学和科研信息的平台"> 
+<meta name="keywords" content="交大，西南交通大学，西南交大，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>西南交通大学教师个人主页</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/Default.css">
+<link rel="stylesheet" type="text/css" href="css/Default2.css">
+</head>
+
+<body id="sys_background">
+<div class="toplink">		
+        <span><a href="http://homepage.swjtu.edu.cn/UserWeb/Login.aspx" target="_blank">登录</a></span>
+		<span><a href="http://homepage.swjtu.edu.cn/Home/list.aspx?type=help" target="_blank">帮助</a></span>
+        <span><a href="http://homepage.swjtu.edu.cn" target="_blank">返回首页</a></span>
+      	<span><a href="http://www.swjtu.edu.cn" title="西南交通大学" target="_blank">交大主页</a></span>
+		<div style="clear:both"></div>
+       </div>
+
+<!-- start header -->
+<div id="header">
+	<div id="menu">
+		<ul class="sys_navigation">
+						
+																
+													<li class="current_page_item"><a href="index.htm" title="Home" target="_blank">个人信息</a></li>
+					
+						<li class="current_page_item"><a href="research.htm" title="Home" target="_blank">科学研究</a></li>
+						<li class="current_page_item"><a href="paper.htm" title="Home" target="_blank">论文成果</a></li>
+						<li class="current_page_item"><a href="award.htm" title="Home" target="_blank">荣誉奖励</a></li>								
+						<li class="current_page_item"><a href="team.htm" title="Home" target="_blank">科研团队</a></li>
+							<li class="current_page_item"><a href="teach.htm" title="Home" target="_blank">课程教学</a></li>
+									<li class="current_page_item"><a href="zhaosheng.htm" title="Gallery" target="_blank">招生信息</a></li>
+						<li class="current_page_item"><a href="english.htm" title="Gallery" target="_blank">English</a></li>
+					
+						
+					</ul>
+	</div>
+</div>
+<div style="clear:both;"></div>
+<div id="logo">
+	<div id="sys_banner" name="banner" style="background: url(images/banner_SpaFlowers.jpg) no-repeat left top;">
+		
+		
+		<h1><a id="sys_heading" href="./" target="_blank">郭育华的个人主页</a></h1>
+	</div>
+</div>
+<!-- end header -->
+
+<!-- start page -->
+<div id="page">
+	<!-- start content -->
+	<div id="content">
+		    <div style="width: 100%; padding: 0px; margin: 0px" class="layout_1-column">
+        <div id="layout_row1">
+<div id="sys_region_1" style="margin:0px; padding:5px; vertical-align:top; line-height:normal; min-width:100px" class="zone_top">
+
+<div id="I1" style="display:block;clear: both;margin:10px 15px 10px 15px;" class="Text_Default">    
+    <div id="I1_sys_txt" class="sys_txt" style="margin:0px; padding:0px; color:; font:; background-color:;"><h2>Welcome to my website!</h2></div>    
+</div>
+
+
+
+<div id="I2" style="display:block;clear: both;margin:10px 10px 0 10px;" class="Layout1_Default">
+<table style="width:100%;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td id="Left_I2" style="text-align:left; vertical-align:top; width:50%;">
+<div id="I4" style="display:block;clear: both;text-align:left;margin:15px 10px 10px 10px;" class="Image_Default">
+<!--个人照片--><img id="I4_img" src="images/image.jpg" style="width:400; height:300; border:none;"></div></td>
+<td id="Right_I2" style="vertical-align:top; width:50%;">
+<div id="I3" style="display:block;clear: both;margin:10px 10px 10px 10px;" class="Text_Default">    
+    <div id="I3_sys_txt" class="sys_txt" style="margin:0px; padding:0px; color:; font:; background-color:;">
+	<h3>基本信息</h3><p style="font-size:15px;"></p><p>郭育华 副教授</p>
+<p>硕导</p>
+<p>硕士学科：电力电子与电力传动　</p>
+<p>工作单位：电气工程学院</p>
+	<h3>联系方式</h3><p>通信地址：成都市二环路北一段111号</p>
+<p>电子邮箱：Guoyuhua@home.swjtu.edu.cn</p>
+<p>办公电话：</p>
+<p>办公地点：西南交通大学工业中心</p>
+</div>
+    
+</div></td></tr></tbody></table>
+</div>
+
+
+
+<div id="I5" style="display:block;clear: both;margin:30px 10px 30px 10px;" class="Horizontal_Line_Default">
+<div style="border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#cccccc;font-size:0;padding:0;margin:0;height:0;line-height:0;"></div>
+</div>
+
+
+
+
+
+<div id="I7" style="display:block;clear: both;margin:0 15px 0 15px;" class="Text_Default">    
+    <div id="I7_sys_txt" class="sys_txt" style="margin:0px; padding:0px; color:; font:; background-color:;">
+	<h3>个人简历</h3>
+	<p>郭育华，硕士、副教授、电力电子与电力传动系副系主任、磁浮列车与技术研究所副所长。 1985年9月-1989年7月，西南交通大学电气工程学院电力牵引与传动控制专业学习，获学士学位；1989年9月-1992年5月西南交通大学电气工程学院电力电子与电力传动专业攻读硕士学位，1992年5月毕业，同年留校任教至今。</p>
+<p>&nbsp;</p>
+<h3>研究方向</h3>
+	
+<p>(1) 高频电力变换技术。</p>
+<p>(2)有源滤波和无功补偿技术。</p>
+<p>(3) 电力牵引与控制。</p>
+<p>(4) 新能源变流技术。</p>
+<p>&nbsp;</p></div>    
+</div>
+
+
+
+
+<div id="I8" style="display:block;clear: both;margin:30px 10px 14px 10px;" class="Horizontal_Line_Default"> 
+<div style="border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#cccccc;font-size:0;padding:0;margin:0;height:0;line-height:0;"></div>
+</div>
+
+
+
+
+</div>
+  </div>
+    </div>		
+	</div>
+	<!-- end content -->
+	<div style="clear: both;">&nbsp;</div>
+</div>
+<!-- end page -->
+
+<!-- start footer -->
+
+	
+
+
+<div id="bottom">
+       
+           <p>   Copyright © 2011   http://inc.swjtu.edu.cn   西南交通大学信息网络中心
+<br>
+
+
+</p></div>
+
+    <!-- End Quantcast tag -->
+
+
+</body></html>

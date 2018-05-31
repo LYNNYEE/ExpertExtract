@@ -1,0 +1,757 @@
+<html><head><title>教师介绍-重邮经济管理学院</title>
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="ie=7" http-equiv="x-ua-compatible"><link rel="stylesheet" type="text/css" href="images/style.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230747847565353544203050002 -->
+<link rel="stylesheet" type="text/css" href="list.vsb.css">
+<meta name="keywords" content="重庆邮电大学,经管,经济管理学院,教师介绍">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1057,'/list.jsp',-1,1358372333)</script>
+</head>
+<body>
+<table width="1000" height="123" cellspacing="0" cellpadding="0" background="images/bannerbg.jpg" align="center">
+<tbody>
+<tr>
+<td valign="top" align="left"></td>
+<td valign="bottom" align="right"></td><td valign="top" align="left"><img src="images/top.png" width="1000" height="200"></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="1000" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td><img src="images/menubgleft.gif"></td>
+<td width="979" background="images/menubgcenter.gif">
+<table width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td colspan="2" height="41" align="center"><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;; }
+td.b4_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;; }
+a.menu0_0_:link {TEXT-DECORATION: none; };
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;FONT-WEIGHT: bold;}
+span.s2_0_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_0_{FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 11pt;FONT-WEIGHT: bold;}
+span.s20_0_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<script language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</script>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<table id="t1_0_" width="970" height="0" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="center"></td><td class="b1_0_" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')" width="0" valign="middle" height="0" nowrap="" align="center"><a class="menu0_0_" href="index.htm" target="_blank"><span class="fontstyle41132">&nbsp;首页&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1041" onmouseover="tshowLayers('1041','b2_0_', '_0_')" onmouseout="thideLayers('1041','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1041" target="_blank"><span class="fontstyle41132">&nbsp;学院介绍&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1042" onmouseover="tshowLayers('1042','b2_0_', '_0_')" onmouseout="thideLayers('1042','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1042" target="_blank"><span class="fontstyle41132">&nbsp;师资队伍&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1043" onmouseover="tshowLayers('1043','b2_0_', '_0_')" onmouseout="thideLayers('1043','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1043" target="_blank"><span class="fontstyle41132">&nbsp;本科教育&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1044" onmouseover="tshowLayers('1044','b2_0_', '_0_')" onmouseout="thideLayers('1044','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1044" target="_blank"><span class="fontstyle41132">&nbsp;研究生教育&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1045" onmouseover="tshowLayers('1045','b2_0_', '_0_')" onmouseout="thideLayers('1045','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1045" target="_blank"><span class="fontstyle41132">&nbsp;学术科研&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1046" onmouseover="tshowLayers('1046','b2_0_', '_0_')" onmouseout="thideLayers('1046','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1046" target="_blank"><span class="fontstyle41132">&nbsp;学生工作&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1047" onmouseover="tshowLayers('1047','b2_0_', '_0_')" onmouseout="thideLayers('1047','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1047" target="_blank"><span class="fontstyle41132">&nbsp;党建工作&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1048" onmouseover="tshowLayers('1048','b2_0_', '_0_')" onmouseout="thideLayers('1048','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1048" target="_blank"><span class="fontstyle41132">&nbsp;招生信息&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1049" onmouseover="tshowLayers('1049','b2_0_', '_0_')" onmouseout="thideLayers('1049','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1049" target="_blank"><span class="fontstyle41132">&nbsp;合作交流&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1050" onmouseover="tshowLayers('1050','b2_0_', '_0_')" onmouseout="thideLayers('1050','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1050" target="_blank"><span class="fontstyle41132">&nbsp;资源下载&nbsp;</span></a></td></tr></tbody></table></td></tr>
+<tr>
+<td height="33">
+<table><tbody><tr><td>
+            
+
+            <marquee direction="left" scrollamount="2" scrolldelay="10" onmouseover="this.stop()" onmouseout="this.start()" width="700" height="16">
+                <span class="mtitlestyle40970">最新消息：</span>
+                <span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/2237.htm" target="_blank"><span class="titlestyle40970">
+                                社科论坛“电子商务微创企业创业管理研究”学术讲座成功举行</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/2224.htm" target="_blank"><span class="titlestyle40970">
+                                “一带一路”通信产业国际合作高级研修班开班典礼在我校举行</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/2209.htm" target="_blank"><span class="titlestyle40970">
+                                我院学生科技作品在第十五届“挑战杯”竞赛中获奖</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/2190.htm" target="_blank"><span class="titlestyle40970">
+                                经济管理/现代邮政学院2017年班导师工作培训会顺利举行</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/2189.htm" target="_blank"><span class="titlestyle40970">
+                                重庆邮电大学经济管理学院调研重庆理工大学会计学院</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/2025.htm" target="_blank"><span class="titlestyle40970">
+                                浪潮集团重庆分公司到我院洽谈产学研合作</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/1989.htm" target="_blank"><span class="titlestyle40970">
+                                经济管理/现代邮政学院2017秋季运动会圆满举办</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/1940.htm" target="_blank"><span class="titlestyle40970">
+                                经济管理学院党委副书记余惠琼一行到浪潮集团重庆分公司走访</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/1939.htm" target="_blank"><span class="titlestyle40970">
+                                重庆邮电大学第一届“一带一路”  国际学生商业创意挑战赛圆满落下帷幕</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a style="TEXT-DECORATION: none" href="info/1087/1929.htm" target="_blank"><span class="titlestyle40970">
+                                经济管理学院组织师生集中观看党的十九大开幕式</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                </marquee>
+</td></tr></tbody></table></td>
+<td width="220" align="right"><script language="javascript" src="/system/resource/js/base64.js"></script> 
+<script language="javascript" src="/system/resource/js/formfunc.js"></script> 
+<script type="text/javascript">
+function checksearch41025(type){
+        var keyword = document.getElementById('showkeycode41025').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword41025").value = Simplized(keyword );
+        }else
+        {
+        	document.getElementById("lucenenewssearchkeyword41025").value = keyword;            
+        }
+        document.getElementById('_lucenesearchtype41025').value=1;
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword41025").value = base64.encode(document.getElementById("lucenenewssearchkeyword41025").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode41025"));
+        return true;
+    } 
+
+</script>
+<form action="ssjgy.jsp?wbtreeid=1057" method="post" id="searchform41025" name="searchform41025" onsubmit="return checksearch41025(1)" style="display: inline">
+  <input id="lucenenewssearchkeyword41025" name="lucenenewssearchkeyword" value="" type="hidden">
+  <input id="_lucenesearchtype41025" name="_lucenesearchtype" value="" type="hidden">
+  <input id="searchScope" name="searchScope" value="0" type="hidden">
+ <table width="100%" cellspacing="0" cellpadding="3" border="0" align="center">
+  <tbody><tr>
+   <td><span></span></td><td width="1%" nowrap="" align="right"><input name="showkeycode" id="showkeycode41025" class="querystyle41025"></td>
+                 <td align="left">
+                
+    <input src="/system/resource/images/research/seach22.gif" style="cursor: hand" type="image" align="absmiddle">
+    
+   </td>
+  </tr>
+ </tbody></table>
+</form></td></tr></tbody></table></td>
+<td><img src="images/menubgright.gif"></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="1000" height="7" align="center">
+<tbody>
+<tr>
+<td></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="1000" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="270" valign="top" align="center">
+<table class="graytable" width="258" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="9" height="34" background="images/tzggbg.gif"></td>
+<td width="17" background="images/tzggbg.gif" align="left"><img src="images/inco2.gif"></td>
+<td width="230" background="images/tzggbg.gif" align="left"><span class="titlestyle41134"></span></td>
+</tr>
+<tr>
+<td class="padd10" colspan="5" valign="top" height="229" align="left"><style type="text/css">
+td.b1_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/listbg.gif);BACKGROUND-REPEAT: no-repeat;}
+td.b2_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/listbg.gif);BACKGROUND-REPEAT: no-repeat;}
+td.b3_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;; }
+td.b4_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;; }
+a.menu0_4_:link {TEXT-DECORATION: none; };
+a.menu0_4_:visited { TEXT-DECORATION: none;};
+a.menu0_4_:hover {TEXT-DECORATION: none;};
+a.menu0_4_:active {TEXT-DECORATION: none;};
+table.tb1_4_{FONT-SIZE:9pt;border:0;}
+span.s1_4_{POSITION: relative;PADDING-LEFT: 40px;BOTTOM: 3px;COLOR: #cc0000;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_4_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_4_{POSITION: relative;PADDING-LEFT: 40px;BOTTOM: 3px;COLOR: #015c88;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_4_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<script language="javascript"> 
+ var showfix_4_ = 1;
+ var isvertical_4_ = true;
+</script>
+
+<table id="t1_4_" width="0" height="0" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="b1_4_" id="a_4_1054" onmouseover="tshowLayers('1054','b2_4_', '_4_')" onmouseout="thideLayers('1054','b1_4_', '_4_','true')" width="214" valign="middle" height="38" align="left"> <a class="menu0_4_" href="szdw/szgk.htm" target="_blank"><span class="fontstyle41135">&nbsp;师资概况&nbsp;</span></a></td></tr><tr><td class="b1_4_" id="a_4_1055" onmouseover="tshowLayers('1055','b2_4_', '_4_')" onmouseout="thideLayers('1055','b1_4_', '_4_','true')" width="214" valign="middle" height="38" align="left"> <a class="menu0_4_" href="szdw/jsml.htm" target="_blank"><span class="fontstyle41135">&nbsp;教师名录&nbsp;</span></a></td></tr><tr><td class="b1_4_" id="a_4_1056" onmouseover="tshowLayers('1056','b2_4_', '_4_')" onmouseout="thideLayers('1056','b1_4_', '_4_','true')" width="214" valign="middle" height="38" align="left"> <a class="menu0_4_" href="szdw/wpjs.htm" target="_blank"><span class="fontstyle41135">&nbsp;外聘教师&nbsp;</span></a></td></tr><tr><td class="b1_4_" id="a_4_1057" onmouseover="tshowLayers('1057','b2_4_', '_4_')" onmouseout="thideLayers('1057','b1_4_', '_4_','true')" width="214" valign="middle" height="38" align="left"> <a class="menu0_4_" href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1057" target="_blank"><span class="fontstyle41135">&nbsp;教师介绍&nbsp;</span></a></td></tr><tr><td class="b1_4_" id="a_4_1058" onmouseover="tshowLayers('1058','b2_4_', '_4_')" onmouseout="thideLayers('1058','b1_4_', '_4_','true')" width="214" valign="middle" height="38" align="left"> <a class="menu0_4_" href="szdw/zjdw.htm" target="_blank"><span class="fontstyle41135">&nbsp;专家队伍&nbsp;</span></a></td></tr></tbody></table></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="258" height="7" align="center">
+<tbody>
+<tr>
+<td></td></tr></tbody></table>
+<table class="graytable" width="258" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="10" height="33" background="images/tzggbg.gif"></td>
+<td width="18" background="images/tzggbg.gif" align="left"><img src="images/inco2.gif"></td>
+<td class="title1" width="176" background="images/tzggbg.gif">院内下载</td>
+<td width="44" background="images/tzggbg.gif"><a href="<span style='color:red;font-size:9pt'>转换链接错误</span>" target="_blank"><img src="images/more.gif" width="44" hspace="0" height="13" border="0"></a></td>
+<td width="10" background="images/tzggbg.gif"></td></tr>
+<tr>
+<td class="padd10" colspan="5" valign="top" height="229" align="left"><table width="100%" cellspacing="0" cellpadding="0">
+  
+<tbody><tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1083/1554.htm" class="c41146" title="经济管理学院系（实验中心）经费报销审批单" target="_blank">
+        经济管理学院系（实验中心）...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1083/1553.htm" class="c41146" title="经管学院精品资源课程集成网" target="_blank">
+        经管学院精品资源课程集成网
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1083/1552.htm" class="c41146" title="学院用印申请单" target="_blank">
+        学院用印申请单
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1083/1551.htm" class="c41146" title="中央与地方共建实验室立项论证报告" target="_blank">
+        中央与地方共建实验室立项论...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1083/1550.htm" class="c41146" title="2008届毕业设计相关要求" target="_blank">
+        2008届毕业设计相关要求
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1083/1549.htm" class="c41146" title="教学资源网信息" target="_blank">
+        教学资源网信息
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>
+</tbody></table></td></tr></tbody></table></td>
+<td width="720" valign="top" align="center">
+<table class="graytable" width="720" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="10" height="31" background="images/newsbg.gif"></td>
+<td width="28" background="images/newsbg.gif" align="left"><img src="images/inco1.gif"></td>
+<td class="title1" width="368" background="images/newsbg.gif"><span class="windowstyle41136">
+教师介绍</span></td>
+<td width="304" background="images/newsbg.gif" align="right">  
+<table class="winstyle41137" cellspacing="0" cellpadding="0"><tbody><tr><td nowrap="">当前位置：   
+<a href="index.htm" target="_blank"><span class="fontstyle41137">首页</span></a><span class="splitflagstyle41137">&gt;&gt;</span><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1042" target="_blank"><span class="fontstyle41137">师资队伍</span></a><span class="splitflagstyle41137">&gt;&gt;</span><a href="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1057" target="_blank"><span class="fontstyle41137">教师介绍</span></a></td></tr></tbody></table></td>
+<td width="10" background="images/newsbg.gif"></td></tr>
+<tr>
+<td class="padd20" colspan="5" valign="top" height="510" align="left">
+       
+    <input name="a8actiontype" id="a8actiontype" value="" type="hidden"><input name="a8o" value="desc" type="hidden"><input name="a8k" value="wbtop" type="hidden">
+<style type="text/css">
+.headStyle1i3zwrh071, .headStyle1i3zwrh071 td, .headStyle1i3zwrh071 div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1i3zwrh071 a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1i3zwrh071 a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1i3zwrh071 .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1i3zwrh071 .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1i3zwrh071 .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1i3zwrh071 .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1i3zwrh071 .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle1i3zwrh071 .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1i3zwrh071 .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1i3zwrh071 a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1i3zwrh071 a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1i3zwrh071 a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+    <table class="winstyle41138" width="100%">     
+     
+      <tbody><tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1073.htm" target="_blank" title="余惠琼">  
+                        余惠琼
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2016/05/25&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1071.htm" target="_blank" title="谭明刚">  
+                        谭明刚
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2014/09/17&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1070.htm" target="_blank" title="胡冬云">  
+                        胡冬云
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/11/07&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1069.htm" target="_blank" title="尹远">  
+                        尹远
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/11/05&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1122.htm" target="_blank" title="吴德华">  
+                        吴德华
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/11/01&nbsp;</td>     
+        
+      </tr>
+
+      
+      <tr height="1">
+      <td colspan="3" align="center"><hr style="border-style:dashed;border-color:#999999;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:inherit"></td>
+      </tr>
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1171.htm" target="_blank" title="温平川">  
+                        温平川
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1163.htm" target="_blank" title="王帅">  
+                        王帅
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1161.htm" target="_blank" title="石全胜">  
+                        石全胜
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1159.htm" target="_blank" title="施涛">  
+                        施涛
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1158.htm" target="_blank" title="彭生顺">  
+                        彭生顺
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+      <tr height="1">
+      <td colspan="3" align="center"><hr style="border-style:dashed;border-color:#999999;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:inherit"></td>
+      </tr>
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1156.htm" target="_blank" title="刘小平">  
+                        刘小平
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1153.htm" target="_blank" title="李忆">  
+                        李忆
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1151.htm" target="_blank" title="李薇">  
+                        李薇
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1149.htm" target="_blank" title="李盛竹">  
+                        李盛竹
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1147.htm" target="_blank" title="李昌兵">  
+                        李昌兵
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+      <tr height="1">
+      <td colspan="3" align="center"><hr style="border-style:dashed;border-color:#999999;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:inherit"></td>
+      </tr>
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1145.htm" target="_blank" title="何建洪">  
+                        何建洪
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1143.htm" target="_blank" title="樊自甫">  
+                        樊自甫
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1141.htm" target="_blank" title="杜维">  
+                        杜维
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1139.htm" target="_blank" title="邓学平">  
+                        邓学平
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span class="leaderfont41138">·</span>
+          
+            
+          <a class="c41138" href="info/1057/1137.htm" target="_blank" title="邓维斌">  
+                        邓维斌
+            </a>
+        
+        
+        </td>  
+        
+        <td class="timestyle41138" width="1%" valign="middle" nowrap="" align="right">2013/10/30&nbsp;</td>     
+        
+      </tr>
+
+      
+
+     
+        
+        
+        <tr><td colspan="3" align="center">
+            <table height="39" cellspacing="0" cellpadding="0" border="0">
+                <tbody><tr><td colspan="0"><table class="headStyle1i3zwrh071" width="100%" cellspacing="0" cellpadding="1"><tbody><tr valign="middle"><td width="1%" nowrap="" align="left">共45条&nbsp;<input name="a8fc" value="20" type="hidden">&nbsp;1/3&nbsp;</td><td nowrap="" align="left"><div><span class="PrevDisabled">上页</span><span class="this-page">1</span><a href="?a8t=3&amp;a8p=2&amp;a8c=20&amp;urltype=tree.TreeTempUrl&amp;wbtreeid=1057" target="_blank">2</a><a href="?a8t=3&amp;a8p=3&amp;a8c=20&amp;urltype=tree.TreeTempUrl&amp;wbtreeid=1057" target="_blank">3</a><a href="?a8t=3&amp;a8p=2&amp;a8c=20&amp;urltype=tree.TreeTempUrl&amp;wbtreeid=1057" class="Next" target="_blank">下页</a></div></td><td nowrap="" align="right"></td></tr></tbody></table></td></tr>
+            </tbody></table>
+        </td></tr>
+    </tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="1000" height="7" align="center">
+<tbody>
+<tr>
+<td></td></tr></tbody></table>
+<table width="990" height="99" cellspacing="0" cellpadding="0" background="images/footbg.gif" align="center">
+<tbody>
+<tr>
+<td valign="center" align="center"><p><span style="font-size: 12px">版权所有：重庆邮电大学经济管理学院 2017-</span></p></td></tr></tbody></table>
+
+
+</body></html>

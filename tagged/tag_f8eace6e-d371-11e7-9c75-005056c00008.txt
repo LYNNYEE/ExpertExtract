@@ -1,0 +1,47 @@
+name_label 
+name_label ， 男 , timelabel 年生 ， 教授 ,  博士生导师 , 基础数学 学科责任教授 ， 德国 booklabel 评论员 ； timelabel 年 浙江大学 数学系 博士毕业 ， 获博士学位 ， 研究方向 ： 小波 分析 ； timelabel --- timelabel 访问 加拿大 麦克 玛 斯特 大学 （ McMaster   University ） 数学 与 统计系 ； 研究 领域 涉及 小波 分析 与 Gabor 分析 。 主持 完成 和 主持 在 研国家自然科学基金 、 教育部留学回国人员 科研启动基金 、 北京市自然科学基金 、 北京市中青年骨干教师 基金 、 北京市优秀人才 基金 、 北京市教委 基金 、 place_label 留学人员 科技 活动 择优 资助项目 等 多项国家级 和 省部级项目 。 在 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 等 国内外学术期刊发表 论文 50 余篇 ,  多篇 被 SCI 收录 。 
+Email :  maillabel 
+Tel .:  ( 010 )  6739 timelabel ---- 209 
+部分 SCI 论文 : 
+[ 1 ]  The   con st ruc tion   of   multivariate   periodic   wavelet   bi - frames .  J .  Math .  Anal .  Appl .  412  ( timelabel ),  no .  2 ,  852 – 865 . ( withHui - Fan g   Jia ) 
+[ 2 ]  Rational   time - frequency   multi - wind ow   sub space   Gabor   frames   and   their   Gabor   dual s .  Sci .  China   Math .  57  ( timelabel ),  no .  1 , 145 – 160 . ( with   Yan   Zhang ) 
+[ 3 ]  Rational   time - frequency   Gabor   frames   a sso ciated   with   periodic   sub sets   of   the   real   line . 
+Int .  J .  Wavelets   Multiresolut .  Inf .  Process . 
+12  ( timelabel ),  no .  2 ,  1450013 ,  15   pp . ( with   Jean - Pierre   G aba rdo  ) 
+[ 4 ]  Super   Gabor   frames   on   disc rete   periodic   sets ,  Adv .  Comput .  Math .  38  ( timelabel ),  no .  4 ,  763 – 799 . ( with   Qiao - Fan g   Lian ) 
+[ 5 ]  Rational   time - frequency   super   Gabor   frames   and   their   dual s ,  J .  Math .  Anal .  Appl .  403  ( timelabel ),  no .  2 ,  619 – 632 .  ( with   Feng - Yin g   Zhou ) 
+[ 6 ]  Lattice   tiling   and   density   con ditions   for   sub space   Gabor   frames .  J .  Funct .  Anal .  265  ( timelabel ),  no .  7 ,  1170 – 1189 . ( withJean - Pierre   G aba rdo   and   Deguang   Han  ) 
+[ 7 ]  The   equi val ence   between   seven   classes   of   wavelet   multipliers   and   arc wise   con nec tivity   they   induce .  J .  Fourier   Anal .  Appl .  19  ( timelabel ),  no .  5 ,  1060 – 1077 . ( with   Yan - Qin   Xue ) 
+[ 8 ]  Super   oblique   Gabor   dual s   of   super   Gabor   frames   on   disc rete   periodic   sets ,   Num .  Func .  Anal .  Optim .,  34 ( timelabel ),  no .  3 ,  284 – 322 . ( with   Qiao - Fan g   Lian ) 
+[ 9 ]  Rational   time - frequency   vector - val ued   sub space   Gabor   frames   and   Balian - Low   theorem ,  Int .  J .  Wavelets   Multiresolut .  Inf .  Process .,  11 ( timelabel ),  no . 1 ,  1350013 ,  23pp . ( with   Yan   Zhang ) 
+[ 10 ]  Generalized   multiresolution   st ruc tures   in   reducing   sub spaces   of  $ L ^ 2 ( Bbb   R ^ d )$,  Sci .  China   Math .,  56 ( timelabel ),  619 – 638 . ( with   Feng - Yin g   Zhou ) 
+[ 11 ]  D isc rete   sub space   multi wind ow   Gabor   frames   and   their   dual s .  Abs tr .  Appl .  Anal .  timelabel ,  Art .  ID   357242 ,  17   pp .  ( with Yan   Zhang ) 
+[ 12 ]  An   embedding   theorem   on   reducing   sub space   frame   multiresolution   analy sis .  Kodai   Math .  J .  35  ( timelabel ),  no .  1 ,  157 – 172 . ( with   Lin   Zhang ) 
+[ 13 ]  Gabor   families   in  $ l ^ 2 ( Bbb   Z ^ d )$,  Kyoto   J .  Math .  52  ( timelabel ),  no .  1 ,  179 – 204 . ( with   Qiao - Fan g   Lian ) 
+[ 14 ]  Supports   of   Fourier   transforms   of   ref inable   frame   func tions   and   their   appli cation s   to   FMRA .  Acta   Math .  Appl .  Sin .  Engl .  Ser .  28  ( timelabel ),  no .  4 ,  757 – 768 . ( with   Chun - Hua   Han ) 
+[ 15 ]  Con st ruc tion   of   a   class   of   multivariate   compactly   supported   wavelet   bases   for 
+.  Front .  Math .  China   7  ( timelabel ),  no .  1 , 177 – 195 . ( with   Feng - Yin g   Zhou ) 
+[ 16 ]  The   characterization   of   a   class   of   multivariate   MRA   and   semi - orthogonal   Pars eval     frame   wavelets ,   Appl .  Math .  Comput .,   217 ( timelabel ),  no .  22 ,  9151 – 9164  .  ( with   Feng - Yin g   Zhou ) 
+[ 17 ]  Gabor   frame   sets   for   sub spaces ,  Adv .  Comput .  Math ,  34 ( timelabel ),  no .  4 ,  391 – 411 . ( with   Qiao - Fan g   Lian ) 
+[ 18 ]  GMRA - based   con st ruc tion   of   framelets   in   reducing   sub spaces   of  $ L ^ 2 ( Bbb   R ^ d )$,  Int .  J .  Wavelets   Multiresolut .  Inf .  Process .,  9  ( timelabel ),  no .  2 ,  237 – 268 .  ( with   Feng - Yin g   Zhou ) 
+[ 19 ]  Multi - wind ow   Gabor   frames   and   oblique   Gabor   dual s   on   disc rete   periodic   sets ， Sci .  China   Math .,  54 ( timelabel ),  no .  5 ,  987 – 1010 .  ( with   Qiao - Fan g   Lian ) 
+[ 20 ]  On   the   aliasing   error   in   a   class   of   bidimensional   wavelet   sub spaces .  Appl .  Math .  J .  Chinese   Univ .  Ser .  B   26  ( timelabel ), no .  1 ,  77 – 85 . ( with   Hui - Min   Liu ) 
+[ 21 ]  Multivariate   FMRAs   and   FMRA   frame   wavelets   for   reducing   sub spaces   of   $ L ^ 2 ( Bbb   R ^ d )$,   Kyoto   J .  Math .,  50  ( timelabel ),  no .  1 ,  83 – 99  .  ( with   Feng - Yin g   Zhou ) 
+[ 22 ]   Gabor   systems   on   disc rete   periodic   sets .  Sci .  China   Ser .  A   52  ( timelabel ),  no .  8 ,  1639 - 1660 . ( with   Qiao - Fan g   Lian ) 
+[ 23 ]  Density   results   for   Gabor   systems   a sso ciated   with   periodic   sub sets   of   the   real   line .  J .  Approx .  Theory   157  ( timelabel ), no .  2 ,  172 -- 192 . ( with   Jean - Pierre   G aba rdo ) 
+[ 24 ]  The   dual s   of   Gabor   frames   on   disc rete   periodic   sets .  J .  Math .  Phys .  50  ( timelabel ),  no .  1 ,  013534 ,  22   pp .( with   Qiao - Fan g   Lian ) 
+[ 25 ]  Tight   Gabor   sets   on   disc rete   periodic   sets .  Acta   Appl .  Math .  107   ( timelabel ),  no .  1 - 3 ,  105 -- 119 . ( with   Qiao - Fan g   Lian ) 
+[ 26 ]  The   spectrum   sequences   of   periodic   frame   multiresolution   analy sis .  Acta   Math .  Sin . ( Engl .  Ser .)  25  ( timelabel ),  no .  3 , 403 -- 418 . ( with   Qiao - Fan g   Lian ) 
+[ 27 ]  Holes   in   the   spectrum   of   func tions   generating   aff ine   systems .  Proc .  Amer .  Math .  Soc .,  135 ( timelabel ),  no .  6 ,  1775 -- 1784  ( with   Jean - Pierre   G aba rdo ) 
+[ 28 ]  Reducing   sub space   frame   multiresolution   analy sis   and   frame   wavelets .  Commun .  Pure   Appl .  Anal .  6  ( timelabel ),  no .  3 ,  741 -- 756 . ( with   Qiao - Fan g   Lian ) 
+[ 29 ]  A   class   of   bidimensional   FMRA   wavelet   frames .  Acta   Math .  Sin . ( Engl .  Ser .),   22  ( timelabel ),  no . 4 ,  1051 - 1062 
+[ 30 ]  On   the   con st ruc tion   of   a   class   of   bidimensional   non separable   compactly   supported   wavelets .  Proc .  Amer .  Math .  Soc . 133  ( timelabel ),  no .  12 ,  3505 — 3513 
+[ 31 ]  A   note   on   Gabor   orthonormal   bases .  Proc .  Amer .  Math .  Soc .  133  ( timelabel ),  no .  8 ,  2419 - 2428 
+[ 32 ]  A   remark   on   the   orthogonality   of   a   class   bidimensional   non separable   wavelets .  Acta   Math .  Sci .  Ser .  B   Engl .  Ed .  24 ( timelabel ),  no .  4 ,  569 – 576 . 
+[ 33 ]  On   the   holes   of   a   class   of   bidimensional   non separable   wavelets .  J .  Approx .  Theory ,  125  ( timelabel ),  no .  2 ,  151 -- 168 . 
+[ 34 ]  On   a   class   of   bidimensional   non separable   wavelet   multipliers .  J .  Math .  Anal .  Appl .,  270  ( timelabel ),  no .  2 ,  543 -- 560 . 
+[ 35 ]  A   class   of   bidimensional   non separable   wavelet   packets .  Acta   Math .  Sci .  Ser .  B   Engl .  Ed .  22  ( timelabel ),  no .  1 ,  131 – 137  ( with   Xiongfei   Tian ) 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

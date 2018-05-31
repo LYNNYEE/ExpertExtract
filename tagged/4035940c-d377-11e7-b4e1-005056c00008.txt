@@ -1,0 +1,361 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="IE=7.0000" http-equiv="X-UA-Compatible">
+<title>教授_北京工商大学食品学院</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="../../css/spxy2011423.css">
+<link rel="stylesheet" type="text/css" href="../../css/menu.css">
+<link rel="stylesheet" type="text/css" href="../../css/DefaultSkin.css">
+<script src="../../js/prototype.js"></script>
+<script src="../../js/scriptaculous.js"></script><script type="text/javascript" src="http://spxy.btbu.edu.cn/js/util.js"></script><script type="text/javascript" src="http://spxy.btbu.edu.cn/js/effects.js"></script><script type="text/javascript" src="http://spxy.btbu.edu.cn/js/dragdrop.js"></script><script type="text/javascript" src="http://spxy.btbu.edu.cn/js/controls.js"></script>
+<script src="../../js/checklogin.js"></script>
+<script type="text/javascript" src="../../js/unitpngfix.js"></script><script type="text/javascript" id="ct" defer="defer" src="javascript:void(0)"></script>
+<script language="JavaScript" type="text/JavaScript" src="../../js/menu.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="../../js/stm31.js"></script><style>
+.st_tbcss,.st_tdcss,.st_divcss,.st_ftcss{border:none;padding:0px;margin:0px;}
+</style></head><body onmousemove="HideMenu()" class="SpHead"><font id="st_gl0"></font><font id="st_gl1"></font><font id="st_gl2"></font><font id="st_gl3"></font><font id="st_gl4"></font><font id="st_gl5"></font><font id="st_gl6"></font><font id="st_gl7"></font><font id="st_gl8"></font><font id="st_gl9"></font>
+
+
+
+
+<script type="text/javascript">
+//当前栏目的样式
+function getClass(oParent,sClass)
+		{
+			var aEle = oParent.getElementsByTagName('*');
+			var aResult = [];
+			var i = 0;
+			for(i=0;i<aEle.length;i++)
+			{
+				if(aEle[i].className==sClass)
+				{
+					aResult.push(aEle[i]);
+				}
+			}
+			return aResult;
+		}
+window.onload=function()
+		{
+            var oDivCl_menu=document.getElementById('Cl_menu');
+			var aClass =getClass(oDivCl_menu, 'childclass');
+			var NowHref=document.location.href;
+			var i = 0;
+			for(i=0;i<aClass.length;i++)
+			{   
+			    var oHref=aClass[i].href;
+				if(NowHref==oHref)
+				  {				
+				 	  aClass[i].className='childclassN';
+				  }
+				else
+				  {
+					  aClass[i].className='childclass';
+				   }
+			}
+		}
+</script>
+<!--菜单 -->
+
+<div class="SpHead_top PublicWidth">
+  <link rel="stylesheet" type="text/css" href="../../css/spxy2011423.css">
+  <div class="SpHead_logo"></div>
+  <div class="SpHead_right">
+    <div class="SpLanguage">
+<a href="../../index.htm" target="_blank">中文</a>
+<a href="../../english/index.htm" target="_blank">ENGLISH</a>
+<a href="http://www.btbu.edu.cn" target="_blank">学校首页</a>
+</div>
+    <div class="SpClear"></div>
+<div class="SpSearch">
+    <div class="sea_box">
+                    <form name="dataForm" class="search" action="http://www.btbu.edu.cn/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+                        <input name="siteID" value="55" type="hidden">
+                        <input class="notxt" value="关键字" name="query" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}" onclick="if(this.value==''){this.value='';this.form.keywords.style.color='#323232'}" type="text">
+                        <input class="notxt1" name="Submit" value="" type="submit">
+                    </form>
+                </div>  </div></div>
+</div>
+<div class="SpClear"></div>
+<!--菜单 -->
+<div class="nav">
+  <ul id="nav">
+    <li><a class="hover" href="../../index.htm" target="_blank">学院首页</a>
+		 <div class="sonnav">
+        <dl>
+						<dd><a href="../../xysy/xydt/index.htm" title="学院动态" target="_blank">学院动态</a></dd>
+						<dd><a href="../../xysy/xytz/index.htm" title="学院通知" target="_blank">学院通知</a></dd>
+						<dd><a href="../../xysy/zlxz/index.htm" title="资料下载" target="_blank">资料下载</a></dd>
+						<dd><a href="../../xysy/itrz/index.htm" target="_blank">IFT认证</a></dd>
+        </dl>
+      </div>
+	</li>
+	
+    <li id="mu1"><a href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+      <div class="sonnav">
+        <dl>
+         			<dd><a href="../../xygk/xyjj/index.htm" title="学院简介" target="_blank">学院简介</a></dd>
+						<dd><a href="../../xygk/xyld/index.htm" title="学院领导" target="_blank">学院领导</a></dd>
+						<dd><a href="../../xygk/zzjg/index.htm" title="组织机构" target="_blank">组织机构</a></dd>
+						<dd><a href="../../xygk/zyyxksz/index.htm" title="专业与学科设置" target="_blank">专业与学科设置</a></dd>
+			        </dl>
+      </div>
+    </li>
+    <li id="mu2"><a href="../../jgsz/index.htm" target="_blank">机构设置</a>
+      <div class="sonnav">
+        <dl>
+           			<dd><a href="../../jgsz/spkxygcx/index.htm" title="食品科学与工程系" target="_blank">食品科学与工程系</a></dd>
+						<dd><a href="../../jgsz/yyhxx/index.htm" title="应用化学系" target="_blank">应用化学系</a></dd>
+						<dd><a href="../../jgsz/hjkxygcx/index.htm" title="环境科学与工程系" target="_blank">环境科学与工程系</a></dd>
+						<dd><a href="../../jgsz/swgcx/index.htm" title="生物工程系" target="_blank">生物工程系</a></dd>
+						<dd><a href="../../jgsz/hgjys/index.htm" title="化工教研室" target="_blank">化工教研室</a></dd>
+						<dd><a href="../../jgsz/bjsys/index.htm" title="北京实验室" target="_blank">北京实验室</a></dd>
+						<dd><a href="../../jgsz/gczx/index.htm" title="工程中心" target="_blank">工程中心</a></dd>
+						<dd><a href="../../jgsz/zdsys/index.htm" title="重点实验室" target="_blank">重点实验室</a></dd>
+						<dd><a href="../../jgsz/qjscjzzx/index.htm" title="清洁生产技术中心" target="_blank">清洁生产技术中心</a></dd>
+						<dd><a href="../../jgsz/xybgs/index.htm" title="学院办公室" target="_blank">学院办公室</a></dd>
+			        </dl>
+      </div>
+    </li>
+    <li id="mu3"><a href="../../xkzy/xkjs/index.htm" target="_blank">学科专业</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../xkzy/xkjs/index.htm" title="学科建设" target="_blank">学科建设</a></dd>
+						<dd><a href="../../xkzy/zysz/index.htm" title="专业设置" target="_blank">专业设置</a></dd>
+			        </dl>
+      </div>
+	</li>
+    <li id="mu4"><a href="../index.htm" target="_blank">师资队伍</a>
+		 <div class="sonnav">
+        <dl>
+         		 					 					 					 			<dd><a href="../dszy/index.htm" title="导师资源" target="_blank">导师资源</a></dd>
+								 			<dd><a href="../ysjs/index.htm" title="院士介绍" target="_blank">院士介绍</a></dd>
+								 			<dd><a href="../spkxygcx1/index.htm" title="食品科学与工程系" target="_blank">食品科学与工程系</a></dd>
+								 			<dd><a href="../yyhxx1/index.htm" title="应用化学系" target="_blank">应用化学系</a></dd>
+								 			<dd><a href="../hgjys1/index.htm" title="化工教研室" target="_blank">化工教研室</a></dd>
+								 			<dd><a href="../hjkxygcx1/index.htm" title="环境科学与工程系" target="_blank">环境科学与工程系</a></dd>
+								 			<dd><a href="../swgcx1/index.htm" title="生物工程系" target="_blank">生物工程系</a></dd>
+						        </dl>
+      </div>
+	</li>
+    <li id="mu5"><a href="../../jxgl/index.htm" target="_blank">教学管理</a>
+	</li>
+    <li id="mu6"><a href="../../kxyj/index.htm" target="_blank">科学研究</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../kxyj/xmsbyys/index.htm" title="项目申报" target="_blank">项目申报</a></dd>
+						<dd><a href="../../kxyj/kyxm/index.htm" title="在研项目" target="_blank">在研项目</a></dd>
+						<dd><a href="../../kxyj/kycg/index.htm" title="科研成果" target="_blank">科研成果</a></dd>
+						<dd><a href="../../kxyj/tszl/index.htm" title="图书资料" target="_blank">图书资料</a></dd>
+						<dd><a href="http://ctnzsp.btbu.edu.cn" title="十三五项目" target="_blank">十三五项目</a></dd>
+			        </dl>
+      </div>
+	</li>
+	 <li id="mu6"><a href="../../sysyaq/index.htm" target="_blank">实验室与安全</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../sysyaq/sysjj/index.htm" title="实验室简介" target="_blank">实验室简介</a></dd>
+						<dd><a href="../../sysyaq/gzzd/index.htm" title="规章制度" target="_blank">规章制度</a></dd>
+						<dd><a href="../../sysyaq/yqzx/index.htm" title="仪器中心" target="_blank">仪器中心</a></dd>
+						<dd><a href="../../sysyaq/aqjc/index.htm" title="安全检查" target="_blank">安全检查</a></dd>
+						<dd><a href="../../sysyaq/hxfycz/index.htm" title="化学废液处置" target="_blank">化学废液处置</a></dd>
+						<dd><a href="../../sysyaq/lxspljs2/index.htm" title="良乡食品楼建设" target="_blank">良乡食品楼建设</a></dd>
+			        </dl>
+      </div>
+	</li>
+    <li id="mu7"><a href="../../xstd/index.htm" target="_blank">学生天地</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../xstd/txzz/index.htm" title="团学组织" target="_blank">团学组织</a></dd>
+						<dd><a href="../../xstd/zmxy/index.htm" title="知名校友" target="_blank">知名校友</a></dd>
+						<dd><a href="../../xstd/yxxz/index.htm" title="优秀学长" target="_blank">优秀学长</a></dd>
+						<dd><a href="../../xstd/xshd/index.htm" title="学生活动" target="_blank">学生活动</a></dd>
+						<dd><a href="../../xstd/pjpy/index.htm" title="评奖评优" target="_blank">评奖评优</a></dd>
+						<dd><a href="http://spxy.btbu.edu.cn/zsjy/index.htm" title="招生就业" target="_blank">招生就业</a></dd>
+						<dd><a href="../../xstd/glzd/index.htm" title="管理制度" target="_blank">管理制度</a></dd>
+						<dd><a href="../../xstd/fdybzrgz/index.htm" title="辅导员班主任工作" target="_blank">辅导员班主任工作</a></dd>
+						<dd><a href="../../xstd/xlyz/index.htm" title="心灵驿站" target="_blank">心灵驿站</a></dd>
+			        </dl>
+      </div>
+	</li>
+    <li id="mu8"><a href="#">党群工作</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../dqgz/zzgk/index.htm" title="食品学院党委概况" target="_blank">食品学院党委概况</a></dd>
+						<dd><a href="../../dqgz/gzdt/index.htm" title="工作动态" target="_blank">工作动态</a></dd>
+						<dd><a href="../../dqgz/zbjs/index.htm" title="支部建设" target="_blank">支部建设</a></dd>
+						<dd><a href="../../dqgz/xxzl/index.htm" title="“两学一做”学习教育专区" target="_blank">“两学一做”学习教育专区</a></dd>
+						<dd><a href="../../dqgz/jgzj/index.htm" title="教工之家" target="_blank">教工之家</a></dd>
+			        </dl>
+      </div>
+	</li>
+    <li id="mu9"><a href="../../dbkdsptjj/index.htm" target="_blank">躲不开的食品添加剂</a>
+		 <div class="sonnav">
+        <dl>
+         			<dd><a href="../../dbkdsptjj/gzpj/index.htm" title="公众评价" target="_blank">公众评价</a></dd>
+						<dd><a href="../../dbkdsptjj/kpnr/index.htm" title="科普内容" target="_blank">科普内容</a></dd>
+						<dd><a href="../../dbkdsptjj/zthd/index.htm" title="专题活动" target="_blank">专题活动</a></dd>
+			        </dl>
+      </div>
+	</li>
+    
+  </ul>
+</div>
+<script>
+	var oNav = document.getElementById('nav');
+	var aLi = oNav.getElementsByTagName('li');
+	
+	for(var i=0;i<aLi.length;i++)
+	{
+		aLi[i].onmouseover = function ()
+		{
+			this.className = 'on';
+		};
+		aLi[i].onmouseout = function ()
+		{
+			this.className = '';
+		};
+	};
+</script><!--头部结束 -->
+
+<!--网站横幅开始 -->
+<div class="PublicWidth SpBanners">
+<span class="SpBannersA">教授</span> <img src="../../images/20141126162500436706.jpg"></div>
+<!--网站横幅结束 -->
+
+<div class="SpBody">
+  <!--当前位置 -->
+  <div class="PublicWidth SpNowWhere">您现在的位置：&nbsp;
+  		<a href="../../index.htm" target="_blank">首页</a>
+	
+ &nbsp;&gt;&gt;&nbsp; 				<a href="index.htm" target="_blank">师资队伍</a>
+			
+ &nbsp;&gt;&gt;&nbsp; <a href="index.htm" target="_blank">教授</a></div>
+  <!--中间内容开始-->
+  <table class="PublicWidth SpClassMiddle" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+      <tr>
+        <td class="SpLeftNav TableBorderRight TableBorderTop" width="275" valign="top" align="left">
+			  <!--左栏开始 -->
+			  
+<div class="SpTitleBg"><img src="../../images/lmdh.gif" border="0"> </div>
+			  <div id="Cl_menu" class="SpClassNav">
+			  																																																	&nbsp;<a class="childclass" href="../dszy/index.htm" target="_blank">导师资源</a><br>
+																																	&nbsp;<a class="childclass" href="../ysjs/index.htm" target="_blank">院士介绍</a><br>
+																																	&nbsp;<a class="childclass" href="../spkxygcx1/index.htm" target="_blank">食品科学与工程系</a><br>
+																																	&nbsp;<a class="childclass" href="../yyhxx1/index.htm" target="_blank">应用化学系</a><br>
+																																	&nbsp;<a class="childclass" href="../hgjys1/index.htm" target="_blank">化工教研室</a><br>
+																																	&nbsp;<a class="childclass" href="../hjkxygcx1/index.htm" target="_blank">环境科学与工程系</a><br>
+																																	&nbsp;<a class="childclass" href="../swgcx1/index.htm" target="_blank">生物工程系</a><br>
+																				 </div>			  <!--左栏结束 -->
+		</td>
+        <td class="TableBorderTop SpChannleRight" valign="top" align="left">
+          <div class="Spjlmb">
+		  <!--
+		   			 -->
+			 <!--
+			 			  -->
+			
+              <div class="linheighta">
+			  	
+						  <p style="text-align: center;"><img src="../../images/content/2015-03/20150312105354238815.jpg" alt="" width="147" height="210"></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:宋体;color:#00984A;mso-font-kerning:0pt">杨贞耐<span lang="EN-US"><o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:宋体;color:#404040;mso-font-kerning:0pt" lang="EN-US">1965</span><span style="font-size:11.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:宋体;color:#404040;mso-font-kerning:0pt">年<span lang="EN-US">12</span>月生于江西省<span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;font-family:
+宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:宋体;
+color:#404040;mso-font-kerning:0pt">北京工商大学食品学院食品科学与工程系<span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;font-family:
+宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:宋体;
+color:#404040;mso-font-kerning:0pt">教授 博士<span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:宋体;color:#00984A;mso-font-kerning:0pt">个人简历<span lang="EN-US"><o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm 7.8pt 21pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:宋体;color:#404040;mso-font-kerning:0pt" lang="EN-US">1981-1985 </span><span style="font-size:11.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;mso-bidi-font-family:宋体;color:#404040;mso-font-kerning:0pt">江西农业大学动物科学本科<span lang="EN-US"><br>
+1985-1988 </span>东北农学院动物食品科学硕士<span lang="EN-US"><br>
+1992-2000 </span>赫尔辛基大学食品科学博士<span lang="EN-US"> <br>
+2000-2002 </span>北京大学化学学院物理化学博士后<span lang="EN-US"><br>
+1992.3-1992.9 </span>芬兰农业研究中心食品研究所访问学者<span lang="EN-US"><br>
+1999.7-1999.12 </span>瑞典斯德哥尔摩大学<span lang="EN-US">Arrhenius</span>实验室研究学者<span lang="EN-US"><br>
+2002.5-2005.7 </span>美国俄亥俄州立大学生物中心、美国中佛罗里达大学生物分子中心研究学者<span lang="EN-US"><br>
+2005.8-2006 </span>哈尔滨工业大学食品科学与工程学院教授、博士生导师、食品生物技术研究室主任<span lang="EN-US"><br>
+2006-2012 </span>吉林省农科院农产品加工研究所所长、首席研究员<span lang="EN-US"> <br>
+2008- </span>吉林大学兼职教授、博士生导师 <span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:宋体;color:#00984A;mso-font-kerning:0pt">主讲课程<span lang="EN-US"><o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;font-family:
+宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:宋体;
+color:#404040;mso-font-kerning:0pt">《食品科学与安全导论》、《畜产品工艺学》等<span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:宋体;color:#00984A;mso-font-kerning:0pt">主要研究领域<span lang="EN-US"><o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;font-family:
+宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:宋体;
+color:#404040;mso-font-kerning:0pt">乳酸菌、发酵剂及乳制品研究开发；乳品加工相关酶类研究开发；传统乳制品现代化加工技术；乳品安全加工技术及产品开发<span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22.1pt; line-height: 17pt;" align="left"><b><span style="font-size:11.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:宋体;color:#00984A;mso-font-kerning:0pt">主要学术成果（课题、论文、获奖、专利等）<span lang="EN-US"><o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;font-family:
+宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:宋体;
+color:#404040;mso-font-kerning:0pt">从事食品科学及交叉领域的理论和应用研究工作<span lang="EN-US">30</span>年。在食品生化理论研究方面（真菌胞壁酶基因相关信号分子鉴定）有重要突破，研究论文<span lang="EN-US">(</span>第一作者<span lang="EN-US">)</span>发表在<span lang="EN-US">PNAS(2005)(IF10.27</span>）。<span lang="EN-US">“</span>乳酸菌发酵凝乳关键技术<span lang="EN-US">”</span>获<span lang="EN-US">2012</span>年吉林省自然科学学术成果奖二等奖（排名第一），以第一发明人获得授权专利<span lang="EN-US">4</span>项。发表学术论文<span lang="EN-US">130</span>余篇，其中<span lang="EN-US">SCI</span>收录<span lang="EN-US">20</span>余篇。培养硕、博士研究生和博士后<span lang="EN-US">40</span>余人。近年来，主持国家自然科学基金、<span lang="EN-US">863</span>计划、科技部国际科技合作、国家奶牛产业技术体系岗位科学家和北京市教委科研计划重点项目等各类项目<span lang="EN-US">20</span>余项，累计经费一千多万元。 荣获第二届中国乳品加工业<span lang="EN-US">“</span>十大杰出科技人物<span lang="EN-US">”</span>（<span lang="EN-US">2006</span>）、 入选<span lang="EN-US">“</span>新世纪百千万人才工程<span lang="EN-US">”</span>国家级人选（<span lang="EN-US">2009</span>），入选第一批<span lang="EN-US">“</span>长白慧谷<span lang="EN-US">”</span>英才计划高层次创新创业人才（<span lang="EN-US">2012</span>），<span lang="EN-US">“</span>吉林省第九批有突出贡献的中青年专业技术人才<span lang="EN-US">”</span>（<span lang="EN-US">2008</span>），<span lang="EN-US">“</span>吉林省优秀博士后合作导师<span lang="EN-US">”</span>（<span lang="EN-US">2012</span>）等。首批国家奶牛产业技术体系乳制品加工研究室岗位专家（执行专家）。中国畜产品加工研究会副会长，中国食品科学技术学会<span lang="EN-US">(</span>高级会员）乳酸菌分会理事，国家农产品加工技术研发体系工作委员会委员（乳制品加工专业委员会主任委员），农业部农产品加工标准化技术委员会委员（乳制品加工分委会主任委员）。吉林大学兼职教授（博士生导师），南昌大学兼职教授，吉林农业大学校外硕导，吉林大学军需科技学院客座教授。第十届吉林省政协委员，第三届吉林省政府决策咨询委员。《中国乳品工业》、《乳业科学与技术》、《中国奶牛》、《食品安全质量检测学报》期刊编委。主编《乳品加工新技术》（<span lang="EN-US">2013 </span>中国农业出版社）<span lang="EN-US">;</span>编著《现代乳品工业手册》（<span lang="EN-US">2012 </span>中国轻工业出版社<span lang="EN-US">),</span>《<span lang="EN-US">Lactic Acid Bacteria: Fundamentals and Practice</span>》<span lang="EN-US">(2014 Springer)</span>。 <span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:宋体;color:#404040;mso-font-kerning:0pt" lang="EN-US">Email: yangzhennai@th.btbu.edu.cn<o:p></o:p></span></p>
+<p>&nbsp;</p>
+<p class="MsoNormal" style="margin: 7.8pt 0cm; text-indent: 22pt; line-height: 17pt;" align="left"><span style="font-size:11.0pt;
+font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+mso-bidi-font-family:宋体;color:#404040;mso-font-kerning:0pt" lang="EN-US">&nbsp;</span></p>
+<div>
+<div class="Spjlmb">
+<div class="linheighta">&nbsp;</div>
+</div>
+</div><br>
+							
+              </div>
+			  
+            </div>
+          
+          <!--右边栏目结束 --></td>
+      </tr>
+    </tbody>
+  </table>
+  <!--中间内容结束-->
+  <div class="SpKsdh2">
+  </div>
+</div>
+<div class="SpBottom PublicWidth">
+  
+ <div class="SpBottomLeft" align="center">
+    <ul>
+      <li>版权归 <a href="http://spxy.btbu.edu.cn/" target="_blank">北京工商大学食品学院</a> 所有
+      </li><li>地址：北京市海淀区阜成路33号 电话: 68985456 邮箱：<a href="mailto:spxy@pub.btbu.edu.cn" target="_blank">spxy@pub.btbu.edu.cn</a>
+      </li><li> 
+<!--
+总访问量：<script src="/cms/modules/channelVisitLog.jsp?parentID=3405"></script>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+今日访问量:<script src="/cms/modules/btbutodaychannelVisitLog.jsp?parentID=3405"></script>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+ </li>
+    </ul>
+  </div>  </div>
+
+</body></html>

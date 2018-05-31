@@ -1,0 +1,178 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>徐黎鹃_北京化工大学文法学院</title>
+<meta name="keywords" content="北京化工大学，文法学院">
+<meta name="description" content="北京化工大学，文法学院">
+
+<!-----------下拉菜单 效果-------->
+<script type="text/javascript" src="../../../../js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="../../../../js/js1.js"></script>
+
+<link href="../../../../css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<!--头部-->
+<div class="header">
+
+<div class="logo">
+<a href="http://en.wfxy.buct.edu.cn/" target="_blank" style="position: absolute; display: block; top:10px;right:10px;color:#fff;">English Version</a>
+        <div class="logo01"><a href="../../../../index.htm" target="_blank"><img src="../../../../images/logo01.png"></a></div>
+        <div class="shu"><img src="../../../../images/13.png"></div>
+        <div class="nian"><img src="../../../../images/2013.png"></div>
+        <div class="ser">
+                   </div>
+    </div>
+	<div class="nav">
+        <ul>
+        <li><a href="../../../../index.htm" target="_blank">学院首页</a></li>
+                    <li><a href="../../../index.htm" target="_blank">学院概况</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../xyjj/index.htm" target="_blank">学院简介</a></dd>
+                                    <dd><a href="../../../xyld/index.htm" target="_blank">学院领导</a></dd>
+                                    <dd><a href="../../../zzjg/index.htm" target="_blank">组织机构</a></dd>
+                                    <dd><a href="../../index.htm" target="_blank">教师风采</a></dd>
+                                    <dd><a href="../../../zdjs/index.htm" target="_blank">制度建设</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../xwtz/index.htm" target="_blank">新闻通知</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../xwtz/wfxw/index.htm" target="_blank">文法新闻</a></dd>
+                                    <dd><a href="../../../../xwtz/wftz/index.htm" target="_blank">文法通知</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../jyjx/index.htm" target="_blank">教育教学</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../jyjx/bksjy/index.htm" target="_blank">本科生教育</a></dd>
+                                    <dd><a href="../../../../jyjx/yjsjy/index.htm" target="_blank">研究生教育</a></dd>
+                                    <dd><a href="../../../../jyjx/lxsjy/index.htm" target="_blank">工程硕士教育</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../kyxz/index.htm" target="_blank">科研学术</a>
+                        </li>
+                     <li><a href="../../../../dtgk/index.htm" target="_blank">党团工会</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="../../../../dtgk/dqgz/index.htm" target="_blank">党群工作</a></dd>
+                                    <dd><a href="../../../../dtgk/gkgz/index.htm" target="_blank">工会工作</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../zsjy/index.htm" target="_blank">招生就业</a>
+                            <dl style="z-index:99999;">
+                                    <dd><a href="http://www.goto.buct.edu.cn/" target="_blank">本科生招生</a></dd>
+                                    <dd><a href="http://gs.buct.edu.cn/enroll/yjszs.aspx" target="_blank">研究生招生</a></dd>
+                                    <dd><a href="../../../../zsjy/lxszs/index.htm" target="_blank">工程硕士招生</a></dd>
+                                    <dd><a href="../../../../zsjy/jyxx/index.htm" target="_blank">就业信息</a></dd>
+                                </dl>
+                        </li>
+                     <li><a href="../../../../xshd/index.htm" target="_blank">学生活动</a>
+                        </li>
+                     <li><a href="../../../../xysq/index.htm" target="_blank">校友社区</a>
+                        </li>
+                 </ul>
+    
+    </div></div>
+<!--内容-->
+<div class="content02">
+  <div class="con_lf" id="height1" style="height: 1373px;">
+      <div class="lf01">
+            <div class="lf01_tit">
+            <h1><a href="#">四系</a></h1>
+            </div>
+            <img src="../../../../images/tit01.png">
+            <div class="lf01_con">
+                <ul>
+                                    <li><a href="index.htm" target="_blank">外语系</a></li>
+                                    <li><a href="../flx/index.htm" target="_blank">法律系</a></li>
+                                    <li><a href="../sktyx/index.htm" target="_blank">社会体育系</a></li>
+                                    <li><a href="../ggglx/index.htm" target="_blank">公共管理系</a></li>
+                                </ul>
+            </div>
+        </div>
+        <div class="lf02">
+            <ul>
+            <li class="icon01"><a href="mailto:wfxy@mail.buct.edu.cn" target="_blank">院长信箱</a></li>
+            <li class="icon02"><a href="../../../../zlxz/index.htm" target="_blank">资料下载</a></li>
+            <li class="icon03"><a href="http://www.buct.edu.cn/" target="_blank">北京化工大学</a></li>
+            <li class="icon04"><a href="../../../../rczp/index.htm" target="_blank">人才招聘</a></li>
+            </ul>
+        </div>
+    </div>
+<div class="con_rt" id="height2">
+        <div class="breadcrumb">您当前的位置：                 <a href="../../../../index.htm" target="_blank">首页</a>»
+                 <a href="../../../index.htm" target="_blank">学院概况</a>»
+                 <a href="../../index.htm" target="_blank">教师风采</a>»
+                 <a href="../index.htm" target="_blank">四系</a>»
+        外语系
+        </div>
+        <div class="rt_tit">
+        <h1>徐黎鹃</h1>
+                    </div>
+        <div class="rt_zuozhe">
+      来源：文法学院&nbsp;&nbsp;发布日期：2013-12-02
+        </div>
+        <div class="rt_zhengwen" style="min-height:300px;_height:300px; height:auto;">
+			&nbsp;
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt"><img alt="" src="../../../../images/content/2013-12/20131202085504343065.jpg" width="200" vspace="5" hspace="5" height="149" align="left"><br>
+<br>
+&nbsp; 徐黎鹃，女，研究生学历，生于<span lang="EN-US">1966</span>年<span lang="EN-US">10</span>月，浙江余姚人。现任北京化工大学文法学院外语系副教授、大外部主任。主要研究方向是英语教学、跨文化交际。</span></div>
+<div class="MsoListParagraph" style="line-height: 150%; text-indent: -36pt; margin-left: 36pt"><b><span style="line-height: 150%; font-size: 12pt" lang="EN-US"><span>一、<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp; <br>
+</span></span></span></b><b><span style="line-height: 150%; font-size: 12pt"><br>
+一、学术经历</span></b></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp;&nbsp; 1995-1996</span><span style="line-height: 150%; font-size: 12pt">在北京大学研究生院完成“研究生课程”的学习。</span><br>
+&nbsp;&nbsp;&nbsp; <span style="line-height: 150%; font-size: 12pt">作为教育部访问学者：</span><span style="line-height: 150%; font-size: 12pt" lang="EN-US">2002-2003</span><span style="line-height: 150%; font-size: 12pt">留学<span lang="EN-US">UNIVERSITY OF SOUTHERN CALIFORNIA</span>一年，导师为<span lang="EN-US">Stanley</span>；</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp;2011-8</span><span style="line-height: 150%; font-size: 12pt">至<span lang="EN-US">2012-2</span>留学<span lang="EN-US">UNIVERSITY OF MISSORI</span>，导师为<span lang="EN-US">Roy F. Fox</span>，并参与密苏里大学孔子学院的汉语教学研究。</span><br>
+<b><span style="line-height: 150%; font-size: 12pt">&nbsp;&nbsp;&nbsp; 二、学术兼职</span></b><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp;：2003</span><span style="line-height: 150%; font-size: 12pt">至今<span lang="EN-US"><span>&nbsp;&nbsp; </span></span>担任《英语广场》杂志社编委</span></div>
+<div class="MsoNormal" style="line-height: 150%"><b><span style="line-height: 150%; font-size: 12pt">&nbsp;&nbsp;&nbsp; 三、研究项目：</span></b></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp; 2011-2013</span><span style="line-height: 150%; font-size: 12pt">：参与完成北京市高校英语教师互动发展团队建设项目<span lang="EN-US">--</span>《北京化工大学教师互动发展团队建设项目》。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp;2011-2012</span><span style="line-height: 150%; font-size: 12pt">：主持横向教改立项《在大学英语教学中培养非英语专业学生的批判性思维》</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp;2010-2012</span><span style="line-height: 150%; font-size: 12pt">：参与国家级纵向项目，国家级基金项目《深化教学改革，提高教学水平》</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp;2009-2011</span><span style="line-height: 150%; font-size: 12pt">：参与横向项目《不断创新教学模式，有效提高学生语言综合能力》</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp;2009-2010</span><span style="line-height: 150%; font-size: 12pt">：参与横向项目《培养学生创造性学习能力，提高英语综合应用能力》</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">&nbsp;2008-2010</span><span style="line-height: 150%; font-size: 12pt">：参与校级项目《外语系网络互动语言教学研究与实践》</span><span style="line-height: 150%; font-size: 12pt" lang="EN-US">2008-2010：</span><span style="line-height: 150%; font-size: 12pt">参与国家级纵向项目，国家级基金项目《建设集多种教学模式为一体的大学英语教学体系》</span></div>
+<div class="MsoNormal" style="line-height: 150%"><b><span style="line-height: 150%; font-size: 12pt">&nbsp;&nbsp; 四、代表作品：</span></b></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">（一）译著、读物</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《挑战死神》（译著<span lang="EN-US">17.6</span>万字），<span lang="EN-US">1998</span>，北京：群众出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《命丧多伦多》（两人合译共<span lang="EN-US">22.5</span>万字），<span lang="EN-US">2000</span>，北京：群众出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《疯狂英语》故事会之《用耳朵听传奇故事》（编译<span lang="EN-US">41.3</span>万字），<span lang="EN-US">2008</span>，广州：中山大学出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《重新回来学英语<span lang="EN-US">--</span>阅读篇》（主编，编写字数<span lang="EN-US">17</span>万），<span lang="EN-US">2008</span>，广州：中山大学出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《重新回来学英语<span lang="EN-US">--</span>初级入门》（副主编，编写字数<span lang="EN-US">8</span>万），<span lang="EN-US">2008</span>，广州：中山大学出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">（二）教材、辞书</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《大学英语新要求语法词汇翻译教程》（主编，编写字数<span lang="EN-US">2.4</span>万），<span lang="EN-US">2011</span>，北京：化学工业出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">另有副主编、参编教材多部，其中：</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《英美报刊选读》为省部级以上规划教材，（参编<span lang="EN-US">2.1</span>万字），<span lang="EN-US">2009</span>，北京：人大教育出版社</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《新题型大学英语六级王牌语法》为省部级以上规划教材，校级精品教材，（副主编<span lang="EN-US">3.1</span>万字），<span lang="EN-US">2007</span>，北京：科学出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《最新大学英语四级词汇及相关派生词》为省部级以上规划教材，校级精品教材，（副主编<span lang="EN-US">3.8</span>万字），<span lang="EN-US">2007</span>，北京：化学工业出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《实用汉英英汉近义词辨析词典》（参编<span lang="EN-US">1.2</span>万字），<span lang="EN-US">2005</span>，北京：北京出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">《最新实用汉英词典》（副主编<span lang="EN-US">7.6</span>万字），<span lang="EN-US">1998</span>，武汉：湖北教育出版社。</span></div>
+<div class="MsoNormal" style="line-height: 150%"><b><span style="line-height: 150%; font-size: 12pt">&nbsp;&nbsp; 五、刊物论文：</span></b></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">&nbsp;连续四年为研究生英语入学考试题进行题解：</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">1994/4</span><span style="line-height: 150%; font-size: 12pt">《大学英语》，第四期，<span lang="EN-US">19-25</span>页。北京：《大学英语》编辑部</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">1995/9</span><span style="line-height: 150%; font-size: 12pt">《大学英语》，第九期，<span lang="EN-US">7-10</span>页。北京：《大学英语》编辑部</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">1996/7</span><span style="line-height: 150%; font-size: 12pt">《大学英语》，第七期，<span lang="EN-US">7-11</span>页。北京：《大学英语》编辑部</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt" lang="EN-US">1997/10</span><span style="line-height: 150%; font-size: 12pt">《大学英语》，第十期，<span lang="EN-US">4-9</span>页。北京：《大学英语》编辑部</span></div>
+<div class="MsoNormal" style="line-height: 150%"><span style="line-height: 150%; font-size: 12pt">主持<span lang="EN-US">2008</span>级学生四级后教学实验，完成论文《大学英语四级后课程设置的探索》，<span lang="EN-US">2012</span>，《北京化工大学学报》第一期，<span lang="EN-US">68</span>－<span lang="EN-US">71</span>页。</span></div>
+<br> 
+      </div>
+                
+    </div>
+    
+</div>
+<!--底部-->
+
+<div class="footer">
+版权属北京化工大学文法学院所有    地址：北京北三环路15号 电话：（010-64434889）    访问量：
+<script src="/cms/modules/channelVisitLog.jsp?parentID=3412"></script>
+</div><!-----------左侧随右侧高度------------------>
+<script type="text/javascript">
+      var height1 = document.getElementById("height1");
+  	  var height2 = document.getElementById("height2");   
+      if( height1.offsetHeight > height2.offsetHeight){
+        height2.style.height = height1.offsetHeight + "px";
+      }
+     else{
+           height1.style.height = height2.offsetHeight + "px";
+      }
+</script>
+
+</body></html>

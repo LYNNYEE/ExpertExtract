@@ -1,0 +1,48 @@
+教师个人信息 
+姓名 
+name_label 
+性别 
+女 
+职务 
+学术兼职 
+老师类型 
+博导 
+所属中心 
+物 联网 技术 中心 
+职称 
+教授 
+承担课程 
+物 联网 技术 、 物联网综合实践 、 通信原理 、 现代交换原理 
+研究方向 
+物 联网 技术 ， 大 数据分析 与 管理 ， 区块链 
+个人介绍 
+毕业 于 北京邮电大学计算机 科学 与 技术 学院 计算机 应用 专业 ， 获工学博士学位 。 现为 计算机学院教授 ， 博士生导师 ， 中国计算机学会高级 会员 ， IEEE 和 ACM 会员 。 长期 从事 计算机 应用 和 网络 领域 的 科研 和 教学工作 。 指导博士 和 硕士研究生 多名 。 
+目前 主要 从 事物联网 、 区块链 、 大 数据分析 与 挖掘 方面 的 研究工作 。 作为 负责人 和 主研人 完成 20 多 项国家自然科学基金 、 973 项目 、 863 项目 、 省部级 研究项目 以及 企业合作项目 。 近年来 物 联网 和 大数据 关键技术 方面 做出 一系列 创新 的 研究成果 ， 在 IEEE   TC ,  TETC ,  THMS ,  TDSC ,  ISJ ,  PMC 等 国内外 期刊 和 学术会议上已 发表论文 50 余篇 ， SCI 、 EI 收录 30 余篇 ， 文章 他 引 60 余次 。 申请 相关 专利多项 。 
+承担课题 
+主持 ： 
+国家 自然科学基金面上项目 “ 数据 供应链 模型 及 关键技术 研究 ”； 
+国家 自然科学基金面上项目 “ 无线 多媒体 感知 反应 网络信息 质量 保障 的 关键技术 研究 ”； 
+国家 自然科学基金面上项目 “ 基于 SoC 的 智能感知 节点 关键技术 的 研究 ”； 
+参与 ： 
+国家重点基础研究 发展计划 （ 973 计划 ） 项目 “ 物联网体系结构 基础研究 ”； 
+国际科技合作 计划 “ 中芬 基于 LivingLab 的 智慧 设计 创新 网络平台 研发 与 应用 示范 ”。 
+获奖 和 成果 
+第一 完成 人 设计 并 开发 的 物 联网 综合 实验 箱 ， 在 教育部 主办 的 第三届 高等学校 自制 实验教学 仪器设备 评选 中 获得 优秀奖 。 
+发表论文 
+代表性论文 ： 
+( 1 ) Yan   Sun #,  Tin - Yu   Wu ,  Xin - min g   Li ,  Mohsen   Guizani . " A   Rule   Verifi cation   System   for   Smart   Buildings ".  IEEE   Transactions   on   Emerging   Topics   in   Computing ,  timelabel ,  Volume : 5 ,  Issue : 3 ,  Page ( s ): 367 - 379 . 
+( 2 ) Yan   Sun #,  TIN - Yu   Wu ,  Guotao   Zhao ,  Mohsen   Guizani . " Efficient   Rule   Engine   for   Smart   Building   Systems ",  IEEE   Transactions   on   Computers ,  JUN , timelabel ,  Volume : 64 ,  Issue : 6 ,  Page ( s ): 1658 - 1669 . 
+( 3 ) Yan   Sun #,  Xukai   Wang ,  Hong   Luo ,  Xian gyang   Li . " Con flict   Detection   Scheme   Based   on   Formal   Rule   Model   for   Smart   Building   Systems ",  IEEE   Transactions   on   Human - Machine   Systems ,  APR ,  timelabel ,  Volume : 45 ,  Issue : 2 ,  Page ( s ): 215 - 227 . 
+( 4 ) Yan   Sun #,  Hong   Luo ,  Das ,  S . K , “ A   Trust - Based   Framework   for   Fault - Tolerant   Data   Aggregation   in   Wireless   Multimedia   Sensor   Networks ”,  IEEE   Transactions   on   Dep end able   and   S ecu re   Computing ,  timelabel ,  Volume :  9  ,  Issue :  6  ,  Page ( s ):  785  –  797 . 
+( 5 ) Yan   Sun #,  Tin - Yu   Wu ,  Xin wei   Liu ,  and   Mohsen   Guizani , “ Multi - layered   Impact   E val uation   Model   for   Attacking   Mission s ”,  IEEE   SYSTEM   JOURNAL ,  timelabel ,  Volume : 10 ,  Issue : 4 ,  Page ( s ): 1304 - 1315 . 
+( 6 ) Yan   Sun #,  Tin - Yu   Wu ,  Xia oqiong   Ma ,  Han - Chieh   Chao . " Modeling   and   verif yin g   EPC   network   intrusion   system   based   on   timed   automata ",  Pervasive   and   Mobile   Computing ,  Dec , timelabel ,  Volume : 24 ,  Page ( s ): 61 - 76 . 
+( 7 ) Yan   Sun #,  Ruosi   Wang ,  Xin min g   Li . " A   Distributed   Rule   System   for   Smart   Building ",  Adhoc  &  Sensor   Wireless   Networks ,  timelabel ,  Volume : 29 ,  Issue :  1 - 4 ,  Page ( s ): 1 - 29 . 
+( 8 ) Yan   Sun #,  Shaoju   Tan g ,  Hong   Luo , “ Advanced   Gate way   Based   on   FPGA   for   Smart   Home ”,  AD   HOC  &  SENSOR   WIRELESS   NETWORKS ,  Vol . 22 ,  No . 1 - 2 ,  Sep .  timelabel , pp .  135 - 156 
+( 9 ) Yan   Sun #,  Xia oqiong   Ma ,  Hong   Luo , “ A   General   Description   Schema   of    Services   for   WSNs ”,  Chinese   Journal   of   Electro nic s ,  Vol . 23 ,  No . 3 ,  July   timelabel ,  pp .  604 - 610 . 
+联系电话 
+phonelabel 
+工作地点 
+北邮 教 3 楼 902 室 
+email 
+maillabel 
+备注 

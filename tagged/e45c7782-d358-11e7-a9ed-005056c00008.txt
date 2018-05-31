@@ -1,0 +1,400 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <title>王晓燕_兼职导师_北京化工大学马克思主义学院</title>
+  <link href="../../css/css.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="../../js/jquery-1.11.1.min.js"></script>
+
+  <script type="text/javascript">
+    window.onload = function(){
+            $(".fuli").mouseenter(
+                    function(){
+                        $(this).children(".menu").show().parent().siblings(".fuli").children(".menu").hide();
+                    }
+                );
+            $(".fuli").mouseleave(
+                    function(){
+                        $(this).children(".menu").hide();
+                    }
+                );
+           
+      
+    }
+  </script>
+
+</head>
+
+<body>
+
+  
+<div class="header header1">
+    <div class="inner">
+      <div class="top"><a href="../../index.htm" target="_blank"></a></div>
+      <div class="nav">
+        <ul>
+<li class="fuli"><a href="../../index.htm" target="_blank">学院主页</a></li>
+                     <li class="fuli">
+		    			 <a href="../../xygk/index.htm" target="_blank">学院简介</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../xygk/xyjj/index.htm" target="_blank">学院简介</a></li>
+					                    				                      <li><a href="JavaScript:;">学院领导</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		                 <a href="JavaScript:;">机构设置</a>
+			                          </li>
+                      <li class="fuli">
+		    			 <a href="../index.htm" target="_blank">师资情况</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../sx/index.htm" target="_blank">思想道德修养与法律基础教研室</a></li>
+					                    				  					<li><a href="../yl/index.htm" target="_blank">马克思主义基本原理教研室</a></li>
+					                    				  					<li><a href="../sg/index.htm" target="_blank">中国近现代史纲要教研室</a></li>
+					                    				  					<li><a href="../gl/index.htm" target="_blank">毛泽东思想与中国特色社会主义理论体系概论教研室</a></li>
+					                    				  					<li><a href="../xsyzcjys/index.htm" target="_blank">形势与政策教研室</a></li>
+					                    				  					<li><a href="../yjs/index.htm" target="_blank">研究生思政课教研室</a></li>
+					                    				  					<li><a href="../jzjs/index.htm" target="_blank">兼职教授</a></li>
+					                    				  					<li><a href="index.htm" target="_blank">兼职导师</a></li>
+					                    				  					<li><a href="../fpjs/index.htm" target="_blank">返聘教师</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../kxyj/index.htm" target="_blank">科学研究</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../kxyj/xkjs/index.htm" target="_blank">学科建设</a></li>
+					                    				  					<li><a href="../../kxyj/xzdt/index.htm" target="_blank">学术动态</a></li>
+					                    				  					<li><a href="../../kxyj/zykyxm/index.htm" target="_blank">主要科研项目</a></li>
+					                    				  					<li><a href="../../kxyj/zyxzcg/index.htm" target="_blank">主要学术成果</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../rcpy/index.htm" target="_blank">人才培养</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../rcpy/glgd/index.htm" target="_blank">管理规定</a></li>
+					                    				  					<li><a href="../../rcpy/xykc/index.htm" target="_blank">学院课程</a></li>
+					                    				  					<li><a href="../../rcpy/jxcg/index.htm" target="_blank">教学成果</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../zsjy/index.htm" target="_blank">招生就业</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../zsjy/zsxx/index.htm" target="_blank">招生信息</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../xsgz/index.htm" target="_blank">学生工作</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../xsgz/xwkx/index.htm" target="_blank">新闻快讯</a></li>
+					                    				  					<li><a href="../../xsgz/tshd/index.htm" target="_blank">特色活动</a></li>
+					                    				  					<li><a href="../../xsgz/zzjg/index.htm" target="_blank">组织机构</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../djgz/index.htm" target="_blank">党群工作</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../djgz/zbcx/index.htm" target="_blank">支部创新</a></li>
+					                    				  					<li><a href="../../djgz/dyjy/index.htm" target="_blank">党员教育</a></li>
+					                    				  					<li><a href="../../djgz/zzsh/index.htm" target="_blank">组织生活</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../zpxx/index.htm" target="_blank">招聘信息</a>
+			                          </li>
+                   </ul>
+      </div>
+
+      <form name="dataForm" class="search" action="/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+        <input name="siteID" value="124" type="hidden">
+        <input class="notxt" value="搜索...." name="query" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}" onclick="if(this.value==''){this.value='';this.form.keywords.style.color='#787878'}" type="text">
+        <input class="notxt1" name="Submit" value="" type="submit">
+      </form>
+
+    </div>
+  </div>
+  <div class="content1">
+    <div class="inner">
+      <div class="bread">
+                         <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资情况</a>»
+        兼职导师
+      </div>
+      <div class="left">
+        <h3>师资情况</h3>
+        <ul>
+                    <li>
+            <a href="../sx/index.htm" target="_blank">思想道德修养与法律基础教研室</a>
+          </li>
+                    <li>
+            <a href="../yl/index.htm" target="_blank">马克思主义基本原理教研室</a>
+          </li>
+                    <li>
+            <a href="../sg/index.htm" target="_blank">中国近现代史纲要教研室</a>
+          </li>
+                    <li>
+            <a href="../gl/index.htm" target="_blank">毛泽东思想与中国特色社会主义理论体系概论教研室</a>
+          </li>
+                    <li>
+            <a href="../xsyzcjys/index.htm" target="_blank">形势与政策教研室</a>
+          </li>
+                    <li>
+            <a href="../yjs/index.htm" target="_blank">研究生思政课教研室</a>
+          </li>
+                    <li>
+            <a href="../jzjs/index.htm" target="_blank">兼职教授</a>
+          </li>
+                    <li>
+            <a href="index.htm" target="_blank">兼职导师</a>
+          </li>
+                    <li>
+            <a href="../fpjs/index.htm" target="_blank">返聘教师</a>
+          </li>
+                  </ul>
+        <div class="wei"></div>
+        <div class="left-link">
+          <a href="#">
+            <img src="../../images/celianjie.jpg" alt="" width="235" height="61">
+          </a>
+        </div>
+      </div>
+      <div class="right">
+        <h3 class="biaoti">
+          兼职导师
+        </h3>
+
+        <div class="box_list">
+         <h3>王晓燕</h3>
+                                                      <div class="zuozhe">   发布日期：2017-01-13</div>
+          <div class="wz_art" style="min-height:300px;">
+            <p class="MsoNormal" style="text-indent: 21pt; line-height: 28pt;" align="left"><b><span style="mso-bidi-font-size:10.5pt;
+font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US">&nbsp;</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">王晓燕，女，<span lang="EN-US">1964</span>年生，群众，指导在读硕士研究生<span lang="EN-US">1</span>人。</span></b><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span><b><br>
+<span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold"><br>
+电子信箱</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">：</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">wangxy6402@sina.com</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span><b><br>
+<span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold"><br>
+主要研究领域：</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">个性与社会性发展；大学生心理教育；大学生心理辅导与咨询；大学生心理健康问题及解决策略。<br>
+</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span><br>
+<b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">教育经历：</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span><br>
+<b><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">1982</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">9</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">-1986</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">7</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月于北京师范大学教育系学前专业学习四年</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">，</span><span style="font-size:14.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold">获学士学位</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">。</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span><br>
+<b><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">1995</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">9</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">-1998</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">7</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月于北京师范大学教育教育心理学专业学习三年</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">，</span><span style="font-size:14.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold">获硕士学位</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">。</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span><br>
+<b><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">2001</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">9</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">-2004</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">7</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月于北京师范大学发展心理研究所学习三年</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">，</span><span style="font-size:14.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold">获博士学位</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">。</span></b><span style="font-size:14.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+微软雅黑;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US"><o:p></o:p></span><br>
+<b><br>
+<span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">工作经历:<br>
+</span></b><b><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">1986</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">7</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">-1999</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">9</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月于内蒙古教育学院教育管理系任教</span><span style="font-size:
+14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">。</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span><br>
+<b><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">1989</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">9</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">-1990</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">7</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月于北京师范大学进修</span><span style="font-size:14.0pt;
+font-family:&quot;微软雅黑&quot;,sans-serif;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">。</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span><br>
+<b><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">2000</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">1</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">-2001</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">9</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月于内蒙古师范大学教育系学前教育专业任教</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">。</span></b><span style="mso-bidi-font-size:
+10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt" lang="EN-US"><o:p></o:p></span><br>
+<b><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">2005</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年</span><span style="font-size:14.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">9</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">月至今于北京师范大学文法学院素质基地任教</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">，</span><span style="font-size:14.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold">任专职心理咨询师</span><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">。</span></b><span style="font-size:14.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+微软雅黑;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US"><o:p></o:p></span><br>
+<b><br>
+<span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">代表性论文：</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span><br>
+<b><span style="font-size:14.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold" lang="EN-US">1.</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">《儿童在群体中行为的规则调节及其社会化》，发表于《内蒙古社会科学》，</span><span style="font-size:14.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+微软雅黑;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">2006</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年第<span lang="EN-US">6</span>期。</span></b><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span><br>
+<b><span style="font-size:14.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold" lang="EN-US">2.</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">《俄罗斯关于儿童社会性的近期研究》，发表于《内蒙古师范大学学报》，</span><span style="font-size:14.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+微软雅黑;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">2006</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年第<span lang="EN-US">12</span>期。</span></b><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span><br>
+<b><span style="font-size:14.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold" lang="EN-US">3.</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">《大学生考研动机的心理分析及其心理调试》，发表于《内蒙古师范大学学报》，</span><span style="font-size:14.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+微软雅黑;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">2008</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年第<span lang="EN-US">11</span>期。</span></b><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span><br>
+<b><span style="font-size:14.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold" lang="EN-US">4.</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">《大学生的社会性发展与心理教育》，发表于《内蒙古民族大学学报》，</span><span style="font-size:14.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+微软雅黑;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold" lang="EN-US">2008</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">年第<span lang="EN-US">5</span>期。</span></b><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span><br>
+<b><br>
+<span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">招生基本要求<span lang="EN-US">:</span></span></b><span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="text-indent: 28pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">为人诚实，做事认真</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent: 28pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">学习踏实，态度端正</span></b><span style="font-size:14.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="text-indent: 28pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">敢于探索，勇于创新</span></b><span style="font-size:14.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="text-indent: 28pt; line-height: 28pt;" align="left"><b><span style="font-size:14.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">虚心求教，善于合作</span></b><span style="font-size:14.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold"><span lang="EN-US"><o:p></o:p></span></span><br>
+<b><br>
+<span style="font-size:14.0pt;font-family:&quot;微软雅黑&quot;,sans-serif;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">导师寄语：</span><span style="font-size:14.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">关爱自己，善待他人；学会做人，学习做事</span></b><span style="mso-bidi-font-size:10.5pt;font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt" lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent: 21pt; line-height: 28pt;" align="left"><b><span style="mso-bidi-font-size:10.5pt;
+font-family:&quot;微软雅黑&quot;,sans-serif;mso-bidi-font-family:宋体;mso-font-kerning:0pt" lang="EN-US">&nbsp;</span></b></p>
+<p class="MsoNormal" style="text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:28.0pt;mso-line-height-rule:exactly"><span lang="EN-US">&nbsp;</span></p>
+          </div>
+                  </div>
+
+        
+      </div>
+    </div>
+  </div>
+  
+<div class="footer">
+     <div class="inner">
+       <p><a href="mailto:wfxy@mail.buct.edu.cn" target="_blank">校长信箱</a> | <a href="http://tree.buct.edu.cn/" target="_blank">校外认证</a> | <a href="https://vpn.buct.edu.cn/" target="_blank">VPN</a> | <a href="#" target="_blank">联系我们</a> | 技术支持 | 京公网安备： 110402430060 </p>
+        <p>
+          Copyright@ 北京化工大学 | 地址：北京市朝阳区北三环东路15号 | 邮编：100029 | Email：marxism@mail.buct.edu.cn
+        </p>
+     </div>
+   </div>
+
+</body></html>

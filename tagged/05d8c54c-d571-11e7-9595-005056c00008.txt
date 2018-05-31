@@ -1,0 +1,284 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta content="IE=11.0000" http-equiv="X-UA-Compatible">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <title>个人主页</title>
+    <link href="/Public/static/hjxy/images/style.css" rel="stylesheet" type="text/css">
+    <meta name="GENERATOR" content="MSHTML 11.00.9600.18212">
+    <script type="text/javascript" src="/Public/static/hjxy/images/jquery-1.7.2.min.js"></script>
+   <!-- <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>-->
+    <script type="text/javascript" language="javascript" src="/Public/static/hjxy/images/jquery.dotdotdot.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            /*$('#info1_index').dotdotdot();*/
+            hidentr(1);
+            });
+
+        function hidentr(val)
+        {
+            for(i = 1; i < 13; i++){
+                if(i == val){
+                    $("#tr_"+i).show();
+                }
+                else
+                {
+                    $("#tr_"+i).hide();
+                }
+            }
+        }
+
+    </script>
+<script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=420002"></script><link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20131219" rel="stylesheet" type="text/css"></head>
+<body><iframe style="display: none;" frameborder="0"></iframe>
+<div class="wraq" style="background: url(&quot;/Public/static/hjxy/images/body_bg.jpg&quot;) repeat-x top rgb(247, 246, 236); width: 100%;">
+    <div class="header">
+        <div class="xiaohui"><a href="#" target="_blank"></a><a href="http://www.bnu.edu.cn" target="_blank">
+            <img src="/Public/static/hjxy/images/BNU-logo.png" width="211" height="54"></a></div>
+        <div class="english"></div>
+        <div class="logo"></div>
+        <div class="nav">
+            <ul>
+                <li style="list-style: none;"><a href="javascript:hidentr(1);">首&nbsp;&nbsp;页</a></li>
+                <li style="list-style: none;"><a href="javascript:hidentr(2);">基本信息</a></li>
+                <li style="list-style: none;"><a href="javascript:hidentr(3);">教育经历</a></li>
+                <li style="list-style: none;"><a href="javascript:hidentr(4);">工作经历</a></li>
+                <li style="list-style: none;"><a href="javascript:hidentr(5);">教学信息</a></li>
+                <li style="list-style: none;"><a href="javascript:hidentr(6);">科研项目</a></li>
+                <li style="list-style: none;"><a href="javascript:hidentr(7);">科教成果</a></li>
+                <li style="list-style: none;"><a href="javascript:hidentr(8);">社会任职</a></li>
+                <li style="list-style: none;"><a href="javascript:hidentr(9);">其他信息</a></li>
+            </ul>
+        </div></div>
+    <div class="content">
+        <table width="1003" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+                <td rowspan="3" width="230" valign="top"><div class="lf">
+                    <div class="lf01">
+                        <div class="lf0101"><img src="" width="180">
+                            <h4><span>牛军峰</span> <span>教授</span></h4>
+                        </div>
+                        <div class="lf0102">
+                            <ul>
+                                <li>博导 </li>
+                                <li>中文版 / <a id="content_edit_news_form_thumb_url1" href="javascript:hidentr(10);"> ENGLISH </a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div></td>
+                <td valign="top" height="377">
+                    <table id="table1" width="100%" cellspacing="0" cellpadding="0" border="0">
+                        <tbody><tr id="tr_1">
+                            <td valign="top">
+                                <div class="ct">
+                                    <div class="ct01" style="padding-top: 0px;">
+                                        <div class="til_ct01">
+                                            <h3><a>基本信息</a></h3>
+                                        </div>
+                                        <div class="box_ct01" id="info1_index">
+                                                                                    </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="ctt" style="height: 220px;">
+                                    <div class="ctt01" style="padding-top: 0px;">
+                                        <div class="til_ctt01">
+                                            <h3><a href="javascript:hidentr(12);">联系方式</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                            联系地址： 北京市海淀区新街口外大街19号 <br>邮政编码： 100875 <br>电话： 86-10-5880 7612 <br>Email： <a href="mailto:junfengn@bnu.edu.cn" target="_blank">junfengn@bnu.edu.cn</a>&nbsp; <br>                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="ctt" style="margin-left: 18px;height: 220px;">
+                                    <div class="ctt01" style="padding-top: 0px;">
+                                        <div class="til_ctt01">
+                                            <h3><a href="javascript:hidentr(11);">研究方向</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                            （1）流域水环境中持久性有毒物质的演变规律及控制原理<br>（2）纳米功能材料的制备原理及其在环境污染物治理中的应用                                        </div>
+                                    </div>
+                                </div>                            </td>
+                        </tr>
+
+                        <tr id="tr_2" style="display: none;">
+                            <td valign="top">
+
+                                <div class="ct">
+                                    <div class="ct01" style="padding-top: 0px;">
+                                        <div class="til_ct01">
+                                            <h3><a href="#">基本信息</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                                                                     </div>
+                                    </div>
+                                </div>                            </td>
+                        </tr>
+
+                        <tr id="tr_3" style="display: none;">
+                            <td valign="top">
+
+                                <div class="ct">
+                                    <div class="ct01" style="padding-top: 0px;">
+                                        <div class="til_ct01">
+                                            <h3><a href="#">教育经历</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                            1992.9—1996.7 青岛化工学院精细化工系，工学学士<br>1996.9—1999.7 郑州工业大学化工学院，工学硕士<br>1999.9—2002.9 大连理工大学环境学院，工学博士                                        </div>
+                                    </div>
+                                </div>                            </td>
+                        </tr>
+
+                        <tr id="tr_4" style="display: none;">
+                            <td valign="top">
+
+                                <div class="ct">
+                                    <div class="ct01" style="padding-top: 0px;">
+                                        <div class="til_ct01">
+                                            <h3><a href="#">工作经历</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                            2001.5—2002.5 德国国家环境与健康研究中心（GSF）生态化学研究所（IOC），访问学者<br>2002.10—2004.6 清华大学环境科学与工程系，博士后<br>2004.7—至今 北京师范大学环境学院, 历任讲师；副教授；教授，博士生导师                                        </div>
+                                    </div>
+                                </div>                            </td>
+                        </tr>
+
+                        <tr id="tr_5" style="display: none;">
+                            <td valign="top">
+
+                                <div class="ct">
+                                    <div class="ct01" style="padding-top: 0px;">
+                                        <div class="til_ct01">
+                                            <h3><a href="#">教学信息</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                                                                    </div>
+                                    </div>
+                                </div>                            </td>
+                        </tr>
+
+                        <tr id="tr_6" style="display: none;">
+                            <td valign="top">
+
+                                <div class="ct">
+                                    <div class="ct01" style="padding-top: 0px;">
+                                        <div class="til_ct01">
+                                            <h3><a href="#">科研项目</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                            1. 国家自然科学基年面上项目，2011.01-2013.12，项目负责人<br>2. 国家自然科学基金青年基金项目，2008.01-2010.12，项目负责人<br>3. 国家高技术研究发展计划（863计划）项目，2007-2009，项目负责人<br>4. 教育部“新世纪优秀人才支持计划”项目，2009.1-2011.12，项目负责人<br>5. “十一五”国家科技支撑计划课题. 2009.1-2011.12，第四课题负责人<br>6. 教育部科学技术研究重点项目. 2009.1-2010.12，项目负责人<br>7. 国家重点基础研究发展规划（973）项目. 2010-2014，学术骨干<br>8. 霍英东教育基金会第十二届高等院校青年教师基金基础性研究课题资助. 2010-2013，项目负责人<br>9. 教育部留学回国人员科研启动基金，2004-2006，项目负责人                                        </div>
+                                    </div>
+                                </div>                            </td>
+                        </tr>
+                        <tr id="tr_7" style="display: none;">
+                            <td valign="top">
+
+                                <div class="ct">
+                                    <div class="ct01" style="padding-top: 0px;">
+                                        <div class="til_ct01">
+                                            <h3><a href="#">科教成果</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                            <p>出版论（译）著：<br>&nbsp;(1) 刘新会，牛军峰，史江红，刘希涛编. 《环境与健康》，北京：北京师范大学出版社，2009.8<br>&nbsp;(2) 沈珍瑶，牛军峰，齐珺，王丽莉，唐阵武，冯精兰著. 《长江中游典型段水体污染特征及生态风险》，北京：中国环境科学出版社，2008.9<br>&nbsp;(3) 余刚，牛军峰，黄俊等编著.《持久性有机污染物－新的全球性环境问题》，北京：科学出版社，2005.4<br>&nbsp; </p><p>近年来发表学术论文(SCI文章50余篇，已授权国家发明专利10余项)：<br>1. Niu J.F.,* Lin H., Xu J.L., Wu H., Li Y.Y. Electrochemical Mineralization of Perfluorocarboxylic Acids (PFCAs) by Ce-doped Modified Porous Nano-crystalline PbO2 Film Electrode. Environmental Science &amp; Technology, 2012, 46(18): 10191-10198<br>2. Lin H., Niu J.F.,* Ding S.Y., Zhang L.L. Electrochemical degradation of perfluorooctanoic acid (PFOA) by Ti/SnO2-Sb, Ti/SnO2-Sb/PbO2 and Ti/SnO2-Sb/MnO2 anodes. Water Research, 2012, 46(7): 2281-2289<br>3. Dai Y.R., Yin L.F., Niu J.F.* Laccase-carrying electrospun fibrous membranes for adsorption and degradation of PAHs in shoal soils. Environmental Science &amp; Technology, 2011, 45(24): 10611-10618<br>4. Dai Y.R., Niu J.F.,* Liu J., Yin L.F., Xu J.J. In situ encapsulation of laccase in nanofibers by emulsion electrospinning: Preparation, characterization, and application. Bioresource Technology, 2010, 101(23), 8942-8947<br>5. Yin L.F., Niu J.F.,* Shen Z.Y., Chen J. Mechanism of reductive decomposition of pentachlorophenol by Ti-doped β-Bi2O3 under visible light irradiation. Environmental Science &amp; Technology, 2010, 44(14) 5581–5586<br>6. Wang L.L., Yang Z.F.,* Niu J.F., Wang J.Y. Characterization, ecological risk assessment and source diagnostics of polycyclic aromatic hydrocarbons in water column of the Yellow River Delta, one of the most plenty biodiversity zones in the world. Journal of Hazardous Materials, 2009, 169(1-3): 460-465<br>7. Yang Z.F.*, Shen Z.Y., Gao F., Tang Z.W., Niu J.F., He Y. Polychlorinated Biphenyls in Urban Lake Sediments from Wuhan, Central China: Occurrence, Composition, and Sedimentary Record. Journal of Environmental Quality, 2009, 38(4): 1441-1448<br>8. Yang Z.F.*, Shen Z.Y., Gao F., Tang Z.W., Niu J.F. Occurrence and possible sources of polychlorinated biphenyls in surface sediments from the Wuhan reach of the Yangtze River, China. Chemosphere, 2009, 74(11): 1522-1530<br>9. Zhang Z.Y., Niu J.F.,* Zhi X. A QSAR model for predicting mutagenicity of nitronaphthalenes and methylnitronaphthalenes. Bull. Environ. Contam. Toxicol., 2008, 81(5): 498-502<br>10. Feng J.L., Shen Z.Y., Niu J.F., Yang Z.F.* The role of sediment resuspension duration in release of PAHs. Chin. Sci. Bull., 2008, 53(18): 2777-2782<br>11. Yang Z.F.,* Feng J.L., Niu J.F., Shen Z.Y.* Release of polycyclic aromatic hydrocarbons from Yangtze River sediment cores during periods of simulated resuspension. Environ. Pollut., 2008, 155(2): 366-374<br>12. Wang L.L., Niu J.F., Yang Z.F.,* Shen Z.Y., Wang J.Y. Effects of carbonate and organic matter on sorption and desorption behavior of polycyclic aromatic hydrocarbons in the sediments from Yangtze River. J. Hazard. Mater., 2008, 154(1-3): 811-817<br>13. Wang H.Y., Niu J.F.,* Long X.X., He Y. Sonophotocatalytic degradation of methyl orange by nano-sized Ag/TiO2 particles in aqueous solutions. Ultrason. Sonochem., 2008, 15(4), 386-392.<br>14. Tang Z.W., Yang Z.F., Shen Z.Y., Niu J.F.*, Cai Y.P. Residues of organochlorine pesticides in water and suspended particulate matter from Yangtze River catchment of Wuhan, China. Environ. Monit. Assess., 2008, 137(1-3), 427-439<br>15. Tang Z.W., Yang Z.F., Shen Z.Y., Niu J.F.*, Liao R.F. Distribution and sources of organochlorine pesticides in sediments from typical catchment of Yangtze River, China. Arch. Environ. Contam. Toxicol., 2007, 53(3), 303-312<br>16. Tang Z.W., Yang Z.F., Shen Z.Y.,* Niu J.F. Pentachlorophenol residues in suspended particle matter and sediments from Yangtze River Catchment of Wuhan, China. Bull. Environ. Contam. Toxicol., 2007, 78(2), 148-152<br>17. Feng J.L., Yang Z.F., Niu J.F., Shen Z.Y.* Remobilization of polycyclic aromatic hydrocarbons during the resuspension of Yangtze River sediments using a particle entrainment simulator. Environ. Pollut., 2007, 149(2), 193-200<br>18. Long X.X., Niu J.F.* Estimation of gas-phase reaction rate constants of alkylnaphthalenes with chlorine, hydroxyl and nitrate radicals. Chemosphere, 2007, 67(10), 2028-2034<br>19. Niu J.F.,* Long X.X., Shi S.Q. Quantitative structure-activity relationships for prediction of the toxicity of hydroxylated and quinoid PCB metabolites. J. Mol. Model., 2007, 13(1), 163-169<br>20. Niu J.F.,* Sun P., Schramm K.-W. Photolysis of polycyclic aromatic hydrocarbons associated with fly ash particles under simulated sunlight irradiation. J. Photochem. Photobiol. A: Chem., 2007, 186(1), 93-98<br>21. Niu J.F.,* Wang L.L., Yang Z.F. QSPRs on photodegradation half-lives of atmospheric chlorinated polycyclic aromatic hydrocarbons associated with particulates. Ecotox. Environ. Safe., 2007, 66(2), 272-277<br>22. Niu J.F.,* Shen Z.Y., Yang Z.F., Long X.X., Yu G. Quantitative structure-property relationships on photodegradation of polybrominated diphenyl ethers. Chemosphere, 2006, 64(4), 658-665<br>23. Niu J.F.,* Yang Z.F., Shen Z.Y., Wang L.L. QSPRs for the prediction of photodegradation half-Life of PCBs in n-hexane. SAR QSAR Environ. Res., 2006, 17(2), 173-182<br>24. Niu J.F.,* Yang Z.F., Shen Z.Y., Long X.X. Estimation of photolysis lifetimes of the nitronaphthalenes and methylnitronaphthalenes. Bull. Environ. Contam. Toxicol., 2005, 75(4), 813-819<br>25. Niu J.F.,* Huang L.P., Chen J.W., Yu G., Schramm K.-W. Quantitative structure-property relationships on photolysis of PCDD/Fs adsorbed to spruce (Picea abies (L.) Karst.) needle surfaces under sunlight irradiation. Chemosphere, 2005, 58(7), 917-924<br>26. Niu J.F., Chen J.W.,* Quan X., Yang F.L., Henkelmann B., Schramm K.-W. Effects of UV-B on photochemical behaviour of fly ash particle-associated PCDD/Fs. Bull. Environ. Contam. Toxicol., 2004, 73(4), 717-724<br>27. Niu J.F.,* Yu G. Molecular structural characteristics governing on biocatalytic oxidation of PAHs with hemoglobin. Environ. Toxicol. Pharmacol., 2004, 18(1), 39-45<br>28. Niu J.,* Chen J., Yu G., Schramm K.-W. Quantitative structure-property relationships on direct photolysis of PCDD/Fs on surfaces of fly ash. SAR QSAR Environ. Res., 2004, 15(4), 265-277<br>29. Niu J.F., Yu G.* Prediction of the Ability of PAHs to be Photocytotoxic to a Cell Line from the Rainbow Trout (Oncorhynchus mykiss) Gill. Bull. Environ. Contam. Toxicol., 2004, 73(4), 659-665<br>30. Niu J., Yu G.* Molecular structural characteristics governing biocatalytic chlorination of PAHs by Chloroperoxidase from Caldariomyces fumago. SAR QSAR Environ. Res., 2004, 15(3), 159-167<br>31. Niu J.F., Chen J.W.,* Martens D., Henkelmann B., Quan X., Yang F.L., Seidlitz H.K., Schramm K.-W. The role of UV-B on the degradation of PCDD/Fs and PAHs sorbed on surfaces of spruce (Picea abies (L.) Karst.) needles. Sci. Total Environ., 2004, 322(1-3), 231-241<br>32. Quan X.,* Niu J.F., Chen S., Chen J.W., Zhao Y.Z., Yang F.L. Effects of Fe2O3, organic matter and carbonate on photocatalytic degradation of lindane in the sediment from Liao river, China. Chemosphere, 2003, 52(10), 1749-1755<br>33. Niu J.F., Chen J.W.,* Henkelmann B., Quan X., Yang F.L., Kettrup A., Schramm K.-W. Photodegradation of PCDD/Fs adsorbed on spruce (Picea abies (L.) Karst.) needles under sunlight irradiation. Chemosphere, 2003, 50(9), 1217-1225<br>34. Niu J.F., Chen J.W.,* Martens D., Quan X., Yang F.L., Kettrup A., Schramm K.-W. Photolysis of polycyclic aromatic hydrocarbons adsorbed on spruce (Picea abies (L.) Karst.) needles under sunlight irradiation. Environ. Pollut., 2003, 123(1), 39-45<br>35. 齐珺, 牛军峰*, 王丽莉. 基于遗传-支持向量机和遗传-径向基神经网络的有机物正辛醇-水分配系数QSPR研究. 环境科学, 2008, 29(1), 212-218<br>36. 智昕, 牛军峰, 唐阵武, 杨志峰*. 长江水系武汉段典型有机氯农药的生态风险评价. 环境科学学报, 2008, 28(1), 168-173<br>37. 冯精兰, 牛军峰*. 长江武汉段不同粒径沉积物中多环芳烃（PAHs）分布特征. 环境科学, 2007, 28(7), 1573-1577<br>38. 隆兴兴, 牛军峰*, 史姝琼. 邻苯二甲酸酯类化合物正辛醇-水分配系数的QSPR研究. 环境科学, 2006, 27(11), 2318-2322<br>39. 赵伟, 杨志峰*, 牛军峰. 城市生态经济系统模型构建与分析. 环境科学学报, 2005, 25(10), l425-1430.<br></p>                                        </div>
+                                    </div>
+                                </div>                            </td>
+                        </tr>
+                        <tr id="tr_8" style="display: none;">
+                        <td valign="top">
+
+                            <div class="ct">
+                                <div class="ct01" style="padding-top: 0px;">
+                                    <div class="til_ct01">
+                                        <h3><a href="#">社会任职</a></h3>
+                                    </div>
+                                    <div class="box_ct01">
+                                                                            </div>
+                                </div>
+                            </div>                        </td>
+                    </tr>
+                    
+                     <tr id="tr_9" style="display: none;">
+                        <td valign="top">
+
+                            <div class="ct">
+                                <div class="ct01" style="padding-top: 0px;">
+                                    <div class="til_ct01">
+                                        <h3><a href="#">其他信息</a></h3>
+                                    </div>
+                                    <div class="box_ct01">
+                                        <p>教育部技术发明一等奖（1,2012）</p><p>教育部自然科学奖二等奖（3,2008年）</p><p>教育部科学技术进步奖一等奖（4,2008年）</p><p>入选教育部新世纪优秀人才支持计划（2008年度）<br></p>                                    </div>
+                                </div>
+                            </div>                        </td>
+                    </tr>
+                    
+                    <tr id="tr_11" style="display: none;">
+                        <td valign="top">
+
+                            <div class="ct">
+                                <div class="ct01" style="padding-top: 0px;">
+                                    <div class="til_ct01">
+                                        <h3><a href="#">研究方向</a></h3>
+                                    </div>
+                                    <div class="box_ct01">
+                                        （1）流域水环境中持久性有毒物质的演变规律及控制原理<br>（2）纳米功能材料的制备原理及其在环境污染物治理中的应用                                    </div>
+                                </div>
+                            </div>                        </td>
+                    </tr>
+                     <tr id="tr_12" style="display: none;">
+                        <td valign="top">
+
+                            <div class="ct">
+                                <div class="ct01" style="padding-top: 0px;">
+                                    <div class="til_ct01">
+                                        <h3><a href="#">联系方式</a></h3>
+                                    </div>
+                                    <div class="box_ct01">
+                                        联系地址： 北京市海淀区新街口外大街19号 <br>邮政编码： 100875 <br>电话： 86-10-5880 7612 <br>Email： <a href="mailto:junfengn@bnu.edu.cn" target="_blank">junfengn@bnu.edu.cn</a>&nbsp; <br>                                    </div>
+                                </div>
+                            </div>                        </td>
+                    </tr>
+
+                        <tr classs="tabtr">
+                            <td id="tr_10" style="display: none;">
+
+                                <div class="ct">
+                                    <div class="ct01" style="padding-top: 0px;">
+                                        <div class="til_ct01">
+                                            <h3><a href="#">ENGLISH</a></h3>
+                                        </div>
+                                        <div class="box_ct01">
+                                                                                    </div>
+                                    </div>
+                                </div>                            </td>
+                        </tr>
+                    </tbody></table>                </td>
+            </tr>
+            
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+        </tbody></table>
+
+
+
+
+  </div>
+</div>
+
+
+
+
+
+<div class="footer">
+    <div class="footer00">
+        <div class="lf_f">北京师范大学 版权所有 地址：北京市新街口外大街19号
+            邮编：100875<br>       </div>
+        <script id="bdshare_js" type="text/javascript" data="type=tools&amp;uid=6838818" src="http://bdimg.share.baidu.com/static/js/bds_s_v2.js?cdnversion=420002"></script>
+
+        
+
+        <script type="text/javascript">
+            document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+        </script>
+    </div></div>
+<script src="/Public/static/hjxy/images/writeLog.htm"></script>
+</body></html>

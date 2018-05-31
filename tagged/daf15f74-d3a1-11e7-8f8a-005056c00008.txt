@@ -1,0 +1,431 @@
+<html><head>
+   <title>西北农林科技大学 动物科技学院</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+  <link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+
+
+<style type="text/css"></style><script charset="utf-8" src="//s.yunshipei.com/javascript/sm.min.js" async=""></script></head><body>
+
+<!--顶部开始-->
+
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/e370dbe18cc1944dd895c7af5fb1c761/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
+  <title>西北农林科技大学 动物科技学院</title>
+
+  <meta name="Author" content="西北农林科技大学 动物科技学院">
+  <meta name="Keywords" content="西北农林科技大学 动物科技学院">
+  <meta name="Description" content="西北农林科技大学 动物科技学院">
+ 
+
+<link href="../../css/style.css" rel="stylesheet" type="text/css"> 
+<script src="../../js/jquery1.42.min.js" type="text/javascript"></script>
+<script src="../../js/jquery.superslide.2.1.1.js" type="text/javascript"></script>
+<style>
+
+body {background: #E9E6E6;}
+
+*{font-family:宋体}
+
+.cont {margin: 1px 25px;color:#000;}
+.cont p{line-height:26px;text-indent: 0em;margin-bottom: 10px;font-size:14px;}
+.cont p img{text-indent: 0;margin: 0 auto;}
+.cont table{margin:0 auto;}
+.sort_rightcont2 h1{color: #0c600c;}
+#contenttable td{font-size:14px;padding:15px 0px;}
+#contenttable th{padding:10px 0;}
+#contenttable .fontstrong{font-weight:bold}
+		
+		
+		img{ border:0;  }
+		a{ text-decoration:none; color:#333;  }
+
+		/* 本例子css */
+		.slideBox{ width:1180px; height:130px; overflow:hidden; position:relative; border:1px solid #ddd;  }
+		.slideBox .hd{ height:15px; overflow:hidden; position:absolute; right:5px; bottom:5px; z-index:1; }
+		.slideBox .hd ul{ overflow:hidden; zoom:1; float:left; margin-top:10px; }
+		.slideBox .hd ul li{ float:left; margin-right:2px;  width:8px; height:8px; line-height:14px; text-align:center; background:#fff; cursor:pointer; }
+		.slideBox .hd ul li.on{ background:#f00; color:#fff; }
+		.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+		.slideBox .bd li{ zoom:1; vertical-align:middle; }
+		.slideBox .bd img{ width:1180px; height:130px; display:block;  }
+
+		/* 下面是前/后按钮代码，如果不需要删除即可 */
+		.slideBox .prev,
+		.slideBox .next{ position:absolute; left:3%; top:50%; margin-top:-25px; display:block; width:32px; height:40px; background:url(images/slider-arrow.png) -110px 5px no-repeat; filter:alpha(opacity=50);opacity:0.5;   }
+		.slideBox .next{ left:auto; right:3%; background-position:8px 5px; }
+		.slideBox .prev:hover,
+		.slideBox .next:hover{ filter:alpha(opacity=100);opacity:1;  }
+		.slideBox .prevStop{ display:none;  }
+		.slideBox .nextStop{ display:none;  }
+
+		
+</style>
+
+<div class="head">
+<script type="text/javascript" language="javascript">
+    //加入收藏
+        function AddFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }   
+        }
+    }
+    //设为首页
+    function SetHome(url){
+ 
+        if (document.all) {
+ 
+            document.body.style.behavior='url(#default#homepage)';
+ 
+               document.body.setHomePage(url);
+ 
+        }else{
+ 
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+    <div class="header">
+        <div class="head_right">    
+            <div style="width: 305px;height:45px;"><p><a href="http://dkxy.nwsuaf.edu.cn/english/" )="" target="_blank" "="">English</a> | <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a> | <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>| <a href="../../lxwm/index.htm" target="_blank">联系我们</a></p></div>
+            
+            <div>
+                <span class="sousou">
+<form name="dataForm" action="http://cms2.nwsuaf.edu.cn/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+     <input name="siteID" value="77" type="hidden">
+                        <input name="query" class="search_input" style="height:20px;width:175px;float: left;margin-left:15px;border-left: 2px solid #c1c0be;border-bottom: 2px solid #c1c0be;border-top: 2px solid #c1c0be;" value="请输入关键字" onclick="javascript:if (this.value=='请输入关键字'){this.value=''}" type="text">
+                        <input value="" name="Submit" class="so_btn" style="height:24px;width:55px;float:right;margin-right:85px;border:0; background:url(../../images/bg_search.png);" type="Submit">     
+                    </form>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<!--顶部结束-->
+
+
+<!--导航开始-->
+<div class="nav">
+          <div id="nav">
+                  <ul>
+                <li><a class="link" href="../../index.htm" target="_blank">首页</a></li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygk/xyjj/index.htm" target="_blank">学院概况</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../zjrc/index.htm" target="_blank">师资队伍</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xkjs/xkjj/index.htm" target="_blank">学科建设</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../bksjy/zyjj/index.htm" target="_blank">本科生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../yjsjy/bsd/index.htm" target="_blank">研究生教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../kytg/kytgjf/index.htm" target="_blank">科研推广</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../hzjl/xzjl/index.htm" target="_blank">合作交流</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../dqgz/dwjg/index.htm" target="_blank">党群工作</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xsgl/zzjg/index.htm" target="_blank">学生管理</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../crjy/hsjy/index.htm" target="_blank">成人教育</a>
+                                </li>
+                                <li class="mainmenu">
+                                    <a class="link" href="../../xygz/xyhd/index.htm" target="_blank">校友工作</a>
+                                </li>
+                                
+                
+            </ul>
+          </div>
+        </div>
+
+<!--导航结束-->
+
+<!--articlehome开始-->
+<div class="sort_main">
+
+	<div class="sort_left">
+	
+		<div class="sort_lefthead"><dt>师资队伍</dt></div>
+		<div class="sort_leftcont">
+			<ul>
+							<a href="../zjrc/index.htm" target="_blank"><li style="width:178px;height:32px;">专家人才</li></a>
+							<a href="index.htm" target="_blank"><li style="width:178px;height:32px;">教授、研究员</li></a>
+							<a href="../fjsfyjy/index.htm" target="_blank"><li style="width:178px;height:32px;">副教授、副研究员</li></a>
+							<a href="../js/index.htm" target="_blank"><li style="width:178px;height:32px;">讲师</li></a>
+							<a href="../wpzj/index.htm" target="_blank"><li style="width:178px;height:32px;">外聘专家</li></a>
+						</ul>
+		</div>
+
+	</div>
+
+
+
+
+	<div class="sort_right2">
+	
+		<div class="sort_righthead2"><dt>现在的位置:                  <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资队伍</a>»
+        教授、研究员
+</dt></div>
+		
+		<div class="sort_rightcont2">
+			
+				<h1 style="color: #0c600c;font-size:16px;">胡建宏</h1>
+				   <h2 style="font-size: 14px;color: #3d66aa;"> </h2>
+				<h2>                                  发布日期：2015-10-16  浏览次数： <script src="/cms/web/count.jsp?articleID=217712"></script>3121</h2>
+                               <div class="line" style="margin-top:10px;"></div>
+				<div class="cont" style="color:#000;margin: 1px 25px;">
+					　　<div class="media"></div>
+						<div class="flashpaper"></div>  
+							   <p><img onclick="window.open('../../images//content/2015-10/20151016165610992858_1.jpg')" src="../../images//content/2015-10/20151016165610992858.jpg" style="float:right; height:200px; width:150px"></p>
+
+<p>　<strong>　1．基本信息</strong></p>
+
+<p>　　胡建宏，男，1969年1月生，陕西省白水县人，博士，教授，博士生导师。1989-1993年本科就读于西北农业大学（现西北农林科技大学），同年留校任教迄今。2002-2006年博士就读于西北农林科技大学。</p>
+
+<p>　　中国畜牧兽医学会繁殖学分会会员、陕西省细胞生物学学会会员以及中国畜牧业协会牛业分会会员等。另外，担任《Animal Reproduction Science》、《Animal》、《Journal of Thermal Biology》以及《家畜生态学报》等杂志审稿人。同时，与西澳大学Graeme Martin教授等国外专家建立合作关系，联合培养博士研究生。</p>
+
+<p>　<strong>　2．研究方向</strong></p>
+
+<p>　　动物生殖生理调控、动物生物技术。</p>
+
+<p>　　<strong>3．开设课程</strong></p>
+
+<p>　　开展动物生殖生理调控和动物生物技术方面的教学与科研工作，先后承担本科生动物繁殖学、生物统计学、动物生物学等课程教学，为博、硕士研究生讲授动物繁殖技术、动物生殖生理学、动物试验设计、动物遗传育种进展等课程。主讲的《动物繁衍的奥秘》2015年获批国家精品视频公开课程。</p>
+
+<p>　　目前在读博士研究生2名，硕士研究生12名。</p>
+
+<p>　　<strong>4．学术成果</strong></p>
+
+<p>　　主持项目：</p>
+
+<p>　　1. 陕北白绒山羊舍饲高效健康养殖关键技术研究与示范（2015KTTSNY04-03），陕西省科技统筹创新工程计划项目，2015～2017，55万元，主持人</p>
+
+<p>　　2.&nbsp;良种公猪精液常温保存关键技术研究与示范（TGZX2015-18），西北农林科技大学试验示范站（基地）科技成果推广项目，2015～2017，7万元，主持人</p>
+
+<p>　　3.&nbsp;良种公猪精液常温保存关键技术研究与示范（2014NY-22），杨凌示范区科技计划项目，2014～2016，8万元，主持人</p>
+
+<p>　　4.&nbsp;犊牛睾丸组织低损伤冷冻保存技术研究（QN2011061），西北农林科技大学基本科研业务费专项资金项目，2011～2014，20万元，主持人</p>
+
+<p>　　5.&nbsp;幼鼠睾丸组织冷冻及精原细胞诱导分化机理研究（Z111020905），西北农林科技大学青年学术骨干支持计划，2010～2012，20万元，主持人</p>
+
+<p>　　6.&nbsp;良种奶牛精子低损伤冷冻关键技术研究与示范（2011K01-04），陕西省农业攻关项目，2011～2012，3万元，主持人</p>
+
+<p>　　7. 奶牛高活力冻精生产关键技术中试与示范（2010GB2G000466），科技部中国农村技术开发中心，2010～2012，50万元，子项目主持人</p>
+
+<p>　　8. 陕西省肉牛工程技术研究中心（2010ZDGC-01），陕西省“13115”科技创新工程计划项目，2010～2012，6万元，子项目主持人</p>
+
+<p>　　9. 猪人工授精关键技术研究与示范，洛川生猪试验示范基地，2016～2020，30万元，子项目主持人</p>
+
+<p>　　10. 奶牛优质冻精生产关键技术集成与转化，2016陕西省农业科技创新转化项目，2016～2017，18万元，子项目主持人</p>
+
+<p>　　</p>
+
+<p>　　参加项目：</p>
+
+<p>　　1. 国家生猪产业技术体系（CARS-36），农业部产业技术体系，2016-2020，350万元，第一参加人</p>
+
+<p>　　2. 陕西省现代奶牛产业技术体系，陕西省农业厅，2016～2020，150万元，奶牛繁殖技术岗位负责人</p>
+
+<p>　　3. 国家肉牛牦牛产业技术体系（CARS-38），农业部产业技术体系，2011～2015，350万元，第二参加人</p>
+
+<p>　　4. 种公畜精液保存与利用新技术研究与产品开发（2011BAD19B04-3），&nbsp;“十二五”农村领域国家科技计划，42万元，2011～2013，第一参加人</p>
+
+<p>　　5. 良种奶牛高效繁育关键技术研究与产业化示范（2011 NXC 01-11），陕西省农业科技创新项目，2011～2012，10万元，第二参加人</p>
+
+<p>　　6. 良种公猪精子低损伤冷冻关键技术研究与示范（NC1118（1）），西安市科技创新支撑计划，2011～2013，5万元，第一参加人</p>
+
+<p>　　7. 优质转基因肉羊新品种培育（2008ZX08008-003-01），转基因生物新品种培育重大专项，2009～2011年，60万元，第三参加人</p>
+
+<p>　　8. 秦川肉牛分子细胞工程育种技术创新与优势性状新品系培育（PY200901），西北农林科技大学2009年基本科研业务费专项资金，2009～2011年，25万元，第三参加人</p>
+
+<p>　　主要论著</p>
+
+<p>　　1．期刊论文</p>
+
+<p>　　[1] &nbsp;X-G Zhang, G-J Yan, J-Y Hong, Z-Z Su, G-S Yang, Q-W Li and J-H Hu. Effects of Bovine Serum Albumin on Boar Sperm Quality During Liquid Storage at 17 °C. Reproduction in Domestic Animals, 2015,50:263-269.</p>
+
+<p>　　[2]&nbsp;&nbsp;Xiao-Gang Zhang, Shan Hu, Cong Han, Qing-Chao Zhu, Guan-Jie Yan, Jian-Hong Hu. Association of heat shock protein 90 with motility of post-thawed sperm in bulls. Cryobiology, 2015,70:164-169.</p>
+
+<p>　　[3] &nbsp;Xiao-Gang Zhang, Yan-Hua Wang, Cong Han, Shan Hu, Li-Qiang Wang,&nbsp;Jian&nbsp;-Hong Hu.Effects of trehalose supplementation on cell viability and oxidative stress variables in frozen-thawed bovine calf testicular tissue. Cryobiology, 2015,70:&nbsp;246&nbsp;-252.</p>
+
+<p>　　[4] &nbsp;X.-G. Zhang, J.-Y. Hong, G.-J. Yan, Y.-F. Wang, Q.-W. Li, J.-H. Hu. Association of heat shock protein 70 with motility of frozen-thawed sperm in bulls. Czech Journal of Animal Science, 2015, 60(6): 256-262.</p>
+
+<p>　　[5]&nbsp;&nbsp;Hu Shan, Zhang Xiao-gang, Han Cong, Wei Shuai-yi, Xie Dong-qi, Du Ren-rang, Hu Jian-hong. Effects of Three Different Diluents on Quality of Boar Semen Stored at 17℃. Journal of Northeast Agricultural University (English Edition), 2015, 22(2):36-46.</p>
+
+<p>　　[6] &nbsp;S. Hu, Q.-C. Zhu, C. Han, X.-G. Zhang, B. Y. Song, D.-Q. Xie, S.-Y. Wei, J.-H. Hu. Effects of different cryoprotectants on the cryopreservation of cattle testicular tissue. Archives Animal Breeding, 2015, 58: 433-439.</p>
+
+<p>　　[7] &nbsp;Peng Wang, Li-Juan Suo, Hua Shang, Ying Li, Guang-Xuan Li, Qing-Wang Li, Jian-Hong Hu. Differentiation of spermatogonial stem cell-like cells from murine testicular tissue into haploid male germ cells in vitro. Cytotechnology,2014, 66:365–372.</p>
+
+<p>　　[8] &nbsp;Wang Peng, Suo Li-Juan, Wang Yan-Feng, Shang Hua, Li Guang-Xuan, Hu Jian-Hong, Li Qing-Wang. Effects of GDNF and LIF on mouse spermatogonial stem cells proliferation in vitro.Cytotechnology, 2014, 66:309-316.</p>
+
+<p>　　[9]&nbsp;&nbsp;Peng Wang, Yan-Feng Wang, Hong Wang, Chun-Wei Wang, Lin-Sen Zan, Jian-&nbsp;Hong Hu, Qing-Wang Li, Yong-Hong Jia and Guo-Ji Ma. HSP90 expression correlation with the freezing resistance of bull sperm. Zygote, 2014, 22:239-245.</p>
+
+<p>　　[10] &nbsp;Peng Wang, Ying Li, Xiao-chen Hu, Xiao-Li Cai, Li-Peng Hou, Yan-Feng Wang, Jian-Hong Hu,Qing-Wang Li, Li-Juan Suo, Zhi-Guo Fan and Bo Zhang. Cryoprotective effects of low-density lipoproteins, trehalose and soybean lecithin on murine spermatogonial stem cells. Zygote, 2014,22:158-163.</p>
+
+<p>　　[11] &nbsp;Peng Wang, Yan-Feng Wang, Chun-Wei Wang, Shu-Hai Bu, Jian-Hong Hu,&nbsp;Qing-Wang Li, Wei-Jun Pang and Gong-She Yang. Effects of low-density lipoproteins extracted from different avian yolks on boar spermatozoa quality following freezing–thawing.Zygote, 2014,22:175-181.</p>
+
+<p>　　[12] &nbsp;Wang Peng, Zheng Yi,Li Ying, Shang Hua, Li Guang-Xuan,Hu Jian-Hong, Li Qing-Wang. Effects of testicular interstitial fluid on the proliferation of the mouse spermatogonial stem cellsin vitro. Zygote, 2014,22:395-403.</p>
+
+<p>　　[13]&nbsp;&nbsp;Hu Jian-Hong, Wen-Chang Zhang, Peng Wang, Zhi-Guo Fan, Zhong-Liang Jiang, Qing-Wang Li, Huai-Ping Shi, Yu Liu, Jin-Xin Mo and Zhe Qiang. Effects of growth-promoting factors on proliferation of mouse spermatogonial stem cells (SSCs) in vitro . African Journal of Biotechnology. 2012, 11 (14): 3482-3489.</p>
+
+<p>　　[14] &nbsp;J.-H. Hu,&nbsp;X.-L. Zhao, W.-Q. Tian, L.-S. Zan and Q.-W. Li. Effects of vitamin E supplementation in the extender on frozen-thawed bovine semen preservation. Animal. 2011, 5: 107-112.</p>
+
+<p>　　[15] &nbsp;J-H Hu,&nbsp;W-Q Tian, X-L Zhao, L-S Zan, Y-P Xin, Q-W Li. The Cryoprotective Effects of Vitamin B12 Supplementation on Bovine Semen Quality. Reproduction in Domestic Animals. 2011, 46: 66-73.</p>
+
+<p>　　[16] &nbsp;Jian-Hong Hu, Zhong-Liang Jiang, Rui-Kai Lv, Qing-Wang Li, Shu-Shan Zhang, Lin-Sen Zan,Yao-Kun Li, Xin Li. The advantages of low-density lipoproteins in the cryopreservation of bull semen. Cryobiology. 2011, 62:83-87.</p>
+
+<p>　　[17] &nbsp;J.-H. Hu, L.-S. Zan, X.-L. Zhao, Q.-W. Li, Z.-L. Jiang, Y.-K. Li and X. Li. Effects of trehalose supplementation on semen quality and oxidative stress variables in frozen-thawed bovine semen. Journal of Animal Science. 2010, 88: 1657-1662.</p>
+
+<p>　　[18] &nbsp;Jian-Hong Hu, Wan-Qiang Tian, Xian-Lin Zhao, Lin-Sen Zan, Hui Wang, Qing-Wang Li, Ya-Ping Xin. The cryoprotective effects of ascorbic acid supplementation on bovine semen quality. Animal Reproduction Science. 2010,121: 72–77.</p>
+
+<p>　　[19] &nbsp;Jian-Hong Hu, Qing-Wang Li, Lin-Sen Zan, Zhong-Liang Jiang, Jun-Hui An, Li-Qiang Wang, Yong-Hong Jia. The cryoprotective effect of low-density lipoproteins in extenders on bull spermatozoa following freezing–thawing. Animal Reproduction Science. 2010, 117: 11-17.</p>
+
+<p>　　[20] 苏泽智，李亚新，魏海燕，雷佳琦，刘琦，朱林炜，慕勇，李丰隆，何锦，杨公社，胡建宏. 稀释粉对猪精液常温保存效果的研究.家畜生态学报，2015，36（1）：59-62.</p>
+
+<p>　　[21] 朱林炜，李丰隆，何锦，苏泽智，刘琦，袁博，李亚新，杨公社，胡建宏.&nbsp;稀释液中添加SOD对猪精液常温保存效果的影响.中国畜牧杂志，2015，51（1）：24-27.</p>
+
+<p>　　[22] 刘琦，苏泽智，王乐，冉舒文，李亚新，雷佳琦，胡亚美，曹师瑜，杨公社，胡建宏.谷胱甘肽对猪精液常温保存效果的影响.畜牧与兽医，2015，47（6）：59-62.</p>
+
+<p>　　[23] 王立强，苏泽智，彭峰，王丽，杨公社，胡建宏. 影响母猪产仔数和初生重的因素分析. 家畜生态学报，2015，36（4）：53-56.</p>
+
+<p>　　[24] 何锦，刘琦，苏泽智，朱林炜，杨公社，胡建宏.Sch B对猪精液常温保存效果的影响.中国畜牧杂志，2015，51（15）：24-27，28.</p>
+
+<p>　　[25] 张卫艺，洪洁赘，吕妍，扶晓波，郭秋平，赵军，胡建宏.犊牛精原干细胞的分离纯化与鉴定.中国畜牧杂志，2015，51（17）：23-26.</p>
+
+<p>　　[26] 刘玉，莫金鑫，洪洁赟，张雅卿，李青旺，杨公社，胡建宏. 牛血清白蛋白对猪精液常温保存效果的影响. 西北农业学报，2013，22（9）：24-28.</p>
+
+<p>　　[27] 胡建宏，刘玉，苏泽智，慕勇，李青旺，杨公社. 影响猪精液常温保存效果的因素分析. 畜牧与兽医，2013，45（12）：115-117.</p>
+
+<p>　　[28] 贾永宏，马国际，王春伟，洪洁赘，胡建宏. 抗氧化剂对家畜精液冷冻保存的应用研究进展. 家畜生态学报，2013，34（1）：78-81.</p>
+
+<p>　　[29] 李艳艳，胡建宏，雷静，曲立立，赵健玲. 牛妊娠相关糖蛋白ELISA对早期妊娠诊断效果的影响. 家畜生态学报，2013，34（3）：54-57.</p>
+
+<p>　　[30] 高永利，胡建宏.关于延安市奶业发展的思考. 家畜生态学报，2013，34（3）：78-81.</p>
+
+<p>　　[31] 王春伟，高璞，苏泽智，李青旺，杨公社，胡建宏. 冷冻保护剂对猪精液的冷冻保护作用. 家畜生态学报，2013，34（7）：88-90.</p>
+
+<p>　　[32] 刘万军，胡建宏.陕西畜牧产业现状、存在问题与发展对策研究. 家畜生态学报，2013，34（8）：82-85.</p>
+
+<p>　　[33] 王春伟，扶晓波，吕妍，赵军，郭秋萍，张卫艺，胡建宏. 牛精原干细胞研究进展. 家畜生态学报，2013，34（10）：6-9.</p>
+
+<p>　　[34] 王红，王艳凤，王春伟，胡建宏，李青旺. HSP90蛋白表达量与牛精子抗冻性关系研究.西北农林科技大学学报（自然科学版），2012，40（5）：31-37.</p>
+
+<p>　　[35] 索丽娟，胡建宏，王鹏，洪洁赟，王春伟, 李青旺, 史怀平.GDNF和LIF对小鼠精原干细胞体外增殖的影响.西北农林科技大学学报（自然科学版），2012，40（4）：1-3.</p>
+
+<p>　　[36] 洪洁赟，刘玉，莫金鑫，王立强，李青旺，侯丽鹏，胡建宏.不同稀释液对猪精液常温保存效果的影响.西北农业学报，2012，21（9）：10-14.</p>
+
+<p>　　[37] 侯丽鹏，王 鹏，马玲琴，李青旺，王艳凤，胡建宏.不同常温保存稀释液对猪精液保存效果的影响.中国畜牧杂志，2012，48（17）：23-26.</p>
+
+<p>　　[38] 侯丽鹏，石芳萍，卜书海，李青旺，胡建宏.鸵鸟卵黄低密度脂蛋白对猪精子冻后品质的影响. 中国畜牧杂志，2012，48（13）：19-22.</p>
+
+<p>　　[39] 索丽娟，凡志国，胡建宏，解广勤，刘玉，莫金鑫，强者.哺乳动物精原干细胞研究进展.畜牧与兽医，2012，44（2）：92-96.</p>
+
+<p>　　[40] 王丽慧，胡建宏.盐池县滩羊产业现状及发展建议.家畜生态学报，2012，33（4）：113-115.</p>
+
+<p>　　[41] 吕瑞凯，胡建宏，王红，程亮，江中良，李青旺，姚俊，张鹏飞.5种禽类卵黄低密度脂蛋白对猪精子冷冻效果的影响. 西北农业学报，2011，20（9）：5-10.</p>
+
+<p>　　2．专著</p>
+
+<p>　　[1] 郭春华主编，胡建宏参编.常用统计软件在生命科学中的应用（普通高等教育“十二五” 规划教材），北京：科学出版社，41万字，2011年2月</p>
+
+<p>　　[2] 李青旺、胡建宏主编.动物生殖免疫学，杨凌：西北农林科技大学出版社，67.8万字，2011年9月</p>
+
+<p>　　[3]&nbsp;李青旺主编，胡建宏参编.动物繁殖技术（全国高等农林院校“十一五” 规划教材），&nbsp;北京：中国农业出版社，65.8万字，2010年6月</p>
+
+<p>　　3．奖励</p>
+
+<p>　　[1] 肉牛奶牛遗传改良与种质创新团队，中华农业科技奖——优秀创新团队奖（等同于科研成果一等奖），2015，排名5</p>
+
+<p>　　[2]&nbsp;《动物繁殖学》开放式创新性教学模式的建立与应用，陕西省细胞生物学学会教学论文，优秀奖，2013，排名1</p>
+
+<p>　　[3] 奶牛性控关键技术研究集成与示范应用（13-1-06-R4），杨凌示范区科学技术奖，一等奖，2013，排名4</p>
+
+<p>　　[4] 猪、牛配子与胚胎高效利用技术研究与示范，陕西省人民政府，陕西省科学技术奖，贰等奖，2012，排名3</p>
+
+<p>　　[5] 奶牛优质高效产业化配套技术体系研究与示范,国家农业部中华农业科技奖,一等奖，2011，排名8</p>
+
+<p>　　[6] 动物繁殖学实践教学方法与手段改革，校级教学成果奖，二等奖，2011，排名1</p>
+
+<p>　　[7] LDL对牛冷冻精液品质的影响，中国奶业协会“三生杯”，优秀论文奖，2011，排名1</p>
+
+<p>　　4. 专利</p>
+
+<p>　　[1]&nbsp;胡建宏，洪洁赟，王春伟，张小刚，朱庆超，张卫艺，吕妍，郭秋平，赵军，李青旺，贾永宏. 一种哺乳动物睾丸组织冷冻保存抗冻剂及冷冻-解冻方法，2016.05.18，中国，授权号：ZL 201410190831.X</p>
+
+<p>　　[2] 胡建宏，刘琦，苏泽智，何锦，朱林炜，李亚新，王立强，杨公社，梁国栋，贾永宏.五味子乙素用于制备猪精液保存用稀释液的应用，2015.03.12，中国，受理号：201510109846.3</p>
+
+<p>　　[3] 梁国栋，胡建宏，马云会，谢东淇，卫帅毅，刘琦，王立强，杨公社，贾永宏.牛磺酸用于制备猪精液保存用稀释液的应用，2015.10.29，中国，受理号：201510711930.2</p>
+
+<p>　　[4] 胡建宏，凡志国，索丽娟，王红，洪洁赟，江中良，史怀平，李青旺，刘玉.用于动物精原干细胞冷冻保存的抗冻剂及其方法，2014.04.16，中国，授权号：ZL 201110124683.8</p>
+
+<p>　　[5] 胡建宏，王鹏，侯丽鹏，李青旺，洪洁赟，王春伟，张波，王娇，凡志国. 一种用于动物精原干细胞体外增殖的培养体系和使用方法，2013.06.26，中国，授权号：ZL 201210120136.7</p>
+
+<p><strong>　　5．联系方式</strong></p>
+
+<p>　　通讯地址：陕西杨凌西农路22号&nbsp;西北农林科技大学动物科技学院</p>
+
+<p>　　邮编：712100</p>
+
+<p>　　联系电话：15802906228</p>
+
+<p>　　Email: hjh19732008@126.com</p>
+
+<p>　　</p>
+
+				</div>
+
+
+
+
+		</div>
+	
+	</div>
+	<div style="clear:both;"></div>
+</div>
+<!--articlehome结束-->
+
+<script src="/cms/web/writeLog.jsp?articleID=217712"></script>
+<!--foot开始-->
+
+<div class="foot">
+	<div style="width:105px;float:left;  margin-top: 30px;
+  padding-left: 103px;;">
+						<p style="text-align: center;"><a href="../../sydbwxewm/297978.htm" target="_blank" title="西北农林科技大学动物科技学院微信公众平台"><img src="../../images/content/2016-03/20160329200002940113.jpg" width="40" height="40" border="0"></a></p>
+						 		
+		<!--<p style="text-align:center;;margin-top:10px;"><a href="/sydbwxewm/297978.htm" target="_blank" title="$article.name">动科学院微信平台</a></p>-->
+	</div>
+	<div style="float:left;">
+		<p style="text-align:center;padding-top:30px;">版权所有 :  西北农林科技大学动物科技学院&nbsp;&nbsp;
+地址：陕西省杨凌农业高新技术产业示范区西农路22号&nbsp;&nbsp;&nbsp;邮编：712100 </p>
+		<p style="text-align:center;padding-top:10px;">主管领导：王力  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;网管员：阮鹏<font style="color:#FF6600"> &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;总访问量：<script src="/cms/web/channelVisitLog.jsp?channelID=3352"></script>234788次</font></p>
+	</div>
+	<script src="/cms/web/writeLog.jsp?siteID=77&amp;channelID=3352"></script>
+</div>
+
+<!--foot结束-->
+
+
+ 
+</body></html>

@@ -1,0 +1,752 @@
+<html><head><title>余惠琼-重邮经济管理学院</title>
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="ie=7" http-equiv="x-ua-compatible"><link rel="stylesheet" type="text/css" href="../../images/style.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230747847565353544203050002 -->
+<link rel="stylesheet" type="text/css" href="../../nry.vsb.css">
+<meta name="keywords" content="重庆邮电大学,经管,经济管理学院,教师介绍">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1057,'/nry.jsp',1073,1358372333)</script>
+</head>
+<body>
+<table width="1000" height="123" cellspacing="0" cellpadding="0" background="../../images/bannerbg.jpg" align="center">
+<tbody>
+<tr>
+<td valign="top" align="left"></td>
+<td valign="bottom" align="right"></td><td valign="top" align="left"><img src="../../images/top.png" width="1000" height="200"></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="1000" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td><img src="../../images/menubgleft.gif"></td>
+<td width="979" background="../../images/menubgcenter.gif">
+<table width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td colspan="2" height="41" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="41132"--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;FONT-WEIGHT: bold;}
+span.s2_0_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_0_{FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 11pt;FONT-WEIGHT: bold;}
+span.s20_0_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<script language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</script>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<table id="t1_0_" width="970" height="0" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="center"></td><td class="b1_0_" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')" width="0" valign="middle" height="0" nowrap="" align="center"><a class="menu0_0_" href="../../index.htm" target="_blank"><span class="fontstyle41132">&nbsp;首页&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1041" onmouseover="tshowLayers('1041','b2_0_', '_0_')" onmouseout="thideLayers('1041','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1041" target="_blank"><span class="fontstyle41132">&nbsp;学院介绍&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1042" onmouseover="tshowLayers('1042','b2_0_', '_0_')" onmouseout="thideLayers('1042','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1042" target="_blank"><span class="fontstyle41132">&nbsp;师资队伍&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1043" onmouseover="tshowLayers('1043','b2_0_', '_0_')" onmouseout="thideLayers('1043','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1043" target="_blank"><span class="fontstyle41132">&nbsp;本科教育&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1044" onmouseover="tshowLayers('1044','b2_0_', '_0_')" onmouseout="thideLayers('1044','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1044" target="_blank"><span class="fontstyle41132">&nbsp;研究生教育&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1045" onmouseover="tshowLayers('1045','b2_0_', '_0_')" onmouseout="thideLayers('1045','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1045" target="_blank"><span class="fontstyle41132">&nbsp;学术科研&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1046" onmouseover="tshowLayers('1046','b2_0_', '_0_')" onmouseout="thideLayers('1046','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1046" target="_blank"><span class="fontstyle41132">&nbsp;学生工作&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1047" onmouseover="tshowLayers('1047','b2_0_', '_0_')" onmouseout="thideLayers('1047','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1047" target="_blank"><span class="fontstyle41132">&nbsp;建党工作&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1048" onmouseover="tshowLayers('1048','b2_0_', '_0_')" onmouseout="thideLayers('1048','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1048" target="_blank"><span class="fontstyle41132">&nbsp;招生信息&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1049" onmouseover="tshowLayers('1049','b2_0_', '_0_')" onmouseout="thideLayers('1049','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1049" target="_blank"><span class="fontstyle41132">&nbsp;合作交流&nbsp;</span></a></td><td class="leaderfont41132" valign="center"><img src="../../images/fenge.gif" border="0"></td><td class="b1_0_" id="a_0_1050" onmouseover="tshowLayers('1050','b2_0_', '_0_')" onmouseout="thideLayers('1050','b1_0_', '_0_','true','true')" width="0" valign="middle" nowrap="" align="center"><a class="menu0_0_" href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1050" target="_blank"><span class="fontstyle41132">&nbsp;资源下载&nbsp;</span></a></td></tr></tbody></table><!--#endeditable--></td></tr>
+<tr>
+<td height="33"><!--#begineditable contype="" name="最新新闻" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="最新新闻" viewid="40970"-->
+<table><tbody><tr><td>
+            
+
+            <marquee direction="left" scrollamount="2" scrolldelay="10" onmouseover="this.stop()" onmouseout="this.start()" width="700" height="16">
+                <span class="mtitlestyle40970">最新消息：</span>
+                <span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/2026.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                “迎新杯”篮球总决赛新闻稿</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/2025.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                浪潮集团重庆分公司到我院洽谈产学研合作</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/2009.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                经济管理学院团总支学生会召开干部述职大会</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/2000.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                宣传部第二次例会</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/1999.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                宣传部第一次例会</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/1995.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                办公室第一次例会新闻稿</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/1993.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                办公室第二次例会新闻稿</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/1992.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                体育部第二次例会</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/1991.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                体育部第一次例会</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="leaderfont40970">
+                ·
+                </span>
+                            
+                            <a href="../1087/1990.htm" target="_blank" style="TEXT-DECORATION: none"><span class="titlestyle40970">
+                                经济管理学院协会招新活动圆满完成</span></a> 
+                                <span>
+                                    
+                                    </span>&nbsp;&nbsp;
+                                <span class="timestyle40970"></span>
+                                </marquee>
+</td></tr></tbody></table><!--#endeditable--></td>
+<td width="220" align="right"><!--#begineditable contype="" name="全文检索" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="全文检索" viewid="41025"--><script language="javascript" src="/system/resource/js/base64.js"></script> 
+<script language="javascript" src="/system/resource/js/formfunc.js"></script> 
+<script type="text/javascript">
+function checksearch41025(type){
+        var keyword = document.getElementById('showkeycode41025').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword41025").value = Simplized(keyword );
+        }else
+        {
+        	document.getElementById("lucenenewssearchkeyword41025").value = keyword;            
+        }
+        document.getElementById('_lucenesearchtype41025').value=1;
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword41025").value = base64.encode(document.getElementById("lucenenewssearchkeyword41025").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode41025"));
+        return true;
+    } 
+
+</script>
+<form action="../../ssjgy.jsp?wbtreeid=1057" method="post" id="searchform41025" name="searchform41025" onsubmit="return checksearch41025(1)" style="display: inline">
+  <input id="lucenenewssearchkeyword41025" name="lucenenewssearchkeyword" value="" type="hidden">
+  <input id="_lucenesearchtype41025" name="_lucenesearchtype" value="" type="hidden">
+  <input id="searchScope" name="searchScope" value="0" type="hidden">
+ <table width="100%" cellspacing="0" cellpadding="3" border="0" align="center">
+  <tbody><tr>
+   <td><span></span></td><td width="1%" nowrap="" align="right"><input name="showkeycode" id="showkeycode41025" class="querystyle41025"></td>
+                 <td align="left">
+                
+    <input src="/system/resource/images/research/seach22.gif" style="cursor: hand" type="image" align="absmiddle">
+    
+   </td>
+  </tr>
+ </tbody></table>
+</form><!--#endeditable--></td></tr></tbody></table></td>
+<td><img src="../../images/menubgright.gif"></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="1000" height="7" align="center">
+<tbody>
+<tr>
+<td></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="1000" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="270" valign="top" align="center">
+<table class="graytable" width="258" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="10" height="34" background="../../images/tzggbg.gif"></td>
+<td width="18" background="../../images/tzggbg.gif" align="left"><img src="../../images/inco2.gif"></td>
+<td width="230" background="../../images/tzggbg.gif" align="left"><!--#begineditable contype="" name="装饰文字1" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="装饰文字1" viewid="41134"--><span class="titlestyle41134"></span><!--#endeditable--></td></tr>
+<tr>
+<td class="padd10" colspan="5" valign="top" height="229" align="left"><!--#begineditable contype="" name="通知公告" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="通知公告" viewid="41149"-->
+<div id="scrollupjsu4js" style="OVERFLOW: hidden; WIDTH: 200px; HEIGHT: 220px">
+    <div id="scrollup1jsu4js" style="height: 220px;"><br>
+        <table>
+        
+            <tbody><tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1818.htm" title="经济管理学院学术讲座（2017年第8期）——零售业态下个别产品的消费计划如何影响消费者支出：基于多变量Tobit模型" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术讲座（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1789.htm" title="经济管理学院学术讲座（2017年第7期）——Supply Chain Analytics – Theory and Applications" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术讲座（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1771.htm" title="经济管理学院学术活动（2017年第6期）——重庆邮电大学信息技术创新与知识经济管理创新团队学术沙龙" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术活动（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1740.htm" title="经济管理学院学术讲座（2017年第5期）——An empirical investigation of the effects of discrete emotions on employee computer-related deviant behaviors" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术讲座（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1739.htm" title="经济管理学院学术讲座（2017年第4期）——从星际迷航到机器人" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术讲座（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1686.htm" title="图书馆开通《Derwent Innovations Index德温特专利创新索引》数据库的通知" target="_blank">
+                    <span class="titlestyle41149">图书馆开通《Derwent Innov...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1685.htm" title="关于举办重庆市第三届大学校长摄影联展的通知" target="_blank">
+                    <span class="titlestyle41149">关于举办重庆市第三届大学...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1684.htm" title="关于发布学院新logo的通知" target="_blank">
+                    <span class="titlestyle41149">关于发布学院新logo的通知</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1683.htm" title="关于试用中国高等学校教学资源网CCTR公共教学资源（素材）库、试题库的通知" target="_blank">
+                    <span class="titlestyle41149">关于试用中国高等学校教学...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+        </tbody></table>
+    </div>
+    <div id="scrollup2jsu4js" style="height: 220px;"><br>
+        <table>
+        
+            <tbody><tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1818.htm" title="经济管理学院学术讲座（2017年第8期）——零售业态下个别产品的消费计划如何影响消费者支出：基于多变量Tobit模型" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术讲座（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1789.htm" title="经济管理学院学术讲座（2017年第7期）——Supply Chain Analytics – Theory and Applications" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术讲座（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1771.htm" title="经济管理学院学术活动（2017年第6期）——重庆邮电大学信息技术创新与知识经济管理创新团队学术沙龙" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术活动（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1740.htm" title="经济管理学院学术讲座（2017年第5期）——An empirical investigation of the effects of discrete emotions on employee computer-related deviant behaviors" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术讲座（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1739.htm" title="经济管理学院学术讲座（2017年第4期）——从星际迷航到机器人" target="_blank">
+                    <span class="titlestyle41149">经济管理学院学术讲座（201...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1686.htm" title="图书馆开通《Derwent Innovations Index德温特专利创新索引》数据库的通知" target="_blank">
+                    <span class="titlestyle41149">图书馆开通《Derwent Innov...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1685.htm" title="关于举办重庆市第三届大学校长摄影联展的通知" target="_blank">
+                    <span class="titlestyle41149">关于举办重庆市第三届大学...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1684.htm" title="关于发布学院新logo的通知" target="_blank">
+                    <span class="titlestyle41149">关于发布学院新logo的通知</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont41149">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="../1089/1683.htm" title="关于试用中国高等学校教学资源网CCTR公共教学资源（素材）库、试题库的通知" target="_blank">
+                    <span class="titlestyle41149">关于试用中国高等学校教学...</span></a>
+                    
+                    <span class="timestyle41149"></span>
+                    <span></span>
+                </td>
+                <td style="padding:0px;border:0px;visibility:hidden" width="1"><span class="titlestyle41149" style="width:1px"></span></td>
+                </tr>
+        
+        </tbody></table>
+    </div>
+</div>
+<script> 
+    function scrollupMarqueejsu4js()
+    { 
+        try
+        {
+            var scrollup = document.getElementById("scrollupjsu4js");
+            var scrollup1 = document.getElementById("scrollup1jsu4js");
+    
+            //滚动到头继续滚
+            if(scrollup.scrollTop + scrollup.clientHeight == scrollup.scrollHeight)
+            {
+                scrollup.scrollTop-=scrollup1.clientHeight-1; 
+            }
+            else
+            {
+                scrollup.scrollTop++;
+            }
+            
+        } 
+        catch(e)
+        {
+        }
+    } 
+    var scrollupMyMarjsu4js;
+    function scrollupfunjsu4js()
+    {
+        var speed = 30; 
+        var scrollup = document.getElementById("scrollupjsu4js");
+        var scrollup1 = document.getElementById("scrollup1jsu4js");
+        var scrollup2 = document.getElementById("scrollup2jsu4js");
+        
+        scrollup2.innerHTML=scrollup1.innerHTML;
+        
+        if(scrollup1.scrollHeight == 0 || scrollup1.scrollHeight < 220)
+        {
+            scrollup1.style.height="220px";
+        }
+        else
+        {
+            scrollup1.style.height=scrollup1.scrollHeight + "px";
+        }
+
+        if(scrollup2.scrollHeight == 0 || scrollup2.scrollHeight < 220)
+        {
+            scrollup2.style.height="220px";
+        }
+        else
+        {
+            scrollup2.style.height=scrollup2.scrollHeight + "px";
+        }
+    
+        scrollupMyMarjsu4js=setInterval(scrollupMarqueejsu4js,speed); 
+        scrollup.onmouseover=function() {clearInterval(scrollupMyMarjsu4js)} 
+        scrollup.onmouseout=function() {scrollupMyMarjsu4js=setInterval(scrollupMarqueejsu4js,speed)} 
+    }
+    window.setTimeout(scrollupfunjsu4js, 0);
+</script><!--#endeditable--></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="258" height="5" align="center">
+<tbody>
+<tr>
+<td></td></tr></tbody></table>
+<table class="graytable" width="258" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="10" height="32" background="../../images/tzggbg.gif"></td>
+<td width="18" background="../../images/tzggbg.gif" align="left"><img src="../../images/inco2.gif"></td>
+<td class="title1" width="176" background="../../images/tzggbg.gif">院内下载</td>
+<td width="44" background="../../images/tzggbg.gif"><a href="<span style='color:red;font-size:9pt'>转换链接错误</span>" target="_blank"><img src="../../images/more.gif" width="44" hspace="0" height="13" border="0"></a></td>
+<td width="10" background="../../images/tzggbg.gif"></td></tr>
+<tr>
+<td class="padd10" colspan="5" valign="top" height="220" align="left"><!--#begineditable contype="" name="院内下载" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="院内下载" viewid="41146"--><table width="100%" cellspacing="0" cellpadding="0">
+  
+<tbody><tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="../1083/1554.htm" class="c41146" title="经济管理学院系（实验中心）经费报销审批单" target="_blank">
+        经济管理学院系（实验中心）...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="../1083/1553.htm" class="c41146" title="经管学院精品资源课程集成网" target="_blank">
+        经管学院精品资源课程集成网
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="../1083/1552.htm" class="c41146" title="学院用印申请单" target="_blank">
+        学院用印申请单
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="../1083/1551.htm" class="c41146" title="中央与地方共建实验室立项论证报告" target="_blank">
+        中央与地方共建实验室立项论...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="../1083/1550.htm" class="c41146" title="2008届毕业设计相关要求" target="_blank">
+        2008届毕业设计相关要求
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>  
+<tr><td width="10" valign="middle" nowrap="" align="center"><span class="leaderfont41146">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="../1083/1549.htm" class="c41146" title="教学资源网信息" target="_blank">
+        教学资源网信息
+        </a>
+        
+        
+        
+            </td>
+        
+        <td class="timestyle41146" width="1%" valign="middle" nowrap="" align="right"></td></tr>
+</tbody></table><!--#endeditable--></td></tr></tbody></table></td>
+<td width="720" valign="top" align="center">
+<table class="graytable" width="720" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="10" height="31" background="../../images/newsbg.gif"></td>
+<td width="28" background="../../images/newsbg.gif" align="left"><img src="../../images/inco1.gif"></td>
+<td class="title1" width="368" background="../../images/newsbg.gif">文章内容页</td>
+<td style="padding-right: 0px;margin-right: 0px" width="304" background="../../images/newsbg.gif" align="right"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="当前位置" viewid="41137"-->  
+<table class="winstyle41137" cellspacing="0" cellpadding="0"><tbody><tr><td nowrap="">当前位置：   
+<a href="../../index.htm" target="_blank"><span class="fontstyle41137">首页</span></a><span class="splitflagstyle41137">&gt;&gt;</span><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1042" target="_blank"><span class="fontstyle41137">师资队伍</span></a><span class="splitflagstyle41137">&gt;&gt;</span><a href="../../list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1057" target="_blank"><span class="fontstyle41137">教师介绍</span></a><span class="splitflagstyle41137">&gt;&gt;</span><span class="fontstyle41137">正文</span></td></tr></tbody></table><!--#endeditable--></td>
+<td width="10" background="../../images/newsbg.gif"></td></tr>
+<tr>
+<td colspan="5" style="padding-bottom: 10px;padding-left: 20px;padding-right: 10px;padding-top: 20px" valign="top" height="510" align="left">
+<p><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="文章内容" viewid="41144"-->
+
+<link href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+</style>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1073,"1358372333","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+
+</p><form name="form41144a">
+<table class="winstyle41144" width="100%" cellspacing="0" cellpadding="0" border="0">
+
+      <tbody><tr><td class="titlestyle41144" align="center">
+余惠琼
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle41144">
+                 2016-05-25 00:00</span>
+            <span class="authorstyle41144">邓维斌&nbsp;
+            
+            
+            </span>
+            
+                <span class="wb_content">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+
+      <tr><td class="contentstyle41144">
+        <div class="c41144_content" id="vsb_newscontent"><div id="vsb_content">
+           <p class="vsbcontent_img"><img src="/__local/2/15/B1/84A7C6C72B37B3C1AC3802ADD9B_5D90CAC7_19F7F.jpg?e=.jpg" style="width: 164px;" width="206" height="386"></p>
+<p class="vsbcontent_end">余惠琼，女，汉族，四川乐山人，1971年10月生，文学硕士，副研究员。1995年3月加入中国共产党，1995年7月参加工作， 2016年4月起任重庆邮电大学经济管理学院党委副书记。1995年7月毕业于四川师范学院汉语言文学教育专业，2001年9月至2004年6月，西南师范大学文学院现当代文学专业攻读在职硕士，获文学硕士学位。曾任重庆邮电大学无线系、通信学院辅导员，经管学院团总支书记，外国语学院党总支副书记，重邮信科集团党委副书记、信科技术有限公司党总支书记兼副总经理等职。主要从事高校学生思想政治教育研究与管理工作，先后在《学校党建与思想教育》、《思想理论教育》、《中国青年研究》、《黑龙江高教研究》等刊物上发表论文30余篇，主持或参与《网络传播与重庆市高校素质教育研究》等国家、省部级、校级科研课题10余项，参编《学生服务学生事务专业手册》、《中国文学阅读与赏析》等著作5部。先后承担本科生、留学生、自考生的《大学生就业指导》、《大学语文》、《对外汉语教程》等课程教学。带领学生工作团队在年度目标考核中连年名列前茅，个人多次获得“优秀辅导员”、“优秀学生工作者”、“优秀共产党员”等荣誉称号。</p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle41144" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="left"><span>
+             
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span class="footclose41144">【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span class="footclose41144">关闭窗口</span></a><span class="footclose41144">】</span>
+      </td></tr>
+
+</tbody></table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba41144a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--><p></p>
+<p>&nbsp;</p></td></tr></tbody></table></td></tr></tbody></table>
+<table style="background-color: #ffffff" width="1000" height="7" align="center">
+<tbody>
+<tr>
+<td></td></tr></tbody></table>
+<table width="990" height="99" cellspacing="0" cellpadding="0" background="../../images/footbg.gif" align="center">
+<tbody>
+<tr>
+<td valign="center" align="center"><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="版权" viewid="40979"--><p><span style="font-size: 12px">版权所有：重庆邮电大学经济管理学院 2017-</span></p><!--#endeditable--></td></tr></tbody></table>
+
+
+</body></html>

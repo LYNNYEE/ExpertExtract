@@ -1,0 +1,443 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<title>钱春香</title>
+<meta name="description" content="                              &nbsp;基本信息                                                              &nbsp;姓名:钱春香              &nbsp;性别:女              &nbsp;党派:中共党员              &nbsp;职称:教授          ">
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/89/89.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/2b/43/style/133/133.css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="43"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link href="/_upload/tpl/04/8f/1167/template1167/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="container_page">
+  <div id="head">
+  	<div frag="面板100" style="width:200px; float:right;">
+    	  <div frag="窗口100">
+              
+           </div>
+        </div>
+        <div frag="面板110" style="float:right; text-align:right;">
+             <table height="20px"> 
+                 <tbody><tr>
+                    <td> <a class="logo_nav" href="http://www.seu.edu.cn" target="_blank"> 东南大学主页 </a> </td>
+                    <td class="logo_nav"> |</td>
+                    <td> <a class="logo_nav" href="http://smse.seu.edu.cn/cl_en" target="_blank"> English </a> </td>
+                    <td width="10px"> </td> 
+                 </tr>
+            </tbody></table>
+        </div>
+  </div>
+</div>
+  <div id="nav" frag="面板1">
+    <div frag="窗口1" style="width:1200px; text-align: center; margin: 0 auto">
+      
+<style type="text/css"> 
+#wp_nav_w1 .wp_nav {
+	margin: 0px; padding: 0px; text-align: center; display: block;
+}
+#wp_nav_w1 .wp_nav * {
+	margin: 0px; padding: 0px;
+}
+#wp_nav_w1 .wp_nav::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+#wp_nav_w1 .wp_nav .nav-item {
+	vertical-align: bottom; float: left; display: inline-block; position: relative;
+}
+#wp_nav_w1 .wp_nav .on {
+	z-index: 10;
+}
+#wp_nav_w1 .wp_nav .nav-item .mark {
+	left: 0px; top: 0px; width: 100%; height: 100%; display: block; position: absolute; z-index: 20; opacity: 0.8;
+}
+#wp_nav_w1 .wp_nav .nav-item a {
+	text-align: left; font-size: 16px; display: block; position: relative; z-index: 30;
+}
+#wp_nav_w1 .wp_nav .nav-item a.parent:hover {
+	color: rgb(255, 153, 0); font-size: 16px; background-color: rgb(102, 51, 102);
+}
+#wp_nav_w1 .wp_nav .nav-item a.parent {
+	font-size: 16px; background-color: rgb(102, 51, 102);
+}
+#wp_nav_w1 .wp_nav .nav-item a span.item-name {
+	padding: 5px 29px; line-height: 22px; display: inline-block; cursor: pointer;
+}
+#wp_nav_w1 .wp_nav .sub-nav {
+	border: 0px solid rgb(247, 110, 42); border-image: none; width: 100%; display: block; visibility: hidden; position: absolute; z-index: 40;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item {
+	white-space: nowrap;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item .mark {
+	background-position: 0% 0%; opacity: 0.8; background-attachment: scroll; background-repeat: repeat; background-size: auto; background-origin: padding-box; background-clip: border-box; background-color: rgb(233, 195, 247);
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a {
+	text-align: center; color: rgb(0, 0, 0); font-size: 13px; font-weight: normal; border-top-color: rgb(216, 225, 204); border-top-width: 1px; border-top-style: solid; min-width: 80px;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a.parent:hover {
+	background: rgb(255, 153, 0); color: rgb(242, 245, 247); font-size: 13px;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a.parent {
+	background: rgb(238, 238, 238); color: rgb(242, 242, 242); font-size: 13px;
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a span.item-name {
+	padding: 5px 10px; line-height: 22px;
+}
+#wp_nav_w1 .wp_nav .nav-item a.parent:hover span.item-name {
+	
+}
+#wp_nav_w1 .wp_nav .nav-item a.parent span.item-name {
+	
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a.parent:hover span.item-name {
+	
+}
+#wp_nav_w1 .wp_nav .sub-nav .nav-item a.parent span.item-name {
+	text-decoration: none;
+}
+
+</style> 
+<div id="wp_nav_w1"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://smse.seu.edu.cn" title="首页" target="_blank"><span class="item-name">首页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="/2517/list.htm" title="学院概况" target="_blank"><span class="item-name">学院概况</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i2-1 "> 
+                 <a href="/2518/list.htm" title="学院简况" target="_blank"><span class="item-name">学院简况</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-2 "> 
+                 <a href="/2520/list.htm" title="机构设置" target="_blank"><span class="item-name">机构设置</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-3 "> 
+                 <a href="/fzls/list.htm" title="发展历史" target="_blank"><span class="item-name">发展历史</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-4 "> 
+                 <a href="/xkjs/list.htm" title="学科介绍" target="_blank"><span class="item-name">学科介绍</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-5 "> 
+                 <a href="/clwh/list.htm" title="材料文化" target="_blank"><span class="item-name">材料文化</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-6 "> 
+                 <a href="/lxzn/list.htm" title="联系指南" target="_blank"><span class="item-name">联系指南</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/2569/list.htm" title="公示公告" target="_blank"><span class="item-name">公示公告</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i3-1 "> 
+                 <a href="/2570/list.htm" title="学院新闻" target="_blank"><span class="item-name">学院新闻</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2 "> 
+                 <a href="/2571/list.htm" title="信息公告" target="_blank"><span class="item-name">信息公告</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-3 "> 
+                 <a href="/rwfc/list.htm" title="人物风采" target="_blank"><span class="item-name">人物风采</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="/2580/list.htm" title="师资队伍" target="_blank"><span class="item-name">师资队伍</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i4-1 "> 
+                 <a href="/ljrc/list.htm" title="领军人才" target="_blank"><span class="item-name">领军人才</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2 "> 
+                 <a href="/szry/list.htm" title="教师简介" target="_blank"><span class="item-name">教师简介</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3 "> 
+                 <a href="/kzjs_17714/list.htm" title="客座教授" target="_blank"><span class="item-name">客座教授</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="/2523/list.htm" title="科学研究" target="_blank"><span class="item-name">科学研究</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i5-1 "> 
+                 <a href="/2524/list.htm" title="科研概况" target="_blank"><span class="item-name">科研概况</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-2 "> 
+                 <a href="/2525/list.htm" title="研究方向" target="_blank"><span class="item-name">研究方向</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-3 "> 
+                 <a href="/2526/list.htm" title="科研成果" target="_blank"><span class="item-name">科研成果</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-4 "> 
+                 <a href="/2574/list.htm" title="学术交流" target="_blank"><span class="item-name">学术交流</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-5 "> 
+                 <a href="/2527/list.htm" title="科研项目指南" target="_blank"><span class="item-name">科研项目指南</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-6 "> 
+                 <a href="/kypt/list.htm" title="科研平台" target="_blank"><span class="item-name">科研平台</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-7 "> 
+                 <a href="http://202.119.23.164:81/index.aspx" title="实验教学管理系统" target="_blank"><span class="item-name">实验教学管理...</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="/2529/list.htm" title="人才培养" target="_blank"><span class="item-name">人才培养</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i6-1 "> 
+                 <a href="/2530/list.htm" title="本科生培养" target="_blank"><span class="item-name">本科生培养</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-2 "> 
+                 <a href="/2531/list.htm" title="研究生培养" target="_blank"><span class="item-name">研究生培养</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3 "> 
+                 <a href="/2538/list.htm" title="博士后" target="_blank"><span class="item-name">博士后</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="/2593/list.htm" title="学生工作" target="_blank"><span class="item-name">学生工作</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i7-1 "> 
+                 <a href="/2596/list.htm" title="班团风采" target="_blank"><span class="item-name">班团风采</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2 "> 
+                 <a href="/xshd/list.htm" title="学生活动" target="_blank"><span class="item-name">学生活动</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-3 "> 
+                 <a href="/2594/list.htm" title="日常事务" target="_blank"><span class="item-name">日常事务</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-4 "> 
+                 <a href="/2603/list.htm" title="评奖评优" target="_blank"><span class="item-name">评奖评优</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-5 "> 
+                 <a href="/2605/list.htm" title="学科竞赛" target="_blank"><span class="item-name">学科竞赛</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-6 "> 
+                 <a href="/2606/list.htm" title="就业指南" target="_blank"><span class="item-name">就业指南</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-7 "> 
+                 <a href="/2607/list.htm" title="下载区" target="_blank"><span class="item-name">下载区</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-8 "> 
+                 <a href="/czsy/list.htm" title="材子神韵" target="_blank"><span class="item-name">材子神韵</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="/dqgz/list.htm" title="党群工作" target="_blank"><span class="item-name">党群工作</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i8-1 "> 
+                 <a href="/djgz/list.htm" title="党建工作" target="_blank"><span class="item-name">党建工作</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2 "> 
+                 <a href="/gh/list.htm" title="工会" target="_blank"><span class="item-name">工会</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-3 "> 
+                 <a href="/ggw/list.htm" title="关工委" target="_blank"><span class="item-name">关工委</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-4 "> 
+                 <a href="/tzgz/list.htm" title="统战工作" target="_blank"><span class="item-name">统战工作</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-5 "> 
+                 <a href="/tw/list.htm" title="团委" target="_blank"><span class="item-name">团委</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-6 "> 
+                 <a href="/tx/list.htm" title="退协" target="_blank"><span class="item-name">退协</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i9 "> 
+         <a href="/gzzd/list.htm" title="规章制度" target="_blank"><span class="item-name">规章制度</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i9-1 "> 
+                 <a href="/xnwj/list.htm" title="校内文件" target="_blank"><span class="item-name">校内文件</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-2 "> 
+                 <a href="/xywj/list.htm" title="学院文件" target="_blank"><span class="item-name">学院文件</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i10 "> 
+         <a href="/zp/list.htm" title="人才招聘" target="_blank"><span class="item-name">人才招聘</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i10-1 "> 
+                 <a href="/zpzd/list.htm" title="招聘制度" target="_blank"><span class="item-name">招聘制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-2 "> 
+                 <a href="/ncjh/list.htm" title="纳才计划" target="_blank"><span class="item-name">纳才计划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+    </div>
+  </div>
+    <div frag="窗口101" style="width:1200px; margin: 0 auto">
+      <div class="articlecontent ">
+    
+        
+            
+                <p style="text-align:center;"><img style="float:none;" src="/_upload/article/images/e0/e1/e9012c4b41c8b4cb3fd9d445f0f1/1ba09769-5f93-4164-a6b6-a80faeb97154.jpg" sudyfile-attr="{'title':'DSC06846.jpg'}" data-layer="photo"></p><p><br></p>
+            
+        
+    
+</div>
+    </div>
+  <div id="display_content">
+    <div class="info" frag="面板21">
+      <div frag="窗口21" portletmode="simpleArticleAttri">
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+           <tbody><tr>
+              <td height="10"></td>
+            </tr>
+            <tr>
+              <td class="infotitle" height="30" align="center">钱春香</td>
+            </tr>
+             <tr>
+              <td class="infotitle_fu" height="20" align="center"></td>
+            </tr>
+             <tr>
+              <td height="10"></td>
+            </tr>
+            <tr>
+              <td height="1" bgcolor="#CCCCCC"></td>
+            </tr>
+          </tbody></table>
+          <table class="border2" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td height="31" align="center"> 发布时间：2014-04-29&nbsp;&nbsp; 浏览次数:<span class="WP_VisitCount" url="/_visitcountdisplay?siteId=43&amp;type=3&amp;articleId=83568">15579</span></td>
+            </tr>
+          </tbody></table>
+          <table class="article" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="article" valign="top"><div class="wp_articlecontent"><table style="margin:0px auto;" width="900" cellspacing="0" cellpadding="10" bordercolor="#dddddd" border="0"><tbody><tr><td colspan="3" height="30" bgcolor="#990099"><span class="STYLE1"><strong><span style="color:#ffffff;font-family:&quot;times new roman&quot;;font-size:20px;"><span style="color:#ffffff;font-family:&quot;times new roman&quot;;font-size:16px;">&nbsp;</span><span style="color:#ffffff;font-family:微软雅黑,microsoft yahei;font-size:14px;">基 本 信 息</span></span></strong></span></td></tr><tr><td width="20%" height="190" align="center"><span style="color:#ffffff;"><img style="width:150px;height:180px;" src="/_upload/article/79/c4/08c651234b16afd8c47bb9dc5fb3/8bc8abb0-35da-43aa-9c95-2eb1484b9037.jpg" original_src="/_upload/article/images/fd/3b/1a340cf04f848d9a16e065861083/469969be-589a-4f58-a84d-c2dd225d15ca_d.jpg" width="150" vspace="0" hspace="0" height="180" border="0"></span></td><td height="190"><p style="margin-top:0px;"><span style="font-size:16px;"><strong><span style="color:#000000;font-family:&quot;times new roman&quot;;font-size:12px;"></span></strong></span></p><p><strong><span style="font-family:times new roman;font-size:12px;">姓名：</span></strong><span style="font-family:times new roman;font-size:12px;">钱春香</span></p><p><strong><span style="font-family:times new roman;font-size:12px;">性别：</span></strong><span style="font-family:times new roman;font-size:12px;">女</span></p><p><strong><span style="font-family:times new roman;font-size:12px;">党派：</span></strong><span style="font-family:times new roman;font-size:12px;">中共党员</span></p><p><strong><span style="font-family:times new roman;font-size:12px;">职称：</span></strong><span style="font-family:times new roman;font-size:12px;">教授</span></p><p><strong><span style="font-family:times new roman;font-size:12px;">联系方式：</span></strong><span style="font-family:times new roman;font-size:12px;"><a href="mailto:cxqian@seu.edu.cn" target="_blank">cxqian@seu.edu.cn</a>，(025)52090637</span><br></p></td><td width="40%" valign="top" height="190"><p><br><span style="font-size:16px;"><strong><span style="font-family:&quot;times new roman&quot;;font-size:12px;">研究方向</span></strong><span style="font-family:&quot;times new roman&quot;;font-size:12px;">: </span></span></p><p><span style="font-size:12px;"></span></p><p style="margin:0cm 0cm 0px;line-height:150%;"><span style="color:black;line-height:150%;font-family:times new roman,serif;font-size:12px;mso-fareast-font-family:宋体;" lang="EN-US"></span></p><p><span style="font-size:12px;">（1）高性能混凝土与微生物智能混凝土；</span></p><p><span style="font-size:12px;">（2）微生物水泥与其它低碳胶凝材料；</span></p><p><span style="font-size:12px;">（3）绿色节能建筑材料。</span></p><p><span style="font-size:12px;">&nbsp;其它详见<span style="font-family:times new roman;font-size:12px;">http://jc.seu.edu.cn/</span></span></p><p style="margin:0cm 0cm 0px;line-height:150%;"><span style="font-family:&quot;times new roman&quot;;"></span><br></p></td></tr><tr><td colspan="3" height="30" bgcolor="#990099"><span class="STYLE1"><strong><span style="color:#ffffff;font-family:&quot;times new roman&quot;;">&nbsp;</span></strong></span><span class="STYLE1"><strong><span style="color:#ffffff;font-family:微软雅黑,microsoft yahei;font-size:14px;">个 人 简 介</span></strong></span></td></tr><tr><td colspan="3"><p style="margin:0cm 0cm 0px;line-height:150%;"><br></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">钱春香，国务院政府特殊津贴专家、江苏特聘教授、东南大学特聘教授、东南大学绿色建材研究所所长、教育部新世纪优秀人才、江苏省</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">333</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">工程科技领军人才、江苏省六大行业高峰人才、江苏省硅酸盐学会副理事长、中国混凝土与水泥制品协会工程质量分会副理事长、中国混凝土学会理事、中国硅酸盐学会高强高性能混凝土委员会副主任、中国土木工程学会高强高性能混凝土委员会委员、纤维水泥与混凝土委员会委员，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">Cement and Concrete Research</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">和《东南大学学报》等学术刊物编委。</span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;"><br></span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;"><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1981</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">9</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月入南京工学院（现东南大学）学习，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1985</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">7</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月获工学学士学位后，留校继续攻读免试硕士研究生，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1988</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">4</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月获东南大学工学硕士。</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1988</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">7</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月入南京化工学院（现南京工业大学）师从唐明述院士攻读博士学位，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1992</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">7</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月获工学博士。</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1991</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">7</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月起在东南大学工作，分别于</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1993</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">12</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月和</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1997</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">5</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月晋升为副教授和教授，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2000</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年起招收博士研究生。曾于</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">&nbsp;1995</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">8</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月至</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1996</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月在澳大利亚皇家墨尔本理工大学做高级访问学者，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1998</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月至</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1999</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">3</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月在荷兰代尔夫特理工大学做博士后研究，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2013</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">11</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月参加清华大学高级研讨班学习，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2016</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月参加美国加利福尼亚大学伯克利分校高级研讨班学习。</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">1996</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">5</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月至</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2002</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">10</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">月任东南大学材料学院（原材料系）副院长，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2005-2010</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年任中华全国青年联合会委员。</span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;"><br></span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">近年来，钱春香老师面向现代交通技术和城市化发展的需要，在国家和省部科技计划的支持下，结合大型桥梁、大型隧道、机场和地铁工程等国家重大工程建设，开展了</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">“</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">混凝土裂缝分龄期防治新材料和新技术及其应用</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">”</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">研究，并在我国土木工程材料领域开创了</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">“</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">材料微生物技术</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">”</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">新的学科方向，取得了重要进展和一系列创新性研究成果，并成功应用于南京禄口国际机场、南京长江隧道、南京玄武湖隧道、南京九华山隧道、苏州独墅湖隧道、无锡蠡湖隧道、安庆长江大桥、苏通长江大桥、南京长江三桥、南京地铁等国家重点工程建设，取得了良好的技术经济效益，因耐久性和环保性提高带来的间接效益则更大。其中</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">10</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">多项成果经省部级技术鉴定达到国际领先或国际先进水平，授权发明专利</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">30</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">多项，在国内外核心刊物和重要国际会议发表学术论文</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">200</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">余篇，出版著作教材</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">6</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">部，培养博、硕士研究生</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">80</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">余名。与英国剑桥大学、美国加利福尼亚大学、荷兰代尔夫特理工大学、比利时根特大学、澳大利亚墨尔本理工大学、美国爱荷华州立大学、瑞士</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">Sika</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">集团等国际著名高校和企业建立了深入合作关系。</span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;"><br></span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">主持获得国家科技进步二等奖（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2013</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年）、参与获得国家科技进步二等奖（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2014</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">、</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2007</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）；主持获得教育部科技进步一等奖（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2012</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年），参与获得北京市科技进步一等奖（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2014</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）、江苏省科技进步一等奖（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2006</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）；主持获得江苏省科技进步二等奖（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2010</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年）、三等奖</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">(2006</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">、</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2007)</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">、建设部华夏建设科技三等奖（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2006</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）、中国公路学会科学技术二等奖（交通部</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2006</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）。此外，还获得</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2003</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年度江苏省巾帼建功标兵称号，</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">2006</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">年全国三八红旗先进集体。</span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;"><br></span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:32px;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">目前承担的课程教学任务有：本科生《胶凝材料学》；研究生《材料研究学术动态》、《材料微生物技术》、《低碳胶凝材料化学》。</span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:24px;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;"><br></span></p><p style="margin:5px 0cm;line-height:1.75em;text-indent:24px;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">目前承担的主要科学研究项目有：</span></p><p class="p_text_indent_2" style="color:#000000;line-height:1.75em;font-family:calibri,sans-serif;font-style:normal;font-weight:normal;mso-pagination:widow-orphan;mso-list:l0 level1 lfo1;mso-char-indent-count:0;margin-top:5px;margin-bottom:5px;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">（1）国家</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">973</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">计划项目：严酷环境下混凝土材料与结构长寿命的基础研究</span></p><p class="p_text_indent_2" style="color:#000000;line-height:1.75em;font-family:calibri,sans-serif;font-size:14px;font-style:normal;font-weight:normal;mso-pagination:widow-orphan;mso-list:l0 level1 lfo1;mso-char-indent-count:0;margin-top:5px;margin-bottom:5px;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">（2）国家自然科学基金重点项目：面向绿色建筑和智能制造的结构</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">-</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">功能一体化水泥基复合材料</span></p><p class="p_text_indent_2" style="color:#000000;line-height:1.75em;font-family:calibri,sans-serif;font-size:14px;font-style:normal;font-weight:normal;mso-pagination:widow-orphan;mso-list:l0 level1 lfo1;mso-char-indent-count:0;margin-top:5px;margin-bottom:5px;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;"></span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">3</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）国家自然科学基金项目：基于微生物矿化的混凝土裂缝自修复研究</span></p><p class="p_text_indent_2" style="color:#000000;line-height:1.75em;font-family:calibri,sans-serif;font-size:14px;font-style:normal;font-weight:normal;mso-pagination:widow-orphan;mso-list:l0 level1 lfo1;mso-char-indent-count:0;margin-top:5px;margin-bottom:5px;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;"></span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">4</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）国家自然科学基金项目：环保性生物磷酸盐胶凝材料及其在土木工程中的应用基础</span></p><p class="p_text_indent_2" style="margin:5px 0cm;line-height:1.75em;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">5</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）瑞士西卡集团国际合作项目：</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">Fair Faced Concrete</span></p><p class="p_text_indent_2" style="margin:5px 0cm;line-height:1.75em;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">7</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）江苏省交通科技计划项目：大型交通枢纽超大面积混凝土体积稳定和耐久性研究；</span></p><p class="p_text_indent_2" style="margin:5px 0cm;line-height:1.75em;mso-pagination:widow-orphan;margin-top-alt:auto;margin-bottom-alt:auto;"><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">（</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">8</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">）江苏省</span><span style="line-height:1.75em;font-family:times new roman,serif;font-size:16px;mso-fareast-font-family:宋体;mso-font-kerning:0px;" lang="EN-US">333</span><span style="line-height:1.75em;font-family:宋体;font-size:16px;mso-bidi-font-family:times new roman;mso-font-kerning:0px;mso-ascii-font-family:times new roman;mso-hansi-font-family:times new roman;">工程科研项目：面向生态城市建设的微生物矿化材料及其应用研究</span></p></td></tr></tbody></table></div></td></tr></tbody></table></div></div></div></body></html>

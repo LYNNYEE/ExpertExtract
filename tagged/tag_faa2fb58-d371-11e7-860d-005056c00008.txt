@@ -1,0 +1,32 @@
+name_label 
+个人介绍 ： 
+个人简介 
+timelabel － 至今 ,   北京工业大学 数理学院教授 ,  博士生导师 ;  其间 , 
+timelabel --  timelabel ,  访学 美国 佐治亚 理工大学 数学系 ; 
+timelabel --  timelabel ,  访学 新加坡国立大学 数学系 ; 
+timelabel — timelabel ,  浙江大学 数学系 博士后 ; 
+timelabel — timelabel ,  美国 W isc onsin ( Milwaukee ) 大学数学系 研究生 ， 获博士学位 ； 
+timelabel --  timelabel ， place_label 师范 大学数学系任教 ； 
+timelabel — timelabel ，  云南大学 数学系 研究生 ， 获硕士学位 ； 
+timelabel — timelabel ，  place_label 师范大学 数学系 本科生 ， 获学士学位 。 
+研究方向 ( 小波 与 统计估计 ) 
+小波 分析 产生 于 八十年代 中后期 ,  是 应用 数学 的 一个 重要 分支 .  它 不仅 推动 了 函数 论 本身 的 发展 ,  而且 被 成功 地 应用 于 图像处理 , 统计学 等 其它 领域 .  统计估计 是 一个 经典 的 研究方向 ,  核 方法 作为 线形 方法 存在 两个 局限 .  一是 针对 某些 函数 ,  带宽 选取 不够 灵活 ; 二是 对 一大 类 函数空间 ,  无法 提供 最优估计 .  小波 方法 弥补 了 这些 缺陷 .  由 于小波 具有 快速 算法 ,  这 在 应用 上 尤为重要 . 
+科研工作 
+长期 从事 小波 分析 及其 应用 方面 的 研究工作 ,  主持 完成 的 科研项目 有 国家自然科学基金 ， 教育部优秀青年教师 基金 ， 北京市自然科学基金 等 。 现 主持 一 项国家自然科学基金 ： 一类 带 误差 模型 密度 函数 的 小波 估计 （ timelabel -- timelabel ）.  研究 论文发表 在 国内外重要学术期刊 booklabel ， booklabel booklabel 、 booklabel 、 booklabel 等 。 据 北京工业大学 图书馆 timelabel 检索 ， 他 的 研究论文 被 SCI 引用 116 次 （ 他 引 109 次 ）.  近 3 年 发表 的 代表性论文 有 
+1 .  Rui   Li   and   Youmng   Liu ,  Wavelet   optimal   estimations   for   a   density   with   some   additive 
+noises ,  Applied   and   Comp uta tional   Harmo nic   Analy sis ,  36 ,  No . 3 ,  timelabel ; 
+2 .  You min g   Liu   and   Jun jian   Zhao ,  An   extension   of   Bi ttn er   and   Urban ' s   theorem ,  Mathematics   of   Comp uta tion ,  82 ,  N         No . 281 ,  timelabel ; 
+3 .  You min g   Liu   and   Hui yin g   Wang ,  Wavelet   estimation   for   density   de riv atives ,  Science   China  ( Mathematics ),  56 ,  N         No . 3 ,  timelabel 
+4 . name_label ,  小波 分析 ( 译文 ),  booklabel ， 第 32 卷 ，  第 4 期 ， 289 — 302 ,  timelabel . 
+5 .  You min g   Liu   and   Hui yin g   Wang ,  Con vergence   order   of   wavelet   thresholding ,  Applied   and   Comp uta tional 
+Harmo nic   Analy sis   32 ,  No . 3 ,  timelabel . 
+四 ． 人才培养 
+已培养 17 名 硕士毕业 。 7 名 博士毕业 ， 分别 在 北京工业大学 ， place_label ， 天津工业大学 ， 华北 水利水电 大学 ， 中央财经大学 ,  北京联合大学 ， 天津 理工大学 任教 。 现 指导博士生 4 人 ， 硕士生 3 人 。 研究 范围 ： 小波 分析 在 统计估计 中 的 应用 
+五 ． 联系方式 
+地址 ： 数理 楼 2504 
+电话 ： 6739 timelabel - 转 204 
+E - mail :   maillabel 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

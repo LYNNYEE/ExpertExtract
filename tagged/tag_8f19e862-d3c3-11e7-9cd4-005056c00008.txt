@@ -1,0 +1,58 @@
+登录   帮助           返回首页          交大 主页 
+我 的 主页 : 
+个人信息 
+科学研究 
+论文成果 
+荣誉奖励 
+科研团队 
+课程教学 
+招生信息 
+English 
+基本信息 
+name_label     博士    博士后   副教授   硕士生导师 
+一级 学科 ： 电气工程 
+二级学科 ： 电力电子 与 电力传动 
+工作单位 ： 电气工程学院 
+联系方式 
+Address :  成都市二环路北 一段 111 号 
+E - mail :  maillabel 
+办公电话 :  无 
+办公地点 :  无 
+个人简介 
+name_label ， 工学博士 ， 博士后 ， 副教授 ， IEEE   Member ,  美国 电源 协会 PSMA 会员 ,   中国 电源 学会高级会员 ,  place_label 电动汽车 无线 充电 系统 标准 评审专家 组成员 ,  timelabel 以 引进人才 任职 于 西南交通大学 电气工程学院电力电子 与 电力传动系 
+自 timelabel 以来 ， 一直 从 事电力电子 技术 方面 的 研究工作 ， 尤其 是 HB - LED 照明 驱动 技术 、 高效率 变换器 拓扑 及 控制 、 新能源 电力电子 技术 。 timelabel 获 国家留学基金委资助 ， 赴美国 弗吉尼亚 理工学院 暨 州立大学 ( Virginia   Tech ) 未来 能源 电子 中心 ( FEEC ) 从事 研究 25 个 月 ( timelabel - timelabel )。 timelabel 回国 后 ， 继续 从事 该 领域 的 研究工作 。 曾 主持 booklabel ( 西南交通大学 博士生 创新基金 )、 booklabel ( 国家留学基金委 全额 资助项目 ， 美国 国家 半导体 公司合作项目 ) 项目 2 项 ； 参与 booklabel ( 美国能源部 资助项目 )、 booklabel ( 美国 TI   资助项目 )  等 科研课题 。 timelabel ， 以 专案 博士后研究员 的 身份 ， 任职 于 台湾 科技 大学电子工程系 ， 合作导师 为 国际 知名 电力电子 专家 ， 台湾 科技 大学特聘教授 name_label 、 name_label 教授 。 主研 教育部 “ 典范 科技大学 计划案 booklabel 、 booklabel 、 booklabel 和 booklabel 等 项目 ( 均 排名 第二 )； 同时 ， 负责 光宝 台科 电力电子 研究中心 的 4 个 电源 专案 计划 ( 涉及 无桥 PFC   技术 、 谐振 变换器 、 有源 箝位 技术 等 )。 
+以 第一 作者 在 IEEE   Trans .  Power   Electron .,  IET   Power   Electro nic s ,  International   Journal   of   Ci rcui t   Theory   and   Appli cation s 期刊 、 国内 顶级期刊 ( 电工 技术 学报 、 电机 与 控制学报 、 电力 自动化 设备 、 铁道学报 等 ) 以及 IEEE   APEC 、 IEEE   ECCE 、 IEEE   ICCCAS 等 顶级国际会议 上发表论文 49 篇  ( SCI期刊 8 篇 ， EI   40 篇 )， 与 他人 合作 发表论文 18 余篇 ( 其中 SCI 收录 4 篇 ， EI 收录 20 篇 )。 
+学习 与 工作经历 
+timelabel  -  timelabel      兰州交通大学       通信工程       学士 
+timelabel  -  timelabel      西南交通大学       微电子学 与 固体电子学         硕博 连读 ( 硕士 阶段 ) 
+timelabel  -  timelabel     西南交通大学        电力电子 与 电力传动                     硕博 连读 ( 博士阶段 ) 
+timelabel  -  timelabel      弗吉尼亚 理工学院 暨 州立大学 ( Virgina   Tech )       未来 能源 电子 中心 ( FEEC )      电力电子       中美 联合培养博士生 
+timelabel  -  timelabel         国立 台湾 科技 大学电子工程系        光宝 台科 电力电子 研究中心     电力电子       博士后研究员 
+timelabel  -  timelabel         LITEON  &  NTUST 电力电子 研究中心 ( LNPEC )        专案 计划 负责人 
+timelabel  -  timelabel         西南交通大学 电气工程学院电力电子 与 电力传动系        电力电子         讲师 
+timelabel  -  至今         西南交通大学 电气工程学院电力电子 与 电力传动系        电力电子         副教授 
+timelabel  -  至今         台湾 科技 大学电力电子 技术 研究中心        电力电子         研究员 
+主要研究方向 
+( 1 )  HB - LED   Lighting   D riv ing   System 
+( 2 )  Power   Electro nic s   for   Rail way   Tr aff ic   Appli cation s 
+( 3 )  High - efficiency   Con verter   Topologies   and   Their   Con troller 
+( 4 )  Power   Electro nic s   for   Re new able   Energy   Power   Con ditioning   System 
+( 5 )  High - efficiency ,  Long   Lifetime   Micro - Inverter 
+( 6 )  Battery   Charger   for   EV / HEV 
+主要学术活动 
+15 .  Co -  Chair   and   Paper   Reviewer   for   1.2   DC - DC   Con verters   Topic   in   ECCEAsia  ( IFEEC   timelabel  )  见 http :// http :// www . ifeec . tw // 
+14 .  Session   Chair   for   Special   Session  " Power   Electro nic s   for   Rail way   Tr aff ic   Appli cation s "  in   IFEEC   timelabel    见 http :// http :// www . ifeec . tw // 
+13 .  Special   Session   Orgnizor   for   timelabel   International   Future   Energy   Electro nic s   Con ference ( IFEEC )  见 http :// http :// www . ifeec . tw // 
+12 .  Tech nic al   Program   Committee   Member   for   timelabel   International   Future   Energy   Electro nic s   Con ference ( IFEEC )  见 http :// http :// www . ifeec . tw // 
+11 .  Paper   Reviewer    for   IEEE   Power   Electro nic s   and   and   Appli cation   Con ference   and   Exposition  ( PEAC )  timelabel . 
+10 .  Tech nic al   Program   Committee   Member   for   the   1st   International   Con ference   on   Intelligent   Green   Building   and   Smart   G rid  ( IGBSG   timelabel )  见 http :// igbsg . ntust . edu . tw / 
+9 .  Session   Chair ( T2 - 1 :  Power   Electro nic s   Technologies )  for   the   1st   International   Con ference   on   Intelligent   Green   Building   and   Smart   G rid  ( IGBSG   timelabel )  见 http :// igbsg . ntust . edu . tw / 
+8 .  Session   Chair  ( S24 :  Lighting   Technologies   and   Appli cation s   II  )   for   timelabel   International   Future   Energy   Electro nic s   Con ference ( IFEEC )  见 http :// http :// www . ifeec . tw // 
+7 .  Ex hib ition   Session   Chair   for   timelabel   Taiwan - Japan   Symposium   on   Power   Con version  ( timelabel   TJSPC ) 
+6 .  timelabel 国立 台湾 科技 大学电子工程系 研究生 口试 委员会委员 ( 17 个 电力电子 专业 研究生 口试 委员 ) 
+5 .  Reviewers   for   IEEE   Trans .  Power   Electron ., IEEE   Trans .  Ind .  Electron ., IEEE   Trans .  Ind .  Appl .,  International   Journal   of   Ci rcui t   Theory   and   Appli cation s , and   IEEE   Journal   of   Emerging   and   Selected   Topics   in   Power   Electro nic s 
+4 .  Two   oral   Presentations   on   IEEE   ECCE   timelabel 
+3 .  Paper   Reviewer   for   IEEE   Asia   Pacific   Con ference   on   Ci rcui ts   and   Systems  ( IEEE   APCCAS   timelabel ) 
+2 .  Paper   Reviewer    for   timelabel   International   Future   Energy   Electro nic s   Con ference ( IFEEC )  见 http :// http :// www . ifeec . tw // 
+1 .  Oral   Presentation    for   timelabel   International   Future   Energy   Electro nic s   Con ference ( IFEEC )  见 http :// http :// www . ifeec . tw // 
+Copyright  ©  timelabel     http :// inc . swjtu . edu . cn     西南交通大学信息 网络中心 

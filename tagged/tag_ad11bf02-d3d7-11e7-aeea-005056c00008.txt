@@ -1,0 +1,149 @@
+place_label 首页 
+网站首页 
+学院概况 
+学院简介 
+历史回眸 
+内设机构 
+学院荣誉 
+师资力量 
+教师名录 
+数学系 
+信息 与 计算科学系 
+统计系 
+基础部 
+离退休 
+人才培养 
+本科生教育 
+专业介绍 
+教学文件 
+表格下载 
+研究生教育 
+研究生主页 
+研究生导师名录 
+科学研究 
+学术报告 
+科研项目 
+学术成果 
+科研奖励 
+建模实验中心 
+学生工作 
+心理教育 
+就业指导 
+日常活动 
+学工动态 
+联系院友 
+院友新闻 
+院友活动 
+院长致辞 
+关于 我们 
+院友名单 
+联系 我们 
+奖学金 
+name_label 奖学金 
+获奖人员 
+当前 位置 ： 首页          > 师资力量          > 教师名录 
+快速 导航 
+教师名录 
+数学系 
+信息 与 计算科学系 
+统计系 
+基础部 
+离退休 
+name_label 老师 
+name_label 
+男 , timelabel 生于 place_label place_label ， 副教授 , timelabel 毕业 于 济宁 师专 数学专业 , 
+timelabel 毕业 于 曲阜师范大学 运筹学 与 控制论专业 , 获理学硕士学位 , timelabel 毕业 于 东北大学 控制理论 与 控制工程专业 , 
+获工学博士学位 ， 博士毕业 至今 在 烟台大学数学 与 信息科学学院 工作 。 在 控制论 领域 的 国际 权威 杂志 《 IEEE   Transaction   on   Automatic 
+Con trol 》、 booklabel 上发表论文 6 篇 ( 长文 2 篇 )， 主持国家 自然科学基金面上项目 2 项 。 在 科研 上 的 兴趣 包括 : 非线性 自适应控制 , 随机 非线 系统 稳定性 分析 和 控制器 设计 , 随机 切换 系统 理论 , 随机 耗散 系统 理论 , 随机 哈密顿 系统控制 等 。 
+详细信息 : 
+教学 
+本科   数学分析   概率统计   数理统计   多元统计   现代控制理论 
+研究生   线性系统 理论   最优控制   非线性控制   自适应控制   概率论 与 测渡论   随机 过程 
+随机 控制 
+期刊论文 
+[ 15 ]   Z .  J .  Wu ,  M .  Y .  Cui ,  P .  Shi   and   H .  R .  Karimi ,  S tab ility   of   stochastic 
+non linear   systems   with    sta te - dep end ent   switching , IEEE 
+Transactions   on   Automatic   Con trol ,  Accepted   as   Full   Paper . 
+[ 14 ].  Z .  J .  Wu ,  Y .  Q .  Xia ,  and   X .  J .  Xie ,  Stochastic   Barbalat \' s   lemma   and   its 
+appli cation s ,  IEEE   Transactions   on   Automatic 
+Con trol , Vol . 57 ( 6 ), 1537 - 1543 , timelabel . 
+[ 13 ].  Z .  J .  Wu  ,  M . Y .  Cui ,  and   P .  Shi ,  Backstep pin g   con trol   in   vector   form 
+for   stochastic   Hamilto nian   systems ,  SIAM   Journal   on   Con trol 
+and   Optimization ,  Volume   50 ( 2 ),  pp .  925 - 942 ,  timelabel . 
+[ 12 ].  Z .  J .  Wu   and   Y .  H .  Liu ,  Stochastic   S tab ilization   of   Non holonomic   Mobile 
+Robot   with   Heading - Angle - Dep end ent   Di stu rbance ,  Volume   timelabel  ( timelabel ), Mathematical 
+Problems   in   Engineering ,  Article   ID   870498 ,  17 
+pages ( doi : 10.1155 / timelabel / 870498 ). 
+[ 11 ].  Z .  J .  Wu   and   Y .  H .  Liu ,  Robust   output - feedback   con trol   for 
+stochast icn onlinear   systems   with   modeling   errors .  Journal   of   Con trol   Theory   and 
+Appli cation s  ( 10.1007 / s11768 - 012 - 0068 - 0 ) ( Online   First ™,  23   December   timelabel ). 
+[ 10 ]  Z .  J .  Wu   and   M .  Y .  Cui   and   X .  J .  Xie   and   P .  Shi , Theory   of   stochastic 
+dis sipative   systems ,  IEEE   Transactions   on   Automatic 
+Con trol , vol . 56 , 1650 - 1655 , timelabel . 
+[ 9 ]. Z .  J .  Wu   and   J .  Yan g   and   P .  Shi ,  Adaptive 
+tracking   for   stochastic   non linear   systems   with   Markovian   switching ,  IEEE   Transactions   on   Automatic   Con trol ,  vol .  55 ,  timelabel - timelabel , 
+timelabel .( SCI   IF   2.556 ) 
+[ 8 ]  Z .  J .  Wu   and   X .  J .  Xie   and   P .  Shi   and   Y .  Q .  Xia , 
+“ Backstep pin g   con troller   design   for   a   class   of   stochastic   non linear   systems   with 
+Markovian   switching \",  Automatica , vol .  45 ,  pp . 
+997 – 1004 , timelabel .( SCI   4.103 ) 
+[ 7 ].  Z .  J .  Wu ,  X .  J .  Xie  “ Robust   adaptive   output   feedback   con trol 
+for   non linear   systems    with   output   unmodeled   d yna mics ,”  International   journal   of 
+robust   and   non linear   con trol   vol .  18 ,  pp .  1162 - 1187 ,  timelabel ( SCI   IF   1.108 ) 
+[ 6 ].  Z .  J .  Wu ,  X .  J .  Xie ,  and   S .  Y .  Zhang , “ Adaptive   backstep pin g 
+con troller   design   using   stochastic   small - gain   theorem ,”  Automatica ,  vol .  43 ,  pp .  608 – 620 ,  timelabel . Regular   paper .( SCI 
+IF   2.273 ) 
+[ 5 ].  Z .  J .  Wu ,  X .  J .  Xie ,  and   S .  Y .  Zhang , “ Stochastic   adaptive 
+backstep pin g   con troller   design   by   introducing   d yna mic   signal   and   changing   supply 
+func tion ,”  International   Journal   of   Con trol ,  vol .  79 ,  pp .  1635 – 1646 ,  timelabel .( SCI 
+IF   0.989 ) 
+[ 4 ].  Z .  J .  Wu ,  X .  J .  Xie ,  and   S .  Y .  Zhang , “ Robust   decentralized 
+adaptive   stab ilization   for   a   class   of   inter con nec ted   systems   with   unmodeled 
+d yna mics ,”  International   Journal   of   Systems   Science ,  vol .  35 ,  pp .  389 – 405 , 
+timelabel .( SCI   IF   0.239 ) 
+[ 3 ].  Z .  J .  Wu ,  X .  J .  Xie ,  and   S .  Y .  Zhang , “ Reduced - order   design 
+of   robust   adaptive   backstep pin g   con troller ,”  Acta   Automatica   Sin ica ,  自动化学报 vol . 
+31 ,  pp .  543 – 548 ,  timelabel .( 一类 EI ) 
+[ 2 ].  name_label , name_label ,  name_label ,  具有 动态 和 静态 关联 项 大系统 的 鲁棒 分散 自 适应 镇定 \", 控制 与 决策 , 19 ,  timelabel , 
+862 - 866 .( 一类 EI ) 
+[ 1 ]. Z .  J .  Wu ,  X .  J .  Xie ,  and   S .  Y .  Zhang  \" Robust   decentralized 
+adaptive   stab ilization   for   a   class   of   inter con nec ted   systems \",  Journal   of 
+Con trol   Theory   and   Appli cation s ,  2 , timelabel , 137 - 142 . 
+会议论文 
+[ 7 ].  Z . J . Wu   and   M .  Y .  Cui   Backstep pin g   con trol   design   for   stochastic 
+Hamilto nian   systems ,  Con trol   Con ference  ( CCC ),  timelabel th   Chinese . 
+[ 6 ].  Z . J .  Wu   and   Y . H .  Liu   Stochastic   stab ilization   of   non holonomic   mobile 
+robot   Con trol  ,  Con ference  ( CCC ),  timelabel th   Chinese . 
+[ 5 ].  Mingjie   Li ,  Zhao jin g   Wu   and   Zhong min   Son g ,  Robust   adaptive 
+output - feedback   con troller   design   for   stochastic   non linear   systems ,  1496  -  1499 
+,  Chinese   Con trol   and   De cis ion   Con ference ,  timelabel ,  China ( EI ) 
+[ 4 ]. Jun   Yan g   and   Zhao jin g   Wu ,  Stochastic   position   con trol   for 
+Permanent   Magnet   Synchron ous   Motor ,  timelabel  -  timelabel ,  Chinese   Con trol   and   De cis ion 
+Con ference ,  timelabel ,  China ( EI ) 
+[ 3 ]  Zhao jin g   Wu ,  Xuejun   Xie .  Backstep pin g   Con troller   Design   for   A 
+Class   of   Stochastic   Non linear   Systems   with   Markovian   Switching   Proceedings   of 
+the   27th   Chinese   Con trol   Con ference .  July   16 – 18 ,  timelabel ,  Kun min g ,  Yunnan , 
+China ( EI ) 
+[ 2 ] Zhao jin g   Wu .  Lya pun ov   Function - based   Stochastic   Small - gain 
+Theorem   and   Its   Appli cation s .  Chinese   Con trol   and   De cis ion   Con ference ,  timelabel   July 
+2 – 4 ,  timelabel ,  Yan tai ,  Shandong ,  China ( EI ) 
+[ 1 ]. Zhao jin g   Wu ,  Xuejun   Xie .,  Adaptive   Output   Feedback   Con trol   for   Stochastic 
+Non linear   Systems ,  Proceedings   of   the   Sixth   WCICA ,  DaLian ,  China ,  timelabel , 
+800 - 804 ( EI ) 
+研究课题 
+主持 : 国家 自然科学基金面上项目 , 随机 耗散 系统 理论 续 : 条件 耗散 与 随机 切换 ( 准号 ： 61273128 ), timelabel 至 2016-12 
+主持 : 国家 自然科学基金面上项目 , 随机非线性系统 的 无源性 理论 与 小 增益 技术 ( 准号 ： 60974028 ), timelabel 至 2012-12 
+主持 :  中国博士后科学 基金面上项目 \" 随机 无源性 理论 \"（ 准号 ： timelabel 04501289 ） 第 45 批 
+主持 :  place_label 博士后科学基金 \" 随机系统 的 爆炸 前 耗散 性 理论 \"（ 准号 ： timelabel 03042 ） 
+参与 :  国家 自然科学基金面上项目 booklabel （ 准号 ： 60774010 ） timelabel 至 timelabel - 12 
+联系方式 
+264005 
+山东省烟台市 place_label place_label 32 号 
+烟台大学数学 与 信息科学学院 
+No . 32   Qin g qua n   Road ,  L ais han   District , 
+Yan tai ,  Shandong   264005 ,  China . 
+S cho ol   of   Mathematics   and   Informational 
+Science ,  Yan tai   University ,  Yan tai ,  Shandong   Prov inc e ,  264005 , China . 
+Email : wuz hao jin g00 ＠ 188 . com 
+电话 ： 0535 - 6902406          E - Mail :  maillabel      用户 登陆 
+地址 ： place_label 山东省烟台市 place_label place_label 30 号          网站管理员 ： 王老师 

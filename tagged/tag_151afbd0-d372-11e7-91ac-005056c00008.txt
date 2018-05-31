@@ -1,0 +1,10 @@
+name_label 
+name_label ， 副教授 ， 博士生导师 。 目前 为 place_label 现场 统计 研究会 高维数据 统计 分会理事 、 place_label 大数据 学会理事 、 美国数学评论 ( Mathematical   Reviews ) 评论员 。 2004 年博士毕业 于 北京工业大学 ， timelabel - timelabel 在 美国 国家 健康 研究院 做 博士后 。 自 timelabel 开始 ， 多次 应邀 访问 香港理工大学 数学系 。 timelabel 获得 过 第八届 place_label “ 五四 ” 青年 概率统计 学术研讨会 “ 钟家庆 优秀论文 ” 奖 和 北京工业大学 首届 “ 校优秀 博士毕业论文 ” 奖 ； timelabel 入选  “ 北京市优秀人才培养 资助计划 ”； timelabel 入选为 北京市属高校 人才 name_label 深化 计划 “ 中青年骨干人才培养 计划 ”； timelabel 破格 入选 北京工业大学 “ 京华 人才 ” 支持 项目 。 主要 的 研究方向 有 纵向 数据分析 、 线性 混合 效应 模型 、 多元 复杂 数据分析 、 和 生物统计 等 。 迄今为止 ， 已 在 国内外 著名 统计 期刊 booklabel 、 booklabel 、 booklabel 、 booklabel 、 booklabel 等 上发表论文   24 篇 ， 并 由 科学出版社 出版专著   4   部 ： booklabel 、 booklabel 、 booklabel 和 booklabel 。 并 应邀 参编 了 专著 booklabel 、 booklabel 和 booklabel 中 关于 纵向 数据分析 和 多元 偏 正态分布 性质 章节 ， 这 三部 专著 分别 由 World   Scientific   Publishing 、 人民卫生出版社 、 Springer 出版社出版 。 已 主持 完成 了 国家自然科学基金青年 基金 、 国家 自然科学基金面上项目 、 北京市自然科学基金 、 北京市教育委员会科技 计划面上项目 和 教育部留学回国人员 科研基金 等 多项国家 和 省部级项目 。 
+研究方向 ： 数据分析 、 生物统计 
+研究兴趣 ： 混合 效应 模型 、 纵向 数据分析 、 复杂 数据分析 、 生物 指标 诊断 精准度 推断 等 。 
+联系方式 ： maillabel 
+个人主页 ： http :// www . escience . cn / people / wumixia 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

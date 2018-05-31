@@ -1,0 +1,256 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <title>段海超_兼职导师_北京化工大学马克思主义学院</title>
+  <link href="../../css/css.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="../../js/jquery-1.11.1.min.js"></script>
+
+  <script type="text/javascript">
+    window.onload = function(){
+            $(".fuli").mouseenter(
+                    function(){
+                        $(this).children(".menu").show().parent().siblings(".fuli").children(".menu").hide();
+                    }
+                );
+            $(".fuli").mouseleave(
+                    function(){
+                        $(this).children(".menu").hide();
+                    }
+                );
+           
+      
+    }
+  </script>
+
+</head>
+
+<body>
+
+  
+<div class="header header1">
+    <div class="inner">
+      <div class="top"><a href="../../index.htm" target="_blank"></a></div>
+      <div class="nav">
+        <ul>
+<li class="fuli"><a href="../../index.htm" target="_blank">学院主页</a></li>
+                     <li class="fuli">
+		    			 <a href="../../xygk/index.htm" target="_blank">学院简介</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../xygk/xyjj/index.htm" target="_blank">学院简介</a></li>
+					                    				                      <li><a href="JavaScript:;">学院领导</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		                 <a href="JavaScript:;">机构设置</a>
+			                          </li>
+                      <li class="fuli">
+		    			 <a href="../index.htm" target="_blank">师资情况</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../sx/index.htm" target="_blank">思想道德修养与法律基础教研室</a></li>
+					                    				  					<li><a href="../yl/index.htm" target="_blank">马克思主义基本原理教研室</a></li>
+					                    				  					<li><a href="../sg/index.htm" target="_blank">中国近现代史纲要教研室</a></li>
+					                    				  					<li><a href="../gl/index.htm" target="_blank">毛泽东思想和中国特色社会主义理论体系概论教研室</a></li>
+					                    				  					<li><a href="../xsyzcjys/index.htm" target="_blank">形势与政策教研室</a></li>
+					                    				  					<li><a href="../yjs/index.htm" target="_blank">研究生思政课教研室</a></li>
+					                    				  					<li><a href="../jzjs/index.htm" target="_blank">兼职教授</a></li>
+					                    				  					<li><a href="index.htm" target="_blank">兼职导师</a></li>
+					                    				  					<li><a href="../fpjs/index.htm" target="_blank">返聘教师</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../kxyj/index.htm" target="_blank">科学研究</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../kxyj/xkjs/index.htm" target="_blank">学科建设</a></li>
+					                    				  					<li><a href="../../kxyj/xzdt/index.htm" target="_blank">学术动态</a></li>
+					                    				  					<li><a href="../../kxyj/zykyxm/index.htm" target="_blank">主要科研项目</a></li>
+					                    				  					<li><a href="../../kxyj/zyxzcg/index.htm" target="_blank">主要学术成果</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../rcpy/index.htm" target="_blank">人才培养</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../rcpy/glgd/index.htm" target="_blank">管理规定</a></li>
+					                    				  					<li><a href="../../rcpy/xykc/index.htm" target="_blank">学院课程</a></li>
+					                    				  					<li><a href="../../rcpy/jxcg/index.htm" target="_blank">教学成果</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../zsjy/index.htm" target="_blank">招生就业</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../zsjy/zsxx/index.htm" target="_blank">招生信息</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../xsgz/index.htm" target="_blank">学生工作</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../xsgz/xwkx/index.htm" target="_blank">新闻快讯</a></li>
+					                    				  					<li><a href="../../xsgz/tshd/index.htm" target="_blank">特色活动</a></li>
+					                    				  					<li><a href="../../xsgz/zzjg/index.htm" target="_blank">组织机构</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../djgz/index.htm" target="_blank">党群工作</a>
+			                            <div class="menu">
+               <ul>
+                 				  					<li><a href="../../djgz/zbcx/index.htm" target="_blank">支部创新</a></li>
+					                    				  					<li><a href="../../djgz/dyjy/index.htm" target="_blank">党员教育</a></li>
+					                    				  					<li><a href="../../djgz/zzsh/index.htm" target="_blank">组织生活</a></li>
+					                                   </ul>
+             </div>
+                        </li>
+                      <li class="fuli">
+		    			 <a href="../../zpxx/index.htm" target="_blank">招聘信息</a>
+			                          </li>
+                   </ul>
+      </div>
+
+      <form name="dataForm" class="search" action="/cms/search/searchResults.jsp" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+        <input name="siteID" value="124" type="hidden">
+        <input class="notxt" value="搜索...." name="query" id="keywords" onfocus="if(value==defaultValue){value='';}" onblur="if(!value){value=defaultValue;}" onclick="if(this.value==''){this.value='';this.form.keywords.style.color='#787878'}" type="text">
+        <input class="notxt1" name="Submit" value="" type="submit">
+      </form>
+
+    </div>
+  </div>
+  <div class="content1">
+    <div class="inner">
+      <div class="bread">
+                         <a href="../../index.htm" target="_blank">首页</a>»
+                 <a href="../index.htm" target="_blank">师资情况</a>»
+        兼职导师
+      </div>
+      <div class="left">
+        <h3>师资情况</h3>
+        <ul>
+                    <li>
+            <a href="../sx/index.htm" target="_blank">思想道德修养与法律基础教研室</a>
+          </li>
+                    <li>
+            <a href="../yl/index.htm" target="_blank">马克思主义基本原理教研室</a>
+          </li>
+                    <li>
+            <a href="../sg/index.htm" target="_blank">中国近现代史纲要教研室</a>
+          </li>
+                    <li>
+            <a href="../gl/index.htm" target="_blank">毛泽东思想和中国特色社会主义理论体系概论教研室</a>
+          </li>
+                    <li>
+            <a href="../xsyzcjys/index.htm" target="_blank">形势与政策教研室</a>
+          </li>
+                    <li>
+            <a href="../yjs/index.htm" target="_blank">研究生思政课教研室</a>
+          </li>
+                    <li>
+            <a href="../jzjs/index.htm" target="_blank">兼职教授</a>
+          </li>
+                    <li>
+            <a href="index.htm" target="_blank">兼职导师</a>
+          </li>
+                    <li>
+            <a href="../fpjs/index.htm" target="_blank">返聘教师</a>
+          </li>
+                  </ul>
+        <div class="wei"></div>
+        <div class="left-link">
+          <a href="#">
+            <img src="../../images/celianjie.jpg" alt="" width="235" height="61">
+          </a>
+        </div>
+      </div>
+      <div class="right">
+        <h3 class="biaoti">
+          兼职导师
+        </h3>
+
+        <div class="box_list">
+         <h3>段海超</h3>
+                                                      <div class="zuozhe">   发布日期：2017-05-17</div>
+          <div class="wz_art" style="min-height:300px;">
+            <p style="text-align: center; line-height: 28pt; margin-bottom: 12pt"><img alt="" onclick="window.open('../../images/content/2017-05/20170519145127177618_1.jpg')" src="../../images/content/2017-05/20170519145127177618.jpg" style="width: 350px; height: 525px"></p>
+
+<p style="line-height: 28pt; margin-bottom: 12pt" align="left">&nbsp;</p>
+
+<p style="line-height: 28pt; margin-bottom: 12pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>&nbsp;&nbsp;&nbsp; 段海超，女，1980年2月生，中国共产党党员，北京化工大学马克思主义学院副院长。</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left"><strong><span style="font-size: 18px"><span style="font-family: 黑体">主要研究领域：</span><span style="font-family: 宋体">大学生思想政治教育</span><br>
+<span style="font-family: 微软雅黑, sans-serif"><span style="font-family: 黑体">电子邮箱</span>：<span style="font-family: 宋体">duanhc@mail.buct.edu.cn</span></span><span style="font-family: 宋体">&nbsp;</span></span></strong></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 黑体"><strong><span style="font-size: 14pt">教育经历：</span></strong></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>2010年9月至2014年1月&nbsp; 北京交通大学经管学院&nbsp;&nbsp; 企业管理专业&nbsp; 管理学博士 </strong></span></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>2005年9月至2008年1月&nbsp; 北京交通大学人文学院&nbsp; 思想政治教育专业 法学硕士&nbsp;</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left">&nbsp;</p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 黑体"><strong><span style="font-size: 14pt">科研项目：</span></strong></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>1.教育部，高校校园文化建设</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>2.教育部，基于实践育人创新创业的价值引导研究</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>3.北京市哲社办，新形势下高校网络思想政治教育工作创新研究</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>4.北京化工大学，当代社会思潮对大学生思想行为的影响机制研究</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>5.教育部，大学生思想政治教育整体性研究——途径方法的整合研究</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>6.北京市哲社办，基于知识管理的北京学习型企业建设研究</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left"><span style="font-family: 宋体"><span style="font-size: 18px"><strong>7.教育部，交叉学科视野下的思想政治教育创新发展研究</strong></span></span></p>
+
+<p style="line-height: 28pt" align="left">&nbsp;</p>
+
+<p style="line-height: 28pt; text-indent: -21pt; margin-left: 21pt" align="left"><span style="font-family: 宋体"><span style="font-family: 黑体"><strong><span style="font-size: 14pt">学术论文：</span></strong></span><strong><span style="font-size: 14pt"> </span></strong></span></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">1.《经济与管理研究》，2017年6月，新常态下中国跨越中等收入陷阱的路径选择,<em>cssci</em>，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">2.《思想教育研究》，2017年2月，改革开放以来我国大学生价值观变迁规律及启示,<em>cssci</em>，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">3.《思想理论教育导刊》，社会思潮影响大学生思想与行为的个体心理机制, 2016年6月，<em>cssci</em>，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">4.《学校党建与思想教育》，论高校创新创业教育的价值导向——基于社会主义核心价值观个人层面的思考，2016年9月，北大中文核心期刊，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">5.《东北师范大学（哲学社会科学版）》，社会主义核心价值观认同的心理机制，2016年9月，<em>cssci</em>，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">6.《人大复印报刊资料（思想政治教育）》，组织行为学视角下的高校思想政治工作创新研究，2015年5月，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">7.《人大复印报刊资料（思想政治教育）》，文化自觉和文化自信的培育与思想政治教育发展向度，2015年4月，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">8.《人大复印报刊资料（思想政治教育）》，略论思想政治教育的文化育人；2013年5月，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">9.《思想理论教育导刊》，加强学习型党组织建设的几点思考，<em>cssci</em>，2013年5月，第一作者；</span></span></strong></p>
+
+<p style="text-align: justify; line-height: 28pt"><strong><span style="font-size: 18px"><span style="font-family: 宋体">10.《西南大学学报（社会科学版）》，基于二元语义的学习型组织评价研究，<em>cssci</em>，2013年5月，第一作者；</span></span></strong></p>
+
+<p style="line-height: 28pt" align="left">&nbsp;</p>
+
+          </div>
+                  </div>
+
+        
+      </div>
+    </div>
+  </div>
+  
+<div class="footer">
+     <div class="inner">
+       <p><a href="mailto:wfxy@mail.buct.edu.cn" target="_blank">校长信箱</a> | <a href="http://tree.buct.edu.cn/" target="_blank">校外认证</a> | <a href="https://vpn.buct.edu.cn/" target="_blank">VPN</a> | <a href="#" target="_blank">联系我们</a> | 技术支持 | 京公网安备： 110402430060 </p>
+        <p>
+          Copyright@ 北京化工大学 | 地址：北京市朝阳区北三环东路15号 | 邮编：100029 | Email：marxism@mail.buct.edu.cn
+        </p>
+     </div>
+   </div>
+
+</body></html>

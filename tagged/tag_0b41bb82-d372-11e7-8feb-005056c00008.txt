@@ -1,0 +1,14 @@
+name_label 
+基本情况 
+name_label ， 男 ， timelabel 生 ， 教授 ， 博士生导师 。 
+timelabel 毕业 于 南开大学物理系 物理专业 ， 获理学学士学位 ； timelabel 毕业 于 中国科学院 电子学 研究所 电子物理 与 器件专业 ， 获工学硕士学位 ； timelabel 毕业 于 北京工业大学 物理系凝聚态物理 专业 ， 获理学博士学位 。 timelabel 至 timelabel 在 英国 诺丁汉大学 物理系 作访问学者 。 
+主要 从事 半导体 光电 薄膜材料 与 器件 和 半导体物理 的 研究工作 。 先后 主持国家自然科学基金 2 项 、 主持 北京市自然科学基金 2 项 ， 作为 主要成员 参加 973 项目 1 项 ， 参加 863 项目 1 项 。 在 Applied   Physics   Letters ， Thin   Solid   Films ， Surface   and   Coating   Technology   等 国内外刊物上发表 论文 60 余篇 ， 其中 近 30 篇 被 SCI 收录 ， 出版教材 和 专著 3 部 ， 获授权 发明专利 2 项 。 
+主要研究方向 
+1   半导体 光电 薄膜材料 与 器件 、 半导体 光伏 材料 与 器件 
+2   半导体物理 、 光电信息 材料物理 
+考生 专业 ： 物理学 、 应用 物理学 、 微电子 、 光电子 、 材料物理   等 相关 专业 
+联系方式 ： E - mail : maillabel    TEL : phonelabel , phonelabel - 202 
+北京工业大学 研究生招生办公室 
+地址 ： place_label place_label place_label 100 号 
+邮政编码 ： 100124 
+联系电话 ： phonelabel 

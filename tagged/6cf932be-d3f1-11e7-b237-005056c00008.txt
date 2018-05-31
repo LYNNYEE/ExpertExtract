@@ -1,0 +1,249 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>博士后 - 重庆邮电大学人事处</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Author" content="lyh@codol.com.cn">
+<meta name="Power By" content="codol.com.cn|重庆科道乐信息技术有限公司">
+<meta name="Keywords" content="重庆邮电大学人事处">
+<meta name="Description" content="重庆邮电大学人事处">
+
+<link rel="shortcut icon" type="image/x-icon" href="/cms/r/cms/www/favicon.ico">
+<link href="/cms/r/cms/www/default/css/cqupt.css" rel="stylesheet" type="text/css">
+
+<script src="/cms/r/cms/www/default/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="/cms/r/cms/www/default/js/swfObject.js" type="text/javascript"></script>
+<script src="/cms/r/cms/www/default/js/jquery.SuperSlide.2.1.js" type="text/javascript"></script>
+<script src="/cms/r/cms/www/default/js/jquery.ui.core.js" type="text/javascript"></script>
+<script src="/cms/r/cms/www/default/js/jquery.ui.widget.js" type="text/javascript"></script>
+<script src="/cms/r/cms/www/default/js/jquery.ui.rcarousel.js" type="text/javascript"></script>
+<style type="text/css" media="screen">#banner1 {visibility:hidden}</style></head>
+<body>
+<script type="text/javascript">
+	function searchformCheck(){
+		var q = $("#querykeyword").val();
+		if(q == '' || q == '请输入关键字'){
+			return false;
+		}
+		
+		return true;
+	}
+
+</script>
+
+<center>
+		<!-- LOGO -->
+		<div id="banner" class="cen">
+			<div id="banner1" class="cen" style="visibility: visible;"> 
+				<a href="http://www.adobe.com/go/getflashplayer" target="_blank">
+					<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" border="0"> 
+				</a> 
+			</div>
+			
+			<div class="topx2 cen">
+				<div style="width: 340px; float: right;">
+					<div style="width: 230px; float: left; margin-right: 8px;clear:left;">
+						<form name="searchform" action="/cms/search.jspx" target="_blank" onsubmit="return searchformCheck();">
+							<div style="width: 230px; float: left;clear:left; margin-top: 10px;">
+								<input name="q" id="querykeyword" class="keyword" value="请输入关键字" onfocus="if (value =='请输入关键字'){value =''}" onblur="if (value ==''){value='请输入关键字'}" type="text">
+								<input class="keyword_btn" value="" type="submit">
+							</div>
+						</form>
+					</div>
+					<!-- <div style="width: 102px; float: right; clear:right;">
+						<a href="http://172.16.97.231" target="_blank">
+							<img src="/cms/r/cms/www/default/img/bb_rk.png"/>
+						</a>
+					</div> -->
+				</div>
+			</div>
+			
+			
+		</div>
+		
+		<script>
+			swfobject.embedSWF("/cms/r/cms/www/default/img/logo.swf", "banner1", "100%", "100%", "9.0.0", "/cms/r/cms/www/default/img/expressInstall.swf",null,{"wmode":"transparent"});
+		</script>
+		
+		<!-- 导航栏 -->
+		<div id="topnav">
+  			<div id="topnav1" class="cen">
+    			<ul id="nav" class="topnav clearfix">
+      				<li class="left"></li>
+      				<li><a href="http://rsc.cqupt.edu.cn:80/cms/" target="_blank">首&nbsp;&nbsp;&nbsp;&nbsp;页</a></li>
+      
+			      <li class="line"></li>
+			      <li class="nLi on">
+			      <a href="http://rsc.cqupt.edu.cn:80/cms/jgsz/index.jhtml" target="_blank">机构设置</a>
+			      	<ul class="sub">
+			      	
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/rsk/index.jhtml" class="" target="_blank">人事科</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/lzk/index.jhtml" class="" target="_blank">劳资科</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/jsfz.jhtml" class="" target="_blank">教师发展中心</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/rcjlzx/index.jhtml" class="" target="_blank">人才交流中心</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/szk/index.jhtml" class="" target="_blank">师资科</a></li>
+			      	
+			      	</ul>
+			      </li>
+			      <li class="line"></li>
+			      <li class="nLi">
+			      <a href="http://rsc.cqupt.edu.cn:80/cms/rczp/index.jhtml" target="_blank">人才招聘</a>
+			      	<ul class="sub">
+			      	
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/zrjszp/index.jhtml" class="" target="_blank">教师招聘</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/cybgjwd/index.jhtml" class="" target="_blank">常用表格及文档</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/rczplssj/index.jhtml" class="" target="_blank">人才招聘历史文档</a></li>
+			      	
+			      	</ul>
+			      </li>
+			      <li class="line"></li>
+			      <li class="nLi">
+			      <a href="http://rsc.cqupt.edu.cn:80/cms/szdw/index.jhtml" target="_blank">师资队伍</a>
+			      	<ul class="sub">
+			      	
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/zyjszwps/index.jhtml" class="" target="_blank">专业技术职务评审</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/jszgz/index.jhtml" class="" target="_blank">教师资格证</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/gjjrcxm/index.jhtml" class="" target="_blank">国家级人才项目</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/sbjrcxm/index.jhtml" class="" target="_blank">省部级人才项目</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/wfrcgc/index.jhtml" class="" target="_blank">文峰人才工程</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/wpjs/index.jhtml" class="" target="_blank">外聘教师</a></li>
+			      	
+			      	</ul>
+			      </li>
+			      <li class="line"></li>
+			      <li class="nLi">
+			      <a href="http://rsc.cqupt.edu.cn:80/cms/zcgz/index.jhtml" target="_blank">规章制度</a>
+			      	
+			      	
+			      </li>
+			      <li class="line"></li>
+			      <li class="long nLi">
+			      <a href="http://rsc.cqupt.edu.cn:80/cms/jsfzzx/index.jhtml" target="_blank">教师发展与规划</a>
+			      	<ul class="sub">
+			      	
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/jxfz/index.jhtml" class="" target="_blank">教学辅助工具</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/tjsm/index.jhtml" class="" target="_blank">教师发展推荐书目</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/jsfzhd/index.jhtml" class="" target="_blank">教师能力提升活动剪辑</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/tsjq/index.jhtml" class="" target="_blank">教学科研能力提升技巧</a></li>
+			      	
+			      	</ul>
+			      </li>
+			      <li class="line"></li>
+			      <li class="nLi">
+			      <a href="http://rsc.cqupt.edu.cn:80/cms/bsh/index.jhtml" target="_blank">博士后</a>
+			      	<ul class="sub">
+			      	
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/kyldz/index.jhtml" class="" target="_blank">科研流动站</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/kygzz/index.jhtml" class="" target="_blank">科研工作站</a></li>
+			      	
+			      	</ul>
+			      </li>
+			      <li class="line"></li>
+			      <li class="nLi">
+			      <a href="http://rsc.cqupt.edu.cn:80/cms/fwzl/index.jhtml" target="_blank">服务大厅</a>
+			      	<ul class="sub">
+			      	
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/gzzd/index.jhtml" class="" target="_blank">工资制度</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/sbbll/index.jhtml" class="" target="_blank">社保办理</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/gldy/index.jhtml" class="" target="_blank">福利待遇</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/rszm/index.jhtml" class="" target="_blank">人事证明</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/cztd/index.jhtml" class="" target="_blank">辞职调动</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/pxjx/index.jhtml" class="" target="_blank">培训进修</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/fpyt/index.jhtml" class="" target="_blank">返聘延退</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/qjkq/index.jhtml" class="" target="_blank">请假考勤</a></li>
+			      		<li><a href="http://rsc.cqupt.edu.cn:80/cms/gwprkh/index.jhtml" class="" target="_blank">岗位聘任与考核</a></li>
+			      	
+			      	</ul>
+			      </li>
+		    </ul>
+		  </div>
+		</div>
+		<script id="jsID" type="text/javascript">
+			
+			jQuery("#nav").slide({ 
+				type:"menu",// 效果类型，针对菜单/导航而引入的参数（默认slide）
+				titCell:".nLi", //鼠标触发对象
+				targetCell:".sub", //titCell里面包含的要显示/消失的对象
+				effect:"slideDown", //targetCell下拉效果
+				delayTime:300 , //效果时间
+				triggerTime:0, //鼠标延迟触发时间（默认150）
+				returnDefault:true //鼠标移走后返回默认状态，例如默认频道是"预告片"，鼠标移走后会返回"预告片"（默认false）
+			});
+		</script>
+	</center><div class="div_root2">
+	<div style="padding-bottom: 5px;"></div>
+	<div class="news_container cen">
+		<div class="news_colL">
+			<div class="new_channel_title1">
+					博士后
+			</div>
+			<ul style="width:183px; margin: auto;">
+				<li class="new_channel_title2"><a href="http://rsc.cqupt.edu.cn:80/cms/kyldz/index.jhtml" target="_blank">科研流动站</a></li>
+				<li class="new_channel_title2"><a href="http://rsc.cqupt.edu.cn:80/cms/kygzz/index.jhtml" target="_blank">科研工作站</a></li>
+				
+			</ul>
+		</div>
+		<div class="news_colC">
+			<div class="position">当前位置：<a href="/cms/" target="_blank">首页</a> &gt; <a href="http://rsc.cqupt.edu.cn:80/cms/bsh/index.jhtml" target="_blank">博士后</a></div>
+			<div>
+
+<div class="c1-body">
+<div class="c1-bline" style="padding:10px 0;"><div class="f-left"><img src="/cms/r/cms/head-mark4.gif" class="img-vm" border="0" align="middle"> <a href="http://rsc.cqupt.edu.cn:80/cms/kygzz/index.jhtml" class="red" target="_blank">[科研工作站]</a><a href="http://rsc.cqupt.edu.cn:80/cms/kygzz/918.jhtml" title="重庆邮电大学博士后科研工作站2017年招聘简章" target="_blank"><span style="">重庆邮电大学博士后科研工作站2017年招聘简章</span></a></div><div class="gray f-right">2017-01-17</div><div class="clear"></div></div>
+</div>
+
+<div class="pagination">
+共1条记录 1/1页
+&nbsp;<a disabled="disabled">首页</a> <a disabled="disabled">上一页</a>&nbsp;<a disabled="disabled">下一页</a> <a disabled="disabled">尾页</a>
+&nbsp;第<select onchange="if(this.value==1){location.href=encodeURI('index.jhtml')}else{location.href=encodeURI('index_'+this.value+'.jhtml')}this.disabled='disabled'">
+  <option value="1" selected="selected">1</option>
+</select>页
+</div>			</div>
+		</div>
+		
+	</div>
+</div>
+<div class="footerbg">
+        <div class="footercent1">
+            <div class="ftb com_fl">
+                <h3 class="ftbtitle">
+                    重庆邮电大学链接
+                </h3>
+                <ul>
+                	                    <li><a href="http://www.cqupt.edu.cn/" target="_blank"><span>·</span>重庆邮电大学门户</a></li>
+                    <li><a href="http://jwc.cqupt.edu.cn/" target="_blank"><span>·</span>重庆邮电大学教务处</a></li>
+                    <li><a href="http://202.202.32.194/" target="_blank"><span>·</span>重庆邮电大学科技处</a></li>
+                    <li><a href="http://skc.cqupt.edu.cn/" target="_blank"><span>·</span>重庆邮电大学社科处</a></li>
+                    <li><a href="http://gjc.cqupt.edu.cn/" target="_blank"><span>·</span>重庆邮电大学国际处</a></li>
+                    <li><a href="http://202.202.43.69/XinLiweb/" target="_blank"><span>·</span>心理辅导中心</a></li>
+                    <li><a href="http://yjs.cqupt.edu.cn/" target="_blank"><span>·</span>重庆邮电大学研究生院</a></li>
+                    <li><a href="http://cxy.cqupt.edu.cn/" target="_blank"><span>·</span>产学研合作办公室</a></li>
+                    <li><a href="http://tsg.cqupt.edu.cn/" target="_blank"><span>·</span>重庆邮电大学图书馆</a></li>
+                </ul>
+            </div>
+            <div class="ftbline com_fl">
+            </div>
+            <div class="ftb ftbrightw com_fr">
+                <h3 class="ftbtitle">
+                    人事链接
+                </h3>
+                <ul class="ulrw">
+                    <li><a href="http://www.moe.edu.cn/" target="_blank"><span>·</span>教育部</a></li>
+                    <li><a href="http://www.mohrss.gov.cn/" target="_blank"><span>·</span>人力资源与社会保障部</a></li>
+                    <li><a href="http://www.miit.gov.cn/" target="_blank"><span>·</span>工业与信息化部</a></li>
+                    <li><a href="http://www.csc.edu.cn/" target="_blank"><span>·</span>国家留学基金委员会</a></li>
+                    <li><a href="http://www.cpta.com.cn/" target="_blank"><span>·</span>中国人事考试网</a></li>
+                    <li><a href="http://www.cqhrss.gov.cn/" target="_blank"><span>·</span>重庆市人力资源与社会保障网</a></li>
+                    <li><a href="http://www.cqjw.gov.cn/" target="_blank"><span>·</span>重庆市教育委员会</a></li>
+                </ul>
+            </div>
+            <div class="com_ClearAll">
+            </div>
+        </div>
+        <div class="footercent1">
+            <p>
+                © Copyright 2015 重庆邮电大学人事处 版权所有 重庆市南岸区崇文路2号</p>
+            <p>
+                邮编：400065 电话：023-62460010 &nbsp;&nbsp;<a href="/cms/rscadmin/cms/login.do" target="_blank">管理登录</a>
+            </p>
+        </div>
+    </div>
+
+</body></html>

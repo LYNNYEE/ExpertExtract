@@ -1,0 +1,106 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="西电，西安电子科技大学，导师信息，教师，个人主页"> 
+<meta name="description" content="西安电子科技大学教师个人主页系统采用PHP和MySQL开源技术开发，目的是为西电教师提供一个展示个人学术研究与教学工作的平台，扩大学校在互联网上的影响力。本系统是由西电电子工程学院网络信息中心开发维护，得到信息化建设处大力支持。"> 
+<meta name="keywords" content="西电，西安电子科技大学，导师信息，教师，个人主页">
+<meta http-equiv="Pragma" content="no-cache">    
+<meta http-equiv="Cache-Control" content="no-cache">    
+<meta http-equiv="Expires" content="0">    
+<title>田捷 | 个人信息 | 西安电子科技大学个人主页</title>
+<link href="/css/style_1.css" rel="stylesheet" type="text/css">
+					<link href="/css/basic.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+				<div class="topaction">	
+			<span><a href="http://meeting.xidian.edu.cn" title="学术信息网" target="_blank">学术信息网</a></span>	
+			<span><a href="http://www.xidian.cc" title="西电导航" target="_blank">西电导航</a></span>
+			<span><a href="/about.php" target="_blank">关于</a></span>
+			<span><a href="/help.php" target="_blank">使用说明</a></span>
+			<span><a href="/prisearch.php" target="_blank">搜索</a></span>
+			<span><a href="/index.php" target="_blank">系统首页</a></span>
+			<span><a href="/login.php" target="_blank">登录</a></span>		
+			<span><a href="/user/pageInfo.php" target="_blank">控制面板</a></span>		
+			<span><a href="javascript:addBookmark('http://web.xidian.edu.cn/tian/index.html', '田捷 | 个人信息 | 西安电子科技大学个人主页');">收藏</a></span>
+			<span><a href="/guestbook/index.php?u=tian" style="color:#6BB228;" target="_blank">田捷的留言板</a></span>
+			<div style="clear:both"></div>
+	</div>
+<div id="container">
+<!--顶部-->
+<div id="top">
+    <div style="float:right; text-align:right;">
+    </div>
+    <div id="logo"><a href="/index.php" target="_blank"><img src="/img/style_1/logo.jpg" title="返回首页"></a></div>
+<!--导航-->
+    <div id="lead_1">
+        <ul id="leader">
+            <li><a href="index.html" target="_blank">田捷的主页:</a></li><li><a href="index.html" target="_blank">个人信息</a></li><li><a href="research.html" target="_blank">科学研究</a></li><li><a href="paper.html" target="_blank">论文成果</a></li><li><a href="award.html" target="_blank">荣誉奖励</a></li><li><a href="team.html" target="_blank">科研团队</a></li><li><a href="teach.html" target="_blank">课程教学</a></li><li><a href="zhaosheng.html" target="_blank">招生信息</a></li>
+        </ul>
+    </div>
+</div>
+
+<!--中间-->
+<div id="middle">
+			<div id="dom0" style="margin:1px 0 0 0; float:left; width:250px; display:inline;"><div style="WIDTH: auto; HEIGHT: auto; TOP: 118px; LEFT: 131px" class="mo">
+<div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(0);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(0);"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t0">基本信息</span></div><!--ckstartn0-->
+<div id="n0" class="nr">
+<p><img style="WIDTH: 210px" alt="" src="http://see.xidian.edu.cn/info/teacher/photo/5160.jpg"></p>
+<p style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px">田捷　教授&nbsp;&nbsp;博导</p>
+<p style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px">博士学科：模式识别与智能系统，信号与信息处理</p>
+<p style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px">硕士学科：模式识别与智能系统，生物医学工程</p>
+<p style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px">工作单位：生命科学技术学院</p></div><!--ckendn0--></div>
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 597px; LEFT: 99px" class="mo">
+<div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(3);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(3);"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t3">联系方式</span></div><!--ckstartn3-->
+<div id="n3" class="nr">
+<p>通信地址：西安电子科技大学南校区0528信箱，710126</p>
+<p style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px">电子邮箱：tian@ieee.org</p>
+<p style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px">办公电话：029-81891070</p>
+<p style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px">办公地点：南校区G408</p></div><!--ckendn3--></div></div>
+			<div id="dom1" style="margin:1px 0 0 0; float:right; width:740px; display:inline;"><div style="WIDTH: auto; HEIGHT: auto; TOP: 149px; LEFT: 398px" class="mo">
+<div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(2);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(2);"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t2">个人简介</span></div><!--ckstartn2--><div class="nr" id="n2"><p>
+	田捷，西安电子科技大学生命科学技术学院院长，教授，博士生导师，国家重点基础研究发展计划973项目“分子影像关键科学技术问题的研究”(2006-2010年)和“多模态分子影像关键科学问题研究”（2011-2015年）首席科学家，IEEE Fellow，IEEE EMBS北京分会主席，2002年度国家杰出青年科学基金获得者，教育部长江学者特聘教授，新世纪百千万人才工程国家级人选，中国自动化学会常务理事兼中国自动化学会模式识别与机器智能专业委员会主任，国家自然科学基金委信息学部第六、第七届评议组成员和生命学部第十二届评议组成员。</p>
+<p>
+	&nbsp;</p>
+<p>
+	田捷博士主要从事医学影像分析与生物特征识别方向的研究与应用工作，主持研发的三维医学图像处理与分析系统获2003年国家科技进步二等奖（第一完成人）；主持的医学影像研究工作获得国家自然科学基金委杰出青年基金资助，并因此研究工作获得“2002年度中国十大科技前沿领军人物”。田捷博士在指纹识别方面的工作取得了国内目前在国际指纹竞赛Open项目中的最好名次，并获得2004年国家科技进步二等奖（第一完成人）以及2005年度信息产业部重大发明奖和第十五届全国发明展览会金奖。田捷博士主持研发的多模态分子影像系统获得2010年国家技术发明二等奖（第一完成人）。</p>
+<p>
+	&nbsp;</p>
+<p>
+	田捷博士已在国内外学术杂志与学术会议上发表论文百余篇、专著多部，获得授权国家发明专利20多项。他发表的文章与专著已引起一定反响，被SCI和EI等百余次收录与索引与积极评价，并自1992年起，被美国著名的数学评论杂志《Mathematical Review》聘为特约评论员，是《International Journal of Biometrical Imaging》、《Journal of X-ray Science and Technology》、《软件学报》、《计算机辅助设计与图形学学报》与《模式识别与人工智能》等杂志的编委。</p>
+<p>
+	&nbsp;</p>
+</div><!--ckendn2--></div>
+<div style="WIDTH: auto; HEIGHT: auto; TOP: 144px; LEFT: 655px" class="mo">
+<div style="display:none;"><span class="dragBottom" onclick="removeProc(this);"><img title="删除栏目" src="../img/delete.png"></span><span class="dragBottom" onclick="ckeditorOnloadFun(1);"><img title="编辑栏目" src="../img/edit.png"></span><span class="dragBottom" onclick="rename(1);"><img title="栏目标题" src="../img/rename.png"></span></div>
+<div class="drag"><span id="t1">主要研究方向</span></div><!--ckstartn1-->
+<div id="n1" class="nr">
+<p>1．分子影像<br>2．神经影像<br>3．生物特征识别与加密</p></div><!--ckendn1--></div></div>
+			</div>
+
+<!--底部-->
+<div id="bottom">
+<span style="color:red;">版权声明:</span>未经西安电子科技大学以及个人主页教师本人许可不得复制,转载传播本主页内容或用于任何商业用途,如需转载请征得主页所有者同意,并附上主页链接.<br>
+<a href="/index.php" style="color:#6BB228;" target="_blank">西安电子科技大学个人主页</a>　<a href="/sitemap.xml" target="_blank">站点地图</a> | <!--teacher--> | <a href="/guestbook/index.php?u=tian" style="color:#6BB228;" target="_blank">田捷的留言板</a> | 更新日期 :2016-09-30 | <script src="http://s19.cnzz.com/stat.php?id=3154940&amp;web_id=3154940&amp;show=pic" language="JavaScript"></script><script src="http://c.cnzz.com/core.php?web_id=3154940&amp;show=pic&amp;t=z" charset="utf-8" type="text/javascript"></script><a href="http://www.cnzz.com/stat/website.php?web_id=3154940" target="_blank" title="站长统计"><img src="http://icon.cnzz.com/img/pic.gif" vspace="0" hspace="0" border="0"></a>
+ | <iframe src="/include/count.php?id=2009&amp;lg=0" scrolling="no" allowtransparency="true" style="vertical-align:middle" height="22px" frameborder="0"></iframe>
+<br>
+Copyright © 2011-2016 西安电子科技大学 版权所有 陕ICP备021284(05016169)　Powered by <a href="http://www.xidian.edu.cn/xxhjsc/index.htm" target="_blank">信息化建设处</a> &amp; <a href="http://see.xidian.edu.cn/nic" target="_blank">电院网络中心</a>
+</div>
+</div>
+<script>
+    function addBookmark(url, label) {  
+        if (document.all)  
+        {  
+            window.external.addFavorite(url, label);  
+        }  
+        else if (window.sidebar)  
+        {  
+            window.sidebar.addPanel(label, url, '');  
+        }  
+    }  
+</script>
+
+</body></html>

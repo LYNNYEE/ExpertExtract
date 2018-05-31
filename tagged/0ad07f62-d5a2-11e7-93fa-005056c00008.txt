@@ -1,0 +1,2275 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>班委</title>
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/89/89.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/1a/26/style/135/135.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="26"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link href="/_upload/tpl/01/d1/465/template465/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<table width="1000" height="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+  <tbody><tr>
+    <td valign="top" height="119" background="/_upload/tpl/01/d1/465/template465/images/banner.jpg"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td width="260" height="55">&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td class="top_tit" nowrap=""><table cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td>&nbsp;</td>
+              </tr>
+          </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="32" background="/_upload/tpl/01/d1/465/template465/images/bar_bg1.gif"><table width="0" cellspacing="0" cellpadding="0" border="0" align="left">
+      <tbody><tr>
+        <td>
+<div frag="面板1"> 
+<div frag="窗口1"> 
+
+<style type="text/css"> 
+#wp_nav_w1 .wp_nav .sub-nav { border-width:0px;}#wp_nav_w1 .wp_nav .sub-nav { border-color:#dae6fc;}#wp_nav_w1 .wp_nav .sub-nav .nav-item a {border-color:#dae6fc;}#wp_nav_w1 .wp_nav .sub-nav .nav-item a {background-color:#dae6fc;}#wp_nav_w1 .wp_nav .sub-nav .nav-item .mark{background-color:#dae6fc;}#wp_nav_w1 .wp_nav .sub-nav .nav-item {text-align:center;}#wp_nav_w1 .wp_nav .sub-nav .nav-item a {font-family:”宋体”};#wp_nav_w1 .wp_nav .sub-nav .nav-item a { color:#080808;}#wp_nav_w1 .wp_nav .nav-item a:hover,.wp_nav .nav-item .parent { color:#ffffff;}#wp_nav_w1 .wp_nav .nav-item a:hover,.wp_nav .nav-item .parent {background-color:#4589c4;}#wp_nav_w1 .wp_nav .nav-item a:hover,.wp_nav .nav-item .parent {border-width:0px;}#wp_nav_w1 .wp_nav .nav-item a:hover,.wp_nav .nav-item .parent {border-color:#4589c4;}
+</style> 
+<div id="wp_nav_w1"> 
+<table class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '1', opacity_sub: '0.8', dWidth: '0'}" width="100%" cellspacing="0" cellpadding="0" border="0"> 
+<tbody><tr> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="http://civil.seu.edu.cn/main.htm" title="学院总览" class="barlink" target="_blank">学院总览</a></div> 
+          
+         <ul class="sub-nav" style="width: 96px; height: 7568px;"> 
+              
+             <li class="nav-item i1-1 " style="display: block; width: 100%;"> 
+                 <a href="/10483/list.htm" title="院内机构" target="_blank" style="display: block; width: auto;"><span class="item-name">院内机构</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 56px; height: 418px;"> 
+              
+             <li class="nav-item i1-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/10484/list.htm" title="建筑工程系" target="_blank" style="display: block; width: auto;"><span class="item-name">建筑工程系</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-1-2 " style="display: block; width: 100%;"> 
+                 <a href="/10485/list.htm" title="建设与房地产系" target="_blank" style="display: block; width: auto;"><span class="item-name">建设与房地产系</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-1-3 " style="display: block; width: 100%;"> 
+                 <a href="/10486/list.htm" title="工程力学系" target="_blank" style="display: block; width: auto;"><span class="item-name">工程力学系</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-1-4 " style="display: block; width: 100%;"> 
+                 <a href="/10487/list.htm" title="桥隧与地下工程系" target="_blank" style="display: block; width: auto;"><span class="item-name">桥隧与地下工程系</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-1-5 " style="display: block; width: 100%;"> 
+                 <a href="http://cpcs.seu.edu.cn/szgc/" title="市政工程系" target="_blank" style="display: block; width: auto;"><span class="item-name">市政工程系</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-1-6 " style="display: block; width: 100%;"> 
+                 <a href="/10489/list.htm" title="实验中心" target="_blank" style="display: block; width: auto;"><span class="item-name">实验中心</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-1-7 " style="display: block; width: 100%;"> 
+                 <a href="/10490/list.htm" title="学院机关" target="_blank" style="display: block; width: auto;"><span class="item-name">学院机关</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-1-8 " style="display: block; width: 100%;"> 
+                 <a href="http://sbc.seu.edu.cn/lxsyzx/" title="实验中心（力学）" target="_blank" style="display: block; width: auto;"><span class="item-name">实验中心（力学）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-2 " style="display: block; width: 100%;"> 
+                 <a href="/10482/list.htm" title="人才招聘" target="_blank" style="display: block; width: auto;"><span class="item-name">人才招聘</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-3 " style="display: block; width: 100%;"> 
+                 <a href="/10492/list.htm" title="联系我们" target="_blank" style="display: block; width: auto;"><span class="item-name">联系我们</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4 " style="display: block; width: 100%;"> 
+                 <a href="http://civil.seu.edu.cn/yylgc/main.htm" title="预应力工程中心" target="_blank" style="display: block; width: auto;"><span class="item-name">预应力工程中心</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 56px; height: 3454px;"> 
+              
+             <li class="nav-item i1-4-1 " style="display: block; width: 100%;"> 
+                 <a href="http://civil.seu.edu.cn/yylgc/main.htm" title="网站首页" target="_blank" style="display: block; width: auto;"><span class="item-name">网站首页</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-2 " style="display: block; width: 100%;"> 
+                 <a href="/10495/list.htm" title="中心概况" target="_blank" style="display: block; width: auto;"><span class="item-name">中心概况</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 440px;"> 
+              
+             <li class="nav-item i1-4-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/10496/list.htm" title="中心简介" target="_blank" style="display: block; width: auto;"><span class="item-name">中心简介</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/10497/list.htm" title="组织结构" target="_blank" style="display: block; width: auto;"><span class="item-name">组织结构</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-2-3 " style="display: block; width: 100%;"> 
+                 <a href="/10498/list.htm" title="管理制度" target="_blank" style="display: block; width: auto;"><span class="item-name">管理制度</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-2-4 " style="display: block; width: 100%;"> 
+                 <a href="/10499/list.htm" title="运行机制" target="_blank" style="display: block; width: auto;"><span class="item-name">运行机制</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-2-5 " style="display: block; width: 100%;"> 
+                 <a href="/10500/list.htm" title="人员配备" target="_blank" style="display: block; width: auto;"><span class="item-name">人员配备</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-3 " style="display: block; width: 100%;"> 
+                 <a href="/10501/list.htm" title="科研队伍" target="_blank" style="display: block; width: auto;"><span class="item-name">科研队伍</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 374px;"> 
+              
+             <li class="nav-item i1-4-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/10502/list.htm" title="基本情况" target="_blank" style="display: block; width: auto;"><span class="item-name">基本情况</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-3-2 " style="display: block; width: 100%;"> 
+                 <a href="/10503/list.htm" title="技术带头人" target="_blank" style="display: block; width: auto;"><span class="item-name">技术带头人</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-3-3 " style="display: block; width: 100%;"> 
+                 <a href="/10504/list.htm" title="技术骨干" target="_blank" style="display: block; width: auto;"><span class="item-name">技术骨干</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-3-4 " style="display: block; width: 100%;"> 
+                 <a href="/10505/list.htm" title="其他专家" target="_blank" style="display: block; width: auto;"><span class="item-name">其他专家</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-4 " style="display: block; width: 100%;"> 
+                 <a href="/10506/list.htm" title="人才培养" target="_blank" style="display: block; width: auto;"><span class="item-name">人才培养</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-5 " style="display: block; width: 100%;"> 
+                 <a href="/10507/list.htm" title="学术活动" target="_blank" style="display: block; width: auto;"><span class="item-name">学术活动</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 176px;"> 
+              
+             <li class="nav-item i1-4-5-1 " style="display: block; width: 100%;"> 
+                 <a href="/10508/list.htm" title="学术讲座" target="_blank" style="display: block; width: auto;"><span class="item-name">学术讲座</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-5-2 " style="display: block; width: 100%;"> 
+                 <a href="/10509/list.htm" title="学术会议" target="_blank" style="display: block; width: auto;"><span class="item-name">学术会议</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-6 " style="display: block; width: 100%;"> 
+                 <a href="/10510/list.htm" title="对外交流" target="_blank" style="display: block; width: auto;"><span class="item-name">对外交流</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 308px;"> 
+              
+             <li class="nav-item i1-4-6-1 " style="display: block; width: 100%;"> 
+                 <a href="/10511/list.htm" title="国内交流与合作" target="_blank" style="display: block; width: auto;"><span class="item-name">国内交流与合作</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-6-2 " style="display: block; width: 100%;"> 
+                 <a href="/10512/list.htm" title="国际交流与合作" target="_blank" style="display: block; width: auto;"><span class="item-name">国际交流与合作</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-7 " style="display: block; width: 100%;"> 
+                 <a href="/10513/list.htm" title="科学研究" target="_blank" style="display: block; width: auto;"><span class="item-name">科学研究</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 308px;"> 
+              
+             <li class="nav-item i1-4-7-1 " style="display: block; width: 100%;"> 
+                 <a href="/10514/list.htm" title="国家级项目" target="_blank" style="display: block; width: auto;"><span class="item-name">国家级项目</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-7-2 " style="display: block; width: 100%;"> 
+                 <a href="/10515/list.htm" title="省部级项目" target="_blank" style="display: block; width: auto;"><span class="item-name">省部级项目</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-7-3 " style="display: block; width: 100%;"> 
+                 <a href="/10516/list.htm" title="委托项目" target="_blank" style="display: block; width: auto;"><span class="item-name">委托项目</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-8 " style="display: block; width: 100%;"> 
+                 <a href="/10517/list.htm" title="实验条件" target="_blank" style="display: block; width: auto;"><span class="item-name">实验条件</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 242px;"> 
+              
+             <li class="nav-item i1-4-8-1 " style="display: block; width: 100%;"> 
+                 <a href="/10518/list.htm" title="大型设备" target="_blank" style="display: block; width: auto;"><span class="item-name">大型设备</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-8-2 " style="display: block; width: 100%;"> 
+                 <a href="/10519/list.htm" title="一般设备" target="_blank" style="display: block; width: auto;"><span class="item-name">一般设备</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-8-3 " style="display: block; width: 100%;"> 
+                 <a href="/10520/list.htm" title="工器具" target="_blank" style="display: block; width: auto;"><span class="item-name">工器具</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-9 " style="display: block; width: 100%;"> 
+                 <a href="/10521/list.htm" title="实验在线" target="_blank" style="display: block; width: auto;"><span class="item-name">实验在线</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-10 " style="display: block; width: 100%;"> 
+                 <a href="/10522/list.htm" title="技术服务" target="_blank" style="display: block; width: auto;"><span class="item-name">技术服务</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 264px;"> 
+              
+             <li class="nav-item i1-4-10-1 " style="display: block; width: 100%;"> 
+                 <a href="/10523/list.htm" title="技术咨询" target="_blank" style="display: block; width: auto;"><span class="item-name">技术咨询</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-10-2 " style="display: block; width: 100%;"> 
+                 <a href="/10524/list.htm" title="来样检测" target="_blank" style="display: block; width: auto;"><span class="item-name">来样检测</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-10-3 " style="display: block; width: 100%;"> 
+                 <a href="/10525/list.htm" title="现场检测" target="_blank" style="display: block; width: auto;"><span class="item-name">现场检测</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-11 " style="display: block; width: 100%;"> 
+                 <a href="/10526/list.htm" title="科研成果" target="_blank" style="display: block; width: auto;"><span class="item-name">科研成果</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 308px;"> 
+              
+             <li class="nav-item i1-4-11-1 " style="display: block; width: 100%;"> 
+                 <a href="/10527/list.htm" title="发表论文" target="_blank" style="display: block; width: auto;"><span class="item-name">发表论文</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-11-2 " style="display: block; width: 100%;"> 
+                 <a href="/10528/list.htm" title="专利成果" target="_blank" style="display: block; width: auto;"><span class="item-name">专利成果</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-11-3 " style="display: block; width: 100%;"> 
+                 <a href="/10529/list.htm" title="项目鉴定验收" target="_blank" style="display: block; width: auto;"><span class="item-name">项目鉴定验收</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-12 " style="display: block; width: 100%;"> 
+                 <a href="/10530/list.htm" title="典型工程" target="_blank" style="display: block; width: auto;"><span class="item-name">典型工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 242px;"> 
+              
+             <li class="nav-item i1-4-12-1 " style="display: block; width: 100%;"> 
+                 <a href="/10531/list.htm" title="建筑类" target="_blank" style="display: block; width: auto;"><span class="item-name">建筑类</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-12-2 " style="display: block; width: 100%;"> 
+                 <a href="/10532/list.htm" title="桥梁类" target="_blank" style="display: block; width: auto;"><span class="item-name">桥梁类</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-12-3 " style="display: block; width: 100%;"> 
+                 <a href="/10533/list.htm" title="市政类" target="_blank" style="display: block; width: auto;"><span class="item-name">市政类</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-12-4 " style="display: block; width: 100%;"> 
+                 <a href="/10534/list.htm" title="其他" target="_blank" style="display: block; width: auto;"><span class="item-name">其他</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-4-13 " style="display: block; width: 100%;"> 
+                 <a href="/10535/list.htm" title="技术创新" target="_blank" style="display: block; width: auto;"><span class="item-name">技术创新</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-14 " style="display: block; width: 100%;"> 
+                 <a href="/10536/list.htm" title="文化家园" target="_blank" style="display: block; width: auto;"><span class="item-name">文化家园</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-15 " style="display: block; width: 100%;"> 
+                 <a href="/10537/list.htm" title="内部机构" target="_blank" style="display: block; width: auto;"><span class="item-name">内部机构</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-16 " style="display: block; width: 100%;"> 
+                 <a href="/10538/list.htm" title="站点链接" target="_blank" style="display: block; width: auto;"><span class="item-name">站点链接</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-17 " style="display: block; width: 100%;"> 
+                 <a href="/10539/list.htm" title="新闻动态" target="_blank" style="display: block; width: auto;"><span class="item-name">新闻动态</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-4-18 " style="display: block; width: 100%;"> 
+                 <a href="/10540/list.htm" title="信息公告" target="_blank" style="display: block; width: auto;"><span class="item-name">信息公告</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-5 " style="display: block; width: 100%;"> 
+                 <a href="http://civil.seu.edu.cn/cxyxszx/main.htm" title="创新与学术中心" target="_blank" style="display: block; width: auto;"><span class="item-name">创新与学术中心</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 56px; height: 440px;"> 
+              
+             <li class="nav-item i1-5-1 " style="display: block; width: 100%;"> 
+                 <a href="http://civil.seu.edu.cn/cxyxszx/main.htm" title="首页" target="_blank" style="display: block; width: auto;"><span class="item-name">首页</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-2 " style="display: block; width: 100%;"> 
+                 <a href="/10543/list.htm" title="中心简介" target="_blank" style="display: block; width: auto;"><span class="item-name">中心简介</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-3 " style="display: block; width: 100%;"> 
+                 <a href="/10544/list.htm" title="中心章程" target="_blank" style="display: block; width: auto;"><span class="item-name">中心章程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-4 " style="display: block; width: 100%;"> 
+                 <a href="/10545/list.htm" title="管理委员会" target="_blank" style="display: block; width: auto;"><span class="item-name">管理委员会</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-5 " style="display: block; width: 100%;"> 
+                 <a href="/10546/list.htm" title="学术指导委员会" target="_blank" style="display: block; width: auto;"><span class="item-name">学术指导委员会</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-6 " style="display: block; width: 100%;"> 
+                 <a href="/10547/list.htm" title="学术交流" target="_blank" style="display: block; width: auto;"><span class="item-name">学术交流</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-7 " style="display: block; width: 100%;"> 
+                 <a href="/10548/list.htm" title="通知公告" target="_blank" style="display: block; width: auto;"><span class="item-name">通知公告</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-8 " style="display: block; width: 100%;"> 
+                 <a href="/10549/list.htm" title="联系方式" target="_blank" style="display: block; width: auto;"><span class="item-name">联系方式</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-9 " style="display: block; width: 100%;"> 
+                 <a href="/10550/list.htm" title="友情链接" target="_blank" style="display: block; width: auto;"><span class="item-name">友情链接</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-5-10 " style="display: block; width: 100%;"> 
+                 <a href="/10551/list.htm" title="首页图片" target="_blank" style="display: block; width: auto;"><span class="item-name">首页图片</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-6 " style="display: block; width: 100%;"> 
+                 <a href="/10552/list.htm" title="90周年院庆" target="_blank" style="display: block; width: auto;"><span class="item-name">90周年院庆</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 56px; height: 1980px;"> 
+              
+             <li class="nav-item i1-6-1 " style="display: block; width: 100%;"> 
+                 <a href="http://civil.seu.edu.cn" title="学院首页" target="_blank" style="display: block; width: auto;"><span class="item-name">学院首页</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-2 " style="display: block; width: 100%;"> 
+                 <a href="/10554/list.htm" title="通知公告" target="_blank" style="display: block; width: auto;"><span class="item-name">通知公告</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-3 " style="display: block; width: 100%;"> 
+                 <a href="/10555/list.htm" title="院庆动态" target="_blank" style="display: block; width: auto;"><span class="item-name">院庆动态</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 176px;"> 
+              
+             <li class="nav-item i1-6-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/10556/list.htm" title="新闻速递" target="_blank" style="display: block; width: auto;"><span class="item-name">新闻速递</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-3-2 " style="display: block; width: 100%;"> 
+                 <a href="/10557/list.htm" title="通知公告" target="_blank" style="display: block; width: auto;"><span class="item-name">通知公告</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-6-4 " style="display: block; width: 100%;"> 
+                 <a href="/10558/list.htm" title="今日土木" target="_blank" style="display: block; width: auto;"><span class="item-name">今日土木</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-5 " style="display: block; width: 100%;"> 
+                 <a href="/10559/list.htm" title="历史点滴" target="_blank" style="display: block; width: auto;"><span class="item-name">历史点滴</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-6 " style="display: block; width: 100%;"> 
+                 <a href="/10560/list.htm" title="院友风采" target="_blank" style="display: block; width: auto;"><span class="item-name">院友风采</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 176px;"> 
+              
+             <li class="nav-item i1-6-6-1 " style="display: block; width: 100%;"> 
+                 <a href="/10561/list.htm" title="院友荟萃" target="_blank" style="display: block; width: auto;"><span class="item-name">院友荟萃</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-6-2 " style="display: block; width: 100%;"> 
+                 <a href="/10562/list.htm" title="院友故事" target="_blank" style="display: block; width: auto;"><span class="item-name">院友故事</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-6-7 " style="display: block; width: 100%;"> 
+                 <a href="http://211.65.63.65/bloglist.aspx" title="院友博客" target="_blank" style="display: block; width: auto;"><span class="item-name">院友博客</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-8 " style="display: block; width: 100%;"> 
+                 <a href="/10564/list.htm" title="联系我们" target="_blank" style="display: block; width: auto;"><span class="item-name">联系我们</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-9 " style="display: block; width: 100%;"> 
+                 <a href="/10565/list.htm" title="九十年岁月" target="_blank" style="display: block; width: auto;"><span class="item-name">九十年岁月</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-10 " style="display: block; width: 100%;"> 
+                 <a href="/10566/list.htm" title="活动照片" target="_blank" style="display: block; width: auto;"><span class="item-name">活动照片</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-11 " style="display: block; width: 100%;"> 
+                 <a href="/10567/list.htm" title="母校岁月" target="_blank" style="display: block; width: auto;"><span class="item-name">母校岁月</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-12 " style="display: block; width: 100%;"> 
+                 <a href="/10568/list.htm" title="待捐赠项目" target="_blank" style="display: block; width: auto;"><span class="item-name">待捐赠项目</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-13 " style="display: block; width: 100%;"> 
+                 <a href="/10569/list.htm" title="院庆活动" target="_blank" style="display: block; width: auto;"><span class="item-name">院庆活动</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 176px;"> 
+              
+             <li class="nav-item i1-6-13-1 " style="display: block; width: 100%;"> 
+                 <a href="/10570/list.htm" title="活动日程" target="_blank" style="display: block; width: auto;"><span class="item-name">活动日程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-13-2 " style="display: block; width: 100%;"> 
+                 <a href="/10571/list.htm" title="学术沙龙" target="_blank" style="display: block; width: auto;"><span class="item-name">学术沙龙</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-6-14 " style="display: block; width: 100%;"> 
+                 <a href="/10572/list.htm" title="学院概况" target="_blank" style="display: block; width: auto;"><span class="item-name">学院概况</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 352px;"> 
+              
+             <li class="nav-item i1-6-14-1 " style="display: block; width: 100%;"> 
+                 <a href="/10573/list.htm" title="学院简介" target="_blank" style="display: block; width: auto;"><span class="item-name">学院简介</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-14-2 " style="display: block; width: 100%;"> 
+                 <a href="/10574/list.htm" title="历史人物" target="_blank" style="display: block; width: auto;"><span class="item-name">历史人物</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-14-3 " style="display: block; width: 100%;"> 
+                 <a href="/10575/list.htm" title="历史记忆" target="_blank" style="display: block; width: auto;"><span class="item-name">历史记忆</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-14-4 " style="display: block; width: 100%;"> 
+                 <a href="/10576/list.htm" title="经典照片" target="_blank" style="display: block; width: auto;"><span class="item-name">经典照片</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-6-15 " style="display: block; width: 100%;"> 
+                 <a href="/10577/list.htm" title="成果巡礼" target="_blank" style="display: block; width: auto;"><span class="item-name">成果巡礼</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 352px;"> 
+              
+             <li class="nav-item i1-6-15-1 " style="display: block; width: 100%;"> 
+                 <a href="/10578/list.htm" title="教书育人" target="_blank" style="display: block; width: auto;"><span class="item-name">教书育人</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-15-2 " style="display: block; width: 100%;"> 
+                 <a href="/10579/list.htm" title="科学研究" target="_blank" style="display: block; width: auto;"><span class="item-name">科学研究</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-15-3 " style="display: block; width: 100%;"> 
+                 <a href="/10580/list.htm" title="工程实践" target="_blank" style="display: block; width: auto;"><span class="item-name">工程实践</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-15-4 " style="display: block; width: 100%;"> 
+                 <a href="/10581/list.htm" title="学生创新" target="_blank" style="display: block; width: auto;"><span class="item-name">学生创新</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-6-16 " style="display: block; width: 100%;"> 
+                 <a href="/10582/list.htm" title="祝福分享" target="_blank" style="display: block; width: auto;"><span class="item-name">祝福分享</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-6-17 " style="display: block; width: 100%;"> 
+                 <a href="/10583/list.htm" title="院庆资料" target="_blank" style="display: block; width: auto;"><span class="item-name">院庆资料</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-7 " style="display: block; width: 100%;"> 
+                 <a href="/10584/list.htm" title="土木学科捐款专题网站" target="_blank" style="display: block; width: auto;"><span class="item-name">土木学科捐款专题网站</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 56px; height: 198px;"> 
+              
+             <li class="nav-item i1-7-1 " style="display: block; width: 100%;"> 
+                 <a href="/10585/list.htm" title="新闻" target="_blank" style="display: block; width: auto;"><span class="item-name">新闻</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-7-2 " style="display: block; width: 100%;"> 
+                 <a href="/10586/list.htm" title="爱心企业名录" target="_blank" style="display: block; width: auto;"><span class="item-name">爱心企业名录</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-7-3 " style="display: block; width: 100%;"> 
+                 <a href="/10587/list.htm" title="爱心人士名录" target="_blank" style="display: block; width: auto;"><span class="item-name">爱心人士名录</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-7-4 " style="display: block; width: 100%;"> 
+                 <a href="/10588/list.htm" title="最新捐赠" target="_blank" style="display: block; width: auto;"><span class="item-name">最新捐赠</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-7-5 " style="display: block; width: 100%;"> 
+                 <a href="/10589/list.htm" title="捐赠仪式图片" target="_blank" style="display: block; width: auto;"><span class="item-name">捐赠仪式图片</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-8 " style="display: block; width: 100%;"> 
+                 <a href="/10590/list.htm" title="本科生专题" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生专题</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 56px; height: 440px;"> 
+              
+             <li class="nav-item i1-8-1 " style="display: block; width: 100%;"> 
+                 <a href="/10591/list.htm" title="学生班级" target="_blank" style="display: block; width: auto;"><span class="item-name">学生班级</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 154px;"> 
+              
+             <li class="nav-item i1-8-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/10592/list.htm" title="班委" target="_blank" style="display: block; width: auto;"><span class="item-name">班委</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-8-1-2 " style="display: block; width: 100%;"> 
+                 <a href="/10593/list.htm" title="团支部" target="_blank" style="display: block; width: auto;"><span class="item-name">团支部</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-8-1-3 " style="display: block; width: 100%;"> 
+                 <a href="/10594/list.htm" title="学生" target="_blank" style="display: block; width: auto;"><span class="item-name">学生</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-8-2 " style="display: block; width: 100%;"> 
+                 <a href="/10595/list.htm" title="学生荣誉室" target="_blank" style="display: block; width: auto;"><span class="item-name">学生荣誉室</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-8-3 " style="display: block; width: 100%;"> 
+                 <a href="/10596/list.htm" title="学生社团" target="_blank" style="display: block; width: auto;"><span class="item-name">学生社团</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-8-4 " style="display: block; width: 100%;"> 
+                 <a href="/10597/list.htm" title="学生活动" target="_blank" style="display: block; width: auto;"><span class="item-name">学生活动</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-8-5 " style="display: block; width: 100%;"> 
+                 <a href="/10598/list.htm" title="活动通知" target="_blank" style="display: block; width: auto;"><span class="item-name">活动通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-8-6 " style="display: block; width: 100%;"> 
+                 <a href="/10599/list.htm" title="新闻" target="_blank" style="display: block; width: auto;"><span class="item-name">新闻</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-8-7 " style="display: block; width: 100%;"> 
+                 <a href="http://civil.seu.edu.cn" title="土木学院首页" target="_blank" style="display: block; width: auto;"><span class="item-name">土木学院首页</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-9 " style="display: block; width: 100%;"> 
+                 <a href="/10601/list.htm" title="研究生专题" target="_blank" style="display: block; width: auto;"><span class="item-name">研究生专题</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 56px; height: 374px;"> 
+              
+             <li class="nav-item i1-9-1 " style="display: block; width: 100%;"> 
+                 <a href="/10602/list.htm" title="学生班级" target="_blank" style="display: block; width: auto;"><span class="item-name">学生班级</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 88px;"> 
+              
+             <li class="nav-item i1-9-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/10603/list.htm" title="博士" target="_blank" style="display: block; width: auto;"><span class="item-name">博士</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-9-1-2 " style="display: block; width: 100%;"> 
+                 <a href="/10604/list.htm" title="硕士" target="_blank" style="display: block; width: auto;"><span class="item-name">硕士</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i1-9-2 " style="display: block; width: 100%;"> 
+                 <a href="/10605/list.htm" title="荣誉室" target="_blank" style="display: block; width: auto;"><span class="item-name">荣誉室</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-9-3 " style="display: block; width: 100%;"> 
+                 <a href="/10606/list.htm" title="学生社团" target="_blank" style="display: block; width: auto;"><span class="item-name">学生社团</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-9-4 " style="display: block; width: 100%;"> 
+                 <a href="/10607/list.htm" title="学生活动" target="_blank" style="display: block; width: auto;"><span class="item-name">学生活动</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-9-5 " style="display: block; width: 100%;"> 
+                 <a href="/10608/list.htm" title="开题" target="_blank" style="display: block; width: auto;"><span class="item-name">开题</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-9-6 " style="display: block; width: 100%;"> 
+                 <a href="/10609/list.htm" title="答辩" target="_blank" style="display: block; width: auto;"><span class="item-name">答辩</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-9-7 " style="display: block; width: 100%;"> 
+                 <a href="/10610/list.htm" title="学位授予" target="_blank" style="display: block; width: auto;"><span class="item-name">学位授予</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i1-9-8 " style="display: block; width: 100%;"> 
+                 <a href="/10611/list.htm" title="实验信息" target="_blank" style="display: block; width: auto;"><span class="item-name">实验信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/10468/list.htm" title="学院概况" class="barlink" target="_blank">学院概况</a></div> 
+          
+         <ul class="sub-nav" style="width: 99px; height: 990px;"> 
+              
+             <li class="nav-item i2-1 " style="display: block; width: 100%;"> 
+                 <a href="/10469/list.htm" title="学院简介" target="_blank" style="display: block; width: auto;"><span class="item-name">学院简介</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-2 " style="display: block; width: 100%;"> 
+                 <a href="/10470/list.htm" title="现任领导" target="_blank" style="display: block; width: auto;"><span class="item-name">现任领导</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-3 " style="display: block; width: 100%;"> 
+                 <a href="/10471/list.htm" title="历任领导" target="_blank" style="display: block; width: auto;"><span class="item-name">历任领导</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-4 " style="display: block; width: 100%;"> 
+                 <a href="/10472/list.htm" title="历史人物" target="_blank" style="display: block; width: auto;"><span class="item-name">历史人物</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-5 " style="display: block; width: 100%;"> 
+                 <a href="/10473/list.htm" title="组织结构" target="_blank" style="display: block; width: auto;"><span class="item-name">组织结构</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-6 " style="display: block; width: 100%;"> 
+                 <a href="/10474/list.htm" title="大事记" target="_blank" style="display: block; width: auto;"><span class="item-name">大事记</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-7 " style="display: block; width: 100%;"> 
+                 <a href="/10475/list.htm" title="教师活动照片" target="_blank" style="display: block; width: auto;"><span class="item-name">教师活动照片</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 59px; height: 836px;"> 
+              
+             <li class="nav-item i2-7-1 " style="display: block; width: 100%;"> 
+                 <a href="/10476/list.htm" title="全院合影" target="_blank" style="display: block; width: auto;"><span class="item-name">全院合影</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-7-2 " style="display: block; width: 100%;"> 
+                 <a href="/10477/list.htm" title="大合唱照片" target="_blank" style="display: block; width: auto;"><span class="item-name">大合唱照片</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-7-3 " style="display: block; width: 100%;"> 
+                 <a href="/10478/list.htm" title="参观活动" target="_blank" style="display: block; width: auto;"><span class="item-name">参观活动</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-7-4 " style="display: block; width: 100%;"> 
+                 <a href="/10479/list.htm" title="会议活动" target="_blank" style="display: block; width: auto;"><span class="item-name">会议活动</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 19px; height: 660px;"> 
+              
+             <li class="nav-item i2-7-4-1 " style="display: block; width: 100%;"> 
+                 <a href="/10480/list.htm" title="土木学科85周年教师与部分校友合影" target="_blank" style="display: block; width: auto;"><span class="item-name">土木学科85周年教师与部分校友合影</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-7-4-2 " style="display: block; width: 100%;"> 
+                 <a href="/10481/list.htm" title="第七届全国土木工程研究生论坛" target="_blank" style="display: block; width: auto;"><span class="item-name">第七届全国土木工程研究生论坛</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1087/list.htm" title="师资队伍" class="barlink" target="_blank">师资队伍</a></div> 
+          
+         <ul class="sub-nav" style="width: 56px; height: 1254px;"> 
+              
+             <li class="nav-item i3-1 " style="display: block; width: 100%;"> 
+                 <a href="/1088/list.htm" title="东大土木历史人物" target="_blank" style="display: block; width: auto;"><span class="item-name">东大土木历史人物</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2 " style="display: block; width: 100%;"> 
+                 <a href="/1089/list.htm" title="教职工一览" target="_blank" style="display: block; width: auto;"><span class="item-name">教职工一览</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-3 " style="display: block; width: 100%;"> 
+                 <a href="/1090/list.htm" title="硕士导师" target="_blank" style="display: block; width: auto;"><span class="item-name">硕士导师</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-4 " style="display: block; width: 100%;"> 
+                 <a href="/1091/list.htm" title="博士导师" target="_blank" style="display: block; width: auto;"><span class="item-name">博士导师</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-5 " style="display: block; width: 100%;"> 
+                 <a href="/1092/list.htm" title="杰出教师" target="_blank" style="display: block; width: auto;"><span class="item-name">杰出教师</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-6 " style="display: block; width: 100%;"> 
+                 <a href="/1093/list.htm" title="荣誉职衔" target="_blank" style="display: block; width: auto;"><span class="item-name">荣誉职衔</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 264px;"> 
+              
+             <li class="nav-item i3-6-1 " style="display: block; width: 100%;"> 
+                 <a href="/1094/list.htm" title="名誉教授" target="_blank" style="display: block; width: auto;"><span class="item-name">名誉教授</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-6-2 " style="display: block; width: 100%;"> 
+                 <a href="/1095/list.htm" title="客座教授" target="_blank" style="display: block; width: auto;"><span class="item-name">客座教授</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-6-3 " style="display: block; width: 100%;"> 
+                 <a href="/1096/list.htm" title="兼职教授" target="_blank" style="display: block; width: auto;"><span class="item-name">兼职教授</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-7 " style="display: block; width: 100%;"> 
+                 <a href="/1097/list.htm" title="兼职博导" target="_blank" style="display: block; width: auto;"><span class="item-name">兼职博导</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-8 " style="display: block; width: 100%;"> 
+                 <a href="/1098/list.htm" title="兼职硕导" target="_blank" style="display: block; width: auto;"><span class="item-name">兼职硕导</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-9 " style="display: block; width: 100%;"> 
+                 <a href="/1099/list.htm" title="教学团队" target="_blank" style="display: block; width: auto;"><span class="item-name">教学团队</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-10 " style="display: block; width: 100%;"> 
+                 <a href="/1100/list.htm" title="学术团体任职" target="_blank" style="display: block; width: auto;"><span class="item-name">学术团体任职</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-11 " style="display: block; width: 100%;"> 
+                 <a href="http://civil.seu.edu.cn/2009/1030/c1102a93791/page.htm" title="退休教职工" target="_blank" style="display: block; width: auto;"><span class="item-name">退休教职工</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 440px;"> 
+              
+             <li class="nav-item i3-11-1 " style="display: block; width: 100%;"> 
+                 <a href="/1102/list.htm" title="人员名单" target="_blank" style="display: block; width: auto;"><span class="item-name">人员名单</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-11-2 " style="display: block; width: 100%;"> 
+                 <a href="/1103/list.htm" title="全体合影" target="_blank" style="display: block; width: auto;"><span class="item-name">全体合影</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-11-3 " style="display: block; width: 100%;"> 
+                 <a href="/1104/list.htm" title="幸福晚年" target="_blank" style="display: block; width: auto;"><span class="item-name">幸福晚年</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-11-4 " style="display: block; width: 100%;"> 
+                 <a href="/1105/list.htm" title="快乐生活" target="_blank" style="display: block; width: auto;"><span class="item-name">快乐生活</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-11-5 " style="display: block; width: 100%;"> 
+                 <a href="/1106/list.htm" title="活动花絮" target="_blank" style="display: block; width: auto;"><span class="item-name">活动花絮</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-12 " style="display: block; width: 100%;"> 
+                 <a href="/1107/list.htm" title="人员异动" target="_blank" style="display: block; width: auto;"><span class="item-name">人员异动</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1108/list.htm" title="学科建设" class="barlink" target="_blank">学科建设</a></div> 
+          
+         <ul class="sub-nav" style="width: 61px; height: 5676px;"> 
+              
+             <li class="nav-item i4-1 " style="display: block; width: 100%;"> 
+                 <a href="/xkjsfzr/list.htm" title="学科建设负责人" target="_blank" style="display: block; width: auto;"><span class="item-name">学科建设负责人</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2 " style="display: block; width: 100%;"> 
+                 <a href="/1109/list.htm" title="硕士点" target="_blank" style="display: block; width: auto;"><span class="item-name">硕士点</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 21px; height: 2552px;"> 
+              
+             <li class="nav-item i4-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/1110/list.htm" title="一般力学与力学基础" target="_blank" style="display: block; width: auto;"><span class="item-name">一般力学与力学基础</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/1111/list.htm" title="固体力学" target="_blank" style="display: block; width: auto;"><span class="item-name">固体力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-3 " style="display: block; width: 100%;"> 
+                 <a href="/1112/list.htm" title="流体力学" target="_blank" style="display: block; width: auto;"><span class="item-name">流体力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-4 " style="display: block; width: 100%;"> 
+                 <a href="/1113/list.htm" title="工程力学" target="_blank" style="display: block; width: auto;"><span class="item-name">工程力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-5 " style="display: block; width: 100%;"> 
+                 <a href="/1114/list.htm" title="建筑技术科学" target="_blank" style="display: block; width: auto;"><span class="item-name">建筑技术科学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-6 " style="display: block; width: 100%;"> 
+                 <a href="/1115/list.htm" title="岩土工程" target="_blank" style="display: block; width: auto;"><span class="item-name">岩土工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-7 " style="display: block; width: 100%;"> 
+                 <a href="/1116/list.htm" title="结构工程" target="_blank" style="display: block; width: auto;"><span class="item-name">结构工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-8 " style="display: block; width: 100%;"> 
+                 <a href="/1117/list.htm" title="市政工程" target="_blank" style="display: block; width: auto;"><span class="item-name">市政工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-9 " style="display: block; width: 100%;"> 
+                 <a href="/1118/list.htm" title="防灾减灾工程及防护工程" target="_blank" style="display: block; width: auto;"><span class="item-name">防灾减灾工程及防护工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-10 " style="display: block; width: 100%;"> 
+                 <a href="/1119/list.htm" title="桥梁与隧道工程" target="_blank" style="display: block; width: auto;"><span class="item-name">桥梁与隧道工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-11 " style="display: block; width: 100%;"> 
+                 <a href="/1120/list.htm" title="土木工程建造与管理" target="_blank" style="display: block; width: auto;"><span class="item-name">土木工程建造与管理</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-12 " style="display: block; width: 100%;"> 
+                 <a href="/1121/list.htm" title="管理科学与工程" target="_blank" style="display: block; width: auto;"><span class="item-name">管理科学与工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-13 " style="display: block; width: 100%;"> 
+                 <a href="/1122/list.htm" title="建筑与土木工程领域工程硕士(全日制)" target="_blank" style="display: block; width: auto;"><span class="item-name">建筑与土木工程领域工程硕士(全日制)</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-14 " style="display: block; width: 100%;"> 
+                 <a href="/1123/list.htm" title="建筑与土木工程领域工程硕士(在职)" target="_blank" style="display: block; width: auto;"><span class="item-name">建筑与土木工程领域工程硕士(在职)</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2-15 " style="display: block; width: 100%;"> 
+                 <a href="/1124/list.htm" title="项目管理领域工程硕士(在职)" target="_blank" style="display: block; width: auto;"><span class="item-name">项目管理领域工程硕士(在职)</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i4-3 " style="display: block; width: 100%;"> 
+                 <a href="/1125/list.htm" title="博士点" target="_blank" style="display: block; width: auto;"><span class="item-name">博士点</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 21px; height: 1188px;"> 
+              
+             <li class="nav-item i4-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/1126/list.htm" title="固体力学" target="_blank" style="display: block; width: auto;"><span class="item-name">固体力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3-2 " style="display: block; width: 100%;"> 
+                 <a href="/1127/list.htm" title="工程力学" target="_blank" style="display: block; width: auto;"><span class="item-name">工程力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3-3 " style="display: block; width: 100%;"> 
+                 <a href="/1128/list.htm" title="岩土工程" target="_blank" style="display: block; width: auto;"><span class="item-name">岩土工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3-4 " style="display: block; width: 100%;"> 
+                 <a href="/1129/list.htm" title="结构工程" target="_blank" style="display: block; width: auto;"><span class="item-name">结构工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3-5 " style="display: block; width: 100%;"> 
+                 <a href="/1130/list.htm" title="市政工程" target="_blank" style="display: block; width: auto;"><span class="item-name">市政工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3-6 " style="display: block; width: 100%;"> 
+                 <a href="/1131/list.htm" title="防灾减灾工程及防护工程" target="_blank" style="display: block; width: auto;"><span class="item-name">防灾减灾工程及防护工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3-7 " style="display: block; width: 100%;"> 
+                 <a href="/1132/list.htm" title="桥梁与隧道工程" target="_blank" style="display: block; width: auto;"><span class="item-name">桥梁与隧道工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3-8 " style="display: block; width: 100%;"> 
+                 <a href="/1133/list.htm" title="土木工程建造与管理" target="_blank" style="display: block; width: auto;"><span class="item-name">土木工程建造与管理</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3-9 " style="display: block; width: 100%;"> 
+                 <a href="/1134/list.htm" title="管理科学与工程" target="_blank" style="display: block; width: auto;"><span class="item-name">管理科学与工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i4-4 " style="display: block; width: 100%;"> 
+                 <a href="/1135/list.htm" title="博士后流动站" target="_blank" style="display: block; width: auto;"><span class="item-name">博士后流动站</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-5 " style="display: block; width: 100%;"> 
+                 <a href="/1136/list.htm" title="本科生专业" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生专业</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 21px; height: 352px;"> 
+              
+             <li class="nav-item i4-5-1 " style="display: block; width: 100%;"> 
+                 <a href="/1137/list.htm" title="土木工程" target="_blank" style="display: block; width: auto;"><span class="item-name">土木工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-5-2 " style="display: block; width: 100%;"> 
+                 <a href="/1138/list.htm" title="工程管理" target="_blank" style="display: block; width: auto;"><span class="item-name">工程管理</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-5-3 " style="display: block; width: 100%;"> 
+                 <a href="/1139/list.htm" title="给水排水" target="_blank" style="display: block; width: auto;"><span class="item-name">给水排水</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-5-4 " style="display: block; width: 100%;"> 
+                 <a href="/1140/list.htm" title="工程力学" target="_blank" style="display: block; width: auto;"><span class="item-name">工程力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i4-6 " style="display: block; width: 100%;"> 
+                 <a href="/1141/list.htm" title="学科介绍" target="_blank" style="display: block; width: auto;"><span class="item-name">学科介绍</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 21px; height: 1210px;"> 
+              
+             <li class="nav-item i4-6-1 " style="display: block; width: 100%;"> 
+                 <a href="/1142/list.htm" title="结构工程" target="_blank" style="display: block; width: auto;"><span class="item-name">结构工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-2 " style="display: block; width: 100%;"> 
+                 <a href="/1143/list.htm" title="防灾减灾" target="_blank" style="display: block; width: auto;"><span class="item-name">防灾减灾</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-3 " style="display: block; width: 100%;"> 
+                 <a href="/1144/list.htm" title="岩土工程" target="_blank" style="display: block; width: auto;"><span class="item-name">岩土工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-4 " style="display: block; width: 100%;"> 
+                 <a href="/1145/list.htm" title="桥梁与隧道工程" target="_blank" style="display: block; width: auto;"><span class="item-name">桥梁与隧道工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-5 " style="display: block; width: 100%;"> 
+                 <a href="/1146/list.htm" title="市政工程" target="_blank" style="display: block; width: auto;"><span class="item-name">市政工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-6 " style="display: block; width: 100%;"> 
+                 <a href="/1147/list.htm" title="管理科学与工程" target="_blank" style="display: block; width: auto;"><span class="item-name">管理科学与工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-7 " style="display: block; width: 100%;"> 
+                 <a href="/1148/list.htm" title="工程力学" target="_blank" style="display: block; width: auto;"><span class="item-name">工程力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-8 " style="display: block; width: 100%;"> 
+                 <a href="/1149/list.htm" title="环境工程" target="_blank" style="display: block; width: auto;"><span class="item-name">环境工程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-9 " style="display: block; width: 100%;"> 
+                 <a href="/1150/list.htm" title="固体力学" target="_blank" style="display: block; width: auto;"><span class="item-name">固体力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-10 " style="display: block; width: 100%;"> 
+                 <a href="/1151/list.htm" title="土木工程建造与管理" target="_blank" style="display: block; width: auto;"><span class="item-name">土木工程建造与管理</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6-11 " style="display: block; width: 100%;"> 
+                 <a href="/1152/list.htm" title="流体力学" target="_blank" style="display: block; width: auto;"><span class="item-name">流体力学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i4-7 " style="display: block; width: 100%;"> 
+                 <a href="/1153/list.htm" title="985建设项目" target="_blank" style="display: block; width: auto;"><span class="item-name">985建设项目</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-8 " style="display: block; width: 100%;"> 
+                 <a href="/1154/list.htm" title="211建设项目" target="_blank" style="display: block; width: auto;"><span class="item-name">211建设项目</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-9 " style="display: block; width: 100%;"> 
+                 <a href="/1155/list.htm" title="十二五规划" target="_blank" style="display: block; width: auto;"><span class="item-name">十二五规划</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1156/list.htm" title="教学工作" class="barlink" target="_blank">教学工作</a></div> 
+          
+         <ul class="sub-nav" style="width: 72px; height: 1518px;"> 
+              
+             <li class="nav-item i5-1 " style="display: block; width: 100%;"> 
+                 <a href="/1157/list.htm" title="本科生教学" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生教学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 32px; height: 352px;"> 
+              
+             <li class="nav-item i5-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/1158/list.htm" title="培养计划" target="_blank" style="display: block; width: auto;"><span class="item-name">培养计划</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-1-2 " style="display: block; width: 100%;"> 
+                 <a href="http://xk.urp.seu.edu.cn/jw_service/service/lookTeacherCurriculum.action" title="开课信息" target="_blank" style="display: block; width: auto;"><span class="item-name">开课信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-1-3 " style="display: block; width: 100%;"> 
+                 <a href="/1160/list.htm" title="实践教学" target="_blank" style="display: block; width: auto;"><span class="item-name">实践教学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-1-4 " style="display: block; width: 100%;"> 
+                 <a href="/1161/list.htm" title="教务信息（本科生）" target="_blank" style="display: block; width: auto;"><span class="item-name">教务信息（本科生）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-1-5 " style="display: block; width: 100%;"> 
+                 <a href="/1162/list.htm" title="教学研究" target="_blank" style="display: block; width: auto;"><span class="item-name">教学研究</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-1-6 " style="display: block; width: 100%;"> 
+                 <a href="/1163/list.htm" title="教务办公室" target="_blank" style="display: block; width: auto;"><span class="item-name">教务办公室</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i5-2 " style="display: block; width: 100%;"> 
+                 <a href="/1164/list.htm" title="研究生教学" target="_blank" style="display: block; width: auto;"><span class="item-name">研究生教学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 32px; height: 308px;"> 
+              
+             <li class="nav-item i5-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/1165/list.htm" title="培养计划" target="_blank" style="display: block; width: auto;"><span class="item-name">培养计划</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-2-2 " style="display: block; width: 100%;"> 
+                 <a href="http://202.119.4.150/nstudent/pygl/kckksearch.aspx" title="开课信息" target="_blank" style="display: block; width: auto;"><span class="item-name">开课信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-2-3 " style="display: block; width: 100%;"> 
+                 <a href="/1167/list.htm" title="教务信息（研究生）" target="_blank" style="display: block; width: auto;"><span class="item-name">教务信息（研究生）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-2-4 " style="display: block; width: 100%;"> 
+                 <a href="/1168/list.htm" title="教学研究" target="_blank" style="display: block; width: auto;"><span class="item-name">教学研究</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-2-5 " style="display: block; width: 100%;"> 
+                 <a href="/1169/list.htm" title="教务办公室" target="_blank" style="display: block; width: auto;"><span class="item-name">教务办公室</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i5-3 " style="display: block; width: 100%;"> 
+                 <a href="/1170/list.htm" title="在职工程硕士" target="_blank" style="display: block; width: auto;"><span class="item-name">在职工程硕士</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 32px; height: 330px;"> 
+              
+             <li class="nav-item i5-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/1171/list.htm" title="培养计划" target="_blank" style="display: block; width: auto;"><span class="item-name">培养计划</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-3-2 " style="display: block; width: 100%;"> 
+                 <a href="http://xk.urp.seu.edu.cn/jw_service/service/lookTeacherCurriculum.action" title="开课信息" target="_blank" style="display: block; width: auto;"><span class="item-name">开课信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-3-3 " style="display: block; width: 100%;"> 
+                 <a href="/1173/list.htm" title="教务信息（在职工程硕士）" target="_blank" style="display: block; width: auto;"><span class="item-name">教务信息（在职工程硕士）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-3-4 " style="display: block; width: 100%;"> 
+                 <a href="/1174/list.htm" title="教学研究" target="_blank" style="display: block; width: auto;"><span class="item-name">教学研究</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-3-5 " style="display: block; width: 100%;"> 
+                 <a href="/1175/list.htm" title="教务办公室" target="_blank" style="display: block; width: auto;"><span class="item-name">教务办公室</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i5-4 " style="display: block; width: 100%;"> 
+                 <a href="/1176/list.htm" title="继续教育" target="_blank" style="display: block; width: auto;"><span class="item-name">继续教育</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 32px; height: 308px;"> 
+              
+             <li class="nav-item i5-4-1 " style="display: block; width: 100%;"> 
+                 <a href="http://xk.urp.seu.edu.cn/jw_service/service/lookTeacherCurriculum.action" title="培养目标" target="_blank" style="display: block; width: auto;"><span class="item-name">培养目标</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-4-2 " style="display: block; width: 100%;"> 
+                 <a href="/1178/list.htm" title="培养计划" target="_blank" style="display: block; width: auto;"><span class="item-name">培养计划</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-4-3 " style="display: block; width: 100%;"> 
+                 <a href="/1179/list.htm" title="主干课程" target="_blank" style="display: block; width: auto;"><span class="item-name">主干课程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-4-4 " style="display: block; width: 100%;"> 
+                 <a href="/1180/list.htm" title="教务信息（继续教育）" target="_blank" style="display: block; width: auto;"><span class="item-name">教务信息（继续教育）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-4-5 " style="display: block; width: 100%;"> 
+                 <a href="/1181/list.htm" title="教务办公室" target="_blank" style="display: block; width: auto;"><span class="item-name">教务办公室</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i5-5 " style="display: block; width: 100%;"> 
+                 <a href="/1182/list.htm" title="教学成果" target="_blank" style="display: block; width: auto;"><span class="item-name">教学成果</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-6 " style="display: block; width: 100%;"> 
+                 <a href="/1183/list.htm" title="教材建设" target="_blank" style="display: block; width: auto;"><span class="item-name">教材建设</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i5-7 " style="display: block; width: 100%;"> 
+                 <a href="/1184/list.htm" title="精品课程" target="_blank" style="display: block; width: auto;"><span class="item-name">精品课程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1185/list.htm" title="科学研究" class="barlink" target="_blank">科学研究</a></div> 
+          
+         <ul class="sub-nav" style="width: 24px; height: 572px;"> 
+              
+             <li class="nav-item i6-1 " style="display: block; width: 100%;"> 
+                 <a href="/1186/list.htm" title="研究机构" target="_blank" style="display: block; width: auto;"><span class="item-name">研究机构</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-2 " style="display: block; width: 100%;"> 
+                 <a href="/1187/list.htm" title="科研项目" target="_blank" style="display: block; width: auto;"><span class="item-name">科研项目</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-3 " style="display: block; width: 100%;"> 
+                 <a href="/1188/list.htm" title="在研重大专项" target="_blank" style="display: block; width: auto;"><span class="item-name">在研重大专项</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-4 " style="display: block; width: 100%;"> 
+                 <a href="/1189/list.htm" title="获奖成果" target="_blank" style="display: block; width: auto;"><span class="item-name">获奖成果</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-5 " style="display: block; width: 100%;"> 
+                 <a href="/1190/list.htm" title="专利成果" target="_blank" style="display: block; width: auto;"><span class="item-name">专利成果</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i6-6 " style="display: block; width: 100%;"> 
+                 <a href="/1191/list.htm" title="学术论文" target="_blank" style="display: block; width: auto;"><span class="item-name">学术论文</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1192/list.htm" title="合作交流" class="barlink" target="_blank">合作交流</a></div> 
+          
+         <ul class="sub-nav" style="width: 56px; height: 1122px;"> 
+              
+             <li class="nav-item i7-1 " style="display: block; width: 100%;"> 
+                 <a href="/1193/list.htm" title="国际合作" target="_blank" style="display: block; width: auto;"><span class="item-name">国际合作</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 264px;"> 
+              
+             <li class="nav-item i7-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/1194/list.htm" title="合作研究" target="_blank" style="display: block; width: auto;"><span class="item-name">合作研究</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-1-2 " style="display: block; width: 100%;"> 
+                 <a href="/1195/list.htm" title="联合培养" target="_blank" style="display: block; width: auto;"><span class="item-name">联合培养</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-1-3 " style="display: block; width: 100%;"> 
+                 <a href="/1196/list.htm" title="教授互聘" target="_blank" style="display: block; width: auto;"><span class="item-name">教授互聘</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i7-2 " style="display: block; width: 100%;"> 
+                 <a href="/1197/list.htm" title="国际交流" target="_blank" style="display: block; width: auto;"><span class="item-name">国际交流</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 264px;"> 
+              
+             <li class="nav-item i7-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/1198/list.htm" title="学术会议" target="_blank" style="display: block; width: auto;"><span class="item-name">学术会议</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/1199/list.htm" title="访问" target="_blank" style="display: block; width: auto;"><span class="item-name">访问</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2-3 " style="display: block; width: 100%;"> 
+                 <a href="/1200/list.htm" title="讲学" target="_blank" style="display: block; width: auto;"><span class="item-name">讲学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2-4 " style="display: block; width: 100%;"> 
+                 <a href="/1201/list.htm" title="研修" target="_blank" style="display: block; width: auto;"><span class="item-name">研修</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-2-5 " style="display: block; width: 100%;"> 
+                 <a href="/1202/list.htm" title="留学" target="_blank" style="display: block; width: auto;"><span class="item-name">留学</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i7-3 " style="display: block; width: 100%;"> 
+                 <a href="/1203/list.htm" title="国内合作" target="_blank" style="display: block; width: auto;"><span class="item-name">国内合作</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 286px;"> 
+              
+             <li class="nav-item i7-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/1204/list.htm" title="合作研究" target="_blank" style="display: block; width: auto;"><span class="item-name">合作研究</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-3-2 " style="display: block; width: 100%;"> 
+                 <a href="/1205/list.htm" title="产学研基地" target="_blank" style="display: block; width: auto;"><span class="item-name">产学研基地</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-3-3 " style="display: block; width: 100%;"> 
+                 <a href="/1206/list.htm" title="教授互聘" target="_blank" style="display: block; width: auto;"><span class="item-name">教授互聘</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i7-4 " style="display: block; width: 100%;"> 
+                 <a href="/1207/list.htm" title="国内交流" target="_blank" style="display: block; width: auto;"><span class="item-name">国内交流</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 132px;"> 
+              
+             <li class="nav-item i7-4-1 " style="display: block; width: 100%;"> 
+                 <a href="/1208/list.htm" title="访问" target="_blank" style="display: block; width: auto;"><span class="item-name">访问</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i7-4-2 " style="display: block; width: 100%;"> 
+                 <a href="/1209/list.htm" title="学术报告" target="_blank" style="display: block; width: auto;"><span class="item-name">学术报告</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1210/list.htm" title="招生就业" class="barlink" target="_blank">招生就业</a></div> 
+          
+         <ul class="sub-nav" style="width: 24px; height: 748px;"> 
+              
+             <li class="nav-item i8-1 " style="display: block; width: 100%;"> 
+                 <a href="/1211/list.htm" title="本科生招生信息" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生招生信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2 " style="display: block; width: 100%;"> 
+                 <a href="/1212/list.htm" title="研究生招生信息" target="_blank" style="display: block; width: auto;"><span class="item-name">研究生招生信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-3 " style="display: block; width: 100%;"> 
+                 <a href="/1213/list.htm" title="主要就业去向" target="_blank" style="display: block; width: auto;"><span class="item-name">主要就业去向</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-4 " style="display: block; width: 100%;"> 
+                 <a href="/1214/list.htm" title="新近招聘信息" target="_blank" style="display: block; width: auto;"><span class="item-name">新近招聘信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-5 " style="display: block; width: 100%;"> 
+                 <a href="/1215/list.htm" title="继续教育招生信息" target="_blank" style="display: block; width: auto;"><span class="item-name">继续教育招生信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1225/list.htm" title="学生工作" class="barlink" target="_blank">学生工作</a></div> 
+          
+         <ul class="sub-nav" style="width: 72px; height: 1078px;"> 
+              
+             <li class="nav-item i9-1 " style="display: block; width: 100%;"> 
+                 <a href="/1226/list.htm" title="本科生" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 32px; height: 352px;"> 
+              
+             <li class="nav-item i9-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/1227/list.htm" title="奖助学金" target="_blank" style="display: block; width: auto;"><span class="item-name">奖助学金</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-1-2 " style="display: block; width: 100%;"> 
+                 <a href="/1228/list.htm" title="班委" target="_blank" style="display: block; width: auto;"><span class="item-name">班委</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-1-3 " style="display: block; width: 100%;"> 
+                 <a href="/1229/list.htm" title="本科生荣誉室" target="_blank" style="display: block; width: auto;"><span class="item-name">本科生荣誉室</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-1-4 " style="display: block; width: 100%;"> 
+                 <a href="/11554/list.htm" title="学生专栏（本科生）" target="_blank" style="display: block; width: auto;"><span class="item-name">学生专栏（本科生）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-1-5 " style="display: block; width: 100%;"> 
+                 <a href="/xshd/list.htm" title="学生活动（本科生）" target="_blank" style="display: block; width: auto;"><span class="item-name">学生活动（本科生）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i9-2 " style="display: block; width: 100%;"> 
+                 <a href="/1231/list.htm" title="硕士生" target="_blank" style="display: block; width: auto;"><span class="item-name">硕士生</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 32px; height: 176px;"> 
+              
+             <li class="nav-item i9-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/1232/list.htm" title="奖助学金" target="_blank" style="display: block; width: auto;"><span class="item-name">奖助学金</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/1233/list.htm" title="班委" target="_blank" style="display: block; width: auto;"><span class="item-name">班委</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-2-3 " style="display: block; width: 100%;"> 
+                 <a href="/1234/list.htm" title="学生活动（硕士生）" target="_blank" style="display: block; width: auto;"><span class="item-name">学生活动（硕士生）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i9-3 " style="display: block; width: 100%;"> 
+                 <a href="/1235/list.htm" title="博士生" target="_blank" style="display: block; width: auto;"><span class="item-name">博士生</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 32px; height: 176px;"> 
+              
+             <li class="nav-item i9-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/1236/list.htm" title="奖助学金" target="_blank" style="display: block; width: auto;"><span class="item-name">奖助学金</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-3-2 " style="display: block; width: 100%;"> 
+                 <a href="/1237/list.htm" title="班委" target="_blank" style="display: block; width: auto;"><span class="item-name">班委</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-3-3 " style="display: block; width: 100%;"> 
+                 <a href="/1238/list.htm" title="学生活动（博士生）" target="_blank" style="display: block; width: auto;"><span class="item-name">学生活动（博士生）</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i9-4 " style="display: block; width: 100%;"> 
+                 <a href="/1239/list.htm" title="院刊" target="_blank" style="display: block; width: auto;"><span class="item-name">院刊</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-5 " style="display: block; width: 100%;"> 
+                 <a href="/1240/list.htm" title="组织机构" target="_blank" style="display: block; width: auto;"><span class="item-name">组织机构</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 32px; height: 264px;"> 
+              
+             <li class="nav-item i9-5-1 " style="display: block; width: 100%;"> 
+                 <a href="/1241/list.htm" title="学办" target="_blank" style="display: block; width: auto;"><span class="item-name">学办</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-5-2 " style="display: block; width: 100%;"> 
+                 <a href="/1242/list.htm" title="学生党支部" target="_blank" style="display: block; width: auto;"><span class="item-name">学生党支部</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-5-3 " style="display: block; width: 100%;"> 
+                 <a href="/1243/list.htm" title="团委" target="_blank" style="display: block; width: auto;"><span class="item-name">团委</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-5-4 " style="display: block; width: 100%;"> 
+                 <a href="/1244/list.htm" title="学生会" target="_blank" style="display: block; width: auto;"><span class="item-name">学生会</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-5-5 " style="display: block; width: 100%;"> 
+                 <a href="/1245/list.htm" title="研究生会" target="_blank" style="display: block; width: auto;"><span class="item-name">研究生会</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-5-6 " style="display: block; width: 100%;"> 
+                 <a href="/1246/list.htm" title="心理中心" target="_blank" style="display: block; width: auto;"><span class="item-name">心理中心</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-5-7 " style="display: block; width: 100%;"> 
+                 <a href="/1247/list.htm" title="社团" target="_blank" style="display: block; width: auto;"><span class="item-name">社团</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1270/list.htm" title="校友专栏" class="barlink" target="_blank">校友专栏</a></div> 
+          
+         <ul class="sub-nav" style="width: 24px; height: 1188px;"> 
+              
+             <li class="nav-item i10-1 " style="display: block; width: 100%;"> 
+                 <a href="/1271/list.htm" title="院校友会" target="_blank" style="display: block; width: auto;"><span class="item-name">院校友会</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-2 " style="display: block; width: 100%;"> 
+                 <a href="/11555/list.htm" title="历届毕业生名录" target="_blank" style="display: block; width: auto;"><span class="item-name">历届毕业生名录</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-3 " style="display: block; width: 100%;"> 
+                 <a href="/1272/list.htm" title="杰出校友" target="_blank" style="display: block; width: auto;"><span class="item-name">杰出校友</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-4 " style="display: block; width: 100%;"> 
+                 <a href="/1273/list.htm" title="校友风采" target="_blank" style="display: block; width: auto;"><span class="item-name">校友风采</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-5 " style="display: block; width: 100%;"> 
+                 <a href="/1274/list.htm" title="校友通讯" target="_blank" style="display: block; width: auto;"><span class="item-name">校友通讯</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-6 " style="display: block; width: 100%;"> 
+                 <a href="/1275/list.htm" title="毕业合影" target="_blank" style="display: block; width: auto;"><span class="item-name">毕业合影</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-7 " style="display: block; width: 100%;"> 
+                 <a href="/1276/list.htm" title="校友聚会信息" target="_blank" style="display: block; width: auto;"><span class="item-name">校友聚会信息</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-8 " style="display: block; width: 100%;"> 
+                 <a href="/1277/list.htm" title="校友聚会照片" target="_blank" style="display: block; width: auto;"><span class="item-name">校友聚会照片</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-9 " style="display: block; width: 100%;"> 
+                 <a href="/1278/list.htm" title="校友大学生活剪辑" target="_blank" style="display: block; width: auto;"><span class="item-name">校友大学生活剪辑</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-10 " style="display: block; width: 100%;"> 
+                 <a href="http://211.65.63.65" title="校友会专题网站" target="_blank" style="display: block; width: auto;"><span class="item-name">校友会专题网站</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1216/list.htm" title="党群工作" class="barlink" target="_blank">党群工作</a></div> 
+          
+         <ul class="sub-nav" style="width: 56px; height: 660px;"> 
+              
+             <li class="nav-item i11-1 " style="display: block; width: 100%;"> 
+                 <a href="/1217/list.htm" title="中共土木学院党建" target="_blank" style="display: block; width: auto;"><span class="item-name">中共土木学院党建</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 440px;"> 
+              
+             <li class="nav-item i11-1-1 " style="display: block; width: 100%;"> 
+                 <a href="/1218/list.htm" title="党委委员" target="_blank" style="display: block; width: auto;"><span class="item-name">党委委员</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i11-1-2 " style="display: block; width: 100%;"> 
+                 <a href="/1219/list.htm" title="教工党建" target="_blank" style="display: block; width: auto;"><span class="item-name">教工党建</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i11-1-3 " style="display: block; width: 100%;"> 
+                 <a href="/1220/list.htm" title="学生党建" target="_blank" style="display: block; width: auto;"><span class="item-name">学生党建</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i11-1-4 " style="display: block; width: 100%;"> 
+                 <a href="/1221/list.htm" title="工作流程" target="_blank" style="display: block; width: auto;"><span class="item-name">工作流程</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i11-1-5 " style="display: block; width: 100%;"> 
+                 <a href="/1222/list.htm" title="学院党校" target="_blank" style="display: block; width: auto;"><span class="item-name">学院党校</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i11-2 " style="display: block; width: 100%;"> 
+                 <a href="/1223/list.htm" title="民主党派及无党派人士" target="_blank" style="display: block; width: auto;"><span class="item-name">民主党派及无党派人士</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i11-3 " style="display: block; width: 100%;"> 
+                 <a href="/1224/list.htm" title="学院工会" target="_blank" style="display: block; width: auto;"><span class="item-name">学院工会</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i11-4 " style="display: block; width: 100%;"> 
+                 <a href="/ggw/list.htm" title="关工委" target="_blank" style="display: block; width: auto;"><span class="item-name">关工委</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1256/list.htm" title="院内信息" class="barlink" target="_blank">院内信息</a></div> 
+          
+         <ul class="sub-nav" style="width: 56px; height: 1584px;"> 
+              
+             <li class="nav-item i12-1 " style="display: block; width: 100%;"> 
+                 <a href="/1257/list.htm" title="教职工通知" target="_blank" style="display: block; width: auto;"><span class="item-name">教职工通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-2 " style="display: block; width: 100%;"> 
+                 <a href="/1258/list.htm" title="学生通知" target="_blank" style="display: block; width: auto;"><span class="item-name">学生通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 924px;"> 
+              
+             <li class="nav-item i12-2-1 " style="display: block; width: 100%;"> 
+                 <a href="/1259/list.htm" title="学办通知" target="_blank" style="display: block; width: auto;"><span class="item-name">学办通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-2-2 " style="display: block; width: 100%;"> 
+                 <a href="/1260/list.htm" title="学术活动通知" target="_blank" style="display: block; width: auto;"><span class="item-name">学术活动通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-2-3 " style="display: block; width: 100%;"> 
+                 <a href="/1261/list.htm" title="党支部活动通知" target="_blank" style="display: block; width: auto;"><span class="item-name">党支部活动通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-2-4 " style="display: block; width: 100%;"> 
+                 <a href="/1262/list.htm" title="院团委通知" target="_blank" style="display: block; width: auto;"><span class="item-name">院团委通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-2-5 " style="display: block; width: 100%;"> 
+                 <a href="/1263/list.htm" title="学生社团活动通知" target="_blank" style="display: block; width: auto;"><span class="item-name">学生社团活动通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-2-6 " style="display: block; width: 100%;"> 
+                 <a href="/1264/list.htm" title="招聘活动通知" target="_blank" style="display: block; width: auto;"><span class="item-name">招聘活动通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-2-7 " style="display: block; width: 100%;"> 
+                 <a href="/1265/list.htm" title="学生竞赛通知" target="_blank" style="display: block; width: auto;"><span class="item-name">学生竞赛通知</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i12-3 " style="display: block; width: 100%;"> 
+                 <a href="/1266/list.htm" title="制度建设" target="_blank" style="display: block; width: auto;"><span class="item-name">制度建设</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+         <ul class="sub-nav" style="top: 0px; left: 100%; width: 16px; height: 528px;"> 
+              
+             <li class="nav-item i12-3-1 " style="display: block; width: 100%;"> 
+                 <a href="/rcgl/list.htm" title="日常管理" target="_blank" style="display: block; width: auto;"><span class="item-name">日常管理</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-3-2 " style="display: block; width: 100%;"> 
+                 <a href="/rcpy/list.htm" title="人才培养" target="_blank" style="display: block; width: auto;"><span class="item-name">人才培养</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-3-3 " style="display: block; width: 100%;"> 
+                 <a href="/jxgl/list.htm" title="教学管理" target="_blank" style="display: block; width: auto;"><span class="item-name">教学管理</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-3-4 " style="display: block; width: 100%;"> 
+                 <a href="/jljl/list.htm" title="奖励激励" target="_blank" style="display: block; width: auto;"><span class="item-name">奖励激励</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-3-5 " style="display: block; width: 100%;"> 
+                 <a href="/kygl/list.htm" title="科研管理" target="_blank" style="display: block; width: auto;"><span class="item-name">科研管理</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i12-3-6 " style="display: block; width: 100%;"> 
+                 <a href="/cwgl/list.htm" title="财务管理" target="_blank" style="display: block; width: auto;"><span class="item-name">财务管理</span></a><i class="mark" style="opacity: 0.8;"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+         </ul> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+<td> 
+ 
+<table width="0" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td width="35" height="32" align="right"><img src="/_upload/tpl/01/d1/465/template465/images/bar_ge.gif" width="29" height="31"></td>
+              <td class="barlink" valign="middle" height="27"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class="barlink"><a href="/1267/list.htm" title="资料下载" class="barlink" target="_blank">资料下载</a></div> 
+          
+</div> 
+</td>
+            </tr>
+          </tbody></table></td> 
+</tr> 
+</tbody></table> 
+ </div> 
+</div> 
+</div> 
+</td>
+        <td width="14" height="32" align="center">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  
+  <tr>
+    <td valign="top">
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td width="210" valign="top" height="100%" bgcolor="#EDEFEE">
+<div frag="面板2"> 
+<div frag="窗口2" portletmode="simpleColumnList"> 
+<div id="wp_listcolumn_w2"> 
+ 
+ 
+<table class="barlink" width="100%" cellspacing="0" cellpadding="0" border="0">
+  
+
+            <tbody><tr background="/_upload/tpl/01/d1/465/template465/images/icon_blue_bg.gif">
+                <td width="33" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif">
+<div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/left_button_arrow.gif" width="38" height="23"></div></td>
+                <td class="barlink" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif"><a href="/1226/list.htm" title="本科生" class="barlink" target="_blank">本科生</a></td>
+            </tr>
+            
+  
+
+        
+  
+
+            <tr background="/_upload/tpl/01/d1/465/template465/images/icon_blue_bg.gif">
+                <td width="33" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif">
+<div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/left_button_arrow.gif" width="38" height="23"></div></td>
+                <td class="barlink" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif"><a href="/1231/list.htm" title="硕士生" class="barlink" target="_blank">硕士生</a></td>
+            </tr>
+            
+  
+
+        
+  
+
+            <tr background="/_upload/tpl/01/d1/465/template465/images/icon_blue_bg.gif">
+                <td width="33" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif">
+<div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/left_button_arrow.gif" width="38" height="23"></div></td>
+                <td class="barlink" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif"><a href="/1235/list.htm" title="博士生" class="barlink" target="_blank">博士生</a></td>
+            </tr>
+            
+  
+<tr background="/_upload/tpl/01/d1/465/template465/images/grey.gif">
+              <td width="20" height="29" background="/_upload/tpl/01/d1/465/template465/images/left_button_green_bg.gif"></td>
+              <td bgcolor="eaeaea" background="/_upload/tpl/01/d1/465/template465/images/grey.gif"><table width="100%" cellspacing="0" cellpadding="0" border="0" background="/_upload/tpl/01/d1/465/template465/images/grey.gif">
+  
+
+                  <tbody><tr>
+                    <td width="20" height="29" background="/_upload/tpl/01/d1/465/template465/images/left_button_green_bg.gif"><div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/button-03.gif" width="7" height="11"></div></td>
+                    <td height="29" background="/_upload/tpl/01/d1/465/template465/images/left_button_green_bg.gif"><a href="/1236/list.htm" title="奖助学金" class="" target="_blank">奖助学金</a></td>
+                  </tr>
+              
+  
+
+                  <tr>
+                    <td width="20" height="29" background="/_upload/tpl/01/d1/465/template465/images/left_button_green_bg.gif"><div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/button-03.gif" width="7" height="11"></div></td>
+                    <td height="29" background="/_upload/tpl/01/d1/465/template465/images/left_button_green_bg.gif"><a href="/1237/list.htm" title="班委" class="" target="_blank">班委</a></td>
+                  </tr>
+              
+  
+
+                  <tr>
+                    <td width="20" height="29" background="/_upload/tpl/01/d1/465/template465/images/left_button_green_bg.gif"><div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/button-03.gif" width="7" height="11"></div></td>
+                    <td height="29" background="/_upload/tpl/01/d1/465/template465/images/left_button_green_bg.gif"><a href="/1238/list.htm" title="学生活动（博士生）" class="" target="_blank">学生活动（博士生）</a></td>
+                  </tr>
+              
+  
+</tbody></table></td>
+            </tr>
+  
+
+        
+  
+
+            <tr background="/_upload/tpl/01/d1/465/template465/images/icon_blue_bg.gif">
+                <td width="33" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif">
+<div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/left_button_arrow.gif" width="38" height="23"></div></td>
+                <td class="barlink" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif"><a href="/1239/list.htm" title="院刊" class="barlink" target="_blank">院刊</a></td>
+            </tr>
+            
+  
+
+        
+  
+
+            <tr background="/_upload/tpl/01/d1/465/template465/images/icon_blue_bg.gif">
+                <td width="33" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif">
+<div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/left_button_arrow.gif" width="38" height="23"></div></td>
+                <td class="barlink" height="29" background="/_upload/tpl/01/d1/465/template465/images/biaoti02.gif"><a href="/1240/list.htm" title="组织机构" class="barlink" target="_blank">组织机构</a></td>
+            </tr>
+            
+  
+
+        
+  
+</tbody></table>
+  
+ 
+ </div> 
+</div> 
+</div> 
+</td>
+        <td width="1" bgcolor="#D6CFD6"></td>
+        <td width="596" valign="top"><table width="100%" height="24" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td height="30" background="/_upload/tpl/01/d1/465/template465/images/list_weizhi_bg.gif"><span class="p9">　
+<span frag="面板4"> 
+<span frag="窗口4" portletmode="simpleColumnPosition"> 
+<span class="Column_Position"><a href="/main.htm" target="_blank">首页</a><span class="possplit">&nbsp;&nbsp;</span><a href="/1225/list.htm" target="_blank">学生工作</a><span class="possplit">&nbsp;&nbsp;</span><a href="/1235/list.htm" target="_blank">博士生</a><span class="possplit">&nbsp;&nbsp;</span><a href="/1237/list.htm" target="_blank">班委</a></span> 
+</span> 
+</span> 
+</span></td>
+            </tr>
+          </tbody></table>
+            <br>
+            <table width="98%" cellspacing="0" cellpadding="0" bordercolor="#F1F1F1" border="3" align="center">
+              <tbody><tr>
+                <td><table class="main_table_bg" width="100%" cellpadding="0" border="0" bgcolor="F8FCFC">
+                    <tbody><tr>
+                      <td><table width="98%" cellspacing="0" cellpadding="0" border="0" align="center">
+                          <tbody><tr>
+                            <td valign="top" height="42" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tbody><tr>
+                                  <td height="22"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                      <tbody><tr>
+                                        <td width="37" height="30"><div align="center"><img src="/_upload/tpl/01/d1/465/template465/images/blue_list.gif"></div></td>
+                                        <td class="zi_zt_green" width="513"><span class="zi_zt_10"><strong>
+<span frag="面板5"> 
+<span frag="窗口5" portletmode="simpleColumnName"> 
+<span class="Column_Name">班委</span> 
+</span> 
+</span> 
+</strong></span></td>
+                                      </tr>
+                                  </tbody></table></td>
+                                </tr>
+                                <tr>
+                                  <td><table width="100%" cellspacing="1" cellpadding="0" border="0">
+                                      <tbody><tr>
+                                        <td width="25%" height="3" bgcolor="527FC6"></td>
+                                        <td width="75%" bgcolor="8D928C"></td>
+                                      </tr>
+                                  </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                          </tr>
+                          <tr>
+                            <td><table width="96%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                <tbody><tr>
+                                  <td height="24"><div align="left">
+                                      
+<div frag="面板3"> 
+<div frag="窗口3" portletmode="simpleList"> 
+ 
+<div class="wp_single wp_column_article" id="wp_column_article"> 
+     <div class="wp_entry"> 
+         <div class="wp_articlecontent"> 
+             <div id="wp_content_w3_0" class="paging_content" style="display:"> 
+<p style="text-align:justify;"><br></p><table style="width:750px;border-collapse:collapse;" width="750" height="234"><colgroup><col width="145"><col width="201"><col width="185"><col width="219"></colgroup><tbody><tr height="34"><td style="border:1px solid #000000;border-image:none;width:145px;height:234px;text-align:center;color:#000000;font-size:27px;font-style:normal;font-weight:700;vertical-align:middle;" rowspan="9" width="145" height="234">博士班</td><td style="border:1px solid #000000;border-image:none;width:201px;height:34px;text-align:center;color:#000000;font-size:27px;font-style:normal;font-weight:700;vertical-align:middle;" width="201" height="34">级部</td><td style="border:1px solid #000000;border-image:none;width:185px;height:34px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:middle;" width="185" height="34">年级长</td><td style="border:1px solid #000000;border-image:none;width:219px;height:34px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:middle;" width="219" height="34">管东芝</td></tr><tr height="27"><td style="border:1px solid #000000;border-image:none;width:201px;height:54px;text-align:center;color:#000000;font-size:27px;font-style:normal;font-weight:700;vertical-align:middle;" rowspan="2" width="201" height="54">博一班长</td><td style="border:1px solid #000000;border-image:none;width:185px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:bottom;" width="185" height="27">15级春</td><td style="border:1px solid #000000;border-image:none;width:219px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:bottom;" width="219" height="27">曹芝腑</td></tr><tr height="27"><td style="border:1px solid #000000;border-image:none;width:185px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:bottom;" width="185" height="27">15级秋</td><td style="border:1px solid #000000;border-image:none;width:219px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:bottom;" width="219" height="27">冯宇</td></tr><tr height="27"><td style="border:1px solid #000000;border-image:none;width:201px;height:54px;text-align:center;color:#000000;font-size:27px;font-style:normal;font-weight:700;vertical-align:middle;" rowspan="2" width="201" height="54">博二班长</td><td style="border:1px solid #000000;border-image:none;width:185px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:bottom;" width="185" height="27">14级春</td><td style="border:1px solid #000000;border-image:none;width:219px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:bottom;" width="219" height="27">管东芝</td></tr><tr height="27"><td style="border:1px solid #000000;border-image:none;width:185px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:bottom;" width="185" height="27">14级秋</td><td style="border:1px solid #000000;border-image:none;width:219px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:bottom;" width="219" height="27">郑传军</td></tr><tr height="27"><td style="border:1px solid #000000;border-image:none;width:201px;height:54px;text-align:center;color:#000000;font-size:27px;font-style:normal;font-weight:700;vertical-align:middle;" rowspan="2" width="201" height="54">博三班长</td><td style="border:1px solid #000000;border-image:none;width:185px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:bottom;" width="185" height="27">13级春</td><td style="border:1px solid #000000;border-image:none;width:219px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:bottom;" width="219" height="27">贾若愚</td></tr><tr height="27"><td style="border:1px solid #000000;border-image:none;width:185px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:bottom;" width="185" height="27">13级秋</td><td style="border:1px solid #000000;border-image:none;width:219px;height:27px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:bottom;" width="219" height="27">赵颖</td></tr><tr height="19"><td style="border:1px solid #000000;border-image:none;width:201px;height:38px;text-align:center;color:#000000;font-size:27px;font-style:normal;font-weight:700;vertical-align:middle;" rowspan="2" width="201" height="38">博四班长</td><td style="border:1px solid #000000;border-image:none;width:185px;height:19px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:bottom;" width="185" height="19">12级春</td><td style="border:1px solid #000000;border-image:none;width:219px;height:19px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:bottom;" width="219" height="19">王磊</td></tr><tr height="19"><td style="border:1px solid #000000;border-image:none;width:185px;height:19px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:700;vertical-align:bottom;" width="185" height="19">12级秋</td><td style="border:1px solid #000000;border-image:none;width:219px;height:19px;text-align:center;color:#000000;font-size:21px;font-style:normal;font-weight:400;vertical-align:bottom;" width="219" height="19">黄正</td></tr></tbody></table><p style="text-align:center;"><br></p>
+</div> 
+ 
+         </div> 
+     </div> 
+</div> 
+ 
+</div> 
+</div> 
+
+                                  </div></td>
+                                </tr>
+                              </tbody></table>
+                                <p></p></td>
+                          </tr>
+                      </tbody></table></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <br></td>
+      </tr>
+    </tbody></table>    </td>
+  </tr>
+  <tr>
+    <td height="73" background="/_upload/tpl/01/d1/465/template465/images/bottom.gif" align="center"><span class="whitep10">版权所有 © 东南大学土木工程学院<br>
+    院办电话：025-83793223，地址：江苏省南京市四牌楼2号逸夫建筑馆15楼1512室，网管：025-83793223</span></td>
+  </tr>
+</tbody></table>
+
+
+
+ <img src="/_visitcount?siteId=26&amp;type=2&amp;columnId=1235" style="display:none" width="0" height="0"></body></html>

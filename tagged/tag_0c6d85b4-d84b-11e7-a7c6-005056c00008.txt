@@ -1,0 +1,89 @@
+设 为 首页    加入收藏 
+085213 | 建筑 与 土木工程专业 硕士研究生指导 教师 ClickNum : 360 
+姓名 
+name_label 
+性别 
+女 
+民族 
+汉族 
+出生年月 
+timelabel - 2 
+学历 | 学位 
+研究生 | 硕士 
+专业 技术 职务 
+副教授 
+行政职务 
+建筑 系主任 
+联系电话 
+0 phonelabel 
+移动电话 
+13173005957 
+邮箱 
+maillabel 
+通讯地址  |  邮编 
+place_label place_label 南辛 庄西路 336 号 place_label 大学 土木建筑学院  |  250022 
+招生方向 ( 领域 ) 
+05 建筑 技术 
+研究 领域 、 学习工作经历 、 学术兼职等 情况 
+name_label  ， 沈阳 建筑 大学 建筑学学士 、 天津大学 硕士 ， 现任 土木建筑学院 建筑 与 城乡规划系 主任 ， 院聘 教授 岗 ， 硕士研究生导师 ， 国家 一 级注册建筑师 ， place_label 土木建筑 学会理事 ， place_label 村镇 规划 专家委员会委员 ， place_label 城市发展研究 基地 副研究员 。 连续 三年 获得 “ place_label 大学本科教学 贡献奖 ”， 连续 两年 获得 “ place_label 大学优秀教师 ” 称号 。 
+主讲 booklabel 、 booklabel 、 booklabel 、 booklabel 等 课程 。 编写 的 教案 获得 全国优秀 教案 奖 ， 指导学生 多次 获得 全国 高等学校 建筑学专业 优秀作业奖 、 国家级 、 省级 设计 竞赛 奖项 。 
+主要研究方向 ： 建筑设计 与 保护 、 建筑 技术 
+代表性科研成果 及 奖励 ： 
+（ 包括 项目 、 鉴定 、 论文 、 专著 、 专利 等 ) 
+一 、 研究课题 
+1 、 place_label 教育厅 booklabel 
+2 、 山东省艺术科学重点 课题 ： booklabel ( timelabel 160 ) 
+3 、  教育部人文社会科学研究 项目  ：  booklabel 
+4 、  教育部人文社会科学研究 项目  ：  booklabel ( 13YJA patentlabel ) 
+5 、  山东省自然科学基金  ：  booklabel patentlabel E patentlabel 
+6 、  place_label 社会科学 规划研究项目  ：  booklabel ( timelabel - 039 - 2 ) 
+7 、 校企 联合 课题 4 项 ， 到 帐 经费 75 万 
+二 、 课题 获奖 
+1 、 booklabel ， 获得 timelabel place_label 软科学 优秀成果三等奖 （ patentlabel - 11 - 03 - 202 - 03 ）。 
+2 、 booklabel ，   获得 timelabel 山东省软科学优秀 成果二等奖 （  patentlabel - 10 - 02 - 253 - 04 ）。 
+3 、 booklabel ， 获得 timelabel 山东省软科学优秀 成果三等奖 （ patentlabel - 07 - 03 - 22 - 04 ） 
+三 、 论文 
+1 、 booklabel , Progress   in   Industrial   and   Civil   Engineering   timelabel （ EI 收录 ）； 
+2 、 booklabel ， 城市发展研究 timelabel 期 （ CSSCI 收录 ）； 
+3 、 booklabel ， place_label 建筑   timelabel 期  。 
+4 、 booklabel ， timelabel    Con ference   Proceedings   of   3rd   International   Forum   of   Human   Resource   Strategy   and   Development 。 
+5 、 booklabel ， timelabel ICCHEE 
+6 、 booklabel ， timelabel ICCHEE 
+四 、 专利 
+实用型 性 1 项 ， 国家 发明专利 1 项 
+教学 及 研究生培养 情况 
+主讲课程 ： booklabel 、 booklabel 、 booklabel 等 。 其中 booklabel 、 booklabel 为 校级精品课 。 
+主编教材 2 部 ， 参编教材 1 部 
+作为 第一 指导教师 指导 学生获奖 ： 
+timelabel “ 创 青春 ” 全国大学生 挑战杯 创业 计划 大赛 银奖 ； 
+timelabel place_label 大学生 暑期 设计 竞赛 二等奖 ； 
+timelabel 蓝星杯 第七 届全国大学生 建筑设计 竞赛 优秀奖 ； 
+timelabel 第十三届 place_label 大学生 科技 文化 艺术节 大学生 建筑设计 竞赛 二等奖 ( 第 2 名 )； 
+timelabel place_label 大学生 建筑设计 竞赛 二等奖 1 项 、 三等奖 1 项 ； 
+timelabel 全国 高等学校 建筑学 学科 专业指导委员会 发起 全国大学生 建筑设计 作业 评选 优秀奖 （ 最高奖 ） 3 项 ； 
+timelabel 第十二届 place_label 大学生 科技 文化 艺术节 place_label 大学生 建筑设计 竞赛 一等奖 2 项 、 三等奖 1 项 ； 
+timelabel 全国 高等学校 建筑学 学科 专业指导委员会 发起 全国大学生 建筑设计 作业 评选 优秀奖 （ 最高奖 ） 4 项 ； 
+timelabel   REVIT 杯 全国大学生 可持续 建筑设计 竞赛 优秀奖 1 项 ； 
+timelabel 全国 高等学校 建筑学 学科 专业指导委员会 发起 全国大学生 建筑设计 作业 评选 优秀奖 （ 最高奖 ） 1 项 ； 
+timelabel place_label 大学生 农村 住宅 设计 竞赛 三等奖 ； 
+timelabel place_label 建设厅 、 place_label 团委 联合 发起 的 义务 编制 村庄 规划 大学生暑期社会 实践活动 优秀成果 一等奖 1 项 、 二等奖 1 项 ； 
+timelabel place_label 建设厅 、 place_label 团委 联合 发起 义务 编制 村庄 规划 大学生暑期社会 实践活动 优秀成果 一等奖 1 项 、 三等奖 1 项 ； 
+备注 
+设 为 首页  |  加入收藏  |  联系 我们  |  友情链接             place_label 大学研究生 处  ·  place_label 大学 研究生招生信息 网 版权所有 
+首页 
+工作动态 
+工作进展     工作 计划 
+博士招生 
+简章 目录     报名 考试     复试 录取 
+硕士招生 
+简章 目录     报名 考试     复试 录取 
+推免 工作 
+推荐 工作     接收 工作 
+非全日制 
+在职 攻读     同等学力 
+招生 目录 
+硕士招生专业 目录     博士招生专业 目录 
+导师信息 
+硕士生导师    博士生导师 
+资料中心 
+常用下载     在职 招生     相关 文件 

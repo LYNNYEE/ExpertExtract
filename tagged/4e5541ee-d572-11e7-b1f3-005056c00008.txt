@@ -1,0 +1,175 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <title>马剑银</title>
+ <link href="../../css/init.css" rel="stylesheet" type="text/css">
+ <link href="../../css/style.css" rel="stylesheet" type="text/css">
+ <script src="../../js/jquery-1.7.2.js"></script>
+<script type="text/javascript">
+    function doZoom(size) {
+
+        var zoom = document.all ? document.all['ziti'] : document.getElementById('ziti');
+        zoom.style.fontSize = size + 'px';
+    }
+    </script>
+    <script>
+        $(function () {
+            $(".RDnav li").hover(
+				function () {
+				    $(this).children(".subnav").show(100);
+				}
+			, function () {
+			    $(this).children(".subnav").hide(0);
+			})
+
+        })
+</script>
+<script type="text/javascript">
+        function doZoom(size) {
+			
+            var zoom = document.all ? document.all['ziti'] : document.getElementById('ziti');
+            zoom.style.fontSize = size + 'px';
+        }
+    </script></head>
+
+
+
+
+<body style="background:url(images/neiye_bg.jpg) no-repeat top center;">
+
+<style>
+.subnav{min-height:40px;padding-bottom:10px;}
+.RDnav li .subnav a{height:auto;text-align:left;}
+.RDnav li .subnav a span{height:auto;padding-left:20px;width:auto;padding-right:15px;}
+.RDcontent_left{_margin-left:8px;}
+.RDcontent_right{_margin-right:7px;}
+</style>
+<div class="RDcenter">
+  <!--header-->
+  <div class="RDheader">
+    <img src="/images/logo.png" class="logo">
+    <p>
+      <a href="http://maxdo.bnu.edu.cn" class="zhongwen" target="_blank">北京师范大学瀚德学院</a>
+      <a href="http://maxdo.bnu.edu.cn/yw" target="_blank">Beijing Normal University Maxdo College</a>
+    </p>
+  </div>
+  <!--header end-->
+
+  <!--nav-->
+  <div class="RDmainNav">
+    <p>
+      <a href="http://maxdo.bnu.edu.cn" target="_blank">中文</a>
+      <a href="http://maxdo.bnu.edu.cn/yw" target="_blank">English</a>
+    </p>
+    <ul class="RDnav">
+      <li class="fanhuishouye"> <a href="/index.html" target="_blank"> <img src="/images/fanhuishouye.png"> </a> </li>
+      <li> <a href="../../xygk/xyjj/index.html" target="_blank">学院概况</a>
+        <div class="subnav" style="display:none;">
+          <a href="../../xygk/xyjj/index.html" target="_blank"> <span>学院简介</span></a>
+          <a href="../../xygk/yzzc/index.html" target="_blank"><span>院长致辞</span></a>
+          <a href="#"><span>办学特色</span></a>
+          <div class="clearBox"></div>
+        </div>
+      </li>
+      <li>
+        <a href="../../jgsz/xyld/index.html" target="_blank">机构设置</a>
+        <div class="subnav" style="display:none;">
+          <a href="../../jgsz/xyld/index.html" target="_blank"><span>学院领导</span></a>
+          <a href="../../jgsz/dsk/index.html" target="_blank"> <span>董事会</span></a>
+          <a href="../../jgsz/zxwyk/index.html" target="_blank"> <span>咨询委员会</span></a>
+          <div class="clearBox"></div>
+        </div>
+      </li>
+      <li>
+        <a href="../../rcpy/pymb/index.html" target="_blank">人才培养</a>
+        <div class="subnav" style="display:none;">
+          <a href="../../rcpy/pymb/index.html" target="_blank"><span>培养目标</span> </a>
+          <a href="../../rcpy/zysz/index.html" target="_blank"><span>专业设置</span></a>
+          <a href="#"><span>培养方案</span></a>
+          <a href="../../rcpy/xzyxwsy/index.html" target="_blank"><span>学制与学位授予</span></a>
+          <div class="clearBox"></div>
+        </div>
+      </li>
+      <li>
+        <a href="index.html" target="_blank">师资队伍</a>
+        <div class="subnav" style="display:none;">
+          <a href="index.html" target="_blank"><span>法学专业教师</span></a>
+          <a href="../gjjjymyzyjs/index.html" target="_blank"><span>国际经济与贸易专业教师</span></a>
+          <a href="../dewyzyjs/index.html" target="_blank"><span>第二外语专业教师</span></a>
+          <div class="clearBox"></div>
+        </div>
+      </li>
+      <li>
+        <a href="../../xsgz/xssc/index.html" target="_blank">学生工作</a>
+        <div class="subnav" style="display:none;">
+          <a href="../../xsgz/xssc/index.html" target="_blank"><span>学生手册</span></a>
+          <a href="../../xsgz/xyhd/index.htm" target="_blank"><span>校园活动</span></a>
+          <a href="../../xsgz/xzhd/index.html" target="_blank"><span>学术活动</span></a>
+          <a href="../../xsgz/xgbgxz/index.html" target="_blank"><span>相关表格下载</span></a>
+          <div class="clearBox"></div>
+        </div>
+      </li>
+      <li>
+        <a href="../../zsjy/zsyq/index.html" target="_blank">招生就业</a>
+        <div class="subnav" style="display:none;">
+          <a href="../../zsjy/zsyq/index.html" target="_blank"><span>招生要求</span> </a>
+          <a href="#"><span>就业前景</span></a>
+          <div class="clearBox"></div>
+        </div>
+      </li>
+      <li>
+        <a href="../../xwydt/xyxws/index.html" target="_blank">新闻与动态</a>
+        <div class="subnav" style="display:none;">
+          <a href="../../xwydt/xyxws/index.html" target="_blank"><span>学院新闻</span> </a>
+          <a href="../../xwydt/xydt/index.html" target="_blank"><span>学院动态</span></a>
+          <div class="clearBox"></div>
+        </div>
+      </li>
+      <li class="lastLi">
+        <a href="../../lxwms/lxwms/index.html" target="_blank">联系我们</a>
+        <div class="subnav" style="display:none;">
+          <a href="../../lxwms/lxwms/index.html" target="_blank"><span>联系我们</span></a>
+          <div class="clearBox"></div>
+        </div>
+      </li>
+      <div class="clearBox"></div>
+    </ul>
+  </div>
+  <!--nav end-->       <div class="RDcontent">
+    	<p class="newsBiaoti">马剑银</p>
+        <p class="zuozhe"><span>来源：</span><span>作者：瀚德学院</span><span>2013-09-23</span><span><a onclick="doZoom(16)" href="javascript:void(0)">大</a></span><span><a onclick="doZoom(14)" href="javascript:void(0)">中</a></span><span><a onclick="doZoom(12)" href="javascript:void(0)">小</a></span></p>
+        <div class="contentDetails zhengwen" id="ziti">
+        <p>代表作一览：</p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px"><b style="word-wrap: break-word; font-size: 12px; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">论文：</b></font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《破解中国公益组织的治理困境——从“郭美美事件”中的红十字会说起》（第二作者），《中国改革》（CSSCI 扩展版来源期刊），2011（9）。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《从生活世界到公共领域——哈贝马斯公民社会理论的话语基础》，《中国非营利评论》，第7卷，2010。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《哈贝马斯的基本权利观——商谈论视角的重构》，《北大法律评论》（CSSCI来源集刊），第11卷第1辑，2010。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《通过公共领域的立法民主——商谈论视角下的立法过程模型》，《清华法治论衡》（CSSCI来源集刊），第11辑（“走向民主的时代”专号），清华大学出版社，2009。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《法律移植的困境：现代性、全球化与中国语境》，《政法论坛》（CSSCI来源期刊，中文核心期刊），2008（2）。（被《高等学校文科学术文摘》摘录，刊于2008年第3期）。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《现代法治、官僚制与理性铁笼——从韦伯的社会理论之法出发》，《清华法学》（CSSCI扩展版来源期刊），2008（2）。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《中国法律文化的“常”与“变”——法律移植研究的一个立场》，&nbsp;&nbsp;&nbsp;&nbsp; 《混合的法律文化》（全国外国法制史研究会第20届年会文集），法律出版社，2008。（本文获全国外国法制史研究会2007年度优秀论文一等奖）</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《法律文化的“常”与“变”—— 兼评黄源盛先生&lt;法律继受与近代中国法&gt;》，《法制史研究》（台湾中国法制史学会会刊），第11期，2007。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《中国语境的法律认同——移植法正当性重构的一项社会－文化考察》，《清华法学》（CSSCI来源集刊），第10辑，清华大学出版社，2006。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《法治背景下的民权》（第二作者），《清华大学学报》（哲社版）（CSSCI来源期刊，中文核心期刊），2004（3）。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px"><b style="word-wrap: break-word; font-size: 12px; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">译著：</b></font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→译文《法律刺激：英国法中的诚信条款或统一之法如何止于新的趋异》（G. Teubner），《清华法治论衡》（CSSCI来源集刊），第10辑，清华大学出版社，2008。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→译著《法律移植与法律文化》（D. Nelken &amp; J. Feest eds.，合译，承担第2、3、4章），清华大学出版社，2006。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→译文《法律移植存在逻辑吗？》（R. Cotterrell），《中外法学》（CSSCI来源期刊，中文核心期刊），2006（6）。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→译文《何谓“法律移植”》（P. Legrand），《清华法治论衡》（CSSCI来源集刊），第8辑，清华大学出版社，2006。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→译文《比较视野中的法典编纂与法律文化》，《清华法学》（CSSCI来源集刊），第8辑，清华大学出版社，2006。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→译著《选择的共和国：法律、权威与文化》（L. Friedman，合译，承担第3章“现代性与个人的兴起”），清华大学出版社，2005。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px"><b style="word-wrap: break-word; font-size: 12px; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">编著：</b></font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《社会理论之法：解读与评析》（合编），清华大学出版社，2006。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《法理学阅读文献》（清华大学法学系列教材，合编），清华大学出版社，2010。</font></p>
+<p style="word-wrap: break-word; border-top: 0px; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 20px; font: 14px/24px Arial, Helvetica, sans-serif; padding-left: 0px; margin: 0px; border-left: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font style="word-wrap: break-word; font-size: 10.5pt; border-top: 0px; font-family: Arial, Helvetica, sans-serif; border-right: 0px; border-bottom: 0px; word-break: break-all; color: rgb(51,51,51); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; border-left: 0px; line-height: 21px; padding-right: 0px">→《比较法学读本》（合编），上海交通大学出版社，2011。</font></p>   
+ <br>
+          &nbsp;          
+        </div>
+
+
+    </div>
+    <!--content end-->
+</div>
+
+
+<div class="RDfoot"><p class="RDcenter">Copyright © 2013 Maxdo College Beijing Normal University All rights reserved</p></div>
+</body></html>
